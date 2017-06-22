@@ -65,13 +65,14 @@ h6 {
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
-		height:500px;
+		height:400px;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 10%;
+    padding-top: 5%;
     padding-bottom: 20%;
+		text-align: left;
 }
 
 .intro-message > h1 {
@@ -84,6 +85,8 @@ h6 {
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
+		margin-left: 0;
+		margin-right: auto;
 }
 
 .intro-message > h3 {
