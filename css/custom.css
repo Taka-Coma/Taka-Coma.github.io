@@ -30,6 +30,13 @@ h6 {
     font-weight: 400;
 }
 
+.pc-icon{
+	display: block !important;
+}
+.mob-icon{
+	display: none !important;
+}
+
 .references{
 	text-align: center;
 }
@@ -119,6 +126,16 @@ h6 {
     .intro-divider {
         width: 100%;
     }
+}
+
+@media onlt screen and (max-width:767px) {
+		.pc-icon{
+			display: none !important;
+		}
+		.mob-icon{
+			display: block !important;
+		}
+
 }
 
 .network-name {
