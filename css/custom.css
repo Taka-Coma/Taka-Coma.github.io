@@ -35,6 +35,9 @@ h6 {
 }
 .mob-icon{
 	display: none !important;
+	width: 50px;
+	float: left;
+	margin-right: 10px;
 }
 
 .references{
@@ -126,9 +129,7 @@ h6 {
     .intro-divider {
         width: 100%;
     }
-}
 
-@media onlt screen and (max-width:767px) {
 		.pc-icon{
 			display: none !important;
 		}
