@@ -49,6 +49,12 @@ h6 {
 	font-size: 12pt;
 }
 
+.lead-ul>li{
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px #ccc dashed;
+}
+
 .img-responsive{
 	margin-left:auto;
 	height:250px;
