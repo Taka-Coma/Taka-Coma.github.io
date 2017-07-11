@@ -17,8 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .topnav {
@@ -60,6 +59,13 @@ h6 {
 	height:250px;
 }
 
+#japan_visited{
+	text-align: center;
+}
+#japan_visited>canvas{
+	border-style: none;
+}
+
 .visited{
 	text-align: center;
 }
@@ -69,8 +75,8 @@ h6 {
 }
 
 .content-header{
-	font-size: 25pt;
-	width: 400px;
+	font-size: 23pt;
+	width: 500px;
 	margin: auto;
 	text-align: center;
 	border-top: 2px solid #dfdfdf;
