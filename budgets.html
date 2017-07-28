@@ -60,7 +60,7 @@
                     <li>
                         <a href="awards.html">Awards</a>
                     </li>
-                    <li>
+                    <li class="active">
                         <a href="budgets.html">Budgets</a>
                     </li>
                     <li>
@@ -69,8 +69,8 @@
                     <li>
                         <a href="visited.html">Visited Countries</a>
                     </li>
-                    <li class="active">
-                        <a href="japan.html">JPN Visited</a>
+                    <li>
+                    	<a href="japan.html">JPN Visited</a>
                     </li>
                 </ul>
             </div>
@@ -141,128 +141,28 @@
     <!-- /.intro-header -->
 
     <!-- Page Content -->
-
-    <div class="content-section-a">
-				<div class="content-header">
-					Visited JPN Prefectures
-				</div>
-				<br>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-1 col-sm-1">
-								</div>
-                <div class="col-lg-10 col-sm-10">
-									<div id="japan_visited">
-									</div>
-                </div>
-                <div class="col-lg-1 col-sm-1">
-								</div>
-            </div>
-        </div>
-        <!-- /.container -->
-    </div>
-    <!-- /.content-section-a -->
-
     <div class="content-section-b">
+				<div class="content-header">
+					Budgets	
+				</div>
+
         <div class="container">
+
             <div class="row">
+              <div class="col-lg-12 col-sm-12">
+                  <hr class="section-heading-spacer">
+                  <div class="clearfix"></div>
+                  <h2 class="section-heading">代表</h2>
+									<ul class="lead-ul">
 
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Hokkaidou</h2>
-										<ul class="lead-ul">
-										</ul>
-								</div>
+										<li>筑波大学研究基盤支援プログラム（Aタイプ） <br>
+											採択テーマ：グラフデータに対するファセット検索についての研究 <br>
+											研究期間：2012年7月~2013年3月 <br>
+											配分額：464千円
+										</li>
 
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Tohoku</h2>
-										<ul class="lead-ul">
-											<li>福島 (Fukushima)</li>
-											<li>岩手 (Iwate)</li>
-										</ul>
-                </div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Kantou</h2>
-										<ul class="lead-ul">
-											<li>茨城 (Ibaraki)</li>
-											<li>栃木 (Tochigi)</li>
-											<li>群馬 (Gunma)</li>
-											<li>千葉 (Chiba)</li>
-											<li>東京 (Tokyo)</li>
-											<li>神奈川 (Kanagawa)</li>
-										</ul>
-                </div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Chubu</h2>
-										<ul class="lead-ul">
-											<li>新潟 (Niigata)</li>
-											<li>富山 (Toyama)</li>
-											<li>山梨 (Yamanashi)</li>
-											<li>静岡 (Shizuoka)</li>
-											<li>愛知 (Aichi)</li>
-											<li>岐阜 (Gifu)</li>
-											<li>石川 (Ishikawa)</li>
-										</ul>
-                </div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Kinki</h2>
-										<ul class="lead-ul">
-											<li>京都 (Kyoto)</li>
-											<li>奈良 (Nara)</li>
-											<li>兵庫 (Hyogo)</li>
-										</ul>
-                </div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Chugoku</h2>
-										<ul class="lead-ul">
-										</ul>
-								</div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Shikoku</h2>
-										<ul class="lead-ul">
-											<li>香川 (Kagawa)</li>
-										</ul>
-                </div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Kyushu</h2>
-										<ul class="lead-ul">
-											<li>福岡 (Fukuoka)</li>
-											<li>大分 (O'ita)</li>
-											<li>熊本 (Kumamoto)</li>
-											<li>鹿児島 (Kagoshima)</li>
-										</ul>
-								</div>
-
-                <div class="col-lg-3 col-sm-3">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Okinawa</h2>
-										<ul class="lead-ul">
-										</ul>
-                </div>
-
+									</ul>
+              </div>
             </div>
 
         </div>
@@ -284,27 +184,6 @@
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
-		<script src="js/jquery.japan-map.min.js"></script>
-		<script>
-        $(function(){
-					var areas = [
-        		{code : 1, name: "visted", color: "green", hoverColor: "#b3b2ee",
-							prefectures: [3,7,8,9,10,11,12,13,14,15,16,17,19,21,22,23,26,28,29,37,40,43,44,46]},
-        		{code : 2, name: "non-visited",   color: "#ccc", hoverColor: "#98b9ff",
-							prefectures: [1,2,4,5,6,18,20,24,25,27,30,31,32,33,34,35,36,38,39,41,42,45,47]},
-					];
-          $("#japan_visited").japanMap({
-						width: 600,
-						selection: "prefecture",
-						borderLineColor: "#333",
-						borderLineWidth: 0.5,
-						drawsBoxLine: false,
-						areas: areas,
-						prefectureNameType: "short",
-						movesIslands : true
-          });
-        });
-    </script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
