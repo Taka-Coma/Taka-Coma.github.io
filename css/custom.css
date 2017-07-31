@@ -29,13 +29,13 @@ h6 {
     font-weight: 400;
 }
 
-.dropdown>button{
+.pub-button{
 	background-color: white;
 	border: 1px grey dashed;
 	margin-left: 10px;
 }
 
-.dropdown>button:hover{
+.pub-button:hover{
 	border: 2px grey solid;
 }
 
