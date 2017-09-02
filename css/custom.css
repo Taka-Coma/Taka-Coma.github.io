@@ -84,6 +84,13 @@ h6 {
 	width: 80%;
 }
 
+.conference-year-header{
+	margin-left: 10px;
+	margin-bottom: 25px;
+	padding-left: 15px;
+	border-bottom: 3px #bfbfbf solid;
+}
+
 .content-header{
 	font-size: 23pt;
 	width: 500px;
