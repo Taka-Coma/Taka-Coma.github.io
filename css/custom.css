@@ -186,9 +186,20 @@ h6 {
     border-bottom: 1px solid #e7e7e7;
 }
 
-.ta-heading{
+.ta-heading_univ{
 	margin-left: 3mm;
 	margin-bottom: 20px;
+	text-decoration: none;
+	border-bottom: 3px #bfbfbf solid;
+}
+.ta-heading_univ > a{
+	color: black;
+}
+
+.ta-heading{
+	margin-left: 4mm;
+	margin-top: 20px;
+	margin-bottom: 25px;
 	text-decoration: underline;
 }
 
