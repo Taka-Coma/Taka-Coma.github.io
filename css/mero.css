@@ -120,6 +120,7 @@ ul {
 	font-size: 12pt; 
 }
 hr {
-	border-top: gray 1px dashed;
+	margin: 2rem 15px !important;
+	border-top: white 1px dashed !important;
 }
 

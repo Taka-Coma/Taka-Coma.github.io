@@ -8,14 +8,11 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <meta name="description" content="This is Takahiro Komamizu&#39;s homepage." />
   <meta name="author" content="Takahiro Komamizu" />
-  <meta name="generator" content="mero theme by Darshan in Hugo 0.74.3" />
+  <meta name="generator" content="mero theme by Darshan in Hugo 0.87.0" />
 
-  <link
-    rel="stylesheet"
-    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-    crossorigin="anonymous"
-  />
+  <link rel="stylesheet" href="/css/mero.css" />
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+
   <link
     rel="stylesheet"
     href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
@@ -24,9 +21,9 @@
     href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
     rel="stylesheet"
   />
-  <link rel="stylesheet" href="/css/mero.css" />
 
   <script src="/js/mero.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
 </head>
 
   <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
@@ -38,6 +35,38 @@
       style="border-top-left-radius: 10px; border-bottom-left-radius: 10px;"
     >
       <a href="/"><span>Home</span> </a>
+    </div>
+
+    <div class="menu-item dropdown border border-warning bg-dark p-2">
+      <span class="dropbtn text-warning" onclick="toggleMenu(this)">
+				Researches
+				<i class="fas fa-angle-down"></i>
+			</span>
+      <div
+        class="dropdown-content p-2 bg-dark2 mt-2 rounded w-auto mt-1 d-none"
+        style="min-width: 200px;"
+      >
+        <ul class="list-unstyled">
+          <li class="pt-2">
+            <a href="/researches">Overview</a>
+          </li>
+          <li class="pt-2">
+            <a href="/mlod">Hetero LOD Management</a>
+          </li>
+          <li class="pt-2">
+            <a href="/imbalance">Imbalanced Classification</a>
+          </li>
+          <li class="pt-2">
+            <a href="/legal">Legal Data Management</a>
+          </li>
+          <li class="pt-2">
+            <a href="/lod">Search on LOD</a>
+          </li>
+          <li class="pt-2">
+            <a href="/faceted">Faceted Search</a>
+          </li>
+        </ul>
+      </div>
     </div>
 
     <div class="menu-item dropdown border border-warning bg-dark p-2">
@@ -65,7 +94,6 @@
 
     <div class="menu-item border border-warning bg-dark p-2"
     style="border-top-right-radius: 10px; border-bottom-right-radius: 10px;">
-		
       <span class="dropbtn text-warning" onclick="toggleMenu(this)">
 				Activities
 				<i class="fas fa-angle-down"></i>
@@ -87,8 +115,6 @@
         </ul>
       </div>
     </div>
-
-
 
   </div>
 </nav>
