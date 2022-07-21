@@ -1,0 +1,49 @@
+{{ define "main" }}
+<article class="border rounded p-3 position-relative" style="margin-top: 2.5em;">
+  <div class="header">
+    <h1 style="font-size: 2.5em;">
+      {{ .Title }}
+			{{ if eq .Title "International" }}
+				<a href="https://dblp.uni-trier.de/pid/60/10773.html" target="_blank">
+					<span class="pl-2 pr-2 bg-dark rounded border"
+						style="font-size: 12pt; display: inline-block">DBLP</span>
+				</a>
+
+				<a href="https://scholar.google.co.jp/citations?user=j4n_V44AAAAJ&hl=en" target="_blank">
+					<span class="pl-2 pr-2 bg-dark rounded border"
+						style="font-size: 12pt; display: inline-block">Google Scholar</span>
+				</a>
+
+				<a href="http://dl.acm.org/author_page.cfm?id=81490688053&cfid=766658899&cftoken=59914711" target="_blank">
+					<span class="pl-2 pr-2 bg-dark rounded border"
+						style="font-size: 12pt; display: inline-block">ACM</span>
+				</a>
+			{{ else if eq .Title "Domestic" }}
+
+				<a href="http://ci.nii.ac.jp/nrid/9000017546148" target="_blank">
+					<span class="pl-2 pr-2 bg-dark rounded border"
+						style="font-size: 12pt; display: inline-block">CiNII</span>
+				</a>
+			{{ end }}
+    </h1>
+
+    <div
+    class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
+    style="position: absolute; top: -19px; font-size: 0.9em;"
+  >
+    <span
+      class="more"
+      style="font-size: 1.5em;"
+    >
+      &#43;
+      &#43;
+      &#43;
+    </span>
+  </div>
+
+  </div>
+  <div class="article pb-3 pt-3 border-top">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,41 @@
+[
+
+	{
+		"type": "International Conferences",
+		"authors": {
+			"author": [
+{ "text": "Da Huo" },
+{ "text": "Marc A Kastner" },
+{ "text": "Takahiro Komamizu" },
+{ "text": "Ichiro Ide" }
+			]
+		},
+		"title": "Action Semantic Alignment for Image Captioning",
+		"venue": "MIPR",
+		"pages": "",
+		"year": "2022"
+	},
+
+	{
+		"type": "International Conferences",
+		"authors": {
+			"author": [
+{ "text": "Hirotaka Kato" },
+{ "text": "Takatsugu Hirayama" },
+{ "text": "Keisuke Doman" },
+{ "text": "Ichiro Ide" },
+{ "text": "Yasutomo Kawanishi" },
+{ "text": "Takahiro Komamizu" },
+{ "text": "Daisuke Deguchi" },
+{ "text": "Hiroshi Murase" }
+			]
+		},
+		"title": "Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generatio",
+		"venue": "MIPR",
+		"pages": "",
+		"year": "2022"
+	}
+
+
+
+]

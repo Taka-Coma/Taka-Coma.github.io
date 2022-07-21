@@ -1,0 +1,74 @@
+{
+	"conf/dexa/Komamizu21": {
+		"slide": "DEXA2021.pdf"
+	},
+	"conf/semweb/Komamizu20": {
+		"slide": "ISWC2020.pdf"
+	},
+	"conf/dexa/KomamizuUOT20": {
+		"slide": "DEXA2020.pdf"
+	},
+	"conf/jsai/KomamizuFOT19": {
+		"slide": "JURISIN2019.pdf"
+	},
+	"conf/semweb/KomamizuUOT19": {
+		"slide": "CKG@ISWC2019.pdf"
+	},
+	"conf/cikm/Komamizu18": {
+		"slide": "EYRE@CIKM2018.pdf"
+	},
+	"conf/dexa/Komamizu18": {
+		"slide": "DEXA2018.pdf"
+	},
+	"conf/airs/KomamizuOAK17": {
+		"slide": "AIRS2017.pdf",
+		"poster": "AIRS2017_poster.pdf"
+	},
+	"conf/bigdataconf/KomamizuAK17": {
+		"slide": "HMData2017.pdf"
+	},
+	"conf/bigdataconf/KomamizuNAKT17": {
+		"slide": "IWSC2017.pdf"
+	},
+	"conf/iiwas/KomamizuAK17": {
+		"slide": "iiWAS2017.pdf"
+	},
+	"conf/medes/KomamizuASSK17": {
+		"slide": "SBDDE@MEDES2017.pdf"
+	},
+	"conf/seke/KomamizuHAK17": {
+		"slide": "SEKE2017.pdf",
+		"dataset": "https://github.com/Taka-Coma/PJD_GHSO"
+	},
+	"conf/hpcc/KomamizuASSK16": {
+		"slide": "SmartCity2016.pdf"
+	},
+	"conf/icadl/KomamizuAK16": {
+		"slide": "ICADL2016.pdf",
+		"poster": "ICADL2016_poster.pdf"
+	},
+	"conf/ideas/KomamizuAK16": {
+		"slide": "IDEAS2016.pdf"
+	},
+	"conf/iiwas/KomamizuAK15": {
+		"slide": "iiWAS2015.pdf"
+	},
+	"conf/ideas/KomamizuAK14": {
+		"slide": "IDEAS2014.pdf"
+	},
+	"conf/iiwas/KomamizuAK14": {
+		"slide": "iiWAS2014.pdf"
+	},
+	"conf/nbis/KomamizuAK14": {
+		"slide": "NBiS2014.pdf"
+	},
+	"conf/dexa/KomamizuKFAK12": {
+		"slide": "DEXA2012.pdf"
+	},
+	"conf/iiwas/KomamizuAK11": {
+		"slide": "iiWAS2011.pdf"
+	},
+	"conf/wise/KomamizuYAK11": {
+		"poster": "WISE2011.pdf"
+	}
+}

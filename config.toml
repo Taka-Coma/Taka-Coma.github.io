@@ -1,0 +1,195 @@
+#baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Taka-Coma"
+theme = "mero"
+publishDir="docs"
+
+
+[params]
+  dateFormat = "2006-01-02"
+  author = "Takahiro Komamizu"
+  description = "This is Takahiro Komamizu's homepage."
+  mainImage = "images/icon.jpg"
+	email = "taka-coma [at] acm.org"
+
+
+[params.introduction]
+	pos = "Associate Professor"
+	aff1 = "Mathematical and Data Science Center"
+	affurl1 = "https://www.mds.nagoya-u.ac.jp/"
+	aff2 = "Nagoya University"
+	affurl2 = "http://www.nagoya-u.ac.jp/"
+
+
+[params.interests]
+	[[params.interests.list]]
+		text = "Database"
+
+	[[params.interests.list]]
+		text = "Data Mining"
+		
+	[[params.interests.list]]
+		text = "Imbalanced Classification"
+
+	[[params.interests.list]]
+		text = "Linked Open Data"
+		
+	[[params.interests.list]]
+		text = "Analytical Processing"
+
+	[[params.interests.list]]
+		text = "Big Data Analysis"
+
+
+[params.affiliation]
+	[[params.affiliation.list]]
+		text = "Graduate School of Informatics, Nagoya University"
+		url = "https://www.i.nagoya-u.ac.jp/en/"
+
+	[[params.affiliation.list]]
+		text = "Global Research Institute for Mobility, Society Institutes of Innovation for Future Society, Nagoya University"
+		url = "https://www.gremo.mirai.nagoya-u.ac.jp/"
+
+	[[params.affiliation.list]]
+		text = "Natural Language Processing Group, Future Value Creation Research Center, Nagoya University"
+		url = "http://www.fvcrc.i.nagoya-u.ac.jp/natural_lang/"
+
+
+[params.opencontents]
+	[[params.opencontents.list]]
+		text = "Conference List"
+		url = "http://conferencelist.info/"
+
+	[[params.opencontents.list]]
+		text = "SPARQL endpoint for Conference List"
+		url = "https://dydra.com/taka-coma/conference_list/"
+
+
+[params.researchpos]
+	[[params.researchpos.list]]
+		duration = "January 2022 - now"
+		affiliation = "Mathematical and Data Science Center, Nagoya University"
+		affurl = "https://www.mds.nagoya-u.ac.jp/"
+		position = "Associate Professor"
+		lab = "Contents Science Laboratory"
+		laburl = "https://www.cs.is.i.nagoya-u.ac.jp/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Graduate School of Informatics, Nagoya University"
+			affurl = "https://www.i.nagoya-u.ac.jp/en/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Global Research Institute for Mobility, Society Institutes of Innovation for Future Society, Nagoya University"
+			affurl = "https://www.gremo.mirai.nagoya-u.ac.jp/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Natural Language Processing Group, Future Value Creation Research Center, Nagoya University"
+			affurl = "http://www.fvcrc.i.nagoya-u.ac.jp/natural_lang/"
+
+	[[params.researchpos.list]]
+		duration = "April 2021 - December 2021"
+		affiliation = "Institutes of Innovation for Future Society, Nagoya University"
+		affurl = "http://www.mirai.nagoya-u.ac.jp/"
+		position = "Designated Lecturer"
+		project = "Graduate Program for Lifestyle Revolution based on Transdisciplinary Mobility Innovation (TMI)"
+		projecturl = "https://www.tmi.mirai.nagoya-u.ac.jp/"
+		lab = "Contents Science Laboratory"
+		laburl = "https://www.cs.is.i.nagoya-u.ac.jp/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Mathematical and Data Science Center, Nagoya University"
+			affurl = "https://www.mds.nagoya-u.ac.jp/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Natural Language Processing Group, Future Value Creation Research Center, Nagoya University"
+			affurl = "http://www.fvcrc.i.nagoya-u.ac.jp/natural_lang/"
+
+
+	[[params.researchpos.list]]
+		duration = "February 2018 - March 2021"
+		affiliation = "Information Technology Center, Nagoya University"
+		affurl = "http://www.icts.nagoya-u.ac.jp/ja/center/"
+		position = "Assistant Professor"
+		lab = "Toyama Laboratory"
+		laburl = "https://www.kl.itc.nagoya-u.ac.jp/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Graduate School of Informatics, Nagoya University"
+			affurl = "https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Department of Computer Science, Nagoya University"
+			affurl = "https://www.i.nagoya-u.ac.jp/en/si/cs/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Nagoya University Library Studies, Nagoya University"
+			affurl = "http://www.nul.nagoya-u.ac.jp/libst/"
+
+		[[params.researchpos.list.others]]
+			affiliation = "Mathematical and Data Science Center, Nagoya University"
+			affurl = "https://www.mds.nagoya-u.ac.jp/"
+		
+		[[params.researchpos.list.others]]
+			affiliation = "Natural Language Processing Group, Future Value Creation Research Center, Nagoya University"
+			affurl = "http://www.fvcrc.i.nagoya-u.ac.jp/natural_lang/"
+
+
+	[[params.researchpos.list]]
+		duration = "April 2015 - January 2018"
+		affiliation = "Center for Computational Sciences, University of Tsukuba"
+		affurl = "https://www.ccs.tsukuba.ac.jp/"
+		position = "Postdoc Researcher"
+		project = "Research and Development on Real World Big Data Integration and Analysis of MEXT and RIKEN"
+		lab = "Kitagawa & Amangasa Data Engineering Laboratory (KDE)"
+		laburl = "https://kde.cs.tsukuba.ac.jp/"
+
+	[[params.researchpos.list]]
+		duration = "June 2014 - March 2015"
+		affiliation = "Center for Computational Sciences, University of Tsukuba"
+		affurl = "https://www.ccs.tsukuba.ac.jp/"
+		position = "Research Assistant"
+		project = "Research and Development on Real World Big Data Integration and Analysis of MEXT"
+		lab = "Kitagawa & Amangasa Data Engineering Laboratory (KDE)"
+		laburl = "https://kde.cs.tsukuba.ac.jp/"
+
+
+[params.educations]
+	[[params.educations.list]]
+		text = "Ph.D. in Engineering, March 2015, "
+		school = "University of Tsukuba"
+		schoolurl = "http://www.tsukuba.ac.jp/"
+		thesis = "Doctoral thesis: A Study on Faceted Search for Semi-structured Data"
+
+	[[params.educations.list]]
+		text = "M.Eng, March 2011, "
+		school = "University of Tsukuba"
+		schoolurl = "http://www.tsukuba.ac.jp/"
+
+	[[params.educations.list]]
+		text = "B.Eng in computer science, March 2009, "
+		school = "University of Tsukuba"
+		schoolurl = "http://www.tsukuba.ac.jp/"
+
+	[[params.educations.list]]
+		text = "Graduate, March 2005, "
+		school = "Ushiku Eishin senior high school（牛久栄進高等学校）"
+		schoolurl = "http://www.ushikueishin-h.ibk.ed.jp/"
+
+
+
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+	url = "https://twitter.com/TakaComa"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "https://www.linkedin.com/in/taka-coma/"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "https://github.com/Taka-Coma"

@@ -1,0 +1,522 @@
+[
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "外山 勝彦" },
+ { "text": "河口 信夫" },
+ { "text": "佐野 智也" }
+ 		]},
+ 		"title": "法令間の関係を利用したモビリティ関連法令検索に関する一考察",
+ 		"venue": "第57回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会",
+ 		"pages": "SIG-SWO-057-04",
+ 		"year" : "2022",
+ 		"slide": "/pdfs/SWO-057-04.pdf",
+		"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Baidong Chu" },
+ { "text": "Chihaya Matsuhira" },
+ { "text": "Yasutomo Kawanishi" },
+ { "text": "Marc A. Kastner" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" },
+ { "text": "Daisuke Deguchi" }
+ 		]},
+  		"title": "Towards Detecting Birds from Panorama Video Aided by Sound Source Localization",
+  		"venue": "メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE)",
+  		"pages": "MVE2021-50",
+  		"year" : "2022",
+			"ee": "https://www.ieice.org/ken/paper/202203096CJu/eng/"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "木村 優介" },
+ { "text": "駒水 孝裕" },
+ { "text": "波多野 賢治" }
+ 		]},
+  		"title": "ストップフレーズ抽出を併用した文書分類",
+  		"venue": "第14回データ工学と情報マネジメントに関するフォーラム",
+  		"pages": "A23-4",
+  		"year" : "2022",
+			"ee": "https://proceedings-of-deim.github.io/DEIM2022/papers/A23-4.pdf"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "安田 理恵" },
+ { "text": "外山 勝彦" }
+ 		]},
+   		"title": "移動イノベーションのための法情報活用基盤",
+   		"venue": "令和三年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "K1-2",
+   		"year" : "2021",
+ 			"slide": "/pdfs/Tokai_Rengou_R3.pdf"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "近藤 匠" },
+ { "text": "駒水 孝裕" },
+ { "text": "小川 泰弘" },
+ { "text": "外山 勝彦" }
+ 		]},
+   		"title": "利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用",
+   		"venue": "第18回情報学ワークショップ",
+   		"pages": "L-3B-2",
+   		"year" : "2020",
+ 			"awards": [
+				{
+					"name": "Best Paper Award",
+					"url": "https://sites.google.com/view/winf2020/awards"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "小川 泰弘" },
+ { "text": "外山 勝彦" }
+ 		]},
+ 		"title": "法令沿革 LOD 構築のための DBpedia における法令エンティティの同定",
+ 		"venue": "第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会",
+ 		"pages": "SIG-SWO-051-06",
+ 		"year" : "2020",
+ 		"slide": "/pdfs/SWO-051-06.pdf",
+		"awards": [
+			{
+				"name": "JSAI Incentive Award",
+				"url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/" 
+			}
+		], 
+		"ee": "https://www.jstage.jst.go.jp/article/jsaisigtwo/2020/SWO-051/2020_06/_article/-char/ja/"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "植原 リサ" },
+ { "text": "駒水 孝裕" },
+ { "text": "小川 泰弘" },
+ { "text": "外山 勝彦" }
+ 		]},
+  		"title": "不均衡データ分類フレームワークにおけるサンプリング比率の最適化",
+  		"venue": "第12回データ工学と情報マネジメントに関するフォーラム",
+  		"pages": "F8-2",
+  		"year" : "2020",
+ 			"awards": [
+				{
+					"name": "Online Presentation Award",
+					"url": "https://db-event.jpn.org/deim2020/post/awards.html"
+				}
+			],
+			"ee": "https://proceedings-of-deim.github.io/DEIM2020/papers/F8-2.pdf"
+	},
+
+	{
+		"authors": {
+			"author": [
+{ "text": "青山 恵子" },
+{ "text": "駒水 孝裕" },
+{ "text": "小川 泰弘" },
+{ "text": "外山 勝彦" }
+			]
+		},
+		"title": "利用規約中の不公平文の自動検出",
+		"venue": "電子情報通信学会技術研究報告 NLC2019-8",
+		"pages": "1-6",
+		"year": "2019",
+		"ee": "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=https%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20190927a1pz%2F"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "李 偉嘉" },
+ { "text": "小川 泰弘" },
+ { "text": "駒水 孝裕" },
+ { "text": "外山 勝彦" }
+ 		]},
+   		"title": "言い換えによる自然言語－SPARQL対訳コーパスの拡張",
+   		"venue": "第17回情報学ワークショップ",
+   		"pages": "P118",
+   		"year" : "2019"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "小川 泰弘" },
+  { "text": "佐藤 充晃" },
+  { "text": "駒水 孝裕" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "法律の要約のためのランダムフォレストを用いた重要文抽出",
+   		"venue": "第33回人工知能学会全国大会",
+   		"pages": "4E2OS7a02",
+   		"year" : "2019"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "山腰 貴大" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "共通BERT分類器による紛らわしい法令用語の校正",
+   		"venue": "NLP若手の会 (YANS) 第14回シンポジウム",
+   		"pages": "P41",
+   		"year" : "2019"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "内田 勇志" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "法令沿革オントロジーの設計",
+   		"venue": "第47回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会",
+   		"pages": "SIG-SWO-047-16",
+   		"year" : "2019"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "駒水 孝裕" }
+ 		]},
+   		"title": "グラフ構造を利用したエンティティ検索",
+   		"venue": "第11回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "I3-2",
+   		"year" : "2019",
+			"slide": "/pdfs/DEIM2019.pdf"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "藤岡 和弥" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "部分構造を用いた類似例規の検索",
+   		"venue": "第11回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "C6-3",
+   		"year" : "2019"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "山腰 貴大" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "ランダムフォレストによる法令用語の校正",
+   		"venue": "平成30年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "M5-1",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "重野 泰和" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "ニューラルモデルと翻訳メモリを併用した機械翻訳",
+   		"venue": "平成30年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "M5-2",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "佐藤 充晃" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "分類器を用いた法令要約に利用する法令文の自動抽出",
+   		"venue": "平成30年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "L4-5",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+  { "text": "植原 リサ" },
+  { "text": "駒水 孝裕" },
+  { "text": "小川 泰弘" },
+  { "text": "外山 勝彦" }
+ 		]},
+   		"title": "単語の分散表現を用いた法令用語間の関係の獲得",
+   		"venue": "平成30年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "L4-4",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "藤岡 和弥" },
+ { "text": "駒水 孝裕" },
+ { "text": "小川 泰弘" },
+ { "text": "外山 勝彦" }
+ 		]},
+   		"title": "Zipf の法則は例規文の出現数においても成立する",
+   		"venue": "平成30年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "L4-1",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "青山 恵子" },
+ { "text": "駒水 孝裕" },
+ { "text": "小川 泰弘" },
+ { "text": "外山 勝彦" }
+ 		]},
+   		"title": "並列構造の分割による法令文の読解性向上",
+   		"venue": "平成30年度 電気・電子・情報関係学会 東海支部連合大会",
+   		"pages": "L3-6",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "仁木 美来" },
+ { "text": "天笠 俊之" },
+ { "text": "駒水 孝裕" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "グラフ集約に基づく RDF データに対する OLAP 分析",
+   		"venue": "情報処理学会 第80回全国大会",
+   		"pages": "4L-04",
+   		"year" : "2018"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "伊藤 寛祥" },
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習",
+   		"venue": "第10回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "A1-1",
+   		"year" : "2018",
+			"awards": [
+				{
+					"name": "Poster Award",
+					"url": "https://db-event.jpn.org/deim2018/post/award/"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "永野 真知" },
+ { "text": "早瀬 康裕" },
+ { "text": "駒水 孝裕" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "GitHub と Stack Overflow におけるユーザ行動の統一的な分析",
+   		"venue": "情報処理学会 第79回全国大会",
+   		"pages": "4J-04",
+   		"year" : "2017",
+			"awards": [
+				{
+					"name" : "Student Award",
+					"url" : "https://www.ipsj.or.jp/award/taikaigakusei.html"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "伊藤 寛祥" },
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "ノードが複数の属性を持つグラフにおけるコミュニティ検出",
+   		"venue": "第9回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "E2-1",
+   		"year" : "2017",
+			"awards": [
+				{
+					"name": "Student Award",
+					"url": "https://db-event.jpn.org/deim2017/award.html"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "XMLデータに対するファセット検索のためのファセット抽出の自動化",
+   		"venue": "第13回情報科学技術フォーラム",
+   		"pages": "D-022",
+   		"year" : "2014"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "グラフデータに対するファセット探索のための頻出パターンを利用したオブジェクト抽出手法",
+   		"venue": "第4回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "D3-3",
+   		"year" : "2012"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "早瀬 康裕" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "ソフトウェア部品検索に適したファセット探索の一考察",
+   		"venue": "電子情報通信学会技術研究報告 IEICE-SS2011-30",
+      "volume": "111",
+      "number": "268",
+    	"pages": "19-24",
+    	"year" : "2011"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "XMLデータに対するファセット検索のユーザビリティ評価",
+   		"venue": "情報処理学会 第73回全国大会",
+   		"pages": "4N-3",
+   		"year" : "2011",
+			"awards": [
+				{
+					"name": "Student Award",
+					"url": "https://www.ipsj.or.jp/award/taikaigakusei.html"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "キーワード検索が可能なXMLデータに対するファセット探索",
+   		"venue": "第3回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "E6-1",
+   		"year" : "2011"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "異種XMLデータに対するファセット検索システムの性能評価",
+   		"venue": "情報処理学会創立50周年記念（第72回）全国大会",
+   		"pages": "6ZC-5",
+   		"year" : "2010"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "異種XMLデータに対するファセット検索における多様な検索",
+   		"venue": "第2回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": " C7-5",
+   		"year" : "2010",
+			"awards": [
+				{
+					"name": "Student Award",
+					"url": "https://db-event.jpn.org/deim2010/award.html#sAward"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "異種XMLデータに対するファセット検索手法の提案",
+   		"venue": "情報処理学会研究報告 (DD)",
+   		"volume": "2009-DD-073",
+			"number": "7",
+   		"pages" : "1-8",
+ 			"year": "2009",
+			"awards": [
+				{
+					"name": "IPSJ Yamashita SIG Research Award",
+					"url": "http://www.ipsj.or.jp/award/yamashita2010.html"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "駒水 孝裕" },
+ { "text": "天笠 俊之" },
+ { "text": "北川 博之" }
+ 		]},
+   		"title": "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案",
+   		"venue": "第1回データ工学と情報マネジメントに関するフォーラム",
+   		"pages": "B7-6",
+   		"year" : "2009"
+	}
+
+]

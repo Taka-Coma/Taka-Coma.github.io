@@ -1,0 +1,153 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Taka-Coma"
+theme = "mero"
+
+
+[params]
+  dateFormat = "2006-01-02"
+  author = "Takahiro Komamizu"
+  description = "This is Takahiro Komamizu's homepage."
+  mainImage = "images/icon.jpg"
+	email = "taka-coma [at] acm.org"
+
+
+[params.introduction]
+	pos = "Assistant Professor"
+	aff1 = "Information Technology Center"
+	affurl1 = "http://www.icts.nagoya-u.ac.jp/ja/center/"
+	aff2 = "Nagoya University"
+	affurl2 = "http://www.nagoya-u.ac.jp/"
+
+
+[params.interests]
+	[[params.interests.list]]
+		text = "Database"
+
+	[[params.interests.list]]
+		text = "Data Mining"
+		
+	[[params.interests.list]]
+		text = "Information Retrieval"
+
+	[[params.interests.list]]
+		text = "Linked Open Data"
+		
+	[[params.interests.list]]
+		text = "Analytical Processing"
+
+	[[params.interests.list]]
+		text = "Big Data Analysis"
+
+
+[params.affiliation]
+	[[params.affiliation.list]]
+		text = "Graduate School of Informatics, Nagoya University"
+		url = "https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/"
+	
+	[[params.affiliation.list]]
+		text = "Department of Computer Science, Nagoya University"
+		url = "https://www.i.nagoya-u.ac.jp/en/si/cs/"
+
+	[[params.affiliation.list]]
+		text = "Nagoya University Library Studies, Nagoya University"
+		url = "http://www.nul.nagoya-u.ac.jp/libst/"
+
+	[[params.affiliation.list]]
+		text = "Natural Language Processing Group, Future Value Creation Research Center, Nagoya University"
+		url = "http://www.fvcrc.i.nagoya-u.ac.jp/natural_lang/"
+
+	[[params.affiliation.list]]
+		text = "Mathematical and Data Science Center, Nagoya University"
+		url = "https://www.mds.nagoya-u.ac.jp/"
+	
+	
+
+[params.opencontents]
+	[[params.opencontents.list]]
+		text = "Conference List"
+		url = "http://conferencelist.info/"
+
+	[[params.opencontents.list]]
+		text = "Conferences affected by COVID-19"
+		url = "http://www.conferencelist.info/corona.html"
+
+	[[params.opencontents.list]]
+		text = "Google Spreadsheets of Conferences affected by COVID-19"
+		url = "https://docs.google.com/spreadsheets/d/1Qc6VZFLDvgb04xx85S0enRXYWlbobiN3t388po_OVM0/edit?usp=sharing"
+
+	[[params.opencontents.list]]
+		text = "SPARQL endpoint for Conference List"
+		url = "https://dydra.com/taka-coma/conference_list/"
+
+
+[params.researchpos]
+	[[params.researchpos.list]]
+		duration = "February 2018 - now"
+		affiliation = "Information Technology Center, Nagoya University"
+		affurl = "http://www.icts.nagoya-u.ac.jp/ja/center/"
+		position = "Assistant Professor"
+		lab = "Toyama Laboratory"
+		laburl = "https://www.kl.itc.nagoya-u.ac.jp/"
+
+	[[params.researchpos.list]]
+		duration = "April 2015 - January 2018"
+		affiliation = "Center for Computational Sciences, University of Tsukuba"
+		affurl = "https://www.ccs.tsukuba.ac.jp/"
+		position = "Postdoc Researcher"
+		project = "Research and Development on Real World Big Data Integration and Analysis of MEXT and RIKEN"
+		projecturl = "http://bigdata.kde.cs.tsukuba.ac.jp/"
+		lab = "Kitagawa & Amangasa Data Engineering Laboratory (KDE)"
+		laburl = "http://kde.cs.tsukuba.ac.jp/"
+
+	[[params.researchpos.list]]
+		duration = "June 2014 - March 2015"
+		affiliation = "Center for Computational Sciences, University of Tsukuba"
+		affurl = "https://www.ccs.tsukuba.ac.jp/"
+		position = "Research Assistant"
+		project = "Research and Development on Real World Big Data Integration and Analysis of MEXT"
+		projecturl = "http://bigdata.kde.cs.tsukuba.ac.jp/"
+		lab = "Kitagawa & Amangasa Data Engineering Laboratory (KDE)"
+		laburl = "http://kde.cs.tsukuba.ac.jp/"
+
+
+[params.educations]
+	[[params.educations.list]]
+		text = "Ph.D. in Engineering, March 2015, "
+		school = "University of Tsukuba"
+		schoolurl = "http://www.tsukuba.ac.jp/"
+		thesis = "Doctoral thesis: A Study on Faceted Search for Semi-structured Data"
+
+	[[params.educations.list]]
+		text = "M.Eng, March 2011, "
+		school = "University of Tsukuba"
+		schoolurl = "http://www.tsukuba.ac.jp/"
+
+	[[params.educations.list]]
+		text = "B.Eng in computer science, March 2009, "
+		school = "University of Tsukuba"
+		schoolurl = "http://www.tsukuba.ac.jp/"
+
+	[[params.educations.list]]
+		text = "Graduate, March 2005, "
+		school = "Ushiku Eishin senior high school（牛久栄進高等学校）"
+		schoolurl = "http://www.ushikueishin-h.ibk.ed.jp/"
+
+
+
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+	url = "https://twitter.com/TakaComa"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "https://github.com/Taka-Coma"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "https://www.linkedin.com/in/takahiro-komamizu-39858691"

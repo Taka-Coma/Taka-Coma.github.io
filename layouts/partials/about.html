@@ -1,0 +1,43 @@
+<h4
+  class="pl-2 pr-2 bg-dark rounded border"
+  style="position: absolute; top: -1rem; right: 0.5em;"
+>
+  <b>About</b>
+</h4>
+
+<h1>
+	{{ .Site.Params.author }}
+</h1>
+
+<p style="font-size: 1.2em;">
+	{{ .Site.Params.Introduction.pos }}
+	{{ if .Site.Params.Introduction.project }}
+		for
+		<br>
+		<a href="{{ .Site.Params.Introduction.projecturl }}" target="_blank">{{ .Site.Params.Introduction.project }}</a>
+	{{ end }}
+	<br>
+	<a href="{{ .Site.Params.Introduction.affurl1 }}" target="_blank">{{ .Site.Params.Introduction.aff1 }}</a>,
+	<a href="{{ .Site.Params.Introduction.affurl2 }}" target="_blank">{{ .Site.Params.Introduction.aff2 }}</a>
+	<br>
+	Contact: {{ .Site.Params.email }}
+</p>
+
+<hr>
+
+<p style="font-size: 1.2em;">
+	<h3>Research Interests</h3>
+  {{ range .Site.Params.interests.list }}
+	<span class="pl-2 pr-2 bg-dark rounded border" style="display: inline-block">{{ .text }}</span>
+	{{ end }}
+</p>
+
+<p style="font-size: 1.2em;">
+	<h3>Other Affiliations</h3>
+	<ul>
+  {{ range .Site.Params.affiliation.list }}
+	<li><a href="{{ .url }}" target="_blank">{{ .text }}</a></li>
+  {{ end }}
+	</ul>
+</p>
+

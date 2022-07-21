@@ -1,0 +1,52 @@
+<h4
+  class="pl-2 pr-2 bg-dark rounded border"
+  style="position: absolute; top: -1rem; right: 0.5em;"
+>
+  <b>History</b>
+</h4>
+
+<h2>Research Positions</h2>
+
+<ul>
+{{ range .Site.Params.researchpos.list }}
+	<li>
+		{{ .duration }}, 
+		<a href="{{ .affurl }}" target="_blank">{{ .affiliation }}</a>
+		<ul>
+			<li>Position: {{ .position }}</li>
+			{{ if .project }}
+				{{ if .projecturl }}
+					<li>Project: <a href="{{ .projecturl }}" target="_blank">{{ .project }}</a></li>
+				{{ else }}
+					<li>Project: {{ .project }}</li>
+				{{ end }}
+			{{ end }}
+			<li>Lab: <a href="{{ .laburl }}" target="_blank">{{ .lab }}</a></li> 
+			{{ if .others }}
+				<li>Other Affiliations:
+					<ul>
+					{{ range .others }}
+						{{ if .affurl }}
+							<li><a href='{{ .affurl }}' target="_blank">{{ .affiliation }}</a></li>
+						{{ else }}
+							<li>{{ .affiliation }}</li>
+						{{ end }}
+					{{ end }}
+					</ul>
+				</li>
+			{{ end }}
+		</ul>
+	</li>
+{{ end }}
+</ul>
+
+<hr>
+
+<h2>Educations</h2>
+
+<ul>
+{{ range .Site.Params.educations.list }}
+	<li>{{ .text }}<a href="{{ .schoolurl }}" target="_blank">{{ .school }}</a></li>
+{{ end }}
+</ul>
+

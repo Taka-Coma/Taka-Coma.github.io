@@ -1,0 +1,11 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+{{ if .Get "url" }}
+<a style="color: salmon !important" href='{{ .Get "url" }}' target="_blank">
+{{ .Get "name" }}
+</a>
+{{ else }}
+<span style="color: salmon !important">
+{{ .Get "name" }}
+</span>
+{{ end }}
