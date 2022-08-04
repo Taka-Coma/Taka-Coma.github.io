@@ -51,7 +51,7 @@ draft: false
 - [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "Interleaving Clustering of Classes and Properties for Disambiguating Linked Data", ICADL, pp.251-256, 2016 ([DOI](https://doi.org/10.1007/978-3-319-49304-6_30), [slide](/pdfs/ICADL2016.pdf), [poster](/pdfs/ICADL2016_poster.pdf))
 - [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "Visual Spatial-OLAP for Vehicle Recorder Data on Micro-sized Electric Vehicles", IDEAS, pp.358-363, 2016 ([DOI](https://doi.org/10.1145/2938503.2938532), [slide](/pdfs/IDEAS2016.pdf))
 ### 2015
-- [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "SPOOL: a SPARQL-based ETL framework for OLAP over linked data", iiWAS, pp.49:1-49:10, 2015 ([DOI](https://doi.org/10.1145/2837185.2837230), [slide](/pdfs/iiWAS2015.pdf))
+- [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "SPOOL: a SPARQL-based ETL framework for OLAP over linked data", iiWAS, pp.49:1-49:10, 2015 ([DOI](https://doi.org/10.1145/2837185.2837230), [slide](/pdfs/iiWAS2015.pdf)) --- {{< awards name="Best Paper Award" >}}
 ### 2014
 - [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "A scheme of automated object and facet extraction for faceted search over XML data", IDEAS, pp.338-341, 2014 ([DOI](https://doi.org/10.1145/2628194.2628241), [slide](/pdfs/IDEAS2014.pdf))
 - [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "Extracting Facets from Textual Contents for Faceted Search over XML Data", iiWAS, pp.420-429, 2014 ([DOI](https://doi.org/10.1145/2684200.2684294), [slide](/pdfs/iiWAS2014.pdf))
