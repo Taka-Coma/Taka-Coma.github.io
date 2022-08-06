@@ -28,6 +28,7 @@ draft: false
 
 
 #### Japanese Domestic Conferences
+- [駒水 孝裕](/), 外山 勝彦, 河口 信夫, 佐野 智也, "法令間の関係を利用したモビリティ関連法令検索に関する一考察", 第57回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-057-04, 2022 ([link](), [slide](/pdfs/SWO-057-04.pdf))
 - [駒水 孝裕](/), 安田 理恵, 外山 勝彦, "移動イノベーションのための法情報活用基盤", 令和三年度 電気・電子・情報関係学会 東海支部連合大会, pp.K1-2, 2021 ([slide](/pdfs/Tokai_Rengou_R3.pdf))
 - 近藤 匠, [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用", 第18回情報学ワークショップ, pp.L-3B-2, 2020 -- {{< awards name="Best Paper Award" url="https://sites.google.com/view/winf2020/awards" >}}
 - [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "法令沿革 LOD 構築のための DBpedia における法令エンティティの同定", 第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-051-06, 2020 ([slide](/pdfs/SWO-051-06.pdf)) -- {{< awards name="JSAI Incentive Award" url="https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/" >}}

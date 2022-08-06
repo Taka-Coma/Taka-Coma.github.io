@@ -4,7 +4,7 @@ date: 2020-10-20T22:24:46+09:00
 draft: false
 ---
 
-## Heterogeneous Liked Open Data Management (2020 - )
+## Heterogeneous Liked Open Data Management (2012 - )
 
 
 ----
@@ -30,11 +30,6 @@ and it performed comparably with them in terms of Gmean and F-measure metrics.
 ----
 
 ## Japanese Legal Data Management (2018 - )
-
-
-----
-
-## Search and Analysis on Linked Open Data (2015 - )
 
 
 ----

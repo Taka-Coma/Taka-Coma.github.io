@@ -30,7 +30,7 @@
       <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
       
       <guid>/mlod/</guid>
-      <description> Publications International Conferences  Takahiro Komamizu , &amp;ldquo;SPARQL with XQuery-based Filtering&amp;rdquo;, ISWC, pp.69-74, 2020 (DOI , slide )  Pre-Print  Takahiro Komamizu , &amp;ldquo;SPARQL with XQuery-based Filtering&amp;rdquo;, CoRR, Vol.abs/2009.06194, 2020 (DOI )  </description>
+      <description>Publications International Journals  Takahiro Komamizu , &amp;ldquo;Random walk-based entity representation learning and re-ranking for entity search&amp;rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (DOI ) Takahiro Komamizu , Toshiyuki Amagasa, Hiroyuki Kitagawa, &amp;ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&amp;rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (DOI )  International Conferences  Takahiro Komamizu , Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;FPX-G: First Person Exploration for Graph&amp;rdquo;, MIPR, pp.</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@
       <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
       
       <guid>/researches/</guid>
-      <description>Heterogeneous Liked Open Data Management (2020 - )  Preprocessing-based Approaches for Imbalanced Classification (2020 - ) In classification, class imbalance is a factor that degrades the classification performance of many classification methods. Resampling is one widely accepted approach to the class imbalance; however, it still suffers from an insufficient data space, which also degrades performance. To overcome this, in this paper, an undersampling-based imbalanced classification framework, MMEnsemble, is proposed that incorporates metric learning into a multi-ratio undersampling-based ensemble.</description>
+      <description>Heterogeneous Liked Open Data Management (2012 - )  Preprocessing-based Approaches for Imbalanced Classification (2020 - ) In classification, class imbalance is a factor that degrades the classification performance of many classification methods. Resampling is one widely accepted approach to the class imbalance; however, it still suffers from an insufficient data space, which also degrades performance. To overcome this, in this paper, an undersampling-based imbalanced classification framework, MMEnsemble, is proposed that incorporates metric learning into a multi-ratio undersampling-based ensemble.</description>
     </item>
     
     <item>
