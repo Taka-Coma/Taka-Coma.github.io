@@ -14,6 +14,8 @@ draft: false
 ----
 ## 査読なし会議
 ### 2022
+- 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", WebDB 夏のワークショップ 2022, pp., 2022 ([link]())
+- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", WebDB 夏のワークショップ 2022, pp., 2022 ([link]())
 - [駒水 孝裕](/), 外山 勝彦, 河口 信夫, 佐野 智也, "法令間の関係を利用したモビリティ関連法令検索に関する一考察", 第57回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-057-04, 2022 ([link](), [slide](/pdfs/SWO-057-04.pdf))
 - Baidong Chu, Chihaya Matsuhira, Yasutomo Kawanishi, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Daisuke Deguchi, "Towards Detecting Birds from Panorama Video Aided by Sound Source Localization", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE), pp.MVE2021-50, 2022 ([link](https://www.ieice.org/ken/paper/202203096CJu/eng/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ストップフレーズ抽出を併用した文書分類", 第14回データ工学と情報マネジメントに関するフォーラム, pp.A23-4, 2022 ([link](https://proceedings-of-deim.github.io/DEIM2022/papers/A23-4.pdf))
@@ -69,7 +71,7 @@ draft: false
 - [駒水 孝裕](/), "A Study on Faceted Search for Semi-structured Data", 学位論文紹介, DBSJ, 2016.4 ([link](http://dbsj.org/dissertation/2015/5130/))
 ----
 ## 編集
-- [駒水 孝裕](/), "DEIM2021, データ解析コンペティション, IPSJ-83企業パネル, AAAI 2021, BigComp2021", DBSJ Newsletter, Vol.14, No.1, 2021.4 ([link]())
+- [駒水 孝裕](/), "DEIM2021, データ解析コンペティション, IPSJ-83企業パネル, AAAI 2021, BigComp2021", DBSJ Newsletter, Vol.14, No.1, 2021.4 ([link](https://archive.dbsj.org/dbjapan/2021/msg00070.html))
 - [駒水 孝裕](/), "DEIM2019, BigComp2019, CIDR2019, AAAI2019, VLDB2020への道", DBSJ Newsletter, Vol.12, No.1, 2019.4 ([link](http://dbsj.org/dbjapan/2019/msg00053.html))
 - [駒水 孝裕](/), "DEIM フォーラム 2017 開催報告，データ解析コンペティションDB部会", DBSJ Newsletter, Vol.10, No.1, 2017.4 ([link](https://archive.dbsj.org/dbjapan/2017/msg00188.html))
 ----

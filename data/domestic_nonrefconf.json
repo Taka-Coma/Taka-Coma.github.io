@@ -3,6 +3,34 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "木村 優介" },
+ { "text": "駒水 孝裕" },
+ { "text": "波多野 賢治" }
+ 		]},
+  		"title": "サブワードフレーズ抽出を併用した文書分類",
+  		"venue": "WebDB 夏のワークショップ 2022",
+  		"pages": "",
+  		"year" : "2022",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Kazuma Kusu" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Kenji Hatano" }
+ 		]},
+  		"title": "Towards Constructing Destination Node Index for Repetition Paths",
+  		"venue": "WebDB 夏のワークショップ 2022",
+  		"pages": "",
+  		"year" : "2022",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "駒水 孝裕" },
  { "text": "外山 勝彦" },
  { "text": "河口 信夫" },
