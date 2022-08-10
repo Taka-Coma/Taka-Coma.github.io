@@ -29,6 +29,8 @@ draft: false
 - [Takahiro Komamizu](/), Mariko Kamie, Kazuhiro Fukui, Toshiyuki Amagasa, Hiroyuki Kitagawa, "A Scheme of Fragment-Based Faceted Image Search", DEXA, pp.450-457, 2012 ([DOI](https://doi.org/10.1007/978-3-642-32597-7_40), [slide](/pdfs/DEXA2012.pdf))
 
 #### Japanese Domestic Conferences
+- 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", WebDB 夏のワークショップ 2022, pp., 2022 ([link]())
+- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", WebDB 夏のワークショップ 2022, pp., 2022 ([link]())
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ストップフレーズ抽出を併用した文書分類", 第14回データ工学と情報マネジメントに関するフォーラム, pp.A23-4, 2022 ([link](https://proceedings-of-deim.github.io/DEIM2022/papers/A23-4.pdf))
 - [駒水 孝裕](/), "グラフ構造を利用したエンティティ検索", 第11回データ工学と情報マネジメントに関するフォーラム, pp.I3-2, 2019 ([slide](/pdfs/DEIM2019.pdf))
 
