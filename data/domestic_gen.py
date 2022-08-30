@@ -97,7 +97,7 @@ def formatPaper(paper, style='journal'):
     if 'month' in paper:
         out += f".{paper['month']}"
 
-    if 'ee' in paper:
+    if 'ee' in paper and paper['ee'] != '':
         if 'slide' in paper:
             out += f" ([link]({paper['ee']}), [slide]({paper['slide']}))"
         else:

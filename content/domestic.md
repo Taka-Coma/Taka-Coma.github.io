@@ -14,9 +14,10 @@ draft: false
 ----
 ## 査読なし会議
 ### 2022
-- 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", 第175回データベースシステム・第148回情報基礎とアクセス技術合同研究発表会, pp.C3-2, 2022 ([link]())
-- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", 第175回データベースシステム・第148回情報基礎とアクセス技術合同研究発表会, pp.B2-3, 2022 ([link]())
-- [駒水 孝裕](/), 外山 勝彦, 河口 信夫, 佐野 智也, "法令間の関係を利用したモビリティ関連法令検索に関する一考察", 第57回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-057-04, 2022 ([link](), [slide](/pdfs/SWO-057-04.pdf))
+- 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp., 2022
+- 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", 第175回データベースシステム・第148回情報基礎とアクセス技術合同研究発表会, pp.C3-2, 2022
+- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", 第175回データベースシステム・第148回情報基礎とアクセス技術合同研究発表会, pp.B2-3, 2022
+- [駒水 孝裕](/), 外山 勝彦, 河口 信夫, 佐野 智也, "法令間の関係を利用したモビリティ関連法令検索に関する一考察", 第57回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-057-04, 2022 ([slide](/pdfs/SWO-057-04.pdf))
 - Baidong Chu, Chihaya Matsuhira, Yasutomo Kawanishi, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Daisuke Deguchi, "Towards Detecting Birds from Panorama Video Aided by Sound Source Localization", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE), pp.MVE2021-50, 2022 ([link](https://www.ieice.org/ken/paper/202203096CJu/eng/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ストップフレーズ抽出を併用した文書分類", 第14回データ工学と情報マネジメントに関するフォーラム, pp.A23-4, 2022 ([link](https://proceedings-of-deim.github.io/DEIM2022/papers/A23-4.pdf))
 ### 2021
