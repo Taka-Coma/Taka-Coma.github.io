@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archive", ICADL, pp., 2022
 - Da Huo, Marc A Kastner, [Takahiro Komamizu](/), Ichiro Ide, "Action Semantic Alignment for Image Captionin", MIPR, pp.194-197, 2022
 - Hirotaka Kato, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, Yasutomo Kawanishi, [Takahiro Komamizu](/), Daisuke Deguchi, Hiroshi Murase, "Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generati", MIPR, pp.240-245, 2022
 ----
