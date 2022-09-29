@@ -32,6 +32,9 @@ draft: false
 - Jul. 2021 - now, 
 	[the 11th International Symposium on Information and Communication Technology (SoICT 2022)](https://soict.org/),
 	PC member
+- Sep. 2022 - now,
+	[the 11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
+	PC member
 
 ### Past Activities
 - Nov. 2021 - Jan. 2022,
