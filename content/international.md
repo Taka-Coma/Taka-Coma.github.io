@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+- Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Informatio", AVSS, pp., 2022
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archive", ICADL, pp., 2022
 ----
 ## International Journals
