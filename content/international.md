@@ -5,9 +5,9 @@ draft: false
 ---
 
 ## To Appear
-- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "Multi-task Learning-based Text Classification with Subword-Phrase Extractio", SoICT, pp., 2022
-- Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Informatio", AVSS, pp., 2022
-- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archive", ICADL, pp., 2022
+- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "Multi-task Learning-based Text Classification with Subword-Phrase Extraction", SoICT, pp., 2022
+- Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp., 2022
+- Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archives", ICADL, pp., 2022
 ----
 ## International Journals
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))

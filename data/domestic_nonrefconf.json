@@ -11,7 +11,7 @@
  		]},
   		"title": "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討",
   		"venue": "メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) ",
-  		"pages": "",
+  		"pages": "MVE2022-28",
   		"year" : "2022",
 			"ee": ""
 	},
@@ -41,7 +41,13 @@
   		"venue": "WebDB夏のワークショップ2022",
   		"pages": "B2-3",
   		"year" : "2022",
-			"ee": ""
+			"ee": "",
+			"awards": [
+				{
+					"name": "Student Award",
+					"url": "https://www.ipsj.or.jp/award/dbs-award1.html"
+				}
+			]
 	},
 
 	{
