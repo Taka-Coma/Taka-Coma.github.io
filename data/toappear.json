@@ -4,6 +4,21 @@
 		"type": "International Conferences",
 		"authors": {
 			"author": [
+{ "text": "Yusuke Kimura"},
+{ "text": "Takahiro Komamizu"},
+{ "text": "Kenji Hatano"}
+			]
+		},
+		"title": "Multi-task Learning-based Text Classification with Subword-Phrase Extraction",
+		"venue": "SoICT",
+		"pages": "",
+		"year": "2022"
+	},
+
+	{
+		"type": "International Conferences",
+		"authors": {
+			"author": [
 { "text": "Yasutomo Kawanishi"},
 { "text": "Ichiro Ide"},
 { "text": "Baidong Chu"},

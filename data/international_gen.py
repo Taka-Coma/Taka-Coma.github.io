@@ -78,7 +78,9 @@ def formatPaper(paper, style='journal'):
     if isinstance(paper['authors']['author'], dict) :
         authors = f"[{paper['authors']['author']['text']}](/)"
     else:
-        authors = ', '.join([f"[{a['text']}](/)" if a['text'] == 'Takahiro Komamizu' else a['text'] for a in paper['authors']['author']])
+        authors = ', '.join([f"[{a['text']}](/)"
+            if a['text'] == 'Takahiro Komamizu'
+            else a['text'].replace(' 0001', '') for a in paper['authors']['author']])
 
     out = f"{authors}, \"{paper['title'][:-1].replace(' - ', ': ')}\", {paper['venue']}"
 

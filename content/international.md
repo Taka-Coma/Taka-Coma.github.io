@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "Multi-task Learning-based Text Classification with Subword-Phrase Extractio", SoICT, pp., 2022
 - Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Informatio", AVSS, pp., 2022
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archive", ICADL, pp., 2022
 ----
@@ -19,7 +20,7 @@ draft: false
 ----
 ## International Conferences
 ### 2022
-- Da Huo, Marc A. Kastner 0001, [Takahiro Komamizu](/), Ichiro Ide, "Action Semantic Alignment for Image Captioning", MIPR, pp.194-197, 2022 ([DOI](https://doi.org/10.1109/MIPR54900.2022.00041))
+- Da Huo, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, "Action Semantic Alignment for Image Captioning", MIPR, pp.194-197, 2022 ([DOI](https://doi.org/10.1109/MIPR54900.2022.00041))
 - Hirotaka Kato, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, Yasutomo Kawanishi, [Takahiro Komamizu](/), Daisuke Deguchi, Hiroshi Murase, "Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generation", MIPR, pp.240-245, 2022 ([DOI](https://doi.org/10.1109/MIPR54900.2022.00050))
 ### 2021
 - Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes", WAT@ACL/IJCNLP, pp.124-132, 2021 ([DOI](https://doi.org/10.18653/v1/2021.wat-1.12))
