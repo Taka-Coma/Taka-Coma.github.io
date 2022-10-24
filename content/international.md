@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## To Appear
-- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approac", MMM, pp., 2023
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp., 2023
 - Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "Multi-task Learning-based Text Classification with Subword-Phrase Extraction", SoICT, pp., 2022
 - Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp., 2022
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archives", ICADL, pp., 2022
