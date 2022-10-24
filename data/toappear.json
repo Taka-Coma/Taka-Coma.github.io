@@ -4,6 +4,23 @@
 		"type": "International Conferences",
 		"authors": {
 			"author": [
+{ "text": "Itthisak Phueaksri" }, 
+{ "text": "Marc A. Kastner" }, 
+{ "text": "Yasutomo Kawanishi" },
+{ "text": "Takahiro Komamizu" },
+{ "text": "Ichiro Ide" }
+			]
+		},
+		"title": "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach",
+		"venue": "MMM",
+		"pages": "",
+		"year": "2023"
+	},
+
+	{
+		"type": "International Conferences",
+		"authors": {
+			"author": [
 { "text": "Yusuke Kimura"},
 { "text": "Takahiro Komamizu"},
 { "text": "Kenji Hatano"}
