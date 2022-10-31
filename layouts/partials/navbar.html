@@ -1,86 +1,66 @@
 <nav class="mb-3 mt-3 ml-1">
   <div class="d-flex flex-row">
-    <div
-      class="menu-item border border-warning bg-dark p-2"
-      style="border-top-left-radius: 10px; border-bottom-left-radius: 10px;"
-    >
-      <a href="/"><span>Home</span> </a>
+    <div class="border border-warning bg-dark">
+      <a href="/"><button class='btn btn-dark text-warning'>Home</button></a>
     </div>
 
-    <div class="menu-item dropdown border border-warning bg-dark p-2">
-      <span class="dropbtn text-warning" onclick="toggleMenu(this)">
+    <div class="dropdown border border-warning bg-dark">
+      <button type='button'
+				class="btn btn-dark dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='research_menu'>
 				Researches
-				<i class="fas fa-angle-down"></i>
-			</span>
-      <div
-        class="dropdown-content p-2 bg-dark2 mt-2 rounded w-auto mt-1 d-none"
-        style="min-width: 200px;"
+			</button>
+
+      <ul
+        class="dropdown-menu p-2 bg-dark mt-2 rounded w-auto mt-1"
+				aria-labelledby="research_menu"
       >
-        <ul class="list-unstyled">
-          <li class="pt-2">
-            <a href="/researches">Overview</a>
-          </li>
-          <li class="pt-2">
-            <a href="/mlod">Hetero LOD Management</a>
-          </li>
-          <li class="pt-2">
-            <a href="/imbalance">Imbalanced Classification</a>
-          </li>
-          <li class="pt-2">
-            <a href="/legal">Legal Data Management</a>
-          </li>
-          <li class="pt-2">
-            <a href="/faceted">Faceted Search</a>
-          </li>
-        </ul>
-      </div>
+      	<li><a class='dropdown-item' href="/researches">Overview</a></li>
+      	<li><a class='dropdown-item' href="/mlod">Hetero LOD Management</a></li>
+      	<li><a class='dropdown-item' href="/imbalance">Imbalanced Classification</a></li>
+      	<li><a class='dropdown-item' href="/legal">Legal Data Management</a></li>
+      	<li><a class='dropdown-item' href="/faceted">Faceted Search</a></li>
+      </ul>
     </div>
 
-    <div class="menu-item dropdown border border-warning bg-dark p-2">
-      <span class="dropbtn text-warning" onclick="toggleMenu(this)">
+    <div class="dropdown border border-warning bg-dark">
+      <button type='button'
+				class="btn btn-dark dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='publication_menu'>
 				Publications
-				<i class="fas fa-angle-down"></i>
-			</span>
-      <div
-        class="dropdown-content p-2 bg-dark2 mt-2 rounded w-auto mt-1 d-none"
-        style="min-width: 200px;"
+			</button>
+
+      <ul
+        class="dropdown-menu p-2 bg-dark mt-2 rounded w-auto mt-1"
+				aria-labelledby="publication_menu"
       >
-        <ul class="list-unstyled">
-          <li class="pt-2">
-            <a href="/international">International</a>
-          </li>
-          <li class="pt-2">
-            <a href="/domestic">Domestic</a>
-          </li>
-          <li class="pt-2">
-      			<a href="/awards">Awards</a>
-          </li>
-        </ul>
-      </div>
+        <li><a class='dropdown-item' href="/international">International</a></li>
+        <li><a class='dropdown-item' href="/domestic">Domestic</a></li>
+        <li><a class='dropdown-item' href="/awards">Awards</a></li>
+      </ul>
     </div>
 
-    <div class="menu-item border border-warning bg-dark p-2"
-    style="border-top-right-radius: 10px; border-bottom-right-radius: 10px;">
-      <span class="dropbtn text-warning" onclick="toggleMenu(this)">
+    <div class="dropdown border border-warning bg-dark">
+      <button type='button'
+				class="btn btn-dark dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='activity_menu'>
 				Activities
-				<i class="fas fa-angle-down"></i>
-			</span>
-      <div
-        class="dropdown-content p-2 bg-dark2 mt-2 rounded w-auto mt-1 d-none"
-        style="min-width: 200px;"
+			</button>
+
+      <ul
+        class="dropdown-menu p-2 bg-dark mt-2 rounded w-auto mt-1"
+				aria-labelledby="activity_menu"
       >
-        <ul class="list-unstyled">
-          <li class="pt-2">
-            <a href="/academic">Academic</a>
-          </li>
-          <li class="pt-2">
-      			<a href="/grants">Grants</a>
-          </li>
-          <li class="pt-2">
-            <a href="/teaching">Teaching</a>
-          </li>
-        </ul>
-      </div>
+        <li><a class='dropdown-item' href="/academic">Academic</a></li>
+        <li><a class='dropdown-item' href="/grants">Grants</a></li>
+        <li><a class='dropdown-item' href="/teaching">Teaching</a></li>
+      </ul>
     </div>
 
   </div>
