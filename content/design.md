@@ -10,7 +10,7 @@ date = "2022-10-10"
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
-- [MDS Info Session 2023 Fall](https://uploads-ssl.webflow.com/61e63a555047573da380e8d2/636a18800b47655dc7054002_dsprogram-infosession-poster.jpg)
+- [MDS Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2022-11-30)
 
 ----
 
