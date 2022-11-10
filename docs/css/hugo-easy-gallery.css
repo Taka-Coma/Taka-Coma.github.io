@@ -24,8 +24,8 @@ Grid Layout Styles
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
     .gallery .box {
-        width: 33.3%;
-        padding-bottom: 45%;
+        width: 50%;
+        padding-bottom: 73%;
     }
 }
 @media only screen and (min-width : 480px) {
