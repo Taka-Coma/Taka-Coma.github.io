@@ -25,70 +25,80 @@
   <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
     <div class="wrapper">
       <nav class="mb-3 mt-3 ml-1">
-  <div class="d-flex flex-row">
-    <div class="border border-warning bg-dark rounded-left">
-      <a href="/"><button class='btn btn-dark text-warning'>Home</button></a>
+  <div class="btn-group">
+    <div class="btn btn-dark text-warning border border-warning">
+      <a href="/">Home</a>
     </div>
 
-    <div class="dropdown border border-warning bg-dark">
+    <div class="btn-group">
       <button type='button'
-				class="btn btn-dark dropdown-toggle text-warning"
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
 				data-bs-toggle='dropdown'
 				aria-expanded="false"
 				id='research_menu'>
 				Researches
 			</button>
 
-      <ul
-        class="dropdown-menu p-2 bg-dark mt-2 rounded w-auto mt-1"
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
 				aria-labelledby="research_menu"
       >
-      	<li><a class='dropdown-item' href="/researches">Overview</a></li>
-      	<li><a class='dropdown-item' href="/mlod">Hetero LOD Management</a></li>
-      	<li><a class='dropdown-item' href="/imbalance">Imbalanced Classification</a></li>
-      	<li><a class='dropdown-item' href="/legal">Legal Data Management</a></li>
-      	<li><a class='dropdown-item' href="/faceted">Faceted Search</a></li>
-      </ul>
+      	<a class='dropdown-item' href="/researches">Overview</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/mlod">Hetero LOD Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/imbalance">Imbalanced Classification</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/legal">Legal Data Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/faceted">Faceted Search</a>
+      </div>
     </div>
 
-    <div class="dropdown border border-warning bg-dark">
+    <div class="btn-group">
       <button type='button'
-				class="btn btn-dark dropdown-toggle text-warning"
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
 				data-bs-toggle='dropdown'
 				aria-expanded="false"
 				id='publication_menu'>
 				Publications
 			</button>
 
-      <ul
-        class="dropdown-menu p-2 bg-dark mt-2 rounded w-auto mt-1"
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
 				aria-labelledby="publication_menu"
       >
-        <li><a class='dropdown-item' href="/international">International</a></li>
-        <li><a class='dropdown-item' href="/domestic">Domestic</a></li>
-        <li><a class='dropdown-item' href="/awards">Awards</a></li>
-      </ul>
+        <a class='dropdown-item' href="/international">International</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/domestic">Domestic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/awards">Awards</a>
+      </div>
     </div>
 
-    <div class="dropdown border border-warning bg-dark">
+    <div class="btn-group">
       <button type='button'
-				class="btn btn-dark dropdown-toggle text-warning"
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
 				data-bs-toggle='dropdown'
 				aria-expanded="false"
 				id='activity_menu'>
 				Activities
 			</button>
 
-      <ul
-        class="dropdown-menu p-2 bg-dark mt-2 rounded w-auto mt-1"
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
 				aria-labelledby="activity_menu"
       >
-        <li><a class='dropdown-item' href="/academic">Academic</a></li>
-        <li><a class='dropdown-item' href="/grants">Grants</a></li>
-        <li><a class='dropdown-item' href="/teaching">Teaching</a></li>
-        <li><a class='dropdown-item' href="/supervision">Supervision</a></li>
-        <li><a class='dropdown-item' href="/design">Design</a></li>
-      </ul>
+        <a class='dropdown-item' href="/academic">Academic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/grants">Grants</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/teaching">Teaching</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/supervision">Supervision</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/design">Design</a>
+      </div>
     </div>
 
   </div>
