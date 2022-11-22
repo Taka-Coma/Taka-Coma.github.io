@@ -91,6 +91,10 @@ code {
   .home-flex-item {
     width: 100% !important;
   }
+
+	.topimage {
+		display: none;
+	}
 }
 h1 {
   font-size: 2.5rem;
@@ -113,4 +117,7 @@ hr {
 }
 img {
 	width: 100%;
+}
+.nav {
+	display: inline-table ;
 }
