@@ -21,7 +21,7 @@ draft: false
 		- [Nguyen Trung Thanh](https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/), 2021.10 - now
 
 - As Advisor
-	- Ph.D. Student
-		- [Kazuma Kusu@Doshisha University](https://www-mil.cis.doshisha.ac.jp/portfolio/kusu-kazuma/), 2021.3 - now
-		- [Yusuke Kimura@Doshisha University](https://www-mil.cis.doshisha.ac.jp/portfolio/kimura-yusuke/), 2021.3 - now
-		- [Yuka Teramoto@Doshisha University](https://www-mil.cis.doshisha.ac.jp/portfolio/teramoto-yuka/), 2021.3 - now
+	- Ph.D. Student at Doshisha University
+		- [Kazuma Kusu](https://www-mil.cis.doshisha.ac.jp/portfolio/kusu-kazuma/), 2021.3 - now
+		- [Yusuke Kimura](https://www-mil.cis.doshisha.ac.jp/portfolio/kimura-yusuke/), 2021.3 - now
+		- [Yuka Teramoto](https://www-mil.cis.doshisha.ac.jp/portfolio/teramoto-yuka/), 2021.3 - now
