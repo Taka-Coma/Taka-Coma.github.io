@@ -7,38 +7,43 @@
 
 <h2>Research Positions</h2>
 
-<ul>
-{{ range .Site.Params.researchpos.list }}
-	<li>
-		{{ .duration }}, 
-		<a href="{{ .affurl }}" target="_blank">{{ .affiliation }}</a>
-		<ul>
-			<li>Position: {{ .position }}</li>
-			{{ if .project }}
-				{{ if .projecturl }}
-					<li>Project: <a href="{{ .projecturl }}" target="_blank">{{ .project }}</a></li>
-				{{ else }}
-					<li>Project: {{ .project }}</li>
-				{{ end }}
-			{{ end }}
-			<li>Lab: <a href="{{ .laburl }}" target="_blank">{{ .lab }}</a></li> 
-			{{ if .others }}
-				<li>Other Affiliations:
-					<ul>
-					{{ range .others }}
-						{{ if .affurl }}
-							<li><a href='{{ .affurl }}' target="_blank">{{ .affiliation }}</a></li>
+<div class='mx-5'>
+	<ul class='timeline'>
+	{{ range .Site.Params.researchpos.list }}
+		<li class='event'data-date="{{ .duration }}">
+			<h4 class='mb-3'>
+				<a href="{{ .affurl }}" target="_blank">{{ .affiliation }}</a>
+			</h4> 
+			<div>
+				<ul>
+					<li>Position: {{ .position }}</li>
+					{{ if .project }}
+						{{ if .projecturl }}
+							<li>Project: <a href="{{ .projecturl }}" target="_blank">{{ .project }}</a></li>
 						{{ else }}
-							<li>{{ .affiliation }}</li>
+							<li>Project: {{ .project }}</li>
 						{{ end }}
 					{{ end }}
-					</ul>
-				</li>
-			{{ end }}
-		</ul>
-	</li>
-{{ end }}
-</ul>
+					<li>Lab: <a href="{{ .laburl }}" target="_blank">{{ .lab }}</a></li> 
+					{{ if .others }}
+						<li>Other Affiliations:
+							<ul>
+							{{ range .others }}
+								{{ if .affurl }}
+									<li><a href='{{ .affurl }}' target="_blank">{{ .affiliation }}</a></li>
+								{{ else }}
+									<li>{{ .affiliation }}</li>
+								{{ end }}
+							{{ end }}
+							</ul>
+						</li>
+					{{ end }}
+				</ul>
+			</div>
+		</li>
+	{{ end }}
+	</ul>
+</div>
 
 <hr>
 
