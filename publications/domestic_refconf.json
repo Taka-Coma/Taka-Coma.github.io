@@ -1,0 +1,51 @@
+[
+
+	{
+		"authors": {
+			"author": [
+{ "text": "植原 リサ" },
+{ "text": "駒水 孝裕" },
+{ "text": "小川 泰弘" },
+{ "text": "外山 勝彦" }
+			]
+		},
+		"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク",
+		"venue": "第12回Webとデータベースに関するフォーラム",
+		"pages": "81-84",
+		"year": "2019",
+		"awards": [
+			{ 
+				"name": "MicroAd Award",
+				"url": "https://db-event.jpn.org/webdbf2019/award.html"
+			},
+			{
+				"name": "FRONTEO Award",
+				"url": "https://db-event.jpn.org/webdbf2019/award.html"
+			},
+			{
+				"name": "FUJITSU Award",
+				"url": "https://db-event.jpn.org/webdbf2019/award.html"
+			}
+		],
+		"ee": "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=199066&item_no=1"
+	}
+	
+	,
+
+	{
+		"authors": {
+			"author": [
+{ "text": "永野 真知" },
+{ "text": "早瀬 康裕" },
+{ "text": "駒水 孝裕" },
+{ "text": "北川 博之" }
+			]
+		},
+		"title": "GitHubとStack Overflowの開発者の活動記録を併用したリポジトリ推薦",
+		"venue": "ソフトウェアエンジニアリングシンポジウム 2017",
+		"pages": "138-145",
+		"year": "2017",
+		"ee": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183222&item_no=1&page_id=13&block_id=8"
+	}
+
+]
