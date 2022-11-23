@@ -1,0 +1,95 @@
+{{ define "main" }}
+<article class="border rounded p-3 position-relative mt-4 p-4">
+
+<div class="header border-bottom mb-3">
+	<h1 style="font-size: 2.5em;">
+	  {{ .Title }}
+	</h1>
+
+  <div
+  	class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
+  	style="position: absolute; top: -19px; font-size: 0.9em;"
+	>
+  	<span
+  	  class="more"
+  	  style="font-size: 1.5em;"
+  	>
+  	  &#43;
+  	  &#43;
+  	  &#43;
+  	</span>
+	</div>
+</div>
+
+{{ range $.Site.Data.grants }}
+	<h3 class='py-3'>{{ .name }}</h3>
+	<div class='row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3'>
+	{{ range .grants }}
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white bg-secondary'>
+					{{ if .theme_url }}
+						<a href='{{ .theme_url }}' target='_blank' class='text-white'>
+					{{ end }}
+
+					<h4 class='pt-2 m-0'>
+						{{ .theme }}
+					</h4>
+
+					{{ if .theme_url }}
+						</a>
+					{{ end }}
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="{{ .grant_url }}" target="_blank">{{ .title }}</a>
+						</li>
+
+						{{ if .theme_number }}
+						<li>課題番号：{{ .theme_number }}</li>
+						{{ end }}
+
+						<li>研究機関：{{ .duration }}</li>
+
+						{{ if .grant_amount }}
+						<li>配分額：{{ .grant_amount }}</li>
+						{{ end }}
+
+						{{ if .main }}
+						<li>代表：<a href='.main.url' target='_blank'>{{ .main.name }}</a>（{{ .main.affiliation }}）</li>
+						{{ end }}
+
+						{{ if .members }}
+							<li>分担者<ul>
+							{{ range .members }}
+								<li>
+								{{ if .me }}
+									{{ .name }}（{{ .affiliation }}）
+								{{ else }}
+									<a href='.url' target='_blank'>{{ .name }}</a>（{{ .affiliation }}）
+								{{ end }}
+								</li>
+							{{ end }}
+							</ul></li>
+						{{ end }}
+
+						{{ if .application }}
+						<li>申請書：<a href='{{ .application }}' target='_blank'>
+							<i class="far fa-file"></i>
+						</a></li>
+						{{ end }}
+
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	{{ end }}
+</div>
+{{ end }}
+
+</article>
+{{ end }}
