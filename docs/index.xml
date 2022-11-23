@@ -18,15 +18,6 @@
     </item>
     
     <item>
-      <title>Awards</title>
-      <link>/awards/</link>
-      <pubDate>Tue, 20 Oct 2020 22:26:27 +0900</pubDate>
-      
-      <guid>/awards/</guid>
-      <description> 第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会 , JSAI Incentive Award（人工知能学会研究会優秀賞） , 駒水 孝裕, 小川 泰弘, 外山 勝彦, &amp;ldquo;法令沿革LOD構築のためのDBpediaにおける法令エンティティの同定&amp;rdquo;, June 2021 第18回情報学ワークショップ , Best Paper Award（最優秀賞） , 近藤 匠, 駒水 孝裕, 小川 泰弘, 外山 勝彦, &amp;ldquo;利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用&amp;rdquo;, November 2020 第12回データ工学と情報マネジメントに関するフォーラム , Online Presentation Award（オンラインプレゼンテーション賞） , 植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦, &amp;ldquo;不均衡データ分類フレームワークにおけるサンプリング比率の最適化&amp;rdquo;, March 2020 第12回Webとデータベースに関するフォーラム , FUJITSU Award（FUJITSU賞）, FRONTEO Award（株式会社FRONTEO賞）, MicroAd Award（マイクロアド賞） , 植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦, &amp;ldquo;弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク&amp;rdquo;, September 2019 JURIX 2018 , Best Paper Award, Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Japanese Legal Term Correction using Random Forests&amp;rdquo;, December 2018 第10回データ工学と情報マネジメントに関するフォーラム , Poster Award（優秀インタラクティブ賞） , 伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之, &amp;ldquo;ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習&amp;rdquo;, March 2018 第9回データ工学と情報マネジメントに関するフォーラム , Student Award（学生プレゼンテーション賞） , 伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之, &amp;ldquo;ノードが複数の属性を持つグラフにおけるコミュニティ検出&amp;rdquo;, March 2017 情報処理学会 第79回全国大会 , Student Award（学生奨励賞） , 永野 真知, 早瀬 康裕, 駒水 孝裕, 北川 博之, &amp;ldquo;GitHubとStack Overflowにおけるユーザ行動の統一的な分析&amp;rdquo;, March 2017 iiWAS 2015 , Best Paper Award, Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa, “SPOOL: A SPARQL-based ETL Framework for OLAP over Linked Data”, December 2015 Graduate School of SIE, University of Tsukuba , Distinguished Student Award from the Chair of Department of Computer Science（CS専攻長表彰） , Takahiro Komamizu, March 2015 Graduate School of SIE, University of Tsukuba , Distinguished Student Award from the Chair of Department of Computer Science（CS専攻長表彰） , Takahiro Komamizu, March 2012 IPSJ Yamashita SIG Research Award （山下記念研究賞） , 駒水 孝裕, 天笠 俊之, 北川 博之, “異種XMLデータに対するファセット検索手法の提案”, March 2011 情報処理学会 第73回全国大会 , Student Award（学生奨励賞） , 駒水 孝裕, 天笠 俊之, 北川 博之, “XMLデータに対するファセット検索のユーザビリティ評価”, March 2011 第2回データ工学と情報マネジメントに関するフォーラム , Student Award（学生奨励賞） , 駒水 孝裕, 天笠 俊之, 北川 博之, “異種XMLデータに対するファセット検索における多様な検索”, March 2010  </description>
-    </item>
-    
-    <item>
       <title>Domestic</title>
       <link>/domestic/</link>
       <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>

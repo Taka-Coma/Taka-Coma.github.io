@@ -1,4 +1,204 @@
-{
-	"Japanese Legal Term Correction Using Random Forests.": "Best Paper Award",
-	"SPOOL: a SPARQL-based ETL framework for OLAP over linked data.": "Best Paper Award"
-}
+[
+	{
+		"venue": "第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会",
+		"venue_url": "https://www.sigswo.org/papers/51program",
+		"award": "JSAI Incentive Award",
+		"award_jp": "人工知能学会研究会優秀賞",
+		"award_url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/", 
+		"paper": {
+			"author": "駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "法令沿革LOD構築のためのDBpediaにおける法令エンティティの同定"
+		},
+		"date": "June 2021"
+	}, 
+
+	{
+		"venue": "第18回情報学ワークショップ",
+		"venue_url": "https://sites.google.com/view/winf2020",
+		"award": "Best Paper Award",
+		"award_jp": "最優秀賞",
+		"award_url": "https://sites.google.com/view/winf2020/award",
+		"paper": {
+			"author": "近藤 匠, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用"
+		},
+		"date": "November 2020"
+	}, 
+
+	{
+		"venue": "第12回データ工学と情報マネジメントに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/deim2020/",
+		"award": "Online Presentation Award",
+		"award_jp": "オンラインプレゼンテーション賞",
+		"award_url": "http://db-event.jpn.org/deim2020/post/awards.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "不均衡データ分類フレームワークにおけるサンプリング比率の最適化"
+		},
+		"date": "March 2020"
+	},
+
+	{
+		"venue": "第12回Webとデータベースに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/webdbf2019/",
+		"award": "FUJITSU Award",
+		"award_jp": "FUJITSU賞",
+		"award_url": "https://db-event.jpn.org/webdbf2019/award.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク"
+		},
+		"date": "September 2019"
+	},
+
+	{
+		"venue": "第12回Webとデータベースに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/webdbf2019/",
+		"award": "FRONTEO Award",
+		"award_jp": "株式会社FRONTEO賞",
+		"award_url": "https://db-event.jpn.org/webdbf2019/award.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク"
+		},
+		"date": "September 2019"
+	},
+
+	{
+		"venue": "第12回Webとデータベースに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/webdbf2019/",
+		"award": "MicroAd Award",
+		"award_jp": "マイクロアド賞",
+		"award_url": "https://db-event.jpn.org/webdbf2019/award.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク"
+		},
+		"date": "September 2019"
+	},
+
+	{
+		"venue": "JURIX 2018",
+		"venue_url": "http://jurix2018.ai.rug.nl/",
+		"award": "Best Paper Award",
+		"award_jp": "最優論文秀賞",
+		"paper": {
+			"author": "Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama",
+			"title": "Japanese Legal Term Correction using Random Forests"
+		},
+		"date": "December 2018"
+	},
+
+	{
+		"venue": "第10回データ工学と情報マネジメントに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/deim2018/",
+		"award": "Poster Award",
+		"award_jp": "優秀インタラクティブ賞",
+		"award_url": "http://db-event.jpn.org/deim2018/post/award",
+		"paper": {
+			"author": "伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習"
+		},
+		"date": "March 2018"
+	},
+
+	{
+		"venue": "第9回データ工学と情報マネジメントに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/deim2017/",
+		"award": "Student Award",
+		"award_jp": "学生プレゼンテーション賞",
+		"award_url": "http://db-event.jpn.org/deim2017/award.html",
+		"paper": {
+			"author": "伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "ノードが複数の属性を持つグラフにおけるコミュニティ検出"
+		},
+		"date": "March 2017"
+	},
+
+	{
+		"venue": "情報処理学会 第79回全国大会",
+		"venue_url": "http://www.ipsj.or.jp/event/taikai/79/index.html",
+		"award": "Student Award",
+		"award_jp": "学生奨励賞",
+		"award_url": "http://www.ipsj.or.jp/award/taikaigakusei.html",
+		"paper": {
+			"author": "永野 真知, 早瀬 康裕, 駒水 孝裕, 北川 博之",
+			"title": "GitHubとStack Overflowにおけるユーザ行動の統一的な分析"
+		},
+		"date": "March 2017"
+	},
+
+	{
+		"venue": "iiWAS 2015",
+		"venue_url": "http://www.iiwas.org/conferences/iiwas2015/home",
+		"award": "Best Paper Award",
+		"award_jp": "最優秀論文賞",
+		"paper": {
+			"author": "Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa",
+			"title": "SPOOL: A SPARQL-based ETL Framework for OLAP over Linked Data"
+		},
+		"date": "December 2015"
+	},
+
+	{
+		"venue": "Graduate School of SIE, University of Tsukuba",
+		"venue_url": "https://www.sie.tsukuba.ac.jp/", 
+		"award": "Distinguished Student Award from the Chair of Department of Computer Science",
+		"award_jp": "CS専攻長表彰",
+		"award_url": "http://www.cs.tsukuba.ac.jp/internal/awards.html#26",
+		"paper": {
+			"author": "Takahiro Komamizu"
+		},
+		"date": "March 2015"
+	},
+
+	{
+		"venue": "Graduate School of SIE, University of Tsukuba",
+		"venue_url": "https://www.sie.tsukuba.ac.jp/",
+		"award": "Distinguished Student Award from the Chair of Department of Computer Science",
+		"award_jp": "CS専攻長表彰",
+		"award_url": "http://www.cs.tsukuba.ac.jp/internal/awards.html#23",
+		"paper": {
+			"author": "Takahiro Komamizu"
+		},
+		"date": "March 2012"
+	},
+
+	{
+		"award": "IPSJ Yamashita SIG Research Award ",
+		"award_jp": "山下記念研究賞",
+		"award_url": "http://www.ipsj.or.jp/award/yamashita2010.html",
+		"paper": {
+			"author": "駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "異種XMLデータに対するファセット検索手法の提案"
+		},
+		"date": "March 2011"
+	},
+
+	{
+		"venue": "情報処理学会 第73回全国大会",
+		"venue_url": "http://www.ipsj.or.jp/10jigyo/taikai/73kai/",
+		"award": "Student Award",
+		"award_jp": "学生奨励賞",
+		"award_url": "http://www.ipsj.or.jp/award/taikaigakusei.html",
+		"paper": {
+			"author": "駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "XMLデータに対するファセット検索のユーザビリティ評価"
+		},
+		"date": "March 2011"
+	},
+
+	{
+		"venue": "第2回データ工学と情報マネジメントに関するフォーラム",
+		"venue_url": "http://db-event.jpn.org/deim2010/",
+		"award": "Student Award",
+		"award_jp": "学生奨励賞",
+		"award_url": "http://db-event.jpn.org/deim2010/award.html",
+		"paper": {
+			"author": "駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "異種XMLデータに対するファセット検索における多様な検索"
+		},
+		"date": "March 2010"
+	}
+
+]

@@ -10,7 +10,7 @@
 <div class='mx-5'>
 	<ul class='timeline'>
 	{{ range .Site.Params.researchpos.list }}
-		<li class='event'data-date="{{ .duration }}">
+		<li class='event' data-date="{{ .duration }}">
 			<h4 class='mb-3'>
 				<a href="{{ .affurl }}" target="_blank">{{ .affiliation }}</a>
 			</h4> 
@@ -49,9 +49,15 @@
 
 <h2>Educations</h2>
 
-<ul>
+<div class='mx-5'>
+	<ul class='timeline'>
 {{ range .Site.Params.educations.list }}
-	<li>{{ .text }}<a href="{{ .schoolurl }}" target="_blank">{{ .school }}</a></li>
+	<li class='event' data-date="{{ .date }}">
+		<h4 class='mb-3'>
+			<a href="{{ .schoolurl }}" target="_blank">{{ .school }}</a>
+		</h4>
+		<div>{{ .text }}</div>
+	</li>
 {{ end }}
 </ul>
 

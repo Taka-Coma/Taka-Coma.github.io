@@ -87,15 +87,6 @@ code {
   display: flex;
   justify-content: center;
 }
-@media only screen and (max-width: 750px) {
-  .home-flex-item {
-    width: 100% !important;
-  }
-
-	.topimage {
-		display: none;
-	}
-}
 h1 {
   font-size: 2.5rem;
 }
@@ -121,3 +112,24 @@ img {
 .nav {
 	display: inline-table ;
 }
+
+.card-deck {
+	column-count: 2;
+}
+
+
+@media only screen and (max-width: 750px) {
+  .home-flex-item {
+    width: 100% !important;
+  }
+
+	.topimage {
+		display: none;
+	}
+
+	.card-deck {
+		column-count: 1;
+	}
+}
+
+

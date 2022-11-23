@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="border rounded p-3 position-relative mt-4 p-4">
-  <div class="header">
+  <div class="header border-bottom mb-3">
     <h1 style="font-size: 2.5em;">
       {{ .Title }}
 			{{ if eq .Title "International" }}
@@ -30,19 +30,19 @@
     <div
     class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
     style="position: absolute; top: -19px; font-size: 0.9em;"
-  >
-    <span
-      class="more"
-      style="font-size: 1.5em;"
-    >
-      &#43;
-      &#43;
-      &#43;
-    </span>
-  </div>
+ 	 >
+ 	   <span
+ 	     class="more"
+ 	     style="font-size: 1.5em;"
+ 	   >
+ 	     &#43;
+ 	     &#43;
+ 	     &#43;
+ 	   </span>
+ 	 </div>
 
   </div>
-  <div class="article pb-3 pt-3 border-top">
+  <div class="article pb-3">
     {{ .Content }}
   </div>
 </article>

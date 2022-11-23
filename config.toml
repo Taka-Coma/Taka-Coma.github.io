@@ -155,23 +155,27 @@ publishDir="docs"
 
 [params.educations]
 	[[params.educations.list]]
-		text = "Ph.D. in Engineering, March 2015, "
+		text = "Ph.D. in Engineering"
+		date = "March 2015"
 		school = "University of Tsukuba"
 		schoolurl = "http://www.tsukuba.ac.jp/"
 		thesis = "Doctoral thesis: A Study on Faceted Search for Semi-structured Data"
 
 	[[params.educations.list]]
-		text = "M.Eng, March 2011, "
+		text = "M.Eng in Engineering"
+		date = "March 2011"
 		school = "University of Tsukuba"
 		schoolurl = "http://www.tsukuba.ac.jp/"
 
 	[[params.educations.list]]
-		text = "B.Eng in computer science, March 2009, "
+		text = "B.Eng in Computer Science"
+		date = "March 2009"
 		school = "University of Tsukuba"
 		schoolurl = "http://www.tsukuba.ac.jp/"
 
 	[[params.educations.list]]
-		text = "Graduate, March 2005, "
+		text = "Graduate"
+		date = "March 2005"
 		school = "Ushiku Eishin senior high school（牛久栄進高等学校）"
 		schoolurl = "http://www.ushikueishin-h.ibk.ed.jp/"
 
