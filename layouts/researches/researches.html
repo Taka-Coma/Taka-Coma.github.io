@@ -26,9 +26,9 @@
 	<div class='col mb-3'>
 		<div class='card border-white h-100 bg-dark'>
 
-			<div class='card-header px-4 py-3 bg-secondary text-warning border-white d-flex'
+			<div class='card-header px-4 py-3 bg-secondary text-warning d-flex align-items-center'
 				style='height: 90px;'>
-				<h3 class='m-0 align-self-center' >{{ .title }}</h3>
+					<h3 class='m-0'>{{ .title }}</h3>
 			</div>
 
 			<div class='card-img-top p-3 bg-white justify-content-center d-flex' style='height: 250px;'>
@@ -36,9 +36,11 @@
 			</div>
 
 			<div class='card-body'>
-				<div class='card-text'>{{ .description }}</div>
+				<div class='card-text'>{{ .description | markdownify }}</div>
 			</div>
+
 			<div class='card-footer px-4 bg-secondary d-flex justify-content-between'>
+				<p class='my-1'>{{ .start }} - {{ .end }}</p>
 				<a href='{{ .path }}'>
 					<span class="material-symbols-outlined">web</span>
 					Web page
