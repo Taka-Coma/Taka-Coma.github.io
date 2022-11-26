@@ -23,9 +23,6 @@
     <loc>/faceted/</loc>
     <lastmod>2020-10-20T22:24:46+09:00</lastmod>
   </url><url>
-    <loc>/researches/</loc>
-    <lastmod>2020-10-20T22:24:46+09:00</lastmod>
-  </url><url>
     <loc>/lod/</loc>
     <lastmod>2020-10-20T22:24:46+09:00</lastmod>
   </url><url>
@@ -43,6 +40,8 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/grants/</loc>
+  </url><url>
+    <loc>/researches/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url><url>

@@ -72,15 +72,6 @@
     </item>
     
     <item>
-      <title>Researches - Faceted Search</title>
-      <link>/researches/</link>
-      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
-      
-      <guid>/researches/</guid>
-      <description>Heterogeneous Liked Open Data Management (2012 - )  Preprocessing-based Approaches for Imbalanced Classification (2020 - ) In classification, class imbalance is a factor that degrades the classification performance of many classification methods. Resampling is one widely accepted approach to the class imbalance; however, it still suffers from an insufficient data space, which also degrades performance. To overcome this, in this paper, an undersampling-based imbalanced classification framework, MMEnsemble, is proposed that incorporates metric learning into a multi-ratio undersampling-based ensemble.</description>
-    </item>
-    
-    <item>
       <title>Search and Analysis on LOD</title>
       <link>/lod/</link>
       <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
