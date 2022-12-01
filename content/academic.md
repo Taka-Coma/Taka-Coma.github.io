@@ -26,17 +26,17 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
-- Apr. 2022 - now,
-	[the 1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2022)](https://www.narsum.cf/),
-	Web and SNS Chair, PC member
-- Jul. 2021 - now, 
-	[the 11th International Symposium on Information and Communication Technology (SoICT 2022)](https://soict.org/),
-	PC member
 - Sep. 2022 - now,
 	[the 11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
 	PC member
 
 ### Past Activities
+- Jul. 2021 - Dec. 2022, 
+	[the 11th International Symposium on Information and Communication Technology (SoICT 2022)](https://soict.org/),
+	PC member
+- Apr. 2022 - Oct. 2022,
+	[the 1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2022)](https://www.narsum.cf/),
+	Web and SNS Chair, PC member
 - Nov. 2021 - Jan. 2022,
 	[the 10th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2022)](http://pa.icar.cnr.it/scsn22/),
 	PC member
