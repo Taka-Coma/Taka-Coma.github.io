@@ -27,7 +27,6 @@
 		<div class='card border-white h-100 bg-dark'>
 			<div class='card-header px-4 bg-dark border-white'>
 				<h4 class='pt-2 m-0'>
-					<span class="material-symbols-outlined text-warning">grade</span>
 					{{ .award }}
 				</h4>
 				<h6 class='pt-1 pb-2 m-0'>
@@ -35,13 +34,13 @@
 				</h6>
 
 				{{ if .venue }}
-					<div>
+					<h6>
 					{{ if .venue_url }}
 						<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
 					{{ else }}
 						{{ .venue }}
 					{{ end }}
-					</div>
+					</h6>
 				{{ end }}
 
 			</div>
