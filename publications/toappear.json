@@ -21,40 +21,6 @@
 		"type": "International Conferences",
 		"authors": {
 			"author": [
-{ "text": "Yusuke Kimura"},
-{ "text": "Takahiro Komamizu"},
-{ "text": "Kenji Hatano"}
-			]
-		},
-		"title": "Multi-task Learning-based Text Classification with Subword-Phrase Extraction.",
-		"venue": "SoICT",
-		"pages": "",
-		"year": "2022"
-	},
-
-	{
-		"type": "International Conferences",
-		"authors": {
-			"author": [
-{ "text": "Yasutomo Kawanishi"},
-{ "text": "Ichiro Ide"},
-{ "text": "Baidong Chu"},
-{ "text": "Chihaya Matsuhira"},
-{ "text": "Marc A. Kastner"},
-{ "text": "Takahiro Komamizu"},
-{ "text": "Daisuke Deguchi"}
-			]
-		},
-		"title": "Detection of Birds in a 3D Environment Referring to Audio-Visual Information.",
-		"venue": "AVSS",
-		"pages": "",
-		"year": "2022"
-	},
-
-	{
-		"type": "International Conferences",
-		"authors": {
-			"author": [
 { "text": "Kazuma Kusu" },
 { "text": "Takahiro Komamizu" },
 { "text": "Kenji Hatano" }
