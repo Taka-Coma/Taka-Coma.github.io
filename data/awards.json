@@ -1,5 +1,18 @@
 [
 	{
+		"venue": "ICADL",
+		"venue_url": "https://icadl.net/icadl2022/",
+		"award": "Best Paper Runner-up",
+		"award_jp": "最優秀論文賞 Runner-up",
+		"award_url": "https://icadl.net/icadl2022/best-paper.html",
+		"paper": {
+			"author" :"Kazuma Kusu, Takahiro Komamizu, Kenji Hatano",
+			"title": "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archives"
+		}, 
+		"date": "December 2022"
+	},
+
+	{
 		"venue": "第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会",
 		"venue_url": "https://www.sigswo.org/papers/51program",
 		"award": "JSAI Incentive Award",

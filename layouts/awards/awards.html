@@ -33,21 +33,23 @@
 				<h6 class='pt-1 pb-2 m-0'>
 					{{ .award_jp }}
 				</h6>
+
+				{{ if .venue }}
+					<div>
+					{{ if .venue_url }}
+						<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
+					{{ else }}
+						{{ .venue }}
+					{{ end }}
+					</div>
+				{{ end }}
+
 			</div>
 			<div class='card-body'>
 				<ul class='card-text'>
 					<li>{{ .paper.author }}</li>
 					{{ if .paper.title }}
 						<li>{{ .paper.title }}</li>
-					{{ end }}
-					{{ if .venue }}
-						<li>
-						{{ if .venue_url }}
-							<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
-						{{ else }}
-							{{ .venue }}
-						{{ end }}
-						</li>
 					{{ end }}
 				</ul>
 			</div>
