@@ -15,21 +15,6 @@
 		"venue": "MMM",
 		"pages": "",
 		"year": "2023"
-	},
-
-	{
-		"type": "International Conferences",
-		"authors": {
-			"author": [
-{ "text": "Kazuma Kusu" },
-{ "text": "Takahiro Komamizu" },
-{ "text": "Kenji Hatano" }
-			]
-		},
-		"title": "Towards Efficient Data Access through Multiple Relationships in Graph-structured Digital Archives.",
-		"venue": "ICADL",
-		"pages": "",
-		"year": "2022"
 	}
 
 ]
