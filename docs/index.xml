@@ -27,6 +27,15 @@
     </item>
     
     <item>
+      <title>Faceted Search</title>
+      <link>/faceted/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/faceted/</guid>
+      <description>Semi-structured data such as XML data have been used in various situations in order to reuse information not only in the services but also external applications. Utilizing semi-structured data is an important challenge. This research especially focuses on the exploration over semi-structured data. Faceted search is one of the promising exploratory search methods, therefore, this research applies faceted search to semi-structured data. In order to construct a faceted search system, this research works on four directions: (1) a framework to construct a faceted search system over XML data which is a tree-structured semi-structured data, (2) the extended framework for graph-structured semi-structured data, (3) an automation scheme for extracting necessary information, and (4) utilization of textual contents in semi-structured data.</description>
+    </item>
+    
+    <item>
       <title>Heterogeneous LOD Management</title>
       <link>/mlod/</link>
       <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
@@ -60,15 +69,6 @@
       
       <guid>/legal/</guid>
       <description>Law LOD project  https://www.lawlod.net/    Publications Japanese Domestic Journals  Takahiro Yamakoshi, Takahiro Komamizu , Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&amp;rdquo;, Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 (DOI ) 山腰 貴大, 小川 泰弘, 駒水 孝裕 , 外山 勝彦, &amp;ldquo;ランダムフォレストを用いた法令用語の校正&amp;rdquo;, 人工知能学会論文誌, Vol.35, No.1, pp.H-J53_1-14, 2020 (DOI )  International Conferences  Takahiro Yamakoshi, Takahiro Komamizu , Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes&amp;rdquo;, WAT@ACL/IJCNLP, pp.</description>
-    </item>
-    
-    <item>
-      <title>Researches - Faceted Search</title>
-      <link>/faceted/</link>
-      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
-      
-      <guid>/faceted/</guid>
-      <description>Faceted Search for Semi-structured Data (2009 - 2015) Semi-structured data such as XML data have been used in various situations in order to reuse information not only in the services but also external applications. Utilizing semi-structured data is an important challenge. This research especially focuses on the exploration over semi-structured data. Faceted search is one of the promising exploratory search methods, therefore, this research applies faceted search to semi-structured data. In order to construct a faceted search system, this research works on four directions: (1) a framework to construct a faceted search system over XML data which is a tree-structured semi-structured data, (2) the extended framework for graph-structured semi-structured data, (3) an automation scheme for extracting necessary information, and (4) utilization of textual contents in semi-structured data.</description>
     </item>
     
     <item>

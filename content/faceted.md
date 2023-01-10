@@ -1,10 +1,9 @@
 ---
-title: "Researches - Faceted Search"
+title: "Faceted Search"
 date: 2020-10-20T22:24:46+09:00
 draft: false
+background: /images/researches/facet_bg.jpg
 ---
-
-## Faceted Search for Semi-structured Data (2009 - 2015)
 
 Semi-structured data such as XML data have been used in various 
 situations in order to reuse information not only in the services

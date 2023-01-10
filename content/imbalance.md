@@ -2,6 +2,7 @@
 title: "Imbalanced Classification"
 date: 2020-10-20T22:24:46+09:00
 draft: false
+background: /images/researches/imbalance_bg.jpg
 ---
 
 In classification, class imbalance is a factor that degrades 

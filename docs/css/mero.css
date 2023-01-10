@@ -132,4 +132,15 @@ img {
 	}
 }
 
+.award_bg {
+	background-image: url('/images/design/award.jpg');
+	background-size: cover;
+}
 
+.award-height {
+	height: 350px;
+}
+
+.award-text {
+	width: 65%;
+}

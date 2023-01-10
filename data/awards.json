@@ -13,7 +13,7 @@
 	},
 
 	{
-		"venue": "第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会",
+		"venue": "SWO 51",
 		"venue_url": "https://www.sigswo.org/papers/51program",
 		"award": "JSAI Incentive Award",
 		"award_jp": "人工知能学会研究会優秀賞",
@@ -26,7 +26,7 @@
 	}, 
 
 	{
-		"venue": "第18回情報学ワークショップ",
+		"venue": "WINF 2020",
 		"venue_url": "https://sites.google.com/view/winf2020",
 		"award": "Best Paper Award",
 		"award_jp": "最優秀賞",
@@ -39,7 +39,7 @@
 	}, 
 
 	{
-		"venue": "第12回データ工学と情報マネジメントに関するフォーラム",
+		"venue": "DEIM 2020",
 		"venue_url": "http://db-event.jpn.org/deim2020/",
 		"award": "Online Presentation Award",
 		"award_jp": "オンラインプレゼンテーション賞",
@@ -52,7 +52,7 @@
 	},
 
 	{
-		"venue": "第12回Webとデータベースに関するフォーラム",
+		"venue": "WebDBF 2019",
 		"venue_url": "http://db-event.jpn.org/webdbf2019/",
 		"award": "FUJITSU Award",
 		"award_jp": "FUJITSU賞",
@@ -65,7 +65,7 @@
 	},
 
 	{
-		"venue": "第12回Webとデータベースに関するフォーラム",
+		"venue": "WebDBF 2019",
 		"venue_url": "http://db-event.jpn.org/webdbf2019/",
 		"award": "FRONTEO Award",
 		"award_jp": "株式会社FRONTEO賞",
@@ -78,7 +78,7 @@
 	},
 
 	{
-		"venue": "第12回Webとデータベースに関するフォーラム",
+		"venue": "WebDBF 2019",
 		"venue_url": "http://db-event.jpn.org/webdbf2019/",
 		"award": "MicroAd Award",
 		"award_jp": "マイクロアド賞",
@@ -103,7 +103,7 @@
 	},
 
 	{
-		"venue": "第10回データ工学と情報マネジメントに関するフォーラム",
+		"venue": "DEIM 2018",
 		"venue_url": "http://db-event.jpn.org/deim2018/",
 		"award": "Poster Award",
 		"award_jp": "優秀インタラクティブ賞",
@@ -116,7 +116,7 @@
 	},
 
 	{
-		"venue": "第9回データ工学と情報マネジメントに関するフォーラム",
+		"venue": "DEIM 2017",
 		"venue_url": "http://db-event.jpn.org/deim2017/",
 		"award": "Student Award",
 		"award_jp": "学生プレゼンテーション賞",
@@ -129,7 +129,7 @@
 	},
 
 	{
-		"venue": "情報処理学会 第79回全国大会",
+		"venue": "IPSJ 全国大会 2017",
 		"venue_url": "http://www.ipsj.or.jp/event/taikai/79/index.html",
 		"award": "Student Award",
 		"award_jp": "学生奨励賞",
@@ -189,7 +189,7 @@
 	},
 
 	{
-		"venue": "情報処理学会 第73回全国大会",
+		"venue": "IPSJ 全国大会 2011",
 		"venue_url": "http://www.ipsj.or.jp/10jigyo/taikai/73kai/",
 		"award": "Student Award",
 		"award_jp": "学生奨励賞",
@@ -202,7 +202,7 @@
 	},
 
 	{
-		"venue": "第2回データ工学と情報マネジメントに関するフォーラム",
+		"venue": "DEIM 2010",
 		"venue_url": "http://db-event.jpn.org/deim2010/",
 		"award": "Student Award",
 		"award_jp": "学生奨励賞",
