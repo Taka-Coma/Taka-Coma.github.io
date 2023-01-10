@@ -13,6 +13,8 @@ draft: false
 - 永野 真知, 早瀬 康裕, [駒水 孝裕](/), 北川 博之, "GitHubとStack Overflowの開発者の活動記録を併用したリポジトリ推薦", ソフトウェアエンジニアリングシンポジウム 2017, pp.138-145, 2017 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183222&item_no=1&page_id=13&block_id=8))
 ----
 ## 査読なし会議
+### 2023
+- Trung Thanh Nguyen, Phi Le Nguyen, 川西 康友, [駒水 孝裕](/), 井手 一郎, "PiDP: 処方箋に対する GCN の対照学習に基づく錠剤検出", 2023 年電子情報通信学会総合大会, pp.(to appear), 2023
 ### 2022
 - 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.MVE2022-28, 2022
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", WebDB夏のワークショップ2022, pp.C3-2, 2022

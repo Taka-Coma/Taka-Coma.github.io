@@ -3,6 +3,23 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "Trung Thanh Nguyen" },
+ { "text": "Phi Le Nguyen" },
+ { "text": "川西 康友" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "PiDP: 処方箋に対する GCN の対照学習に基づく錠剤検出",
+  		"venue": "2023 年電子情報通信学会総合大会",
+  		"pages": "(to appear)",
+  		"year" : "2023",
+			"ee": ""
+	},
+
+
+	{
+		"authors": {
+			"author": [
  { "text": "小嶋 万理" },
  { "text": "駒水 孝裕" },
  { "text": "川西 康友" },
