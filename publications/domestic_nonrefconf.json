@@ -34,6 +34,27 @@
 			"ee": ""
 	},
 
+	{
+		"authors": {
+			"author": [
+	{ "text": "松原 茂樹" },
+	{ "text": "中岩 浩巳" },
+	{ "text": "駒水 孝裕" },
+	{ "text": "鈴木 優" },
+	{ "text": "井手 一郎" },
+	{ "text": "西村 訓弘" },
+	{ "text": "速水 悟" },
+	{ "text": "武田 一哉" }
+ 		]},
+  		"title": "産学コンソーシアムによるデータサイエンス人材育成の実践",
+  		"venue": "情報処理学会研究報告",
+      "volume": "2022-CE-167",
+      "number": "16",
+  		"pages": "1-6",
+  		"year" : "2022",
+			"ee": "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1"
+	},
+
 
 	{
 		"authors": {

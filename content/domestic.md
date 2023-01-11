@@ -17,6 +17,7 @@ draft: false
 - 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 川西 康友, 平山 高嗣, 井手 一郎, "品詞に着目した料理レシピタイトルの魅力度分析", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.(to appear), 2023
 - Trung Thanh Nguyen, Phi Le Nguyen, 川西 康友, [駒水 孝裕](/), 井手 一郎, "PiDP: 処方箋に対する GCN の対照学習に基づく錠剤検出", 2023 年電子情報通信学会総合大会, pp.(to appear), 2023
 ### 2022
+- 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会研究報告, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))
 - 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.MVE2022-28, 2022
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", WebDB夏のワークショップ2022, pp.C3-2, 2022
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", WebDB夏のワークショップ2022, pp.B2-3, 2022 -- {{< awards name="Student Award" url="https://www.ipsj.or.jp/award/dbs-award1.html" >}}
