@@ -2,7 +2,6 @@
 title: "Faceted Search"
 date: 2020-10-20T22:24:46+09:00
 draft: false
-background: /images/researches/facet_bg.jpg
 ---
 
 Semi-structured data such as XML data have been used in various 
