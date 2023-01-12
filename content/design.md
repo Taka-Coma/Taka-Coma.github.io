@@ -8,6 +8,7 @@ date = "2022-10-10"
 {{< gallery hover-effect="grow" >}}
 	{{< figure caption="MDS Info Session 2023 Fall" src="/images/posters/dsprogram-infosession-2023-poster.jpg" >}}
 	{{< figure caption="CSLab Intro Poster 2022" src="/images/posters/cslab-leaflet-2022.svg" >}}
+	{{< figure caption="CSLab Intro Poster 2023" src="/images/posters/cslab-leaflet-2023.svg" >}}
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
