@@ -20,6 +20,7 @@ date = "2022-10-10"
 
 {{< gallery hover-effect="grow" >}}
 	{{< figure caption="MDS Center of Nagoya University" src="/images/webpages/MDS.png" >}}
+	{{< figure caption="ConfereceList.info" src="/images/webpages/conferencelist.png" >}}
 	{{< figure caption="NarSUM workshop at ACM MM 2022" src="/images/webpages/NarSUM2022.png" >}}
 	{{< figure caption="MIPR 2021" src="/images/webpages/MIPR2021.png" >}}
 	{{< figure caption="DEIM 2020" src="/images/webpages/DEIM2020.png" >}}
