@@ -27,42 +27,45 @@ draft: false
 ## Academic Activities (International)
 ### Current Activities
 - Sep. 2022 - now,
-	[the 11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
+	[11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
 	PC member
+- Jan. 2023 - now,
+	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
+	Workshop Co-Chair
 
 ### Past Activities
 - Jul. 2021 - Dec. 2022, 
-	[the 11th International Symposium on Information and Communication Technology (SoICT 2022)](https://soict.org/),
+	[11th International Symposium on Information and Communication Technology (SoICT 2022)](https://soict.org/),
 	PC member
 - Apr. 2022 - Oct. 2022,
-	[the 1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2022)](https://www.narsum.cf/),
+	[1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2022)](https://www.narsum.cf/),
 	Web and SNS Chair, PC member
 - Nov. 2021 - Jan. 2022,
-	[the 10th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2022)](http://pa.icar.cnr.it/scsn22/),
+	[10th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2022)](http://pa.icar.cnr.it/scsn22/),
 	PC member
 - Jun. 2020 - Dec. 2021, 
-	[the 4th International Conference on Multimedia Information Processing and Retrieval (MIPR 2021)](https://mipr2021.org/),
+	[4th International Conference on Multimedia Information Processing and Retrieval (MIPR 2021)](https://mipr2021.org/),
 	Web and SNS Co-Chair
 - Apr. 2021 - Sep. 2021,
 	[TMI Educational Video Competition in collaboration with IV21](https://takacoma.gitlab.io/tmi-educational-video-competition/),
 	Organizing Co-Chair
 - Nov. 2020 - Jan. 2021,
-	[the 9th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2021)](http://pa.icar.cnr.it/scsn21/),
+	[9th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2021)](http://pa.icar.cnr.it/scsn21/),
 	PC member
 - Apr. 2020 - Oct. 2020, 
-	[the 3rd International Workshop on EntitY REtrieval (EYRE@CIKM2020)](https://sites.google.com/view/eyre20),
+	[3rd International Workshop on EntitY REtrieval (EYRE@CIKM2020)](https://sites.google.com/view/eyre20),
 	PC member
 - Sep. 2019 - Feb. 2020,
-	[the 8th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2020)](http://pa.icar.cnr.it/scsn20/),
+	[8th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2020)](http://pa.icar.cnr.it/scsn20/),
 	PC member
 - Apr. 2019 - Nov. 2019,
-	[the 2nd International Workshop on EntitY REtrieval (EYRE@CIKM2019)](https://sites.google.com/view/eyre19),
+	[2nd International Workshop on EntitY REtrieval (EYRE@CIKM2019)](https://sites.google.com/view/eyre19),
 	PC member
 - Dec. 2018 - Feb. 2019,
-	[the 7th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2019)](http://pa.icar.cnr.it/scsn19/),
+	[7th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2019)](http://pa.icar.cnr.it/scsn19/),
 	PC member
 - Feb. 2010 - Apr. 2010,
-	[the 15th International Conference on Database Systems for Advanced Applications (DASFAA 2010)](http://dasfaa2010.cs.tsukuba.ac.jp/),
+	[15th International Conference on Database Systems for Advanced Applications (DASFAA 2010)](http://dasfaa2010.cs.tsukuba.ac.jp/),
 	Student leading staff
 
 ----
