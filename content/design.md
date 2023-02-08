@@ -14,7 +14,8 @@ date = "2022-10-10"
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
-- [MDS Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2022-11-30)
+- [MDS Pamphlet 2023](https://www.mds.nagoya-u.ac.jp/ds-program)
+- [DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2022-11-30)
 
 ----
 
