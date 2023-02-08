@@ -6,8 +6,8 @@ date = "2022-10-10"
 ## Poster Design
 
 {{< gallery hover-effect="grow" >}}
-	{{< figure caption="MDS Pamphlet 2023 (back)" src="/images/posters/mds_pamphlet_2023_2.svg" >}}
 	{{< figure caption="MDS Pamphlet 2023 (front)" src="/images/posters/mds_pamphlet_2023_1.svg" >}}
+	{{< figure caption="MDS Pamphlet 2023 (back)" src="/images/posters/mds_pamphlet_2023_2.svg" >}}
 	{{< figure caption="DS Program Info Session 2023 Fall" src="/images/posters/dsprogram-infosession-2023-poster.svg" >}}
 	{{< figure caption="CSLab Intro Poster 2022" src="/images/posters/cslab-leaflet-2022.svg" >}}
 	{{< figure caption="CSLab Intro Poster 2023" src="/images/posters/cslab-leaflet-2023.svg" >}}
