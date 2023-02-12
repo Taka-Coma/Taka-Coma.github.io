@@ -69,6 +69,23 @@
 	{
 		"authors": {
 			"author": [
+	{ "text" : "Yiming Wang" },
+	{ "text" : "Marc A. Kanster" },
+	{ "text" : "Takahiro Komamizu" },
+	{ "text" : "Da Huo" },
+	{ "text" : "Takatsugu Hirayama" },
+	{ "text" : "Ichiro Ide" }
+ 		]},
+  		"title": "Evoked Emotion Distribution Learning through Analysis of Temporal User Comments in Social Media Videos",
+  		"venue": "メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) ",
+  		"pages": "59",
+  		"year" : "2023",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "Trung Thanh Nguyen" },
  { "text": "Phi Le Nguyen" },
  { "text": "川西 康友" },

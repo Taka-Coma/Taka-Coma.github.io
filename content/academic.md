@@ -72,15 +72,14 @@ draft: false
 
 ## Academic Activities (Japanese Domestic)
 ### Current Activities
-- Apr. 2022 - now, 第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023), 実行委員会 ローカル共同委員長 
-- Apr. 2022 - now, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng/s_issue/cfp/2023_5ED_2.pdf), Associate Editor, Special Section Editorial Committee
+- Apr. 2022 - now, [第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)](https://event.dbsj.org/deim2023/), 実行委員会 ローカル共同委員長 
+- Apr. 2021 - now, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
 - Jun. 2019 - now, [電子情報通信学会 データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会 幹事
 - Apr. 2022 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 調査研究分科会 委員
 
 ### Past Activities
 - Mar. 2022 - Sep. 2022, [日本データベース学会](http://dbsj.org/), システム委員会 構成メンバー
-- Apr. 2021 - May 2022, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng/s_issue/cfp/2022_5ED_2.pdf), Associate Editor, Special Section Editorial Committee
 - Jul. 2015 - Mar. 2022, [日本データベース学会](http://dbsj.org/), 電子広報編集委員会 編集委員
 - Apr. 2021 - Mar. 2022, [第14回データ工学と情報マネジメントに関するフォーラム (DEIM 2022)](https://event.dbsj.org/deim2022/), 実行委員会 ローカル共同委員長 
 - Sep. 2021 - Sep. 2021, [東海関西データベースワークショップ 2021](https://sites.google.com/db.info.gifu-u.ac.jp/dbws2021/), プログラム委員
