@@ -33,7 +33,7 @@ draft: false
             'url': "./domestic_nonrefconf.json"
         },
         'invited': {
-            'text': '招待講演',
+            'text': '講演',
             'url': "./domestic_invited.json",
         },
         'article': {

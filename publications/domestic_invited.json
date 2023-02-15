@@ -3,6 +3,32 @@
 	{
 		"authors": {
 			"author": [
+				{ "text": "駒水 孝裕" },
+				{ "text": "広瀬 智（株式会社デンソー）" }
+			]
+		},
+		"title": "企業と大学のカリキュラムマッピングと産学連携教育の試み",
+		"venue": "第4回東海デジタル人材フォーラム",
+		"year": "2023",
+		"month": "3",
+		"url": "https://www.mds.nagoya-u.ac.jp/platform-event/2023-03-10-forum"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "駒水 孝裕" }
+			]
+		},
+		"title": "デジタル人材育成における産学連携の取り組み",
+		"venue": "株式会社デンソー 23年度ソフトウェア技術者交流会",
+		"year": "2023",
+		"month": "3"
+	},
+
+	{
+		"authors": {
+			"author": [
 				{ "text": "駒水 孝裕" }
 			]
 		},
