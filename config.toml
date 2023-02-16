@@ -47,6 +47,10 @@ publishDir="docs"
 		url = "https://www.i.nagoya-u.ac.jp/en/"
 
 	[[params.affiliation.list]]
+		text = "東海国立大学機構 シームレス数理・データ科学教育共創部門"
+		url = "https://ac.thers.ac.jp/division/Data-Science/"
+
+	[[params.affiliation.list]]
 		text = "Global Research Institute for Mobility, Society Institutes of Innovation for Future Society, Nagoya University"
 		url = "https://www.gremo.mirai.nagoya-u.ac.jp/"
 
