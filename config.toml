@@ -166,13 +166,13 @@ publishDir="docs"
 		thesis = "Doctoral thesis: A Study on Faceted Search for Semi-structured Data"
 
 	[[params.educations.list]]
-		text = "M.Eng in Engineering"
+		text = "Master degree in Engineering"
 		date = "March 2011"
 		school = "University of Tsukuba"
 		schoolurl = "http://www.tsukuba.ac.jp/"
 
 	[[params.educations.list]]
-		text = "B.Eng in Computer Science"
+		text = "Bachelor degree in Computer Science"
 		date = "March 2009"
 		school = "University of Tsukuba"
 		schoolurl = "http://www.tsukuba.ac.jp/"
