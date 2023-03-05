@@ -79,6 +79,7 @@ draft: false
 - Apr. 2022 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 調査研究分科会 委員
 
 ### Past Activities
+- Sep. 2022 - Sep. 2022, [東海関西データベースワークショップ 2022](https://sites.google.com/mil.doshisha.ac.jp/dbws2022/home), プログラム委員
 - Mar. 2022 - Sep. 2022, [日本データベース学会](http://dbsj.org/), システム委員会 構成メンバー
 - Jul. 2015 - Mar. 2022, [日本データベース学会](http://dbsj.org/), 電子広報編集委員会 編集委員
 - Apr. 2021 - Mar. 2022, [第14回データ工学と情報マネジメントに関するフォーラム (DEIM 2022)](https://event.dbsj.org/deim2022/), 実行委員会 ローカル共同委員長 
