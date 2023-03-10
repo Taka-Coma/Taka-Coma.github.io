@@ -2,7 +2,7 @@
 title: "Heterogeneous LOD Management"
 date: 2020-10-20T22:24:46+09:00
 draft: false
-background: /images/researches/bgs/mlod_bg.svg
+background: /images/researches/bgs/mlod_bg.jpg
 ---
 
 {{< twoimages

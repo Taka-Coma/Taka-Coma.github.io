@@ -2,7 +2,7 @@
 title: "Japanese Legal Data Management"
 date: 2020-10-20T22:24:46+09:00
 draft: false
-background: /images/researches/bgs/law_bg.svg
+background: /images/researches/bgs/law_bg.jpg
 ---
 
 ## Law LOD project
