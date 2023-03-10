@@ -32,7 +32,13 @@
   		"venue": "第15回データ工学と情報マネジメントに関するフォーラム",
   		"pages": "1b-6.4",
   		"year" : "2023",
-			"ee": ""
+			"ee": "",
+			"awards": [
+				{
+					"name": "Student Presentation Award",
+					"url": "https://event.dbsj.org/deim2023/post/awards.html"
+				}
+			]
 	},
 
 	{

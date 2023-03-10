@@ -3,8 +3,14 @@
 import requests
 import json
 
-with open('./awards.json', 'r') as f:
-    awards = json.load(f)
+with open('../data/awards.json', 'r') as f:
+    data = json.load(f)
+    awards = {}
+    for row in data:
+        if 'title' not in row:
+            continue
+        awards[row['paper']['title'] + '.'] = row['award']
+        
 
 with open('./appendix.json', 'r') as f:
     adds = json.load(f)
@@ -39,7 +45,7 @@ draft: false
         },
         'preprint': {
             'text': 'Pre-Print',
-            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_Publications%3A&h=1000&format=json"
+            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_and_Other_Publications%3A&h=1000&format=json"
         }
     }
 
