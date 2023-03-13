@@ -72,7 +72,8 @@ draft: false
 
 ## Academic Activities (Japanese Domestic)
 ### Current Activities
-- Apr. 2023 - Mar. 2025, 情報処理学会, データベースシステム研究運営委員会, 運営委員
+- Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), 論文誌データベース編集委員会, 編集委員
+- Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), データベースシステム研究運営委員会, 運営委員
 - Apr. 2021 - now, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
 - Jun. 2019 - now, [電子情報通信学会](https://www.ieice.org/jpn_r/)，[データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会，幹事
