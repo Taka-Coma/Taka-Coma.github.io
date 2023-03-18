@@ -5,12 +5,12 @@ import json
 
 with open('../data/awards.json', 'r') as f:
     data = json.load(f)
+
     awards = {}
     for row in data:
-        if 'title' not in row:
+        if 'title' not in row['paper']:
             continue
-        awards[row['paper']['title'] + '.'] = row['award']
-        
+        awards[f"{row['paper']['title']}.".lower()] =  row['award']
 
 with open('./appendix.json', 'r') as f:
     adds = json.load(f)
@@ -116,8 +116,9 @@ def formatPaper(paper, style='journal'):
         else:
             out += f" ([DOI]({paper['ee']}))"
 
-    if paper['title'] in awards:
-        out += ' --- {{< awards name="' + awards[paper['title']] + '" >}}'
+
+    if paper['title'].lower() in awards:
+        out += ' --- {{< awards name="' + awards[paper['title'].lower()] + '" >}}'
         
     return out
 
