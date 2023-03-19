@@ -25,7 +25,7 @@
 {{ range $.Site.Data.awards }}
 	<div class='col mb-3 award-height'>
 		<div class='card border-white h-100 award_bg'>
-			<div class='card-header px-4 border-white'>
+			<div class='card-header px-4 award-header'>
 				<h4 class='pt-2 m-0'>
 					{{ .award }}
 				</h4>
@@ -44,7 +44,7 @@
 				{{ end }}
 
 			</div>
-			<div class='card-body'>
+			<div class='card-body px-4'>
 				<ul class='card-text award-text'>
 					<li>{{ .paper.author }}</li>
 					{{ if .paper.title }}

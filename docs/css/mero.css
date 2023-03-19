@@ -137,10 +137,16 @@ img {
 	background-size: cover;
 }
 
+.award-header {
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
 .award-height {
 	height: 350px;
 }
 
 .award-text {
-	width: 65%;
+	width: 70%;
+	list-style: none;
+	padding-left: 0px;
 }
