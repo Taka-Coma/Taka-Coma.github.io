@@ -26,14 +26,14 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
-- Sep. 2022 - now,
-	[11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
-	PC member
 - Jan. 2023 - now,
 	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
 	Workshop Co-Chair
 
 ### Past Activities
+- Sep. 2022 - Feb. 2023,
+	[11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
+	PC member
 - Jul. 2021 - Dec. 2022, 
 	[11th International Symposium on Information and Communication Technology (SoICT 2022)](https://soict.org/),
 	PC member
