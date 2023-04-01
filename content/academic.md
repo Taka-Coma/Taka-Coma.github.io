@@ -26,6 +26,9 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
+- Mar. 2023 - now,
+	[The 2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
+	Prgram Co-chiar
 - Jan. 2023 - now,
 	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
 	Workshop Co-Chair
