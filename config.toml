@@ -4,6 +4,8 @@ title = "Taka-Coma"
 theme = "mero"
 publishDir="docs"
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
 
 [params]
   dateFormat = "2006-01-02"

@@ -13,10 +13,10 @@
 	{ "text": "武田 一哉" }
  		]},
   		"title": "大学連携によるデータサイエンス人材育成の共通ガイドラインとその実践",
-  		"venue": "電子情報通信学会技術報告",
-      "volume": "2023-03-ET",
-      "number": "",
-  		"pages": "",
+  		"venue": "電子情報通信学会技術研究報告 : 教育工学（ET）",
+      "volume": "122",
+      "number": "431",
+  		"pages": "117-127",
   		"year" : "2023",
 			"ee": ""
 	},
@@ -49,10 +49,12 @@
  { "text": "波多野 賢治" }
  		]},
   		"title": "文書分類における効果的なマルチタスク学習のための汎用的サブタスクの要件分析",
-  		"venue": "言語理解とコミュニケーション研究会",
-  		"pages": "12",
+  		"venue": "研究報告自然言語処理（NL）",
+			"volume": "2023-NL-255",
+			"number": "12",
+  		"pages": "1-6",
   		"year" : "2023",
-			"ee": ""
+			"ee": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225299&item_no=1&page_id=13&block_id=8"
 	},
 
 	{
@@ -69,7 +71,7 @@
   		"venue": "言語処理学会第29回年次大会 (NLP2023)",
   		"pages": "Q10-6",
   		"year" : "2023",
-			"ee": ""
+			"ee": "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-6.pdf"
 	},
 
 	{
@@ -86,7 +88,7 @@
   		"venue": "言語処理学会第29回年次大会 (NLP2023)",
   		"pages": "P7-8",
   		"year" : "2023",
-			"ee": ""
+			"ee": "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P7-8.pdf"
 	},
 
 	{
@@ -153,7 +155,7 @@
 	{ "text": "武田 一哉" }
  		]},
   		"title": "産学コンソーシアムによるデータサイエンス人材育成の実践",
-  		"venue": "情報処理学会研究報告",
+  		"venue": "情報処理学会研究報告コンピュータと教育（CE）",
       "volume": "2022-CE-167",
       "number": "16",
   		"pages": "1-6",
@@ -172,10 +174,12 @@
  { "text": "井手 一郎" }
  		]},
   		"title": "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討",
-  		"venue": "メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) ",
-  		"pages": "MVE2022-28",
+  		"venue": "情報処理学会研究報告エンタテインメントコンピューティング（EC）",
+			"volume": "2022-EC-65",
+			"number": "27",
+  		"pages": "1-6",
   		"year" : "2022",
-			"ee": ""
+			"ee": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=220291&item_no=1&page_id=13&block_id=8"
 	},
 
 	{
@@ -186,10 +190,12 @@
  { "text": "波多野 賢治" }
  		]},
   		"title": "サブワードフレーズ抽出を併用した文書分類",
-  		"venue": "WebDB夏のワークショップ2022",
-  		"pages": "C3-2",
+  		"venue": "情報処理学会 研究報告情報基礎とアクセス技術（IFAT）",
+			"volume": "2022-IFAT-148",
+			"number": "24",
+  		"pages": "1-6",
   		"year" : "2022",
-			"ee": ""
+			"ee": "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220022&item_no=1"
 	},
 
 	{
@@ -200,8 +206,10 @@
  { "text": "Kenji Hatano" }
  		]},
   		"title": "Towards Constructing Destination Node Index for Repetition Paths",
-  		"venue": "WebDB夏のワークショップ2022",
-  		"pages": "B2-3",
+  		"venue": "研究報告情報基礎とアクセス技術（IFAT）",
+			"volume": "2022-IFAT-148",
+			"number": "15",
+  		"pages": "1-6",
   		"year" : "2022",
 			"ee": "",
 			"awards": [
@@ -225,7 +233,7 @@
  		"pages": "SIG-SWO-057-04",
  		"year" : "2022",
  		"slide": "/pdfs/SWO-057-04.pdf",
-		"ee": ""
+		"ee": "https://doi.org/10.11517/jsaisigtwo.2022.swo-057_04"
 	},
 
 	{
