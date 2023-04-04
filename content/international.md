@@ -4,9 +4,6 @@ date: 2020-10-20T22:24:46+09:00
 draft: false
 ---
 
-## To Appear
-- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp., 2023
-----
 ## International Journals
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))
 - [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification", J. Data Intell., Vol.2, No.1, pp.30-46, 2021 ([DOI](https://doi.org/10.26421/JDI2.1-2))
@@ -17,6 +14,8 @@ draft: false
 - [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "Faceted Navigation Framework for XML Data", Int. J. Web Inf. Syst., Vol.8, No.4, pp.348-370, 2012 ([DOI](https://doi.org/10.1108/17440081211282865))
 ----
 ## International Conferences
+### 2023
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023 ([DOI](https://doi.org/10.1007/978-3-031-27077-2_14))
 ### 2022
 - Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp.1-7, 2022 ([DOI](https://doi.org/10.1109/AVSS56176.2022.9959510))
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives", ICADL, pp.377-391, 2022 ([DOI](https://doi.org/10.1007/978-3-031-21756-2_29)) --- {{< awards name="Best Paper Runner-up" >}}
