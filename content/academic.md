@@ -26,6 +26,9 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
+- Apr. 2023 - now,
+	[2023 IEEE International Conference on Big DAta (IEEE BigDate 2023)](http://bigdataieee.org/BigData2023/index.html)
+	PC member
 - Mar. 2023 - now,
 	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
 	Prgram Co-chiar
