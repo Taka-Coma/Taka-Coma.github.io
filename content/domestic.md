@@ -84,7 +84,7 @@ draft: false
 - [駒水 孝裕](/), "A Study on Faceted Search for Semi-structured Data", 学位論文紹介, DBSJ, 2016.4 ([link](http://dbsj.org/dissertation/2015/5130/))
 ----
 ## 編集
-- [駒水 孝裕](/), "若手研究者対談企画号", DBSJ Newsletter, Vol.15, No.6, 2022.11
+- [駒水 孝裕](/), "若手研究者対談企画号", DBSJ Newsletter, Vol.15, No.6, 2022.11 ([link](https://dbjapan.dbsj.org/mailman3/hyperkitty/list/dbjapan@dbsj.org/thread/6PNECOVURENVGQAWI25EYMEWSKCCPU77/))
 - [駒水 孝裕](/), "DEIM2021, データ解析コンペティション, IPSJ-83企業パネル, AAAI 2021, BigComp2021", DBSJ Newsletter, Vol.14, No.1, 2021.4 ([link](https://archive.dbsj.org/dbjapan/2021/msg00070.html))
 - [駒水 孝裕](/), "DEIM2019, BigComp2019, CIDR2019, AAAI2019, VLDB2020への道", DBSJ Newsletter, Vol.12, No.1, 2019.4 ([link](http://dbsj.org/dbjapan/2019/msg00053.html))
 - [駒水 孝裕](/), "DEIM フォーラム 2017 開催報告，データ解析コンペティションDB部会", DBSJ Newsletter, Vol.10, No.1, 2017.4 ([link](https://archive.dbsj.org/dbjapan/2017/msg00188.html))
