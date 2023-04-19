@@ -1,19 +1,6 @@
 [
 
 	{
-		"venue": "DEIM 2023",
-		"venue_url": "https://event.dbsj.org/deim2023/",
-		"award": "Student Presentation Award",
-		"award_jp": "学生プレゼンテーション賞",
-		"award_url": "https://event.dbsj.org/deim2023/post/awards.html",
-		"paper": {
-			"author": "寺本 優香, 駒水 孝裕, 波多野 賢治",
-			"title": "固有表現タグおよびPOSタグによる交換制約付きデータ拡張手法"
-		},
-		"date": "March 2023"
-	},
-
-	{
 		"venue": "ICADL 2022",
 		"venue_url": "https://icadl.net/icadl2022/",
 		"award": "Best Paper Runner-up",
@@ -51,19 +38,6 @@
 		},
 		"date": "November 2020"
 	}, 
-
-	{
-		"venue": "DEIM 2020",
-		"venue_url": "http://db-event.jpn.org/deim2020/",
-		"award": "Online Presentation Award",
-		"award_jp": "オンラインプレゼンテーション賞",
-		"award_url": "http://db-event.jpn.org/deim2020/post/awards.html",
-		"paper": {
-			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
-			"title": "不均衡データ分類フレームワークにおけるサンプリング比率の最適化"
-		},
-		"date": "March 2020"
-	},
 
 	{
 		"venue": "WebDBF 2019",
@@ -114,45 +88,6 @@
 			"title": "Japanese Legal Term Correction using Random Forests"
 		},
 		"date": "December 2018"
-	},
-
-	{
-		"venue": "DEIM 2018",
-		"venue_url": "http://db-event.jpn.org/deim2018/",
-		"award": "Poster Award",
-		"award_jp": "優秀インタラクティブ賞",
-		"award_url": "http://db-event.jpn.org/deim2018/post/award",
-		"paper": {
-			"author": "伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之",
-			"title": "ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習"
-		},
-		"date": "March 2018"
-	},
-
-	{
-		"venue": "DEIM 2017",
-		"venue_url": "http://db-event.jpn.org/deim2017/",
-		"award": "Student Award",
-		"award_jp": "学生プレゼンテーション賞",
-		"award_url": "http://db-event.jpn.org/deim2017/award.html",
-		"paper": {
-			"author": "伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之",
-			"title": "ノードが複数の属性を持つグラフにおけるコミュニティ検出"
-		},
-		"date": "March 2017"
-	},
-
-	{
-		"venue": "IPSJ 全国大会 2017",
-		"venue_url": "http://www.ipsj.or.jp/event/taikai/79/index.html",
-		"award": "Student Award",
-		"award_jp": "学生奨励賞",
-		"award_url": "http://www.ipsj.or.jp/award/taikaigakusei.html",
-		"paper": {
-			"author": "永野 真知, 早瀬 康裕, 駒水 孝裕, 北川 博之",
-			"title": "GitHubとStack Overflowにおけるユーザ行動の統一的な分析"
-		},
-		"date": "March 2017"
 	},
 
 	{

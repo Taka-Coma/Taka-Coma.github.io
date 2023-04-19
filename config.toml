@@ -53,6 +53,10 @@ publishDir="docs"
 		url = "https://ac.thers.ac.jp/division/Data-Science/"
 
 	[[params.affiliation.list]]
+		text = "東海国立大学機構 アカデミック・セントラル 地域高等教育基盤センター"
+		url = ""
+
+	[[params.affiliation.list]]
 		text = "Global Research Institute for Mobility, Society Institutes of Innovation for Future Society, Nagoya University"
 		url = "https://www.gremo.mirai.nagoya-u.ac.jp/"
 

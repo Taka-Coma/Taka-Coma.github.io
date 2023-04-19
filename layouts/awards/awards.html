@@ -66,5 +66,61 @@
 {{ end }}
 </div>
 
+
+<hr>
+
+<div class="header border-bottom mb-3">
+	<h1 style="font-size: 2.5em;">
+		Awards for Students
+	</h1>
+</div>
+
+<div class='row row-cols-1 row-cols-md-2'>
+{{ range $.Site.Data.awards_student }}
+	<div class='col mb-3 award-height'>
+		<div class='card border-white h-100 award_bg'>
+			<div class='card-header px-4 award-header'>
+				<h4 class='pt-2 m-0'>
+					{{ .award }}
+				</h4>
+				<h6 class='pt-1 pb-2 m-0'>
+					{{ .award_jp }}
+				</h6>
+
+				{{ if .venue }}
+					<h6>
+					{{ if .venue_url }}
+						<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
+					{{ else }}
+						{{ .venue }}
+					{{ end }}
+					</h6>
+				{{ end }}
+
+			</div>
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>{{ .paper.author }}</li>
+					{{ if .paper.title }}
+						<li>{{ .paper.title }}</li>
+					{{ end }}
+				</ul>
+
+			</div>
+
+			<div class='card-footer px-4 bg-secondary d-flex justify-content-between'>
+				<span class='p-1'>{{ .date }}</span>
+				<a href='{{ .award_url }}' target='_blank'>
+					<span class="material-symbols-outlined">web</span>
+					Web page
+				</a>
+			</div>
+		</div>
+	</div>
+{{ end }}
+</div>
+
+
+
 </article>
 {{ end }}
