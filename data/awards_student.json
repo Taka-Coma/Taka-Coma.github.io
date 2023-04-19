@@ -63,18 +63,6 @@
 			"title": "GitHubとStack Overflowにおけるユーザ行動の統一的な分析"
 		},
 		"date": "March 2017"
-	},
-
-	{
-		"venue": "iiWAS 2015",
-		"venue_url": "http://www.iiwas.org/conferences/iiwas2015/home",
-		"award": "Best Paper Award",
-		"award_jp": "最優秀論文賞",
-		"paper": {
-			"author": "Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa",
-			"title": "SPOOL: A SPARQL-based ETL Framework for OLAP over Linked Data"
-		},
-		"date": "December 2015"
 	}
 
 ]
