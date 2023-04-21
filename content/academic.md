@@ -27,7 +27,7 @@ draft: false
 ## Academic Activities (International)
 ### Current Activities
 - Apr. 2023 - now,
-	[2023 IEEE International Conference on Big DAta (IEEE BigDate 2023)](http://bigdataieee.org/BigData2023/index.html)
+	[2023 IEEE International Conference on Big Data (IEEE BigData 2023)](http://bigdataieee.org/BigData2023/index.html)
 	PC member
 - Mar. 2023 - now,
 	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
@@ -82,26 +82,26 @@ draft: false
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [論文誌データベース編集委員会](https://www.ipsj-tod.org/), 編集委員
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [データベースシステム研究運営委員会](https://www.ieice.org/iss/de/jpn/), 運営委員
 - Apr. 2021 - now, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
-- Jun. 2019 - now, [電子情報通信学会](https://www.ieice.org/jpn_r/)，[データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
-- Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会，幹事
-- Apr. 2022 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 調査研究分科会，委員
+- Jun. 2019 - now, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
+- Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会, 幹事
+- Apr. 2022 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 調査研究分科会, 委員
 
 ### Past Activities
-- Apr. 2022 - Mar. 2023, [第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)](https://event.dbsj.org/deim2023/), 実行委員会，ローカル共同委員長 
-- Sep. 2022 - Sep. 2022, [東海関西データベースワークショップ 2022](https://sites.google.com/mil.doshisha.ac.jp/dbws2022/home), プログラム委員会，プログラム委員
-- Mar. 2022 - Sep. 2022, [日本データベース学会](http://dbsj.org/), システム委員会，構成メンバー
-- Jul. 2015 - Mar. 2022, [日本データベース学会](http://dbsj.org/), 電子広報編集委員会，編集委員
-- Apr. 2021 - Mar. 2022, [第14回データ工学と情報マネジメントに関するフォーラム (DEIM 2022)](https://event.dbsj.org/deim2022/), 実行委員会，ローカル共同委員長 
+- Apr. 2022 - Mar. 2023, [第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)](https://event.dbsj.org/deim2023/), 実行委員会, ローカル共同委員長 
+- Sep. 2022 - Sep. 2022, [東海関西データベースワークショップ 2022](https://sites.google.com/mil.doshisha.ac.jp/dbws2022/home), プログラム委員会, プログラム委員
+- Mar. 2022 - Sep. 2022, [日本データベース学会](http://dbsj.org/), システム委員会, 構成メンバー
+- Jul. 2015 - Mar. 2022, [日本データベース学会](http://dbsj.org/), 電子広報編集委員会, 編集委員
+- Apr. 2021 - Mar. 2022, [第14回データ工学と情報マネジメントに関するフォーラム (DEIM 2022)](https://event.dbsj.org/deim2022/), 実行委員会, ローカル共同委員長 
 - Sep. 2021 - Sep. 2021, [東海関西データベースワークショップ 2021](https://sites.google.com/db.info.gifu-u.ac.jp/dbws2021/), プログラム委員会．プログラム委員
-- Sep. 2020 - Nov. 2020, [第18回情報学ワークショップ (WiNF 2020)](https://sites.google.com/view/winf2020), プログラム委員会，プログラム委員
-- Mar. 2019 - May 2020, [第12回データ工学と情報マネジメントに関するフォーラム (DEIM 2020)](http://db-event.jpn.org/deim2020), 実行委員会，幹事（Web・出版担当）
-- Jul. 2019 - Nov. 2019, [第17回情報学ワークショップ (WiNF 2019)](https://sites.google.com/view/winf2019/), プログラム委員会，プログラム委員
-- Mar. 2018 - May 2019, [第11回データ工学と情報マネジメントに関するフォーラム (DEIM 2019)](http://db-event.jpn.org/deim2019), 実行委員会，Web・出版委員長
-- Jun. 2018 - Mar. 2019, [言語処理学会第25回年次大会 (NLP 2019)](http://www.anlp.jp/nlp2019/), 実行委員会，委員
-- Jul. 2018 - Mar. 2019, [第16回情報学ワークショップ (WiNF 2018)](http://www.kl.is.i.nagoya-u.ac.jp/winf2018/), 実行委員会，委員（会計担当）
-- May 2018 - Sep. 2018, [第11回Webとデータベースに関するフォーラム (WebDB Forum 2018)](http://db-event.jpn.org/webdbf2018/), 実行委員会，出版・印刷担当幹事, 学生奨励賞評価委員会，委員
-- Aug. 2017 - Sep. 2017, [第10回Webとデータベースに関するフォーラム (WebDB Forum 2017)](http://db-event.jpn.org/webdbf2017/), 実行委員会，Web担当幹事
-- Sep. 2016, [第9回Webとデータベースに関するフォーラム (WebDB Forum 2016)](http://db-event.jpn.org/webdbf2016/), 学生奨励賞評価委員会，委員
+- Sep. 2020 - Nov. 2020, [第18回情報学ワークショップ (WiNF 2020)](https://sites.google.com/view/winf2020), プログラム委員会, プログラム委員
+- Mar. 2019 - May 2020, [第12回データ工学と情報マネジメントに関するフォーラム (DEIM 2020)](http://db-event.jpn.org/deim2020), 実行委員会, 幹事（Web・出版担当）
+- Jul. 2019 - Nov. 2019, [第17回情報学ワークショップ (WiNF 2019)](https://sites.google.com/view/winf2019/), プログラム委員会, プログラム委員
+- Mar. 2018 - May 2019, [第11回データ工学と情報マネジメントに関するフォーラム (DEIM 2019)](http://db-event.jpn.org/deim2019), 実行委員会, Web・出版委員長
+- Jun. 2018 - Mar. 2019, [言語処理学会第25回年次大会 (NLP 2019)](http://www.anlp.jp/nlp2019/), 実行委員会, 委員
+- Jul. 2018 - Mar. 2019, [第16回情報学ワークショップ (WiNF 2018)](http://www.kl.is.i.nagoya-u.ac.jp/winf2018/), 実行委員会, 委員（会計担当）
+- May 2018 - Sep. 2018, [第11回Webとデータベースに関するフォーラム (WebDB Forum 2018)](http://db-event.jpn.org/webdbf2018/), 実行委員会, 出版・印刷担当幹事, 学生奨励賞評価委員会, 委員
+- Aug. 2017 - Sep. 2017, [第10回Webとデータベースに関するフォーラム (WebDB Forum 2017)](http://db-event.jpn.org/webdbf2017/), 実行委員会, Web担当幹事
+- Sep. 2016, [第9回Webとデータベースに関するフォーラム (WebDB Forum 2016)](http://db-event.jpn.org/webdbf2016/), 学生奨励賞評価委員会, 委員
 - Sep. 2014, [第13回情報科学技術フォーラム (FIT 2014)](http://www.ipsj.or.jp/event/fit/fit2014/), 学生スタッフリーダー
 
 ----

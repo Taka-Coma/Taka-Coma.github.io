@@ -89,6 +89,14 @@ publishDir="docs"
 			affurl = "https://www.i.nagoya-u.ac.jp/en/"
 
 		[[params.researchpos.list.others]]
+			affiliation = "東海国立大学機構 アカデミック・セントラル シームレス数理・データ科学教育共創部門"
+			affurl = "https://ac.thers.ac.jp/division/Data-Science/"
+	
+		[[params.researchpos.list.others]]
+			affiliation = "東海国立大学機構 アカデミック・セントラル 地域高等教育基盤センター"
+			affurl = ""
+
+		[[params.researchpos.list.others]]
 			affiliation = "Global Research Institute for Mobility, Society Institutes of Innovation for Future Society, Nagoya University"
 			affurl = "https://www.gremo.mirai.nagoya-u.ac.jp/"
 
