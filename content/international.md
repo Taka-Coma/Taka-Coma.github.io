@@ -4,6 +4,9 @@ date: 2020-10-20T22:24:46+09:00
 draft: false
 ---
 
+## To Appear
+- Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI]())
+----
 ## International Journals
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))
 - [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification", J. Data Intell., Vol.2, No.1, pp.30-46, 2021 ([DOI](https://doi.org/10.26421/JDI2.1-2))

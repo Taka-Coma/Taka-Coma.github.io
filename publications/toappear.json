@@ -1,2 +1,25 @@
 [
+	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Chihaya Matsuhira" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" },
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Keisuke Doman" },
+				{ "text": "Daisuke Deguchi" }
+			]
+		},
+		"title": "Computational Measurement of Perceived Pointiness from Pronunciation.",
+		"venue": "Multim. Tools Appl.",
+		"volume": "",
+		"number": "",
+		"pages": "", 
+		"year": "2023",
+		"month": "",
+		"ee": ""
+	}
 ]
