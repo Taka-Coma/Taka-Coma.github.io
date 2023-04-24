@@ -14,6 +14,19 @@
 	},
 
 	{
+		"venue": "DBWS 2020",
+		"venue_url": "https://sites.google.com/view/dbws2020/",
+		"award":  "Presentation Award",
+		"award_jp": "優秀プレゼンテーション賞",
+		"award_url": "https://sites.google.com/view/dbws2020/%E8%A1%A8%E5%BD%B0?authuser=0",
+		"paper": {
+			"author": "近藤 匠",
+			"title": "利用規約の不公平文検出における不均衡データ分類に関する一考察"
+		},
+		"date": "September 2020"
+	},
+
+	{
 		"venue": "DEIM 2020",
 		"venue_url": "http://db-event.jpn.org/deim2020/",
 		"award": "Online Presentation Award",
