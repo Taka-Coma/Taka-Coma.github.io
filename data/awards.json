@@ -127,6 +127,8 @@
 	},
 
 	{
+		"venue": "情報処理学会",
+		"venue_url": "http://www.ipsj.or.jp/index.html",
 		"award": "IPSJ Yamashita SIG Research Award ",
 		"award_jp": "山下記念研究賞",
 		"award_url": "http://www.ipsj.or.jp/award/yamashita2010.html",
