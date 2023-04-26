@@ -126,8 +126,8 @@ draft: false
 
 ## Ad-hoc Reviewer (Japanese Journal)
 - IEICE Journal: 2013, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023
-- DBSJ Journal: 2019, 2021
-- IPSJ Journal: 2020, 2022
+- DBSJ Journal: 2019, 2021, 2022, 2023
+- IPSJ Journal: 2020, 2022, 2023
 
 -----
 
