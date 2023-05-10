@@ -47,7 +47,14 @@
 						<li>研究期間：{{ .duration }}</li>
 
 						{{ if .grant_amount }}
-						<li>配分額：{{ .grant_amount }}</li>
+						<li>配分額：{{ .grant_amount.total }}
+							{{ if .grant_amount.direct }}
+								<ul>
+									<li>直接経費：{{ .grant_amount.direct }}</li>
+									<li>関節経費：{{ .grant_amount.indirect }}</li>
+								</ul>
+							{{ end }}
+						</li>
 						{{ end }}
 
 						{{ if .main }}

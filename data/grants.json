@@ -9,7 +9,11 @@
 			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21H03555/",
 			"theme_number": "21H03555",
 			"duration": "2021年4月~2025年3月",
-			"grant_amount": "17,160千円（直接経費：13,200千円，間接経費：3,960千円）",
+			"grant_amount": {
+				"total": "17,160千円",
+				"direct": "13,200千円",
+				"indirect": "3,960千円"
+			},
 			"members": [
 				{
 					"name": "波多野 賢治",
@@ -35,7 +39,11 @@
 			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18056/",
 			"theme_number": "18K18056",
 			"duration": "2018年4月~2021年3月",
-			"grant_amount": "4,160千円（直接経費：3,200千円，間接経費：960千円）"
+			"grant_amount": {
+				"total": "4,160千円",
+				"direct": "3,200千円",
+				"indirect": "960千円"
+			}
 		}
 		]
 	}, 
@@ -137,7 +145,9 @@
 				"application": "/pdfs/kayamori_zaidan_2019.pdf",
 				"theme": "不均衡データに対する異なる比率のサンプリングを利用した協調学習",
 				"duration": "2019年11月~2021年11月",
-				"grant_amount": "1,000千円"
+				"grant_amount": {
+					"total": "1,000千円"
+				}
 			},
 
 			{
@@ -147,7 +157,9 @@
 				"theme_url": "http://www.airpf.or.jp/new_josei.html",
 				"theme": "グラフデータ分析のための特徴分析に関する研究開発",
 				"duration": "2019年1月~2020年8月",
-				"grant_amount": "500千円"
+				"grant_amount": {
+					"total": "500千円"
+				}
 			}
 		]
 	},
@@ -159,21 +171,27 @@
 				"title": "筑波大学 研究基盤支援プログラム（Aタイプ）",
 				"theme": "グラフデータに対するファセット検索についての研究",
 				"duration": "2012年7月~2013年3月",
-				"grant_amount": "464千円"
+				"grant_amount": {
+					"total": "464千円"
+				}
 			},
 
 			{
 				"title": "筑波大学 コンピュータサイエンス専攻ソリューション型研究開発プロジェクト",
 				"theme": "画像特徴を利用した顔画像に対するファセット探索インターフェースの開発",
 				"duration": "2011年7月~2012年3月",
-				"grant_amount": "550千円（前期：250千円，後期：300千円）"
+				"grant_amount": {
+					"total": "550千円（前期：250千円，後期：300千円）"
+				}
 			},
 
 			{
 				"title": "筑波大学 コンピュータサイエンス専攻 ICT-SA ソリューション型研究開発プロジェクト",
 				"theme": "分散ストリーム処理における外れ値検証手法の提案",
 				"duration": "2009年7月~2010年3月",
-				"grant_amount": "100千円（前期：50千円，後期：50千円）"
+				"grant_amount": {
+					"total": "100千円（前期：50千円，後期：50千円）"
+				}
 			}
 
 		]
