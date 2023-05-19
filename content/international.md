@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+- [Takahiro Komamizu](/), "Towards Ensemble-based Imbalanced Text Classification using Metric Learnin", DEXA 2023, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI]())
 ----
 ## International Journals
