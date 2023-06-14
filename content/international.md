@@ -5,8 +5,8 @@ draft: false
 ---
 
 ## To Appear
-- Carlos Victorino Padeiro, [Takahiro Komamizu](/), Ichiro Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detectio", MVA 2023, pp., 2023 ([DOI]())
-- Banri Kojima, [Takahiro Komamizu](/), Ichiro Ide, Yasutomo Kawanishi, Keisuke Doman, "Image Impression Estimation by Clustering People with Similar Taste", MVA 2023, pp., 2023 ([DOI]())
+- Carlos Victorino Padeiro, [Takahiro Komamizu](/), Ichiro Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection", MVA 2023, pp., 2023 ([DOI]())
+- Banri Kojima, [Takahiro Komamizu](/), Ichiro Ide, Yasutomo Kawanishi, Keisuke Doman, "Image Impression Estimation by Clustering People with Similar Tastes", MVA 2023, pp., 2023 ([DOI]())
 - [Takahiro Komamizu](/), "Towards Ensemble-based Imbalanced Text Classification using Metric Learning", DEXA 2023, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI]())
 ----
