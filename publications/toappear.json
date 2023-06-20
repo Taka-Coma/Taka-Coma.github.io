@@ -4,13 +4,27 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+ { "text": "Takahiro Komamizu" }
+			]
+		},
+		"title": "Visual Passage Score Aggregation for Image Retrieval",
+		"venue": "MIPR",
+		"pages": "",
+		"year": "2023",
+		"ee": ""
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Takahiro Komamizu" },
  { "text": "Ichiro Ide" }
 			]
 		},
 		"title": "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection.",
-		"venue": "MVA 2023",
+		"venue": "MVA",
 		"pages": "",
 		"year": "2023",
 		"ee": ""
@@ -28,7 +42,7 @@
 			]
 		},
 		"title": "Image Impression Estimation by Clustering People with Similar Tastes.",
-		"venue": "MVA 2023",
+		"venue": "MVA",
 		"pages": "",
 		"year": "2023",
 		"ee": ""
@@ -42,7 +56,7 @@
 			]
 		},
 		"title": "Towards Ensemble-based Imbalanced Text Classification using Metric Learning.",
-		"venue": "DEXA 2023",
+		"venue": "DEXA",
 		"pages": "",
 		"year": "2023",
 		"ee": ""
