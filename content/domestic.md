@@ -14,6 +14,12 @@ draft: false
 ----
 ## 査読なし会議
 ### 2023
+- Bolin Zhang, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Chao Yang, Bin Jiang, Ichiro Ide, "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-84, 2023
+- Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Leverage Semantic Alignment of Object Relations for Image Captioning", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-84, 2023
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Image Collection Scene Graph Summarization Enhancing Relation Predictor with External Knowledge", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-78, 2023
+- リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "検出対象領域の絞込みによる広角映像中の鳥追跡", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-78, 2023
+- グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "時間マルチスケール特徴と行動ラベル特徴によるオープンボキャブラリ行動区間認識", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS2-69, 2023
+- 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "類音語の連想性を考慮した未知語の発音に対する画像生成", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-86, 2023
 - 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "大学連携によるデータサイエンス人材育成の共通ガイドラインとその実践", 電子情報通信学会技術研究報告 : 教育工学（ET）, Vol.122, No.431, pp.117-127, 2023
 - 寺本 優香, [駒水 孝裕](/), 波多野 賢治, "固有表現タグおよびPOSタグによる交換制約付きデータ拡張手法", 第15回データ工学と情報マネジメントに関するフォーラム, pp.1b-6.4, 2023 -- {{< awards name="Student Presentation Award" url="https://event.dbsj.org/deim2023/post/awards.html" >}}
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "文書分類における効果的なマルチタスク学習のための汎用的サブタスクの要件分析", 研究報告自然言語処理（NL）, Vol.2023-NL-255, No.12, pp.1-6, 2023 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225299&item_no=1&page_id=13&block_id=8))
@@ -23,6 +29,10 @@ draft: false
 - Yiming Wang, Marc A. Kanster, [Takahiro Komamizu](/), Da Huo, Takatsugu Hirayama, Ichiro Ide, "Evoked Emotion Distribution Learning through Analysis of Temporal User Comments in Social Media Videos", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.59, 2023
 - Trung Thanh Nguyen, Phi Le Nguyen, 川西 康友, [駒水 孝裕](/), 井手 一郎, "PiDP: 処方箋に対する GCN の対照学習に基づく錠剤検出", 2023 年電子情報通信学会総合大会, pp.D-12-3, 2023
 ### 2022
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection using Scene Graph", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-78, 2022
+- Yiming Wang, Marc A. Kastner, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "On Estimating Evoked Emotions of Social Media Videos through User Comments Analysis", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-72, 2022
+- Anditya ARIFIANTO, Takahiro KOMAMIZU, Yasutomo KAWANISHI, Ichiro IDE, "Towards Generative Image Steganography using Seq2Seq and GAN", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-57, 2022
+- 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "画像生成を介した語感から受ける印象の可視化の検討", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-81, 2022
 - 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会研究報告コンピュータと教育（CE）, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))
 - 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", 情報処理学会研究報告エンタテインメントコンピューティング（EC）, Vol.2022-EC-65, No.27, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=220291&item_no=1&page_id=13&block_id=8))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", 情報処理学会 研究報告情報基礎とアクセス技術（IFAT）, Vol.2022-IFAT-148, No.24, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220022&item_no=1))

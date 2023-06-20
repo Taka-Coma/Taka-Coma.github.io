@@ -3,6 +3,98 @@
 	{
 		"authors": {
 			"author": [
+				{ "text": "Bolin Zhang" },
+				{ "text": "Haruya Kyutoku" },
+				{ "text": "Keisuke Doman" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Chao Yang" },
+				{ "text": "Bin Jiang" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval",
+  		"venue": "第26回 画像の認識・理解シンポジウム (MIRU2023)",
+  		"pages": "IS3-84",
+  		"year" : "2023"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "Da Huo" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Leverage Semantic Alignment of Object Relations for Image Captioning",
+  		"venue": "第26回 画像の認識・理解シンポジウム (MIRU2023)",
+  		"pages": "IS1-84",
+  		"year" : "2023"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "Itthisak Phueaksri" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Yasutomo Kawanishi " },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Image Collection Scene Graph Summarization Enhancing Relation Predictor with External Knowledge",
+  		"venue": "第26回 画像の認識・理解シンポジウム (MIRU2023)",
+  		"pages": "IS1-78",
+  		"year" : "2023"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{"text": "リュウ テイイ" },
+				{"text": "川西 康友" },
+				{"text": "駒水 孝裕" },
+				{"text": "井手 一郎" }
+ 		]},
+  		"title": "検出対象領域の絞込みによる広角映像中の鳥追跡",
+  		"venue": "第26回 画像の認識・理解シンポジウム (MIRU2023)",
+  		"pages": "IS3-78",
+  		"year" : "2023"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{"text": "グエン チュン タイン" },
+				{"text": "川西 康友" },
+				{"text": "駒水 孝裕" },
+				{"text": "井手 一郎" }
+ 		]},
+  		"title": "時間マルチスケール特徴と行動ラベル特徴によるオープンボキャブラリ行動区間認識",
+  		"venue": "第26回 画像の認識・理解シンポジウム (MIRU2023)",
+  		"pages": "IS2-69",
+  		"year" : "2023"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{"text": "松平 茅隼" },
+				{"text": "カストナーマークアウ レル" },
+				{"text": "駒水 孝裕" },
+				{"text": "平山 高嗣" },
+				{"text": "道満 恵介" },
+				{"text": "川西 康友" },
+				{"text": "井手 一郎" }
+ 		]},
+  		"title": "類音語の連想性を考慮した未知語の発音に対する画像生成",
+  		"venue": "第26回 画像の認識・理解シンポジウム (MIRU2023)",
+  		"pages": "IS1-86",
+  		"year" : "2023"
+	},
+
+	{
+		"authors": {
+			"author": [
 	{ "text": "松原 茂樹" },
 	{ "text": "中岩 浩巳" },
 	{ "text": "駒水 孝裕" },
@@ -141,6 +233,70 @@
   		"year" : "2023",
 			"ee": ""
 	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "Itthisak Phueaksri" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Yasutomo Kawanishi " },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Towards Captioning an Image Collection using Scene Graph",
+  		"venue": "第25回 画像の認識・理解シンポジウム (MIRU2022)",
+  		"pages": "IS1-78",
+  		"year" : "2022"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "Yiming Wang" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "On Estimating Evoked Emotions of Social Media Videos through User Comments Analysis",
+  		"venue": "第25回 画像の認識・理解シンポジウム (MIRU2022)",
+  		"pages": "IS3-72",
+  		"year" : "2022"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "Anditya ARIFIANTO" },
+				{ "text": "Takahiro KOMAMIZU" },
+				{ "text": "Yasutomo KAWANISHI" },
+				{ "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Towards Generative Image Steganography using Seq2Seq and GAN",
+  		"venue": "第25回 画像の認識・理解シンポジウム (MIRU2022)",
+  		"pages": "IS3-57",
+  		"year" : "2022"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{"text": "松平 茅隼" },
+				{"text": "カストナーマークアウ レル" },
+				{"text": "駒水 孝裕" },
+				{"text": "平山 高嗣" },
+				{"text": "道満 恵介" },
+				{"text": "川西 康友" },
+				{"text": "井手 一郎" }
+ 		]},
+  		"title": "画像生成を介した語感から受ける印象の可視化の検討",
+  		"venue": "第25回 画像の認識・理解シンポジウム (MIRU2022)",
+  		"pages": "IS1-81",
+  		"year" : "2022"
+	},
+
+
 
 	{
 		"authors": {
