@@ -108,6 +108,8 @@ draft: false
 ----
 
 ## Ad-hoc Reviewer (International Journal)
+- BMC Medical Research Methodology: 2023
+- KAIS: 2023
 - MMSJ: 2020
 - IEEE Access: 2018, 2019
 - WWWJ: 2018

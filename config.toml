@@ -94,7 +94,7 @@ publishDir="docs"
 	
 		[[params.researchpos.list.others]]
 			affiliation = "東海国立大学機構 アカデミック・セントラル 地域高等教育基盤センター"
-			affurl = ""
+			url = "https://ac.thers.ac.jp/division/Regional-Centre-For-Higher-Education/"
 
 		[[params.researchpos.list.others]]
 			affiliation = "Global Research Institute for Mobility, Society Institutes of Innovation for Future Society, Nagoya University"
