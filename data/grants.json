@@ -2,6 +2,32 @@
 	"name": "競争的資金（代表）",
 	"grants": [
 		{
+			"title": "2023年度 挑戦的研究（萌芽）",
+			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+			"application": "/pdfs/kaken_houga_2023.pdf",
+			"theme": "オンデマンド型仮想六法の構成方法の研究開発",
+			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K18507/",
+			"theme_number": "23K18507",
+			"duration": "2023年6月~2025年3月",
+			"grant_amount": {
+				"total": "6,370千円",
+				"direct": "4,900千円",
+				"indirect": "1,470千円"
+			},
+			"members": [
+				{
+					"name": "外山 勝彦",
+					"url": "http://www.kl.i.is.nagoya-u.ac.jp/person/toyama/",
+					"affiliation": "名古屋大学"
+				},{
+					"name": "佐野 智也",
+					"url": "https://profs.provost.nagoya-u.ac.jp/html/100000698_ja.html",
+					"affiliation": "名古屋大学"
+				}
+			]
+		},
+
+		{
 			"title": "2021年度 科学研究費補助金 基盤研究 (B)",
 			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
 			"application": "/pdfs/kaken_kibanb_2021.pdf",
