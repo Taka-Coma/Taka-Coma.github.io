@@ -10,6 +10,7 @@ draft: false
 - Banri Kojima, [Takahiro Komamizu](/), Ichiro Ide, Yasutomo Kawanishi, Keisuke Doman, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp., 2023 ([DOI]())
 - [Takahiro Komamizu](/), "Towards Ensemble-based Imbalanced Text Classification using Metric Learning", DEXA, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI]())
+- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classificatio", Informatica, Vol., No., pp., 2023 ([DOI]())
 ----
 ## International Journals
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))

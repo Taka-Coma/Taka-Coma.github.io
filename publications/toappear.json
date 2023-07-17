@@ -84,5 +84,25 @@
 		"year": "2023",
 		"month": "",
 		"ee": ""
+	},
+
+	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Yusuke Kimura" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Kenji Hatano" }
+			]
+		},
+		"title": "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification",
+		"venue": "Informatica",
+		"volume": "",
+		"number": "",
+		"pages": "", 
+		"year": "2023",
+		"month": "",
+		"ee": ""
 	}
+
 ]
