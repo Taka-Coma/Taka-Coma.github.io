@@ -1,6 +1,19 @@
 [
 
 	{
+		"venue": "MIRU 2023",
+		"venue_url": "http://cvim.ipsj.or.jp/MIRU2023/",
+		"award": "Best Poster Award",
+		"award_jp": "MIRU インタラクティブ発表賞",
+		"award_url": "",
+		"paper": {
+			"author" :"松平 茅隼, カストナーマークアウ レル, 駒水 孝裕, 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎",
+			"title": "類音語の連想性を考慮した未知語の発音に対する画像生成"
+		}, 
+		"date": "July 2023"
+	},
+
+	{
 		"venue": "ICADL 2022",
 		"venue_url": "https://icadl.net/icadl2022/",
 		"award": "Best Paper Runner-up",
