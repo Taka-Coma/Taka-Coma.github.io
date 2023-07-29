@@ -10,7 +10,7 @@ draft: false
 - Banri Kojima, [Takahiro Komamizu](/), Ichiro Ide, Yasutomo Kawanishi, Keisuke Doman, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp., 2023 ([DOI]())
 - [Takahiro Komamizu](/), "Towards Ensemble-based Imbalanced Text Classification using Metric Learning", DEXA, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI]())
-- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classificatio", Informatica, Vol., No., pp., 2023 ([DOI]())
+- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol., No., pp., 2023 ([DOI]())
 ----
 ## International Journals
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))
@@ -76,4 +76,5 @@ draft: false
 ----
 ## Pre-Print
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining", CoRR, Vol.abs/2303.03144, 2023 ([DOI](https://doi.org/10.48550/arXiv.2303.03144))
+- Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results", CoRR, Vol.abs/2307.09143, 2023 ([DOI](https://doi.org/10.48550/arXiv.2307.09143))
 - [Takahiro Komamizu](/), "SPARQL with XQuery-based Filtering", CoRR, Vol.abs/2009.06194, 2020 ([DOI](https://arxiv.org/abs/2009.06194))
