@@ -68,20 +68,6 @@
 	},
 
 	{
-		"type": "conference",
-		"authors": {
-			"author": [
- { "text": "Takahiro Komamizu" }
-			]
-		},
-		"title": "Towards Ensemble-based Imbalanced Text Classification using Metric Learning.",
-		"venue": "DEXA",
-		"pages": "",
-		"year": "2023",
-		"ee": ""
-	},
-
-	{
 		"type": "journal",
 		"authors": {
 			"author": [
