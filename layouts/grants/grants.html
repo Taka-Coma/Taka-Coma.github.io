@@ -58,7 +58,7 @@
 						{{ end }}
 
 						{{ if .main }}
-						<li>代表：<a href='.main.url' target='_blank'>{{ .main.name }}</a>（{{ .main.affiliation }}）</li>
+						<li>代表：<a href='{{ .main.url }}' target='_blank'>{{ .main.name }}</a>（{{ .main.affiliation }}）</li>
 						{{ end }}
 
 						{{ if .members }}
@@ -68,7 +68,7 @@
 								{{ if .me }}
 									{{ .name }}（{{ .affiliation }}）
 								{{ else }}
-									<a href='.url' target='_blank'>{{ .name }}</a>（{{ .affiliation }}）
+									<a href='{{ .url }}' target='_blank'>{{ .name }}</a>（{{ .affiliation }}）
 								{{ end }}
 								</li>
 							{{ end }}
