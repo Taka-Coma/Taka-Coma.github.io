@@ -23,7 +23,7 @@ draft: false
 ----
 ## International Conferences
 ### 2023
-- [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf))
+- [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023 ([DOI](https://doi.org/10.1007/978-3-031-27077-2_14))
 ### 2022
 - Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp.1-7, 2022 ([DOI](https://doi.org/10.1109/AVSS56176.2022.9959510))
