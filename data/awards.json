@@ -1,6 +1,18 @@
 [
 
 	{
+		"venue": "DEXA 2023",
+		"venue_url": "",
+		"award": "Best Paper Award",
+		"award_jp": "最優秀論文賞",
+		"paper": {
+			"author": "Takahiro Komamizu",
+			"title": "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning"
+		},
+		"date": "August 2023"
+	},
+
+	{
 		"venue": "MIRU 2023",
 		"venue_url": "http://cvim.ipsj.or.jp/MIRU2023/",
 		"award": "Best Poster Award",
