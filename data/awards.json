@@ -2,9 +2,10 @@
 
 	{
 		"venue": "DEXA 2023",
-		"venue_url": "",
+		"venue_url": "https://www.dexa.org/dexa2023",
 		"award": "Best Paper Award",
 		"award_jp": "最優秀論文賞",
+		"award_url": "",
 		"paper": {
 			"author": "Takahiro Komamizu",
 			"title": "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning"

@@ -24,28 +24,28 @@
 <div class='row row-cols-1 row-cols-md-2'>
 {{ range $.Site.Data.awards }}
 	<div class='col mb-3 award-height'>
-		<div class='card border-white h-100 award_bg'>
-			<div class='card-header px-4 award-header'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
 				<h4 class='pt-2 m-0'>
+					<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
 					{{ .award }}
 				</h4>
-				<h6 class='pt-1 pb-2 m-0'>
+				<h6 class='py-2 m-0'>
 					{{ .award_jp }}
 				</h6>
-
-				{{ if .venue }}
-					<h6>
-					{{ if .venue_url }}
-						<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
-					{{ else }}
-						{{ .venue }}
-					{{ end }}
-					</h6>
-				{{ end }}
-
 			</div>
+
 			<div class='card-body px-4'>
 				<ul class='card-text award-text'>
+					<li>
+						{{ if .venue }}
+							{{ if .venue_url }}
+								<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
+							{{ else }}
+								{{ .venue }}
+							{{ end }}
+						{{ end }}
+					</li>
 					<li>{{ .paper.author }}</li>
 					{{ if .paper.title }}
 						<li>{{ .paper.title }}</li>
@@ -78,28 +78,28 @@
 <div class='row row-cols-1 row-cols-md-2'>
 {{ range $.Site.Data.awards_student }}
 	<div class='col mb-3 award-height'>
-		<div class='card border-white h-100 award_bg'>
-			<div class='card-header px-4 award-header'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
 				<h4 class='pt-2 m-0'>
+					<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
 					{{ .award }}
 				</h4>
-				<h6 class='pt-1 pb-2 m-0'>
+				<h6 class='py-2 m-0'>
 					{{ .award_jp }}
 				</h6>
-
-				{{ if .venue }}
-					<h6>
-					{{ if .venue_url }}
-						<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
-					{{ else }}
-						{{ .venue }}
-					{{ end }}
-					</h6>
-				{{ end }}
-
 			</div>
+
 			<div class='card-body px-4'>
 				<ul class='card-text award-text'>
+					<li>
+						{{ if .venue }}
+							{{ if .venue_url }}
+								<a href='{{ .venue_url }}' target='_blank'>{{ .venue }}</a>
+							{{ else }}
+								{{ .venue }}
+							{{ end }}
+						{{ end }}
+					</li>
 					<li>{{ .paper.author }}</li>
 					{{ if .paper.title }}
 						<li>{{ .paper.title }}</li>

@@ -132,34 +132,23 @@ img {
 	}
 }
 
-.award_bg:before {
-	background-image: url('/images/design/award.jpg');
-	background-size: cover;
-	top: 0px;
-	right: 0px;
-	left: 0px;
-	bottom: 0px;
-	position: absolute;
-	content: "";
-	opacity: 0.9;
-}
-
 .award-header {
 	position: relative;
-	background-color: rgba(255, 255, 255, 0.2);
-	color: yellow !important;
 }
 
 .award-height {
-	height: 350px;
+	height: 280px;
+}
+
+.award-trophy{
+	color: yellow !important;
+	margin-right: 2mm;
 }
 
 .award-text {
 	position: relative;
-	width: 75%;
 	list-style: none;
 	padding-left: 0px;
-	color: white !important;
 }
 
 .award-footer {
