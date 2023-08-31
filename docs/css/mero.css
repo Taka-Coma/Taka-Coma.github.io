@@ -134,14 +134,11 @@ img {
 
 .award-header {
 	position: relative;
-}
-
-.award-height {
-	height: 280px;
+	background-color: black;
 }
 
 .award-trophy{
-	color: yellow !important;
+	color: gold !important;
 	margin-right: 2mm;
 }
 
@@ -153,4 +150,8 @@ img {
 
 .award-footer {
 	position: relative;
+}
+
+.text-right {
+	text-align: right;
 }

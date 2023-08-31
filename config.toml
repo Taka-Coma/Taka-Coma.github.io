@@ -202,7 +202,7 @@ publishDir="docs"
 
 [params.social]
   [[params.social.list]]
-  class = "fab"
+  class = "fa-brands"
   icon = "fa-twitter"
 	url = "https://twitter.com/TakaComa"
 

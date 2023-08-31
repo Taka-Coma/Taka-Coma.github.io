@@ -21,18 +21,31 @@
 	</div>
 </div>
 
-<div class='row row-cols-1 row-cols-md-2'>
+<div class='row row-cols-1 bg-secondary pt-3'>
 {{ range $.Site.Data.awards }}
-	<div class='col mb-3 award-height'>
+	<div class='col mb-4'>
 		<div class='card border-white bg-dark h-100'>
 			<div class='card-header border-white bg-dark px-4'>
-				<h4 class='pt-2 m-0'>
-					<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
-					{{ .award }}
-				</h4>
-				<h6 class='py-2 m-0'>
-					{{ .award_jp }}
-				</h6>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							{{ .award }}
+						</h4>
+						<h6 class='py-2 m-0'>
+							{{ .award_jp }}
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>{{ .date }}</span>
+						<br>
+						<a href='{{ .award_url }}' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
 			</div>
 
 			<div class='card-body px-4'>
@@ -46,6 +59,7 @@
 							{{ end }}
 						{{ end }}
 					</li>
+
 					<li>{{ .paper.author }}</li>
 					{{ if .paper.title }}
 						<li>{{ .paper.title }}</li>
@@ -54,13 +68,6 @@
 
 			</div>
 
-			<div class='card-footer award-footer px-4 bg-secondary d-flex justify-content-between'>
-				<span class='p-1'>{{ .date }}</span>
-				<a href='{{ .award_url }}' target='_blank'>
-					<span class="material-symbols-outlined">web</span>
-					Web page
-				</a>
-			</div>
 		</div>
 	</div>
 {{ end }}
@@ -75,18 +82,31 @@
 	</h1>
 </div>
 
-<div class='row row-cols-1 row-cols-md-2'>
+<div class='row row-cols-1 bg-secondary pt-3'>
 {{ range $.Site.Data.awards_student }}
-	<div class='col mb-3 award-height'>
+	<div class='col mb-4'>
 		<div class='card border-white bg-dark h-100'>
 			<div class='card-header border-white bg-dark px-4'>
-				<h4 class='pt-2 m-0'>
-					<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
-					{{ .award }}
-				</h4>
-				<h6 class='py-2 m-0'>
-					{{ .award_jp }}
-				</h6>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							{{ .award }}
+						</h4>
+						<h6 class='py-2 m-0'>
+							{{ .award_jp }}
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>{{ .date }}</span>
+						<br>
+						<a href='{{ .award_url }}' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
 			</div>
 
 			<div class='card-body px-4'>
@@ -100,6 +120,7 @@
 							{{ end }}
 						{{ end }}
 					</li>
+
 					<li>{{ .paper.author }}</li>
 					{{ if .paper.title }}
 						<li>{{ .paper.title }}</li>
@@ -108,18 +129,10 @@
 
 			</div>
 
-			<div class='card-footer award-footer px-4 bg-secondary d-flex justify-content-between'>
-				<span class='p-1'>{{ .date }}</span>
-				<a href='{{ .award_url }}' target='_blank'>
-					<span class="material-symbols-outlined">web</span>
-					Web page
-				</a>
-			</div>
 		</div>
 	</div>
 {{ end }}
 </div>
-
 
 
 </article>
