@@ -4,6 +4,25 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+ 				{ "text": "Akira Yoshida"},
+				{ "text": "Chihaya Matsuhira"},
+				{ "text": "Hirotaka Kato"},
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+			]
+		},
+		"title": "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese.",
+		"venue": "PACLIC",
+		"pages": "",
+		"year": "2023",
+		"ee": ""
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
  				{ "text": "Chihaya Matsuhira" },
 				{ "text": "Marc A. Kastner" },
 				{ "text": "Takahiro Komamizu" },

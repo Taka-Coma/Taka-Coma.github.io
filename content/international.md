@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+- Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", McGE@ACMMM, pp., 2023 ([DOI]())
 - [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp., 2023 ([DOI]())
 - Carlos Victorino Padeiro, [Takahiro Komamizu](/), Ichiro Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection", MVA, pp., 2023 ([DOI]())
@@ -25,6 +26,10 @@ draft: false
 ### 2023
 - [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023 ([DOI](https://doi.org/10.1007/978-3-031-27077-2_14))
+- Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Small Object Detection for Birds with Swin Transformer", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216093))
+- Banri Kojima, [Takahiro Komamizu](/), Yasutomo Kawanishi, Keisuke Doman, Ichiro Ide, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216055))
+- Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results", MVA, pp.1-11, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10215935))
+- Carlos Victorino Padeiro, [Takahiro Komamizu](/), Ichiro Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection", MVA, pp.1-6, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10215815))
 ### 2022
 - Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp.1-7, 2022 ([DOI](https://doi.org/10.1109/AVSS56176.2022.9959510))
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives", ICADL, pp.377-391, 2022 ([DOI](https://doi.org/10.1007/978-3-031-21756-2_29)) --- {{< awards name="Best Paper Runner-up" >}}
