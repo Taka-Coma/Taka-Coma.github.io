@@ -32,11 +32,11 @@ draft: false
 - Mar. 2023 - now,
 	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
 	Prgram Co-chiar
-- Jan. 2023 - now,
-	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
-	Workshop Co-Chair
 
 ### Past Activities
+- Jan. 2023 - Aug. 2023,
+	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
+	Workshop Co-Chair
 - Sep. 2022 - Feb. 2023,
 	[11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)](http://pa.icar.cnr.it/scsn23/),
 	PC member
@@ -81,12 +81,13 @@ draft: false
 - Apr. 2023 - May. 2025, [情報処理学会](https://www.ipsj.or.jp/), [論文誌ジャーナル/JIP編集委員会](https://www.ipsj.or.jp/annai/committee/meibo/2020ronbunshi.html), 編集委員
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [論文誌データベース編集委員会](https://www.ipsj-tod.org/), 編集委員
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [データベースシステム研究運営委員会](https://www.ieice.org/iss/de/jpn/), 運営委員
+- Jun. 2023 - Jun. 2025, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 幹事補佐
 - Apr. 2021 - now, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
-- Jun. 2019 - now, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会, 幹事
 - Apr. 2023 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 教材分科会, 委員
 
 ### Past Activities
+- Jun. 2019 - Jun. 2023, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - Mar. 2023, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 調査研究分科会, 委員
 - Apr. 2022 - Mar. 2023, [第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)](https://event.dbsj.org/deim2023/), 実行委員会, ローカル共同委員長 
 - Sep. 2022 - Sep. 2022, [東海関西データベースワークショップ 2022](https://sites.google.com/mil.doshisha.ac.jp/dbws2022/home), プログラム委員会, プログラム委員
@@ -107,7 +108,7 @@ draft: false
 
 ----
 
-## Ad-hoc Reviewer (International Journal)
+## Reviewer: International Journal
 - BMC Medical Research Methodology: 2023
 - KAIS: 2023
 - MMSJ: 2020
@@ -117,8 +118,7 @@ draft: false
 
 ----
 
-## Ad-hoc Reviewer (International Conference)
-
+## Reviewer: International Conference
 - ICME: 2019, 2020
 - ICSC: 2018, 2020 (sub-reviewer)
 - DSAA: 2016 (external reviewer)
@@ -127,7 +127,7 @@ draft: false
 
 ----
 
-## Ad-hoc Reviewer (Japanese Journal)
+## Reviewer: Japanese Journal
 - IEICE Journal: 2013, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023
 - DBSJ Journal: 2019, 2021, 2022, 2023
 - IPSJ Journal: 2020, 2022, 2023
