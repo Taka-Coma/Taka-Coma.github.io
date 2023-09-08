@@ -53,40 +53,6 @@
 	},
 
 	{
-		"type": "conference",
-		"authors": {
-			"author": [
- { "text": "Carlos Victorino Padeiro" },
- { "text": "Takahiro Komamizu" },
- { "text": "Ichiro Ide" }
-			]
-		},
-		"title": "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection.",
-		"venue": "MVA",
-		"pages": "",
-		"year": "2023",
-		"ee": ""
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
- { "text": "Banri Kojima" },
- { "text": "Takahiro Komamizu" },
- { "text": "Ichiro Ide" },
- { "text": "Yasutomo Kawanishi" },
- { "text": "Keisuke Doman" }
-			]
-		},
-		"title": "Image Impression Estimation by Clustering People with Similar Tastes.",
-		"venue": "MVA",
-		"pages": "",
-		"year": "2023",
-		"ee": ""
-	},
-
-	{
 		"type": "journal",
 		"authors": {
 			"author": [
@@ -107,7 +73,7 @@
 		"pages": "", 
 		"year": "2023",
 		"month": "",
-		"ee": ""
+		"ee": "https://doi.org/10.1007/s11042-023-15732-z"
 	},
 
 	{

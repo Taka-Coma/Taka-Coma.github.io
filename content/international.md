@@ -8,9 +8,7 @@ draft: false
 - Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", McGE@ACMMM, pp., 2023 ([DOI]())
 - [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp., 2023 ([DOI]())
-- Carlos Victorino Padeiro, [Takahiro Komamizu](/), Ichiro Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection", MVA, pp., 2023 ([DOI]())
-- Banri Kojima, [Takahiro Komamizu](/), Ichiro Ide, Yasutomo Kawanishi, Keisuke Doman, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp., 2023 ([DOI]())
-- Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI]())
+- Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
 - Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol., No., pp., 2023 ([DOI]())
 ----
 ## International Journals
