@@ -26,8 +26,11 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
+- Sep. 2023 - now,
+    [12th International Symposium on Information and Communication Technology (SOICT 2023)](https://soict.org/),
+    PC member (AI Foundation and Big Data)
 - Apr. 2023 - now,
-	[2023 IEEE International Conference on Big Data (IEEE BigData 2023)](http://bigdataieee.org/BigData2023/index.html)
+	[2023 IEEE International Conference on Big Data (IEEE BigData 2023)](http://bigdataieee.org/BigData2023/index.html),
 	PC member
 - Mar. 2023 - now,
 	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
