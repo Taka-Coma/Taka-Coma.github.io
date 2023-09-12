@@ -90,6 +90,7 @@ draft: false
 - Apr. 2023 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 教材分科会, 委員
 
 ### Past Activities
+- Sep. 2023 - Sep. 2023, [東海関西データベースワークショップ 2023](https://www.nadasemi.jp/dbws-2023/), プログラム委員会, プログラム委員
 - Jun. 2019 - Jun. 2023, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - Mar. 2023, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 調査研究分科会, 委員
 - Apr. 2022 - Mar. 2023, [第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)](https://event.dbsj.org/deim2023/), 実行委員会, ローカル共同委員長 
