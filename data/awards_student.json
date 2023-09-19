@@ -1,6 +1,32 @@
 [
 
 	{
+		"venue": "DBWS 2023",
+		"venue_url": "https://www.nadasemi.jp/dbws-2023/",
+		"award":  "Presentation Award",
+		"award_jp": "優秀プレゼンテーション賞",
+		"award_url":  "https://www.nadasemi.jp/dbws-2023/award/",
+		"paper": {
+			"author": "NGUYEN Trung Thanh",
+			"title": "医療分野におけるゼロショット錠剤-処方箋対応付け"
+		},
+		"date": "September 2023"
+	},
+
+	{
+		"venue": "MVA 2023 - Small Object Detection Challenge for Spotting Birds 2023",
+		"venue_url": "https://www.mva-org.jp/mva2023/",
+		"award":  "Best Booster Award",
+		"award_jp": "Best Booster Award",
+		"award_url":  "https://www.mva-org.jp/mva2023/",
+		"paper": {
+			"author": "Huo Da",
+			"title": ""
+		},
+		"date": "July 2023"
+	},
+
+	{
 		"venue": "DEIM 2023",
 		"venue_url": "https://event.dbsj.org/deim2023/",
 		"award": "Student Presentation Award",
