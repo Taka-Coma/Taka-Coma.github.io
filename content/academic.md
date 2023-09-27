@@ -128,6 +128,8 @@ draft: false
 - DSAA: 2016 (external reviewer)
 - DaWaK: 2016 (additional reviewer)
 - WISE: 2016 (sub-reviewer)
+- IEEE BigData: 2023
+- SoICT: 2023
 
 ----
 
