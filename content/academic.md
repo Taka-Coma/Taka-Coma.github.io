@@ -139,6 +139,9 @@ draft: false
 -----
 
 ## Other Activities
-- ACLReading（ACL読み会@名古屋大）： [2018](http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2018nagoya/), [2019](http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2019nagoya/), 2023
+- ACLReading（ACL読み会@名古屋大）
+    - [2018](http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2018nagoya/)
+    - [2019](http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2019nagoya/)
+    - [2023](http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2023nagoya/)
 - [DBReading（データベース勉強会）](http://www.kde.cs.tsukuba.ac.jp/dbreading/)
 - [SEReading（ソフトウェア工学勉強会）](https://sites.google.com/site/sereadings/)
