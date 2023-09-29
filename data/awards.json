@@ -27,6 +27,19 @@
 	},
 
 	{
+		"venue": "MVA 2023",
+		"venue_url": "https://www.mva-org.jp/mva2023/",
+		"award": "Runner-Up Solution Award",
+		"award_jp": "準優勝",
+		"award_url": "https://www.mva-org.jp/mva2023/challenge/challenge_winner",
+		"paper": {
+			"author": "Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide",
+			"title": "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning"
+		},
+		"date": "July 2023"
+	},
+
+	{
 		"venue": "ICADL 2022",
 		"venue_url": "https://icadl.net/icadl2022/",
 		"award": "Best Paper Runner-up",
