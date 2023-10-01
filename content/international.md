@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## To Appear
-- Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Networ", MMAsia, pp., 2023 ([DOI]())
+- Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", MMAsia, pp., 2023 ([DOI]())
 - Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", McGE@ACMMM, pp., 2023 ([DOI]())
 - [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp., 2023 ([DOI]())
