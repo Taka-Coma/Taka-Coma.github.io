@@ -3,6 +3,23 @@
 	{
 		"authors": {
 			"author": [
+				{ "text": "佐野 智也" },
+				{ "text": "外山 勝彦" },
+				{ "text": "駒水 孝裕" },
+				{ "text": "増田 知子" }
+ 		]},
+  		"title": "歴史情報としての法令データベースの構築",
+  		"venue": "デジタルアーカイブ学会誌",
+			"volume": "7",
+			"number": "s2",
+  		"pages": "s142-s145",
+  		"year" : "2023",
+			"ee": "https://doi.org/10.24506/jsda.7.s2_s142"
+	},
+
+	{
+		"authors": {
+			"author": [
 				{ "text": "Bolin Zhang" },
 				{ "text": "Haruya Kyutoku" },
 				{ "text": "Keisuke Doman" },
