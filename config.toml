@@ -21,6 +21,8 @@ publishDir="docs"
 	affurl1 = "https://www.mds.nagoya-u.ac.jp/"
 	aff2 = "Nagoya University"
 	affurl2 = "http://www.nagoya-u.ac.jp/"
+	lab = "Contents Science Laboratory"
+	laburl = "https://www.cs.is.i.nagoya-u.ac.jp/"
 
 
 [params.interests]
