@@ -7,12 +7,10 @@ draft: false
 ## To Appear
 - Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", MMAsia, pp., 2023 ([DOI]())
 - Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI]())
-- Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", McGE@ACMMM, pp., 2023 ([DOI]())
-- [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
-- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol., No., pp., 2023 ([DOI]())
 ----
 ## International Journals
+- Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol.47, No.3, 2023 ([DOI](https://doi.org/10.31449/inf.v47i3.4742))
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))
 - [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification", J. Data Intell., Vol.2, No.1, pp.30-46, 2021 ([DOI](https://doi.org/10.26421/JDI2.1-2))
 - [Takahiro Komamizu](/), "Random walk-based entity representation learning and re-ranking for entity search", Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 ([DOI](https://doi.org/10.1007/s10115-020-01445-4))
@@ -24,6 +22,8 @@ draft: false
 ## International Conferences
 ### 2023
 - [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
+- Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", MCGE@MM, pp.115-125, 2023 ([DOI](https://doi.org/10.1145/3607541.3616818))
+- [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp.37-42, 2023 ([DOI](https://doi.org/10.1109/MIPR59079.2023.00021))
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023 ([DOI](https://doi.org/10.1007/978-3-031-27077-2_14))
 - Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Small Object Detection for Birds with Swin Transformer", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216093))
 - Banri Kojima, [Takahiro Komamizu](/), Yasutomo Kawanishi, Keisuke Doman, Ichiro Ide, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216055), [poster](/pdfs/MVA2023_poster.pdf))
