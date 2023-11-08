@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "An Approach to Generate a Caption for an Image Collection using Scene Graph Generation", IEEE Access, Vol., No., pp., 2023 ([DOI]())
 - Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", MMAsia, pp., 2023 ([DOI]())
 - Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
@@ -24,6 +25,7 @@ draft: false
 - [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", MCGE@MM, pp.115-125, 2023 ([DOI](https://doi.org/10.1145/3607541.3616818))
 - [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp.37-42, 2023 ([DOI](https://doi.org/10.1109/MIPR59079.2023.00021))
+- Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), Satoshi Yamazaki, Karen Stephen, Kajal Kansal, "NarSUM &apos;23: The 2nd Workshop on User-Centric Narrative Summarization of Long Videos", ACM Multimedia, pp.9731-9733, 2023 ([DOI](https://doi.org/10.1145/3581783.3610946))
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023 ([DOI](https://doi.org/10.1007/978-3-031-27077-2_14))
 - Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Small Object Detection for Birds with Swin Transformer", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216093))
 - Banri Kojima, [Takahiro Komamizu](/), Yasutomo Kawanishi, Keisuke Doman, Ichiro Ide, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216055), [poster](/pdfs/MVA2023_poster.pdf))
@@ -82,4 +84,5 @@ draft: false
 ## Pre-Print
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining", CoRR, Vol.abs/2303.03144, 2023 ([DOI](https://doi.org/10.48550/arXiv.2303.03144))
 - Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results", CoRR, Vol.abs/2307.09143, 2023 ([DOI](https://doi.org/10.48550/arXiv.2307.09143))
+- Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", CoRR, Vol.abs/2310.15593, 2023 ([DOI](https://doi.org/10.48550/arXiv.2310.15593))
 - [Takahiro Komamizu](/), "SPARQL with XQuery-based Filtering", CoRR, Vol.abs/2009.06194, 2020 ([DOI](https://arxiv.org/abs/2009.06194))

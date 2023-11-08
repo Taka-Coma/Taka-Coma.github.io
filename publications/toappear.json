@@ -1,6 +1,27 @@
 [
 
 	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Itthisak Phueaksri" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+			]
+		},
+		"title": "An Approach to Generate a Caption for an Image Collection using Scene Graph Generation.",
+		"venue": "IEEE Access",
+		"volume": "",
+		"number": "",
+		"pages": "", 
+		"year": "2023",
+		"month": "",
+		"ee": ""
+	},
+
+	{
 		"type": "conference",
 		"authors": {
 			"author": [
