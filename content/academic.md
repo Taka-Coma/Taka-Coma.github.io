@@ -26,6 +26,9 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
+- Nov. 2023 - now,
+    [14th International Conference on Multimedia Retrieval (ICMR 2024)](http://icmr2024.org/),
+    PC member
 - Oct. 2023 - now,
 	[12th IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge (SCSN@ICSC 2024)](http://pa.icar.cnr.it/scsn24/),
 	PC member
@@ -35,13 +38,13 @@ draft: false
 - Apr. 2023 - now,
 	[2023 IEEE International Conference on Big Data (IEEE BigData 2023)](http://bigdataieee.org/BigData2023/index.html),
 	PC member
-- Mar. 2023 - now,
-	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
-	Program Co-chiar
 - Mar. 2022 - now,
     [29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)](https://www.dasfaa2024.org/), Local Arrangement Committee member
 
 ### Past Activities
+- Mar. 2023 - Nov. 2023,
+	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
+	Program Co-chiar
 - Jan. 2023 - Aug. 2023,
 	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
 	Workshop Co-Chair
