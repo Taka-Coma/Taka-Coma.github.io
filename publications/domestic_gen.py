@@ -44,6 +44,10 @@ draft: false
             'text': '編集',
             'url': "./domestic_edit.json"
         },
+        'press': {
+            'text': 'プレスリリース',
+            'url': "./domestic_press.json"
+        },
         'technical': {
             'text': '技術紀要',
             'url': "./domestic_technical.json"
