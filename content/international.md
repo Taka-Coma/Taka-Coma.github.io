@@ -5,12 +5,12 @@ draft: false
 ---
 
 ## To Appear
-- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "An Approach to Generate a Caption for an Image Collection using Scene Graph Generation", IEEE Access, Vol., No., pp., 2023 ([DOI]())
 - Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", MMAsia, pp., 2023 ([DOI]())
 - Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI]())
 - Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
 ----
 ## International Journals
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "An Approach to Generate a Caption for an Image Collection Using Scene Graph Generation", IEEE Access, Vol.11, pp.128245-128260, 2023 ([DOI](https://doi.org/10.1109/ACCESS.2023.3332098))
 - Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol.47, No.3, 2023 ([DOI](https://doi.org/10.31449/inf.v47i3.4742))
 - [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))
 - [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification", J. Data Intell., Vol.2, No.1, pp.30-46, 2021 ([DOI](https://doi.org/10.26421/JDI2.1-2))
