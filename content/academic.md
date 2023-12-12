@@ -26,6 +26,8 @@ draft: false
 
 ## Academic Activities (International)
 ### Current Activities
+- Nov. 2023 - now, [30th  International Workshop on Frontiers of Computer Vision (IW-FCV 2024) ](https://sites.google.com/view/iw-fcv2024/),
+    Technical Program Committee member
 - Nov. 2023 - now,
     [14th International Conference on Multimedia Retrieval (ICMR 2024)](http://icmr2024.org/),
     PC member
