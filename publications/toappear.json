@@ -4,24 +4,6 @@
 		"type": "conference",
 		"authors": {
 			"author": [
- 				{ "text": "Jialiang Shi"},
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Keisuke Doman"},
-				{ "text": "Haruya Kyutoku" },
-				{ "text": "Ichiro Ide" }
-			]
-		},
-		"title": "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network.",
-		"venue": "MMAsia",
-		"pages": "",
-		"year": "2023",
-		"ee": ""
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
  				{ "text": "Akira Yoshida"},
 				{ "text": "Chihaya Matsuhira"},
 				{ "text": "Hirotaka Kato"},
