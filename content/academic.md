@@ -25,8 +25,9 @@ draft: false
 ----
 
 ## Academic Activities (International)
+
 ### Current Activities
-- Dec. 2023 - now, [4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)](),
+- Dec. 2023 - now, [4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)](https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html),
     Organizing Committee member
 - Nov. 2023 - now, [30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024) ](https://sites.google.com/view/iw-fcv2024/),
     Technical Program Committee member
