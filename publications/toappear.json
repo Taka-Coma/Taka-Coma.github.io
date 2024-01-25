@@ -1,6 +1,27 @@
 [
 
 	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Itthisak Phueaksri" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+			]
+		},
+		"title": "Image-Collection Summarization using Scene-Graph Generation with External Knowledge",
+		"venue": "IEEE Access",
+		"volume": "",
+		"number": "",
+		"pages": "", 
+		"year": "2023",
+		"month": "",
+		"ee": ""
+	},
+
+	{
 		"type": "conference",
 		"authors": {
 			"author": [
