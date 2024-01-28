@@ -29,6 +29,7 @@ date = "2022-10-10"
 ## Web Page Design
 
 {{< gallery hover-effect="grow" >}}
+	{{< figure caption="MMM 2025" src="/images/webpages/MMM2025.png" >}}
 	{{< figure caption="MDS Center of Nagoya University" src="/images/webpages/MDS.png" >}}
 	{{< figure caption="ConfereceList.info" src="/images/webpages/conferencelist.png" >}}
 	{{< figure caption="NarSUM workshop at ACM MM 2022" src="/images/webpages/NarSUM2022.png" >}}
@@ -38,6 +39,7 @@ date = "2022-10-10"
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
+- [MMM 2025](https://mmm2025.net/)
 - [MDS Center of Nagoya University](https://www.mds.nagoya-u.ac.jp/)
 - [NarSUM workshop at ACM MM 2022](https://www.narsum.cf/)
 - [MIPR 2021](https://mipr2021.org/)
