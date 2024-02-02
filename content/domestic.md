@@ -13,8 +13,14 @@ draft: false
 - 永野 真知, 早瀬 康裕, [駒水 孝裕](/), 北川 博之, "GitHubとStack Overflowの開発者の活動記録を併用したリポジトリ推薦", ソフトウェアエンジニアリングシンポジウム 2017, pp.138-145, 2017 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183222&item_no=1&page_id=13&block_id=8))
 ----
 ## 査読なし会議
+### 2024
+- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", 画像工学研究会 (IE), pp.97, 2024
+- 池田 昂太郎, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌詞の自動翻訳のための発音を考慮した訳語選択に関する研究", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.13, 2024
+- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル付き料理画像のフォントスタイル生成に関する検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.35, 2024
+- リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", パターン認識・メディア理解研究会 (PRMU), pp.63, 2024
 ### 2023
 - 佐野 智也, 外山 勝彦, [駒水 孝裕](/), 増田 知子, "歴史情報としての法令データベースの構築", デジタルアーカイブ学会誌, Vol.7, No.s2, pp.s142-s145, 2023 ([link](https://doi.org/10.24506/jsda.7.s2_s142))
+- Bolin Zhang, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Chao Yang, Bin Jiang, Ichiro Ide, "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.IS3-84, 2023
 - Bolin Zhang, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Chao Yang, Bin Jiang, Ichiro Ide, "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-84, 2023
 - Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Leverage Semantic Alignment of Object Relations for Image Captioning", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-84, 2023
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Image Collection Scene Graph Summarization Enhancing Relation Predictor with External Knowledge", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-78, 2023
