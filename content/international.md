@@ -5,11 +5,11 @@ draft: false
 ---
 
 ## To Appear
-1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Image-Collection Summarization using Scene-Graph Generation with External Knowledg", IEEE Access, Vol., No., pp., 2024 ([DOI]())
 1. Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI](https://aclanthology.org/2023.paclic-1.33/))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
 ----
 ## International Journals
+1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Image-Collection Summarization Using Scene-Graph Generation With External Knowledge", IEEE Access, Vol.12, pp.17499-17512, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3360113))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "An Approach to Generate a Caption for an Image Collection Using Scene Graph Generation", IEEE Access, Vol.11, pp.128245-128260, 2023 ([DOI](https://doi.org/10.1109/ACCESS.2023.3332098))
 1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol.47, No.3, 2023 ([DOI](https://doi.org/10.31449/inf.v47i3.4742))
 1. [Takahiro Komamizu](/), "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021 ([DOI](https://doi.org/10.26421/JDI2.4-5))
