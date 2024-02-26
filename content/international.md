@@ -23,7 +23,7 @@ draft: false
 ### 2023
 1. [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", MCGE@MM, pp.115-125, 2023 ([DOI](https://doi.org/10.1145/3607541.3616818))
-1. [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp.37-42, 2023 ([DOI](https://doi.org/10.1109/MIPR59079.2023.00021))
+1. [Takahiro Komamizu](/), "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp.37-42, 2023 ([DOI](https://doi.org/10.1109/MIPR59079.2023.00021), [slide](/pdfs/MIPR2023.pdf))
 1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), Satoshi Yamazaki, Karen Stephen, Kajal Kansal, "NarSUM &apos;23: The 2nd Workshop on User-Centric Narrative Summarization of Long Videos", ACM Multimedia, pp.9731-9733, 2023 ([DOI](https://doi.org/10.1145/3581783.3610946))
 1. Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", MMAsia, pp.56:1-56:7, 2023 ([DOI](https://doi.org/10.1145/3595916.3626430))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023 ([DOI](https://doi.org/10.1007/978-3-031-27077-2_14))
