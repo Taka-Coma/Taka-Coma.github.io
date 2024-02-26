@@ -5,7 +5,6 @@ draft: false
 ---
 
 ## To Appear
-1. Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp., 2023 ([DOI](https://aclanthology.org/2023.paclic-1.33/))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol., No., pp., 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
 ----
 ## International Journals
@@ -32,6 +31,7 @@ draft: false
 1. Banri Kojima, [Takahiro Komamizu](/), Yasutomo Kawanishi, Keisuke Doman, Ichiro Ide, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp.1-5, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10216055), [poster](/pdfs/MVA2023_poster.pdf))
 1. Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results", MVA, pp.1-11, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10215935))
 1. Carlos Victorino Padeiro, [Takahiro Komamizu](/), Ichiro Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection", MVA, pp.1-6, 2023 ([DOI](https://doi.org/10.23919/MVA57639.2023.10215815))
+1. Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp.322-337, 2023 ([DOI](https://aclanthology.org/2023.paclic-1.33))
 ### 2022
 1. Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp.1-7, 2022 ([DOI](https://doi.org/10.1109/AVSS56176.2022.9959510))
 1. Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives", ICADL, pp.377-391, 2022 ([DOI](https://doi.org/10.1007/978-3-031-21756-2_29)) --- {{< awards name="Best Paper Runner-up" >}}
