@@ -6,6 +6,7 @@ draft: false
 
 ## To Appear
 1. Nguyen Trung Thanh, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Feature", The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024), pp., 2024 ([DOI]())
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generati", IEEE Access, Vol., No., pp., 2024 ([DOI]())
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, "Computational Measurement of Perceived Pointiness from Pronunciation", Multim. Tools Appl., Vol.83, No., pp.26183–26210, 2023 ([DOI](https://doi.org/10.1007/s11042-023-15732-z))
 ----
 ## International Journals
