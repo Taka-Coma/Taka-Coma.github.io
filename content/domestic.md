@@ -17,6 +17,7 @@ draft: false
 - Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", 画像工学研究会 (IE), pp.97, 2024
 - 池田 昂太郎, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌詞の自動翻訳のための発音を考慮した訳語選択に関する研究", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.13, 2024
 - 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル付き料理画像のフォントスタイル生成に関する検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.35, 2024
+- 加藤 辰弥, [駒水 孝裕](/), 井手 一郎, "類似度グラフの事前再計算による拡散式画像検索の効率化", 第16回データ工学と情報マネジメントに関するフォーラム, pp.T3-B-4-04, 2024 -- {{< awards name="Student Presentation Award" url="https://confit.atlas.jp/guide/event/deim2024/static/awards" >}}
 - リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", パターン認識・メディア理解研究会 (PRMU), pp.63, 2024
 ### 2023
 - 佐野 智也, 外山 勝彦, [駒水 孝裕](/), 増田 知子, "歴史情報としての法令データベースの構築", デジタルアーカイブ学会誌, Vol.7, No.s2, pp.s142-s145, 2023 ([link](https://doi.org/10.24506/jsda.7.s2_s142))

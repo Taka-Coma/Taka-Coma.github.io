@@ -51,6 +51,26 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "加藤 辰弥" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "類似度グラフの事前再計算による拡散式画像検索の効率化",
+  		"venue": "第16回データ工学と情報マネジメントに関するフォーラム",
+  		"pages": "T3-B-4-04",
+  		"year" : "2024",
+			"ee": "",
+			"awards": [
+				{
+					"name": "Student Presentation Award",
+					"url": "https://confit.atlas.jp/guide/event/deim2024/static/awards"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "リュウ テイイ" },
  { "text": "川西 康友" },
  { "text": "駒水 孝裕" },

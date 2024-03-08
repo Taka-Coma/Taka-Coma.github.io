@@ -1,6 +1,19 @@
 [
 
 	{
+		"venue": "DEIM 2024",
+		"venue_url": "https://confit.atlas.jp/guide/event/deim2024/top",
+		"award": "Student Presentation Award",
+		"award_jp": "学生プレゼンテーション賞",
+		"award_url": "https://confit.atlas.jp/guide/event/deim2024/static/awards",
+		"paper": {
+			"author": "加藤 辰弥，駒水 孝裕，井手 一郎",
+			"title": "類似度グラフの事前再計算による拡散式画像検索の効率化"
+		},
+		"date": "March 2024"
+	},
+
+	{
 		"venue": "DBWS 2023",
 		"venue_url": "https://www.nadasemi.jp/dbws-2023/",
 		"award":  "Presentation Award",
