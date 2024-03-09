@@ -6,6 +6,7 @@ date = "2022-10-10"
 ## Poster Design
 
 {{< gallery hover-effect="grow" >}}
+	{{< figure caption="DS Program Info Session 2024 Spring" src="/images/posters/dsprogram-infosession-2024-poster_spring.svg" >}}
 	{{< figure caption="DS Program Info Session 2024 Fall" src="/images/posters/dsprogram-infosession-2024-poster_fall.svg" >}}
 	{{< figure caption="Mobility DS Program Info Session 2023 Fall" src="/images/posters/mobidsprogram-infosession-2023-poster_fall.svg" >}}
 	{{< figure caption="Generative AI Seminar" src="/images/posters/gen_ai_2023.svg" >}}
@@ -18,11 +19,12 @@ date = "2022-10-10"
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
+- [DS Program Info Session 2024 Spring](https://www.mds.nagoya-u.ac.jp/platform-event/2024-03-12)
 - [DS Program Info Session 2024 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2024-autumn)
 - [Mobility DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2023-mobi)
 - [MDS Pamphlet 2023](https://www.mds.nagoya-u.ac.jp/ds-program)
-- [DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2022-11-30)
 - [DS Program Info Session 2023 Spring](https://www.mds.nagoya-u.ac.jp/info-session/2023-04-10)
+- [DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2022-11-30)
 
 ----
 
