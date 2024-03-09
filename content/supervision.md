@@ -5,8 +5,11 @@ draft: false
 ---
 
 ## As supervisor
-- Ph.D. Student
-	- [Carlos V. Padeiro](https://www.cs.is.i.nagoya-u.ac.jp/people/carlos-padeiro/), 2021.10 - now
+
+### Ph.D. Student
+- [Carlos V. Padeiro](https://www.cs.is.i.nagoya-u.ac.jp/people/carlos-padeiro/), 2021.10 - now
+
+----
 
 ## As Sub-supervisor
 
@@ -33,6 +36,7 @@ draft: false
 - [Kotaro Ikeda](https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/), 2023.4 - now
 - [Marika Watanabe](https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/), 2023.4 - now
 
+----
 
 ## As Advisor
 - Ph.D. Student at Doshisha University
