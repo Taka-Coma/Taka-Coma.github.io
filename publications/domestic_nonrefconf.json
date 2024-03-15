@@ -3,6 +3,22 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "木村 優介" },
+ { "text": "駒水 孝裕" },
+ { "text": "波多野 賢治" }
+ 		]},
+  		"title": "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略",
+  		"venue": "第154回情報基礎とアクセス技術・第132回ドキュメントコミュニケーション合同研究発表会",
+			"volume": "",
+			"number": "",
+  		"pages": "1",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },
@@ -11,6 +27,22 @@
   		"title": "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection",
   		"venue": "画像工学研究会 (IE)",  
   		"pages": "97",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "渡辺 茉里香"},
+ { "text": "久徳 遙矢" },
+ { "text": "道満 恵介" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "複数食材の大きさを統合利用した弁当画像の縮尺推定に関する検討",
+  		"venue": "メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) ",
+  		"pages": "80",
   		"year" : "2024",
 			"ee": ""
 	},
@@ -98,23 +130,6 @@
   		"pages": "s142-s145",
   		"year" : "2023",
 			"ee": "https://doi.org/10.24506/jsda.7.s2_s142"
-	},
-
-	{
-		"authors": {
-			"author": [
-				{ "text": "Bolin Zhang" },
-				{ "text": "Haruya Kyutoku" },
-				{ "text": "Keisuke Doman" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Chao Yang" },
-				{ "text": "Bin Jiang" },
-				{ "text": "Ichiro Ide" }
- 		]},
-  		"title": "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval",
-  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
-  		"pages": "IS3-84",
-  		"year" : "2023"
 	},
 
 	{
