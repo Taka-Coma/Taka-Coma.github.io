@@ -23,6 +23,8 @@ draft: false
 - リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", パターン認識・メディア理解研究会 (PRMU), pp.63, 2024
 ### 2023
 - 佐野 智也, 外山 勝彦, [駒水 孝裕](/), 増田 知子, "歴史情報としての法令データベースの構築", デジタルアーカイブ学会誌, Vol.7, No.s2, pp.s142-s145, 2023 ([link](https://doi.org/10.24506/jsda.7.s2_s142))
+- NGUYEN Trung Thanh, NGUYEN Phi Le, 川西 康友, [駒水 孝裕](/), 井手 一郎, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 -- {{< awards name="Presentation Runner-up Award" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
+- 加藤 辰弥, [駒水 孝裕](/), 井手 一郎, "画像検索におけるRe-rankerに基づくDiffusion事前計算", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-7, 2023
 - Bolin Zhang, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Chao Yang, Bin Jiang, Ichiro Ide, "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-84, 2023
 - Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Leverage Semantic Alignment of Object Relations for Image Captioning", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-84, 2023
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Image Collection Scene Graph Summarization Enhancing Relation Predictor with External Knowledge", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-78, 2023

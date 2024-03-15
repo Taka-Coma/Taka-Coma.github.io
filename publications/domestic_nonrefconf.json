@@ -135,6 +135,42 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "NGUYEN Trung Thanh" },
+ { "text": "NGUYEN Phi Le" },
+ { "text": "川西 康友" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "医療分野におけるゼロショット錠剤-処方箋対応付け",
+  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
+  		"pages": "2-6",
+  		"year" : "2023",
+			"ee": "",
+			"awards": [
+				{
+					"name": "Presentation Runner-up Award",
+					"url": "https://www.nadasemi.jp/dbws-2023/award/"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "加藤 辰弥" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "画像検索におけるRe-rankerに基づくDiffusion事前計算",
+  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
+  		"pages": "2-7",
+  		"year" : "2023",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
 				{ "text": "Bolin Zhang" },
 				{ "text": "Haruya Kyutoku" },
 				{ "text": "Keisuke Doman" },
