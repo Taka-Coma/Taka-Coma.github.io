@@ -25,8 +25,6 @@ date = "2020-10-20"
 	- データ処理ツール演習：クラスタ分析担当, 2018-2020
 
 - [Institute of Liberal Arts and Sciences（教養教育院）](https://www.ilas.nagoya-u.ac.jp/)
-	- データ科学基礎, 2022-now
-	- データ科学基礎演習, 2022-now
     - 実世界データ処理学特論, 2023-now
 
 ----
