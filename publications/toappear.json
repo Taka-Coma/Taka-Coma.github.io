@@ -15,29 +15,6 @@
   		"pages": "",
   		"year" : "2024",
 			"ee": ""
-	},
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-				{ "text": "Chihaya Matsuhira" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Keisuke Doman" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Ichiro Ide" }
-			]
-		},
-		"title": "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generatio",
-		"venue": "IEEE Access",
-		"volume": "",
-		"number": "",
-		"pages": "", 
-		"year": "2024",
-		"month": "",
-		"ee": ""
 	}
 
 ]
