@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservatio", The 20th Embedded Vision Workshop (EVW@CVPR2024), pp., 2024 ([DOI]())
 1. Nguyen Trung Thanh, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Feature", The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024), pp., 2024 ([DOI]())
 ----
 ## International Journals

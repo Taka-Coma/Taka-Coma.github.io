@@ -1,5 +1,20 @@
 [
 
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+ 				{ "text": "Carlos Victorino Padeiro" },
+				{ "text": "Tse-Wei Chen" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation",
+  		"venue": "The 20th Embedded Vision Workshop (EVW@CVPR2024)",
+  		"pages": "",
+  		"year" : "2024",
+			"ee": ""
+	},
 
 	{
 		"type": "conference",
