@@ -45,7 +45,7 @@ draft: false
 ### 2021
 1. Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes", WAT@ACL/IJCNLP, pp.124-132, 2021 ([DOI](https://doi.org/10.18653/v1/2021.wat-1.12))
 1. [Takahiro Komamizu](/), "MMEnsemble: Imbalanced Classification Framework Using Metric Learning and Multi-sampling Ratio Ensemble", DEXA, pp.176-188, 2021 ([DOI](https://doi.org/10.1007/978-3-030-86475-0_18), [slide](/pdfs/DEXA2021.pdf))
-1. [Takahiro Komamizu](/), Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, "FPX-G: First Person Exploration for Graph", MIPR, pp.70-76, 2021 ([DOI](https://doi.org/10.1109/MIPR51284.2021.00018))
+1. [Takahiro Komamizu](/), Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, "FPX-G: First Person Exploration for Graph", MIPR, pp.70-76, 2021 ([DOI](https://doi.org/10.1109/MIPR51284.2021.00018), [slide](/pdfs/MIPR2021.pdf))
 ### 2020
 1. Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Differential Translation for Japanese Partially Amended Statutory Sentences", JSAI-isAI Workshops, pp.162-178, 2020 ([DOI](https://doi.org/10.1007/978-3-030-79942-7_11))
 1. [Takahiro Komamizu](/), Risa Uehara, Yasuhiro Ogawa, Katsuhiko Toyama, "MUEnsemble: Multi-ratio Undersampling-Based Ensemble Framework for Imbalanced Data", DEXA, pp.213-228, 2020 ([DOI](https://doi.org/10.1007/978-3-030-59051-2_14), [slide](/pdfs/DEXA2020.pdf))
