@@ -56,7 +56,13 @@
 		<h4 class='mb-3'>
 			<a href="{{ .schoolurl }}" target="_blank">{{ .school }}</a>
 		</h4>
-		<div>{{ .text }}</div>
+		<div>
+			{{ .text }}
+			{{ if .thesis }}
+				<br>
+				{{ .thesis }}
+			{{ end }}
+		</div>
 	</li>
 {{ end }}
 </ul>
