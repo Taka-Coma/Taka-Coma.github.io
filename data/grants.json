@@ -78,6 +78,43 @@
 		"name": "競争的資金（分担）",
 		"grants": [
 			{
+				"title": "2024年度 科学研究費補助金 基盤研究 (B)",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"theme": "冷戦終結と米国宇宙政策―学際融合的アプローチによる再検証―",
+				"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K00227/",
+				"theme_number": "24K00227",
+				"duration": "2024年4月~2026年3月",
+				"main": {
+					"name": "渡邉 浩崇",
+					"url": "https://researchmap.jp/read0107711",
+					"affiliation": "大阪大学大学"
+				},
+				"members": [
+					{
+						"name": "養老 真一",
+						"affiliation": "大阪大学"
+					},
+					{
+						"name": "外山 勝彦",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "小塚 荘一郎",
+						"affiliation": "学習院大学"
+					},
+					{
+						"name": "上田 真二",
+						"affiliation": "関西大学"
+					},
+					{
+						"name": "駒水 孝裕",
+						"affiliation": "名古屋大学",
+						"me": true
+					}
+				]
+			},
+
+			{
 				"title": "2022年度 科学研究費補助金 基盤研究 (B)",
 				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
 				"theme": "品質を保証するEnd-to-Endビッグデータ近似処理技術に関する研究",
