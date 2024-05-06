@@ -27,12 +27,15 @@ draft: false
 ## Academic Activities (International)
 
 ### Current Activities
+- Mar. 2024 - now, 
+    [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
+    Session Co-chair,
 - Feb. 2024 - now,
 	[2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://bigdataieee.org/BigData2024/),
 	PC member
 - Feb. 2024 - now,
     [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
-    Program Committee member 
+    PC member 
 - Dec. 2023 - now,
     [4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)](https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html),
     Organizing Committee member
@@ -45,7 +48,7 @@ draft: false
 ### Past Activities
 - Nov. 2023 - Feb. 2023,
     [30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024) ](https://sites.google.com/view/iw-fcv2024/),
-    Technical Program Committee member
+    TPC member
 - Oct. 2023 - Feb. 2023,
 	[12th IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge (SCSN@ICSC 2024)](http://pa.icar.cnr.it/scsn24/),
 	PC member
