@@ -111,7 +111,7 @@ draft: false
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [論文誌データベース編集委員会](https://www.ipsj-tod.org/), 編集委員
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [データベースシステム研究運営委員会](https://www.ieice.org/iss/de/jpn/), 運営委員
 - Jun. 2023 - Jun. 2025, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 幹事補佐
-- Apr. 2021 - May. 2024, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
+- Apr. 2021 - May. 2025, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会, 幹事
 - Apr. 2023 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 教材分科会, 委員
 
@@ -139,24 +139,26 @@ draft: false
 ----
 
 ## Reviewer: International Journal
-- BMC Medical Research Methodology: 2023
-- KAIS: 2023
-- MMSJ: 2020
-- IEEE TCSS: 2021, 2022, 2023
+- IEEE Transactions on Computational Social Systems (TCSS): 2021, 2022, 2023, 2024
+- IEEE Transactions on Multimedia (TOMM): 2024
+- IEEE Transactions on Industrial Informatics (TII): 2024
 - IEEE Access: 2018, 2019
-- IEEE TII: 2024
-- WWWJ: 2018
+- Knowledge and Information Systems (KAIS): 2023
+- BMC Medical Research Methodology: 2023
+- Multimedia Systems: 2020
+- World Wide Web (WWW): 2018
 
 ----
 
 ## Reviewer: International Conference
-- ICME: 2019, 2020
-- ICSC: 2018, 2020 (sub-reviewer)
-- DSAA: 2016 (external reviewer)
-- DaWaK: 2016 (additional reviewer)
-- WISE: 2016 (sub-reviewer)
+- ICMR: 2024
+- ICME: 2019, 2020, 2021
+- ICSC: 2018, 2020
+- DSAA: 2016
+- DaWaK: 2016
+- WISE: 2016, 2017
 - IEEE BigData: 2023
-- SoICT: 2023
+- SoICT: 2022, 2023
 
 ----
 
