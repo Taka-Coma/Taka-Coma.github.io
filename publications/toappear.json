@@ -4,6 +4,21 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Tatsuya Kato" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "R-DiP: Re-ranking based Diffusion Pre-computation for Image",
+  		"venue": "The 35th International Conference on Database and Expert Systems Applications (DEXA 2024)",
+  		"pages": "",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
  				{ "text": "Carlos Victorino Padeiro" },
 				{ "text": "Tse-Wei Chen" },
 			  { "text": "Takahiro Komamizu" },
