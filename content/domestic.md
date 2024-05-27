@@ -14,13 +14,14 @@ draft: false
 ----
 ## 査読なし会議
 ### 2024
-- 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略", 第154回情報基礎とアクセス技術・第132回ドキュメントコミュニケーション合同研究発表会, Vol., No., pp.1, 2024
-- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", 画像工学研究会 (IE), pp.97, 2024
-- 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "複数食材の大きさを統合利用した弁当画像の縮尺推定に関する検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.80, 2024
-- 池田 昂太郎, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌詞の自動翻訳のための発音を考慮した訳語選択に関する研究", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.13, 2024
-- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル付き料理画像のフォントスタイル生成に関する検討", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.35, 2024
+- グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "大域・局所特徴統合埋め込みに基づくオープン語彙時系列行動検出", 電子情報通信学会技術研究報告, Vol.124, No.23, PRMU2024-6, pp.30-35, 2024 ([link](https://ken.ieice.org/ken/paper/20240516Qc24/))
+- 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2024-IFAT-154, No.1, pp.1-6, 2024 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233524&item_no=1&page_id=13&block_id=8))
+- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", IEICE Tech. Rep., Vol.123, No.432, IE2023-145, pp.414-419, 2024 ([link](https://ken.ieice.org/ken/paper/20240315ac1V/eng/))
+- 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "複数食材の大きさを統合利用した弁当画像の縮尺推定に関する検討", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-103, pp.330-335, 2024 ([link](https://ken.ieice.org/ken/paper/20240315TcCd/))
+- 池田 昂太郎, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌詞の自動翻訳のための発音を考慮した訳語選択に関する研究", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-54, pp.69-74, 2024 ([link](https://ken.ieice.org/ken/paper/20240313Yc1r/))
+- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル付き料理画像のフォントスタイル生成に関する検討", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-69, pp.154-158, 2024 ([link](https://ken.ieice.org/ken/paper/20240314jcCE/))
 - 加藤 辰弥, [駒水 孝裕](/), 井手 一郎, "類似度グラフの事前再計算による拡散式画像検索の効率化", 第16回データ工学と情報マネジメントに関するフォーラム, pp.T3-B-4-04, 2024 -- {{< awards name="Student Presentation Award" url="https://confit.atlas.jp/guide/event/deim2024/static/awards" >}}
-- リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", パターン認識・メディア理解研究会 (PRMU), pp.63, 2024
+- リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", 電子情報通信学会技術研究報告, Vol.123, No.409, PRMU2023-77, pp.150-155, 2024 ([link](https://ken.ieice.org/ken/paper/20240304Wcbr/))
 ### 2023
 - 佐野 智也, 外山 勝彦, [駒水 孝裕](/), 増田 知子, "歴史情報としての法令データベースの構築", デジタルアーカイブ学会誌, Vol.7, No.s2, pp.s142-s145, 2023 ([link](https://doi.org/10.24506/jsda.7.s2_s142))
 - NGUYEN Trung Thanh, NGUYEN Phi Le, 川西 康友, [駒水 孝裕](/), 井手 一郎, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 -- {{< awards name="Presentation Runner-up Award" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
@@ -31,25 +32,26 @@ draft: false
 - リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "検出対象領域の絞込みによる広角映像中の鳥追跡", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-78, 2023
 - グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "時間マルチスケール特徴と行動ラベル特徴によるオープンボキャブラリ行動区間認識", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS2-69, 2023
 - 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "類音語の連想性を考慮した未知語の発音に対する画像生成", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-86, 2023 -- {{< awards name="Best Poster Award" url="http://cvim.ipsj.or.jp/MIRU2023/award/" >}}
-- 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "大学連携によるデータサイエンス人材育成の共通ガイドラインとその実践", 電子情報通信学会技術研究報告 : 教育工学（ET）, Vol.122, No.431, pp.117-127, 2023
+- 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "大学連携によるデータサイエンス人材育成の共通ガイドラインとその実践", 電子情報通信学会技術研究報告, Vol.122, No.431, ET2022-78, pp.117-122, 2023 ([link](https://ken.ieice.org/ken/paper/202303147CTn/))
 - 寺本 優香, [駒水 孝裕](/), 波多野 賢治, "固有表現タグおよびPOSタグによる交換制約付きデータ拡張手法", 第15回データ工学と情報マネジメントに関するフォーラム, pp.1b-6.4, 2023 -- {{< awards name="Student Presentation Award" url="https://event.dbsj.org/deim2023/post/awards.html" >}}
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "文書分類における効果的なマルチタスク学習のための汎用的サブタスクの要件分析", 研究報告自然言語処理（NL）, Vol.2023-NL-255, No.12, pp.1-6, 2023 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225299&item_no=1&page_id=13&block_id=8))
-- 吉田 晶, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漢字の音読みにおける象徴素のデータ駆動的探求の試み", 言語処理学会第29回年次大会 (NLP2023), pp.Q10-6, 2023 ([link](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-6.pdf))
+- 吉田 晶, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漢字の音読みにおける象徴素のデータ駆動的探索の試み", 言語処理学会第29回年次大会 (NLP2023), pp.Q10-6, 2023 ([link](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-6.pdf))
 - 宮川 由衣, 加藤 大貴, 松平 茅隼, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "発話の交換を考慮した対話システムのユーザ感情推定手法の検討", 言語処理学会第29回年次大会 (NLP2023), pp.P7-8, 2023 ([link](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P7-8.pdf))
-- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 川西 康友, 平山 高嗣, 井手 一郎, "品詞に着目した料理レシピタイトルの魅力度分析", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.56, 2023
-- Yiming Wang, Marc A. Kanster, [Takahiro Komamizu](/), Da Huo, Takatsugu Hirayama, Ichiro Ide, "Evoked Emotion Distribution Learning through Analysis of Temporal User Comments in Social Media Videos", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE) , pp.59, 2023
+- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 川西 康友, 平山 高嗣, 井手 一郎, "品詞に着目した料理レシピタイトルの魅力度分析", 電子情報通信学会技術研究報告, Vol.122, No.440, MVE2022-89, pp.192-197, 2023 ([link](https://ken.ieice.org/ken/paper/20230316DCrg/))
+- Yiming Wang, Marc A. Kanster, [Takahiro Komamizu](/), Da Huo, Takatsugu Hirayama, Ichiro Ide, "Evoked Emotion Distribution Learning through Analysis of Temporal User Comments in Social Media Videos", 電子情報通信学会技術研究報告, Vol.122, No.440, MVE2022-92, pp.206-211, 2023 ([link](https://ken.ieice.org/ken/paper/20230316JCSp/))
 - Trung Thanh Nguyen, Phi Le Nguyen, 川西 康友, [駒水 孝裕](/), 井手 一郎, "PiDP: 処方箋に対する GCN の対照学習に基づく錠剤検出", 2023 年電子情報通信学会総合大会, pp.D-12-3, 2023
 ### 2022
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection using Scene Graph", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-78, 2022
 - Yiming Wang, Marc A. Kastner, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "On Estimating Evoked Emotions of Social Media Videos through User Comments Analysis", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-72, 2022
 - Anditya ARIFIANTO, Takahiro KOMAMIZU, Yasutomo KAWANISHI, Ichiro IDE, "Towards Generative Image Steganography using Seq2Seq and GAN", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-57, 2022
 - 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "画像生成を介した語感から受ける印象の可視化の検討", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-81, 2022
+- Jiahang Lu, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "A study on intra-modal constraint loss toward cross-modal recipe retrieval", HCGシンポジウム 2022, pp.A-3-1, 2022
 - 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会研究報告コンピュータと教育（CE）, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))
-- 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", 情報処理学会研究報告エンタテインメントコンピューティング（EC）, Vol.2022-EC-65, No.27, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=220291&item_no=1&page_id=13&block_id=8))
+- 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", 電子情報通信学会技術研究報告, Vol.122, No.200, MVE2022-28, pp.57-62, 2022 ([link](https://ken.ieice.org/ken/paper/20221007LCmP/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", 情報処理学会 研究報告情報基礎とアクセス技術（IFAT）, Vol.2022-IFAT-148, No.24, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220022&item_no=1))
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2022-IFAT-148, No.15, pp.1-6, 2022 -- {{< awards name="Student Award" url="https://www.ipsj.or.jp/award/dbs-award1.html" >}}
 - [駒水 孝裕](/), 外山 勝彦, 河口 信夫, 佐野 智也, "法令間の関係を利用したモビリティ関連法令検索に関する一考察", 第57回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-057-04, 2022 ([link](https://doi.org/10.11517/jsaisigtwo.2022.swo-057_04), [slide](/pdfs/SWO-057-04.pdf))
-- Baidong Chu, Chihaya Matsuhira, Yasutomo Kawanishi, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Daisuke Deguchi, "Towards Detecting Birds from Panorama Video Aided by Sound Source Localization", メディアエクスペリエンス・バーチャル環境基礎研究会 (MVE), pp.MVE2021-50, 2022 ([link](https://www.ieice.org/ken/paper/202203096CJu/eng/))
+- Baidong Chu, Chihaya Matsuhira, Yasutomo Kawanishi, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Daisuke Deguchi, "Towards Detecting Birds from Panorama Video Aided by Sound Source Localization", 電子情報通信学会技術研究報告, Vol.121, No.423, MVE2021-50, pp.60-64, 2022 ([link](https://ken.ieice.org/ken/paper/202203096CJu/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ストップフレーズ抽出を併用した文書分類", 第14回データ工学と情報マネジメントに関するフォーラム, pp.A23-4, 2022 ([link](https://proceedings-of-deim.github.io/DEIM2022/papers/A23-4.pdf))
 ### 2021
 - [駒水 孝裕](/), 安田 理恵, 外山 勝彦, "移動イノベーションのための法情報活用基盤", 令和三年度 電気・電子・情報関係学会 東海支部連合大会, pp.K1-2, 2021 ([slide](/pdfs/Tokai_Rengou_R3.pdf))
@@ -58,7 +60,7 @@ draft: false
 - [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "法令沿革 LOD 構築のための DBpedia における法令エンティティの同定", 第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-051-06, 2020 ([link](https://www.jstage.jst.go.jp/article/jsaisigtwo/2020/SWO-051/2020_06/_article/-char/ja/), [slide](/pdfs/SWO-051-06.pdf)) -- {{< awards name="JSAI Incentive Award" url="https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/" >}}
 - 植原 リサ, [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "不均衡データ分類フレームワークにおけるサンプリング比率の最適化", 第12回データ工学と情報マネジメントに関するフォーラム, pp.F8-2, 2020 ([link](https://proceedings-of-deim.github.io/DEIM2020/papers/F8-2.pdf)) -- {{< awards name="Online Presentation Award" url="https://db-event.jpn.org/deim2020/post/awards.html" >}}
 ### 2019
-- 青山 恵子, [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "利用規約中の不公平文の自動検出", 電子情報通信学会技術研究報告 NLC2019-8, pp.1-6, 2019 ([link](https://www.ieice.org/ken/user/index.php?cmd=login&back_url=https%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20190927a1pz%2F))
+- 青山 恵子, [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "利用規約中の不公平文の自動検出", 電子情報通信学会技術研究報告, Vol.119, No.212, NLC2019-8, pp.1-6, 2019 ([link](https://ken.ieice.org/ken/paper/20190927a1pz/))
 - 李 偉嘉, 小川 泰弘, [駒水 孝裕](/), 外山 勝彦, "言い換えによる自然言語－SPARQL対訳コーパスの拡張", 第17回情報学ワークショップ, pp.P118, 2019
 - 小川 泰弘, 佐藤 充晃, [駒水 孝裕](/), 外山 勝彦, "法律の要約のためのランダムフォレストを用いた重要文抽出", 第33回人工知能学会全国大会, pp.4E2OS7a02, 2019
 - 山腰 貴大, [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "共通BERT分類器による紛らわしい法令用語の校正", NLP若手の会 (YANS) 第14回シンポジウム, pp.P41, 2019
@@ -82,7 +84,7 @@ draft: false
 ### 2012
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "グラフデータに対するファセット探索のための頻出パターンを利用したオブジェクト抽出手法", 第4回データ工学と情報マネジメントに関するフォーラム, pp.D3-3, 2012
 ### 2011
-- [駒水 孝裕](/), 早瀬 康裕, 北川 博之, "ソフトウェア部品検索に適したファセット探索の一考察", 電子情報通信学会技術研究報告 IEICE-SS2011-30, Vol.111, No.268, pp.19-24, 2011
+- [駒水 孝裕](/), 早瀬 康裕, 北川 博之, "ソフトウェア部品検索に適したファセット探索の一考察", 電子情報通信学会技術研究報告, Vol.111, No.268, SS2011-30, pp.19-24, 2011 ([link](https://ken.ieice.org/ken/paper/20111027j0jr/))
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセット検索のユーザビリティ評価", 情報処理学会 第73回全国大会, pp.4N-3, 2011 -- {{< awards name="Student Award" url="https://www.ipsj.or.jp/award/taikaigakusei.html" >}}
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "キーワード検索が可能なXMLデータに対するファセット探索", 第3回データ工学と情報マネジメントに関するフォーラム, pp.E6-1, 2011
 ### 2010
