@@ -531,7 +531,7 @@
 	{ "text": "武田 一哉" }
  		]},
   		"title": "産学コンソーシアムによるデータサイエンス人材育成の実践",
-  		"venue": "情報処理学会研究報告コンピュータと教育（CE）",
+  		"venue": "情報処理学会 研究報告コンピュータと教育（CE）",
       "volume": "2022-CE-167",
       "number": "16",
   		"pages": "1-6",
@@ -1094,11 +1094,12 @@
  { "text": "北川 博之" }
  		]},
    		"title": "異種XMLデータに対するファセット検索手法の提案",
-   		"venue": "情報処理学会研究報告 (DD)",
+   		"venue": "情報処理学会 研究報告デジタルドキュメント（DD）",
    		"volume": "2009-DD-073",
 			"number": "7",
    		"pages" : "1-8",
  			"year": "2009",
+			"ee": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=66263&item_no=1&page_id=13&block_id=8",
 			"awards": [
 				{
 					"name": "IPSJ Yamashita SIG Research Award",

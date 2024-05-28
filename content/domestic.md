@@ -46,7 +46,7 @@ draft: false
 - Anditya ARIFIANTO, Takahiro KOMAMIZU, Yasutomo KAWANISHI, Ichiro IDE, "Towards Generative Image Steganography using Seq2Seq and GAN", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-57, 2022
 - 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "画像生成を介した語感から受ける印象の可視化の検討", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-81, 2022
 - Jiahang Lu, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "A study on intra-modal constraint loss toward cross-modal recipe retrieval", HCGシンポジウム 2022, pp.A-3-1, 2022
-- 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会研究報告コンピュータと教育（CE）, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))
+- 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会 研究報告コンピュータと教育（CE）, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))
 - 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", 電子情報通信学会技術研究報告, Vol.122, No.200, MVE2022-28, pp.57-62, 2022 ([link](https://ken.ieice.org/ken/paper/20221007LCmP/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "サブワードフレーズ抽出を併用した文書分類", 情報処理学会 研究報告情報基礎とアクセス技術（IFAT）, Vol.2022-IFAT-148, No.24, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220022&item_no=1))
 - Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Constructing Destination Node Index for Repetition Paths", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2022-IFAT-148, No.15, pp.1-6, 2022 -- {{< awards name="Student Award" url="https://www.ipsj.or.jp/award/dbs-award1.html" >}}
@@ -91,7 +91,7 @@ draft: false
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "異種XMLデータに対するファセット検索システムの性能評価", 情報処理学会創立50周年記念（第72回）全国大会, pp.6ZC-5, 2010
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "異種XMLデータに対するファセット検索における多様な検索", 第2回データ工学と情報マネジメントに関するフォーラム, pp. C7-5, 2010 -- {{< awards name="Student Award" url="https://db-event.jpn.org/deim2010/award.html#sAward" >}}
 ### 2009
-- [駒水 孝裕](/), 天笠 俊之, 北川 博之, "異種XMLデータに対するファセット検索手法の提案", 情報処理学会研究報告 (DD), Vol.2009-DD-073, No.7, pp.1-8, 2009 -- {{< awards name="IPSJ Yamashita SIG Research Award" url="http://www.ipsj.or.jp/award/yamashita2010.html" >}}
+- [駒水 孝裕](/), 天笠 俊之, 北川 博之, "異種XMLデータに対するファセット検索手法の提案", 情報処理学会 研究報告デジタルドキュメント（DD）, Vol.2009-DD-073, No.7, pp.1-8, 2009 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=66263&item_no=1&page_id=13&block_id=8)) -- {{< awards name="IPSJ Yamashita SIG Research Award" url="http://www.ipsj.or.jp/award/yamashita2010.html" >}}
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案", 第1回データ工学と情報マネジメントに関するフォーラム, pp.B7-6, 2009
 ----
 ## 講演
