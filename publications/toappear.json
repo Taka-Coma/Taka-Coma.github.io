@@ -4,6 +4,25 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+ 				{ "text": "Yui Miyakawa" },
+				{ "text": "Chihaya Matsuhira" },
+				{ "text": "Hirotaka Kato" },
+				{ "text": "Takatsugu Hirayama" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?",
+  		"venue": "The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024)",
+  		"pages": "",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Tatsuya Kato" },
 			  { "text": "Takahiro Komamizu" },
 			  { "text": "Ichiro IDE" }
