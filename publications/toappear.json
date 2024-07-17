@@ -4,6 +4,23 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Chihaya Matsuhira" },
+				{ "text": "Marc A. Kastner" },
+			  { "text": "Takahiro Komamizu" },
+				{ "text": "Takatsugu Hirayama" },
+			  { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation.",
+  		"venue": "32nd ACM Multimedia Conference",
+  		"pages": "",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
  				{ "text": "Yui Miyakawa" },
 				{ "text": "Chihaya Matsuhira" },
 				{ "text": "Hirotaka Kato" },
