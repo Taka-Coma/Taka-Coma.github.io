@@ -36,16 +36,16 @@ draft: false
 - Feb. 2024 - now,
     [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
     PC member 
-- Dec. 2023 - now,
-    [4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)](https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html),
-    Organizing Committee member
-- Nov. 2023 - now,
-    [14th International Conference on Multimedia Retrieval (ICMR 2024)](http://icmr2024.org/),
-    PC member
-- Mar. 2022 - now,
-    [29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)](https://www.dasfaa2024.org/), Local Arrangement Committee member
 
 ### Past Activities
+- Dec. 2023 - Jun. 2024,
+    [4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)](https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html),
+    Organizing Committee member
+- Nov. 2023 - Jun. 2024,
+    [14th International Conference on Multimedia Retrieval (ICMR 2024)](http://icmr2024.org/),
+    PC member
+- Mar. 2022 - Jul. 2024,
+    [29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)](https://www.dasfaa2024.org/), Local Arrangement Committee member
 - Nov. 2023 - Feb. 2023,
     [30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024) ](https://sites.google.com/view/iw-fcv2024/),
     TPC member
