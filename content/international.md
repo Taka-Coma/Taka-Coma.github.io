@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## To Appear
-1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", 32nd ACM Multimedia Conference, pp., 2024 ([DOI]())
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", the 32nd ACM Multimedia Conference, pp., 2024 ([DOI]())
 1. Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro IDE, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024), pp., 2024 ([DOI]())
 1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro IDE, "R-DiP: Re-ranking based Diffusion Pre-computation for Image", The 35th International Conference on Database and Expert Systems Applications (DEXA 2024), pp., 2024 ([DOI]())
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", The 20th Embedded Vision Workshop (EVW@CVPR2024), pp., 2024 ([DOI]())
