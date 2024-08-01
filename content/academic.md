@@ -9,6 +9,8 @@ draft: false
 	Student Member (May 2012 - Mar. 2015), Professional Member (Apr. 2015 -)
 - [IEEE: Institute of Electrical and Electronics Engineers](https://www.ieee.org/index.html) \
 	Student Member (Mar. 2012 - Dec. 2013), Regular Member (Apr. 2018 -)
+- [ACL: Association for Computational Linguistics](https://www.aclweb.org/portal/) \
+    Faculty Member (May 2020 -)
 - [DBSJ: Database Society of Japan（日本データベース学会）](http://dbsj.org/) \
 	Student Member (Dec. 2008 - Mar. 2015), Regular Member (Apr. 2015 -)
 - [IPSJ: Information Processing Society of Japan（情報処理学会）](http://www.ipsj.or.jp/) \
