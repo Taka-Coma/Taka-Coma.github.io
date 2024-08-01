@@ -29,17 +29,17 @@ draft: false
 ## Academic Activities (International)
 
 ### Current Activities
-- Mar. 2024 - now, 
-    [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
-    Session Co-chair,
-- Feb. 2024 - now,
-	[2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://bigdataieee.org/BigData2024/),
-	PC member
 - Feb. 2024 - now,
     [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
     PC member 
+- Feb. 2024 - now,
+	[2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://bigdataieee.org/BigData2024/),
+	PC member
+- Mar. 2024 - now, 
+    [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
+    Session Co-chair,
 - Jul. 2024 - now,
-    [International conference on Advanced Machine Learning and Data Science](https://amlds.site/index.html),
+    [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
     Conference Co-chair
 
 ### Past Activities
