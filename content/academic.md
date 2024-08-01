@@ -38,6 +38,9 @@ draft: false
 - Feb. 2024 - now,
     [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
     PC member 
+- Jul. 2024 - now,
+    [International conference on Advanced Machine Learning and Data Science](https://amlds.site/index.html),
+    Conference Co-chair
 
 ### Past Activities
 - Dec. 2023 - Jun. 2024,
