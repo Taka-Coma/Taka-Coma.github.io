@@ -14,6 +14,7 @@ draft: false
 ----
 ## 査読なし会議
 ### 2024
+- 宮川 由衣, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "大規模言語モデルは未知語に対する人間の感情想起を再現できるか？", 第21回テキストアナリティクス・シンポジウム, Vol., No., pp., 2024 ([link](https://ken.ieice.org/ken/paper/202409024c44/))
 - グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "大域・局所特徴統合埋め込みに基づくオープン語彙時系列行動検出", 電子情報通信学会技術研究報告, Vol.124, No.23, PRMU2024-6, pp.30-35, 2024 ([link](https://ken.ieice.org/ken/paper/20240516Qc24/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2024-IFAT-154, No.1, pp.1-6, 2024 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233524&item_no=1&page_id=13&block_id=8))
 - Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", IEICE Tech. Rep., Vol.123, No.432, IE2023-145, pp.414-419, 2024 ([link](https://ken.ieice.org/ken/paper/20240315ac1V/eng/))
