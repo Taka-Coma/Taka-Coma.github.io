@@ -14,6 +14,10 @@ draft: false
 ----
 ## 査読なし会議
 ### 2024
+- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-012, 2024
+- Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Toward Visual Storytelling using Scene-Graph Contexts", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-099, 2024
+- 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 井手 一郎, "語感の定量化に向けた画像に写る概念に対する視覚的印象の推定", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-134, 2024
+- 池田 昂太郎, 松平 茅隼, 加藤 大貴, カストナーマークアウ レル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌唱時の口唇形状の類似性を考慮した歌詞の自動翻訳の検討", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-138, 2024
 - 宮川 由衣, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "大規模言語モデルは未知語に対する人間の感情想起を再現できるか？", 第21回テキストアナリティクス・シンポジウム, Vol., No., pp., 2024 ([link](https://ken.ieice.org/ken/paper/202409024c44/))
 - グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "大域・局所特徴統合埋め込みに基づくオープン語彙時系列行動検出", 電子情報通信学会技術研究報告, Vol.124, No.23, PRMU2024-6, pp.30-35, 2024 ([link](https://ken.ieice.org/ken/paper/20240516Qc24/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2024-IFAT-154, No.1, pp.1-6, 2024 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233524&item_no=1&page_id=13&block_id=8))

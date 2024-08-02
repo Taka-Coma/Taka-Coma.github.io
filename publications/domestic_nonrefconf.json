@@ -3,6 +3,67 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "Carlos Victorino Padeiro" },
+ { "text": "Tse-Wei Chen" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection",
+  		"venue": "第27回 画像の認識・理解シンポジウム (MIRU2024)",
+  		"pages": "IS-2-012",
+  		"year" : "2024"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "Itthisak Phueaksri" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Yasutomo Kawanishi " },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Toward Visual Storytelling using Scene-Graph Contexts",
+  		"venue": "第27回 画像の認識・理解シンポジウム (MIRU2024)",
+  		"pages": "IS-2-099",
+  		"year" : "2024"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{"text": "松平 茅隼" },
+				{"text": "カストナーマークアウ レル" },
+				{"text": "駒水 孝裕" },
+				{"text": "平山 高嗣" },
+ 				{"text": "井手 一郎" }
+ 		]},
+  		"title": "語感の定量化に向けた画像に写る概念に対する視覚的印象の推定",
+  		"venue": "第27回 画像の認識・理解シンポジウム (MIRU2024)",
+  		"pages": "IS-2-134",
+  		"year" : "2024"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{"text": "池田 昂太郎" },
+				{"text": "松平 茅隼" },
+ 				{"text": "加藤 大貴" },
+				{"text": "カストナーマークアウ レル" },
+				{"text": "平山 高嗣" },
+				{"text": "駒水 孝裕" },
+ 				{"text": "井手 一郎" }
+ 		]},
+  		"title": "歌唱時の口唇形状の類似性を考慮した歌詞の自動翻訳の検討",
+  		"venue": "第27回 画像の認識・理解シンポジウム (MIRU2024)",
+  		"pages": "IS-2-138",
+  		"year" : "2024"
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "宮川 由衣" },
  { "text": "松平 茅隼" },
  { "text": "加藤 大貴" },
