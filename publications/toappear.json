@@ -65,22 +65,6 @@
   		"pages": "",
   		"year" : "2024",
 			"ee": ""
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
- 				{ "text": "Nguyen Trung Thanh" },
-				{ "text": "Yasutomo Kawanishi" },
-			  { "text": "Takahiro Komamizu" },
-			  { "text": "Ichiro IDE" }
- 		]},
-  		"title": "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features.",
-  		"venue": "The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024)",
-  		"pages": "",
-  		"year" : "2024",
-			"ee": ""
 	}
 
 ]

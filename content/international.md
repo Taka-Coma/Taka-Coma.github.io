@@ -9,7 +9,6 @@ draft: false
 1. Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro IDE, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024), pp., 2024 ([DOI]())
 1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro IDE, "R-DiP: Re-ranking based Diffusion Pre-computation for Image", The 35th International Conference on Database and Expert Systems Applications (DEXA 2024), pp., 2024 ([DOI]())
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", The 20th Embedded Vision Workshop (EVW@CVPR2024), pp., 2024 ([DOI]())
-1. Nguyen Trung Thanh, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features", The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024), pp., 2024 ([DOI]())
 ----
 ## International Journals
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
@@ -29,6 +28,7 @@ draft: false
 ----
 ## International Conferences
 ### 2024
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features", FG, pp.1-10, 2024 ([DOI](https://doi.org/10.1109/FG59268.2024.10581896))
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "ICDAR 24: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.1332-1333, 2024 ([DOI](https://doi.org/10.1145/3652583.3659999))
 ### 2023
 1. [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
