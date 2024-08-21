@@ -32,7 +32,7 @@
   		"venue": "The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024)",
   		"pages": "",
   		"year" : "2024",
-			"ee": ""
+			"ee": "https://aclanthology.org/2024.cmcl-1.7/"
 	},
 
 
@@ -48,7 +48,8 @@
   		"venue": "The 35th International Conference on Database and Expert Systems Applications (DEXA 2024)",
   		"pages": "",
   		"year" : "2024",
-			"ee": ""
+			"ee": "",
+			"key": "DEXA2024"
 	},
 
 	{
@@ -64,7 +65,7 @@
   		"venue": "The 20th Embedded Vision Workshop (EVW@CVPR2024)",
   		"pages": "",
   		"year" : "2024",
-			"ee": ""
+			"ee": "https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Padeiro_Lightweight_Maize_Disease_Detection_through_Post-Training_Quantization_with_Similarity_Preservation_CVPRW_2024_paper.pdf"
 	}
 
 ]
