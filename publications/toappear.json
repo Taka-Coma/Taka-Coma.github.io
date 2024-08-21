@@ -4,6 +4,22 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Yuka Teramoto" },
+			  { "text": "Takahiro Komamizu" },
+				{ "text": "Mitsunori Matsushita" },
+			  { "text": "Kenji Hatano" }
+ 		]},
+  		"title": "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM",
+  		"venue": "iiWAS",
+  		"pages": "",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Chihaya Matsuhira" },
 				{ "text": "Marc A. Kastner" },
 			  { "text": "Takahiro Komamizu" },
