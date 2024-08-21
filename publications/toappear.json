@@ -32,7 +32,8 @@
   		"venue": "The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024)",
   		"pages": "",
   		"year" : "2024",
-			"ee": "https://aclanthology.org/2024.cmcl-1.7/"
+			"ee": "https://aclanthology.org/2024.cmcl-1.7/",
+			"key": "CMCL@ACL2024"
 	},
 
 
