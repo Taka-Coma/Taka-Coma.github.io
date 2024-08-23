@@ -8,6 +8,8 @@ date = "2022-10-10"
 {{< gallery hover-effect="grow" >}}
 	{{< figure caption="DS Program 2nd Info Session 2024 Fall" src="/images/posters/dsprogram-infosession-2024-poster_2_fall.svg" >}}
 	{{< figure caption="MDS Lecture Meeting 202409" src="/images/posters/mds-lecture-meeting-202409.jpg" >}}
+	{{< figure caption="MDS Practicum Pamphlet 2024 (front)" src="/images/posters/dsprogram_practicum_1.jpg" >}}
+	{{< figure caption="MDS Practicum Pamphlet 2024 (back)" src="/images/posters/dsprogram_practicum_2.jpg" >}}
 	{{< figure caption="DS Program Info Session 2024 Spring" src="/images/posters/dsprogram-infosession-2024-poster_spring.svg" >}}
 	{{< figure caption="DS Program Info Session 2024 Fall" src="/images/posters/dsprogram-infosession-2024-poster_fall.svg" >}}
 	{{< figure caption="Mobility DS Program Info Session 2023 Fall" src="/images/posters/mobidsprogram-infosession-2023-poster_fall.svg" >}}
@@ -23,6 +25,7 @@ date = "2022-10-10"
 
 - [DS Program 2nd Info Session 2024 Fall](https://www.mds.nagoya-u.ac.jp/info-session/20240919)
 - [MDS Lecture Meeting 202409](https://www.mds.nagoya-u.ac.jp/mds-event/20240911)
+- [MDS Practicum Pamphlet 2024](https://www.mds.nagoya-u.ac.jp/practicum)
 - [DS Program Info Session 2024 Spring](https://www.mds.nagoya-u.ac.jp/platform-event/2024-03-12)
 - [DS Program Info Session 2024 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2024-autumn)
 - [Mobility DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2023-mobi)
