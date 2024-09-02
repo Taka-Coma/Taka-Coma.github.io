@@ -8,7 +8,6 @@ draft: false
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp., 2024 ([DOI]())
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", the 32nd ACM Multimedia Conference, pp., 2024 ([DOI]())
 1. Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro IDE, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024), pp., 2024 ([DOI](https://aclanthology.org/2024.cmcl-1.7/), [poster](/pdfs/CMCL@ACL2024.pdf))
-1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro IDE, "R-DiP: Re-ranking based Diffusion Pre-computation for Image", The 35th International Conference on Database and Expert Systems Applications (DEXA 2024), pp., 2024 ([DOI](), [slide](/pdfs/DEXA2024.pdf))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", The 20th Embedded Vision Workshop (EVW@CVPR2024), pp., 2024 ([DOI](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Padeiro_Lightweight_Maize_Disease_Detection_through_Post-Training_Quantization_with_Similarity_Preservation_CVPRW_2024_paper.pdf))
 ----
 ## International Journals
@@ -29,6 +28,7 @@ draft: false
 ----
 ## International Conferences
 ### 2024
+1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro Ide, "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval", DEXA, pp.233-247, 2024 ([DOI](https://doi.org/10.1007/978-3-031-68312-1_18), [slide](/pdfs/DEXA2024.pdf)) --- {{< awards name="Best Paper Award" >}}
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features", FG, pp.1-10, 2024 ([DOI](https://doi.org/10.1109/FG59268.2024.10581896))
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "ICDAR 24: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.1332-1333, 2024 ([DOI](https://doi.org/10.1145/3652583.3659999))
 ### 2023

@@ -1,6 +1,19 @@
 [
 
 	{
+		"venue": "DEXA 2024",
+		"venue_url": "https://www.dexa.org/dexa2024",
+		"award": "Best Paper Award",
+		"award_jp": "最優秀論文賞",
+		"award_url": "",
+		"paper": {
+			"author": "Tatsuya Kato, Takahiro Komamizu, Ichiro IDE,",
+			"title": "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval"
+		},
+		"date": "August 2024"
+	},
+
+	{
 		"venue": "DEXA 2023",
 		"venue_url": "https://www.dexa.org/dexa2023",
 		"award": "Best Paper Award",
