@@ -30,9 +30,6 @@ draft: false
 
 ### Current Activities
 - Feb. 2024 - now,
-    [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
-    PC member 
-- Feb. 2024 - now,
 	[2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://bigdataieee.org/BigData2024/),
 	PC member
 - Mar. 2024 - now, 
@@ -43,6 +40,9 @@ draft: false
     Conference Co-chair
 
 ### Past Activities
+- Feb. 2024 - Aug. 2024,
+    [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
+    PC member 
 - Dec. 2023 - Jun. 2024,
     [4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)](https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html),
     Organizing Committee member
