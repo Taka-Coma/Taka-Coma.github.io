@@ -16,8 +16,8 @@ draft: false
 ### 2024
 - Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-012, 2024
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Toward Visual Storytelling using Scene-Graph Contexts", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-099, 2024
-- 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 井手 一郎, "語感の定量化に向けた画像に写る概念に対する視覚的印象の推定", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-134, 2024
-- 池田 昂太郎, 松平 茅隼, 加藤 大貴, カストナーマークアウ レル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌唱時の口唇形状の類似性を考慮した歌詞の自動翻訳の検討", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-138, 2024
+- 松平 茅隼, カストナー マーク アウレル, [駒水 孝裕](/), 平山 高嗣, 井手 一郎, "語感の定量化に向けた画像に写る概念に対する視覚的印象の推定", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-134, 2024
+- 池田 昂太郎, 松平 茅隼, 加藤 大貴, カストナー マーク アウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌唱時の口唇形状の類似性を考慮した歌詞の自動翻訳の検討", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-138, 2024
 - 宮川 由衣, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "大規模言語モデルは未知語に対する人間の感情想起を再現できるか？", 第21回テキストアナリティクス・シンポジウム, Vol., No., pp., 2024 ([link](https://ken.ieice.org/ken/paper/202409024c44/))
 - グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "大域・局所特徴統合埋め込みに基づくオープン語彙時系列行動検出", 電子情報通信学会技術研究報告, Vol.124, No.23, PRMU2024-6, pp.30-35, 2024 ([link](https://ken.ieice.org/ken/paper/20240516Qc24/))
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2024-IFAT-154, No.1, pp.1-6, 2024 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233524&item_no=1&page_id=13&block_id=8))
@@ -36,7 +36,7 @@ draft: false
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Image Collection Scene Graph Summarization Enhancing Relation Predictor with External Knowledge", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-78, 2023
 - リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "検出対象領域の絞込みによる広角映像中の鳥追跡", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-78, 2023
 - グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "時間マルチスケール特徴と行動ラベル特徴によるオープンボキャブラリ行動区間認識", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS2-69, 2023
-- 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "類音語の連想性を考慮した未知語の発音に対する画像生成", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-86, 2023 -- {{< awards name="Best Poster Award" url="http://cvim.ipsj.or.jp/MIRU2023/award/" >}}
+- 松平 茅隼, カストナー マーク アウレル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "類音語の連想性を考慮した未知語の発音に対する画像生成", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-86, 2023 -- {{< awards name="Best Poster Award" url="http://cvim.ipsj.or.jp/MIRU2023/award/" >}}
 - 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "大学連携によるデータサイエンス人材育成の共通ガイドラインとその実践", 電子情報通信学会技術研究報告, Vol.122, No.431, ET2022-78, pp.117-122, 2023 ([link](https://ken.ieice.org/ken/paper/202303147CTn/))
 - 寺本 優香, [駒水 孝裕](/), 波多野 賢治, "固有表現タグおよびPOSタグによる交換制約付きデータ拡張手法", 第15回データ工学と情報マネジメントに関するフォーラム, pp.1b-6.4, 2023 -- {{< awards name="Student Presentation Award" url="https://event.dbsj.org/deim2023/post/awards.html" >}}
 - 木村 優介, [駒水 孝裕](/), 波多野 賢治, "文書分類における効果的なマルチタスク学習のための汎用的サブタスクの要件分析", 研究報告自然言語処理（NL）, Vol.2023-NL-255, No.12, pp.1-6, 2023 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=225299&item_no=1&page_id=13&block_id=8))
@@ -49,7 +49,7 @@ draft: false
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection using Scene Graph", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-78, 2022
 - Yiming Wang, Marc A. Kastner, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "On Estimating Evoked Emotions of Social Media Videos through User Comments Analysis", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-72, 2022
 - Anditya ARIFIANTO, Takahiro KOMAMIZU, Yasutomo KAWANISHI, Ichiro IDE, "Towards Generative Image Steganography using Seq2Seq and GAN", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-57, 2022
-- 松平 茅隼, カストナーマークアウ レル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "画像生成を介した語感から受ける印象の可視化の検討", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-81, 2022
+- 松平 茅隼, カストナー マーク アウレル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "画像生成を介した語感から受ける印象の可視化の検討", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-81, 2022
 - Jiahang Lu, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "A study on intra-modal constraint loss toward cross-modal recipe retrieval", HCGシンポジウム 2022, pp.A-3-1, 2022
 - 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会 研究報告コンピュータと教育（CE）, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))
 - 小嶋 万理, [駒水 孝裕](/), 川西 康友, 道満 恵介, 井手 一郎, "類似した感性を持つ人物集合抽出に基づく画像の印象推定の検討", 電子情報通信学会技術研究報告, Vol.122, No.200, MVE2022-28, pp.57-62, 2022 ([link](https://ken.ieice.org/ken/paper/20221007LCmP/))
