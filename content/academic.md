@@ -38,6 +38,9 @@ draft: false
 - Jul. 2024 - now,
     [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
     Conference Co-chair
+- Sep. 2024 - Dec. 2024,
+    [13th International Symposium on Information and Communication Technology (SoICT 2024)](https://soict.org/),
+    PC member
 
 ### Past Activities
 - Feb. 2024 - Aug. 2024,
