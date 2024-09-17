@@ -10,7 +10,7 @@ draft: false
 - [IEEE: Institute of Electrical and Electronics Engineers](https://www.ieee.org/index.html) \
 	Student Member (Mar. 2012 - Dec. 2013), Regular Member (Apr. 2018 -)
 - [ACL: Association for Computational Linguistics](https://www.aclweb.org/portal/) \
-    Faculty Member (May 2020 -)
+    Faculty Member (May 2020 - Dec. 2020, Aug. 2024 - Dec. 2024)
 - [DBSJ: Database Society of Japan（日本データベース学会）](http://dbsj.org/) \
 	Student Member (Dec. 2008 - Mar. 2015), Regular Member (Apr. 2015 -)
 - [IPSJ: Information Processing Society of Japan（情報処理学会）](http://www.ipsj.or.jp/) \
@@ -163,8 +163,9 @@ draft: false
 - DSAA: 2016
 - DaWaK: 2016
 - WISE: 2016, 2017
-- IEEE BigData: 2023
+- IEEE BigData: 2023, 2024
 - SoICT: 2022, 2023
+- CustomNLP4U@EMBLP2024
 
 ----
 
