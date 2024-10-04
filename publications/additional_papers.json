@@ -1,5 +1,39 @@
 [
 
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+ 				{ "text": "Yui Miyakawa" },
+				{ "text": "Chihaya Matsuhira" },
+				{ "text": "Hirotaka Kato" },
+				{ "text": "Takatsugu Hirayama" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?.",
+  		"venue": "CMCL@ACL",
+  		"pages": "81-85",
+  		"year" : "2024",
+			"ee": "https://aclanthology.org/2024.cmcl-1.7/",
+			"key": "CMCL@ACL2024"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+ 				{ "text": "Carlos Victorino Padeiro" },
+				{ "text": "Tse-Wei Chen" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation.",
+  		"venue": "EVW@CVPR",
+  		"pages": "2111-2120",
+  		"year" : "2024",
+			"ee": "https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Padeiro_Lightweight_Maize_Disease_Detection_through_Post-Training_Quantization_with_Similarity_Preservation_CVPRW_2024_paper.pdf"
+	},
 
 	{
 		"type": "conference",
