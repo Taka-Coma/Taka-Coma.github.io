@@ -17,7 +17,7 @@ publishDir="docs"
 
 [params.introduction]
 	pos = "Associate Professor"
-	aff1 = "Mathematical and Data Science Center"
+	aff1 = "Center for Artificial Intelligence, Mathematical and Data Science"
 	affurl1 = "https://www.mds.nagoya-u.ac.jp/"
 	aff2 = "Nagoya University"
 	affurl2 = "http://www.nagoya-u.ac.jp/"
@@ -80,7 +80,7 @@ publishDir="docs"
 [params.researchpos]
 	[[params.researchpos.list]]
 		duration = "January 2022 - now"
-		affiliation = "Mathematical and Data Science Center, Nagoya University"
+		affiliation = "Center for Artificial Intelligence, Mathematical and Data Science, Nagoya University"
 		affurl = "https://www.mds.nagoya-u.ac.jp/"
 		position = "Associate Professor"
 		lab = "Contents Science Laboratory"

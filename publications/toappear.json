@@ -4,6 +4,22 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+			  { "text": "Trung Thanh Nguyen" },
+			  { "text": "Yasutomo Kawanishi" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Action Selection Learning for Multi-label Multi-view Action Recognition",
+  		"venue": "MMAsia",
+  		"pages": "",
+  		"year" : "2024",
+			"ee": ""
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Yuka Teramoto" },
 			  { "text": "Takahiro Komamizu" },
 				{ "text": "Mitsunori Matsushita" },

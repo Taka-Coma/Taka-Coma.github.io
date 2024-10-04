@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Action Selection Learning for Multi-label Multi-view Action Recognitio", MMAsia, pp., 2024 ([DOI]())
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp., 2024 ([DOI]())
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", the 32nd ACM Multimedia Conference, pp., 2024 ([DOI]())
 1. Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro IDE, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL@ACL 2024), pp., 2024 ([DOI](https://aclanthology.org/2024.cmcl-1.7/), [poster](/pdfs/CMCL@ACL2024.pdf))
