@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## To Appear
-1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Model", CustomNLP4U@EMNLP, pp., 2024 ([DOI]())
+1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models", CustomNLP4U@EMNLP, pp., 2024 ([DOI]())
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Action Selection Learning for Multi-label Multi-view Action Recognition", MMAsia, pp., 2024 ([DOI]())
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp., 2024 ([DOI]())
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", the 32nd ACM Multimedia Conference, pp., 2024 ([DOI]())
