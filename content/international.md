@@ -5,11 +5,12 @@ draft: false
 ---
 
 ## To Appear
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Model", MMM, pp., 2024 ([DOI]())
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Towards Visual Storytelling by Understanding Narrative Context through Scene-Graph", MMM, pp., 2024 ([DOI]())
 1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models", CustomNLP4U@EMNLP, pp., 2024 ([DOI]())
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Action Selection Learning for Multi-label Multi-view Action Recognition", MMAsia, pp., 2024 ([DOI]())
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp., 2024 ([DOI]())
-1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", the 32nd ACM Multimedia Conference, pp., 2024 ([DOI]())
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", ACM Multimedia, pp., 2024 ([DOI]())
 ----
 ## International Journals
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
@@ -29,6 +30,7 @@ draft: false
 ----
 ## International Conferences
 ### 2024
+1. Carlos Victorino Padeiro, Tse-Wei Chen 0004, [Takahiro Komamizu](/), Ichiro Ide, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", CVPR Workshops, pp.2111-2120, 2024 ([DOI](https://doi.org/10.1109/CVPRW63382.2024.00216))
 1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro Ide, "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval", DEXA, pp.233-247, 2024 ([DOI](https://doi.org/10.1007/978-3-031-68312-1_18), [slide](/pdfs/DEXA2024.pdf)) --- {{< awards name="Best Paper Award" >}}
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features", FG, pp.1-10, 2024 ([DOI](https://doi.org/10.1109/FG59268.2024.10581896))
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "ICDAR 24: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.1332-1333, 2024 ([DOI](https://doi.org/10.1145/3652583.3659999))
@@ -48,7 +50,6 @@ draft: false
 1. Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp.322-337, 2023 ([DOI](https://aclanthology.org/2023.paclic-1.33))
 ### 2022
 1. Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Daisuke Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp.1-7, 2022 ([DOI](https://doi.org/10.1109/AVSS56176.2022.9959510))
-1. Carlos Victorino Padeiro, Tse-Wei Chen 0004, [Takahiro Komamizu](/), Ichiro Ide, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", CVPR Workshops, pp.2111-2120, 2022 ([DOI](https://doi.org/10.1109/CVPRW63382.2024.00216))
 1. Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives", ICADL, pp.377-391, 2022 ([DOI](https://doi.org/10.1007/978-3-031-21756-2_29)) --- {{< awards name="Best Paper Runner-up" >}}
 1. Da Huo, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, "Action Semantic Alignment for Image Captioning", MIPR, pp.194-197, 2022 ([DOI](https://doi.org/10.1109/MIPR54900.2022.00041))
 1. Hirotaka Kato, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, Yasutomo Kawanishi, [Takahiro Komamizu](/), Daisuke Deguchi, Hiroshi Murase, "Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generation", MIPR, pp.240-245, 2022 ([DOI](https://doi.org/10.1109/MIPR54900.2022.00050))
