@@ -5,8 +5,8 @@ draft: false
 ---
 
 ## To Appear
-1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Model", MMM, pp., 2024 ([DOI]())
-1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Towards Visual Storytelling by Understanding Narrative Context through Scene-Graph", MMM, pp., 2024 ([DOI]())
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp., 2025 ([DOI]())
+1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Towards Visual Storytelling by Understanding Narrative Context through Scene-Graphs", MMM, pp., 2025 ([DOI]())
 1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models", CustomNLP4U@EMNLP, pp., 2024 ([DOI]())
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Action Selection Learning for Multi-label Multi-view Action Recognition", MMAsia, pp., 2024 ([DOI]())
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp., 2024 ([DOI]())
