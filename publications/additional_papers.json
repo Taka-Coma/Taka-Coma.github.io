@@ -23,22 +23,6 @@
 		"type": "conference",
 		"authors": {
 			"author": [
- 				{ "text": "Carlos Victorino Padeiro" },
-				{ "text": "Tse-Wei Chen" },
-			  { "text": "Takahiro Komamizu" },
-			  { "text": "Ichiro Ide" }
- 		]},
-  		"title": "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation.",
-  		"venue": "EVW@CVPR",
-  		"pages": "2111-2120",
-  		"year" : "2024",
-			"ee": "https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Padeiro_Lightweight_Maize_Disease_Detection_through_Post-Training_Quantization_with_Similarity_Preservation_CVPRW_2024_paper.pdf"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
  { "text": "Takahiro Yamakoshi" },
  { "text": "Vee Satayamas" },
  { "text": "Hutchatai Chanlekha" },
