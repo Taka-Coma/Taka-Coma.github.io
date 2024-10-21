@@ -12,6 +12,7 @@ publishDir="docs"
   author = "Takahiro Komamizu"
   description = "This is Takahiro Komamizu's homepage."
   mainImage = "images/icon.jpg"
+	mainLogo = "images/logo_white.svg"
 	email = "taka-coma [at] acm.org"
 
 
