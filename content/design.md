@@ -3,9 +3,16 @@ title = "Design"
 date = "2022-10-10"
 +++
 
+## Logo Design
+{{< gallery hover-effect="grow" >}}
+	{{< figure caption="My Logo" src="/images/logos/my_logo.svg" >}}
+{{</ gallery >}}
+{{< load-photoswipe >}}
+
 ## Poster Design
 
 {{< gallery hover-effect="grow" >}}
+	{{< figure caption="DS Program for Nagoya University Students" src="/images/posters/dsprogram-nagoyaU.svg" >}}
 	{{< figure caption="DS Program 2nd Info Session 2024 Fall" src="/images/posters/dsprogram-infosession-2024-poster_2_fall.svg" >}}
 	{{< figure caption="MDS Lecture Meeting 202409" src="/images/posters/mds-lecture-meeting-202409.jpg" >}}
 	{{< figure caption="MDS Practicum Pamphlet 2024 (front)" src="/images/posters/dsprogram_practicum_1.jpg" >}}
