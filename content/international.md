@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. [Takahiro Komamizu](/), "ASC: Aggregating Sentence-level Classifications for   Multi-label Long Text Classificatio", SoICT, pp., 2024 ([DOI]())
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp., 2025 ([DOI]())
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Towards Visual Storytelling by Understanding Narrative Context through Scene-Graphs", MMM, pp., 2025 ([DOI]())
 1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models", CustomNLP4U@EMNLP, pp., 2024 ([DOI]())
