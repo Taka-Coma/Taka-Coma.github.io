@@ -12,6 +12,7 @@ date = "2022-10-10"
 ## Poster Design
 
 {{< gallery hover-effect="grow" >}}
+	{{< figure caption="DS Program Info Session 2025 Fall" src="/images/posters/dsprogram-infosession-2025-poster_fall.svg" >}}
 	{{< figure caption="DS Program for Nagoya University Students" src="/images/posters/dsprogram-nagoyaU.svg" >}}
 	{{< figure caption="DS Program 2nd Info Session 2024 Fall" src="/images/posters/dsprogram-infosession-2024-poster_2_fall.svg" >}}
 	{{< figure caption="MDS Lecture Meeting 202409" src="/images/posters/mds-lecture-meeting-202409.jpg" >}}
@@ -30,6 +31,7 @@ date = "2022-10-10"
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
+- [DS Program Info Session 2025 Fall](https://www.mds.nagoya-u.ac.jp/info-session/20241121)
 - [DS Program 2nd Info Session 2024 Fall](https://www.mds.nagoya-u.ac.jp/info-session/20240919)
 - [MDS Lecture Meeting 202409](https://www.mds.nagoya-u.ac.jp/mds-event/20240911)
 - [MDS Practicum Pamphlet 2024](https://www.mds.nagoya-u.ac.jp/practicum)
