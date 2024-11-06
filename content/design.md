@@ -6,6 +6,8 @@ date = "2022-10-10"
 ## Logo Design
 {{< gallery hover-effect="grow" >}}
 	{{< figure caption="My Logo" src="/images/logos/my_logo.svg" >}}
+	{{< figure caption="Conference List Logo (202405)" src="/images/logos/conference_list_202405.svg" >}}
+	{{< figure caption="Conference List Logo (202411)" src="/images/logos/conference_list_202411.svg" >}}
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
