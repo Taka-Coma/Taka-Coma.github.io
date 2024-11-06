@@ -8,6 +8,22 @@
 		},
 		"title": "若手研究者対談企画号",
 		"venue": "DBSJ Newsletter",
+		"volume": "17",
+		"number": "6",
+		"year": "2024",
+		"month": "11",
+		"ee": "https://dbsj.org/newsletter-vol-17-no-6/"
+	}
+	,
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "駒水 孝裕"}
+			]
+		},
+		"title": "若手研究者対談企画号",
+		"venue": "DBSJ Newsletter",
 		"volume": "16",
 		"number": "6",
 		"year": "2023",
