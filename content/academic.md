@@ -29,12 +29,18 @@ draft: false
 ## Academic Activities (International)
 
 ### Current Activities
+- Nov. 2024 - now, 
+    [13th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2025)](http://pa.icar.cnr.it/scsn25/),
+    PC member
 - Feb. 2024 - now,
 	[2024 IEEE International Conference on Big Data (IEEE BigData 2024)](https://bigdataieee.org/BigData2024/),
 	PC member
 - Mar. 2024 - now, 
     [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
     Session Co-chair,
+- Jan. 2024 - now, 
+    [31st International Conference on Multimedia Modelling (MMM 2025)](https://mmm2025.net/),
+    Web Co-chair,
 - Jul. 2024 - now,
     [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
     Conference Co-chair
