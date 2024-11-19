@@ -11,7 +11,6 @@ draft: false
 1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models", CustomNLP4U@EMNLP, pp., 2024 ([DOI]())
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Action Selection Learning for Multi-label Multi-view Action Recognition", MMAsia, pp., 2024 ([DOI]())
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp., 2024 ([DOI]())
-1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation", ACM Multimedia, pp., 2024 ([DOI]())
 ----
 ## International Journals
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
@@ -35,6 +34,7 @@ draft: false
 1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro Ide, "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval", DEXA, pp.233-247, 2024 ([DOI](https://doi.org/10.1007/978-3-031-68312-1_18), [slide](/pdfs/DEXA2024.pdf)) --- {{< awards name="Best Paper Award" >}}
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features", FG, pp.1-10, 2024 ([DOI](https://doi.org/10.1109/FG59268.2024.10581896))
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "ICDAR 24: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.1332-1333, 2024 ([DOI](https://doi.org/10.1145/3652583.3659999))
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation", ACM Multimedia, pp.7307-7315, 2024 ([DOI](https://doi.org/10.1145/3664647.3681202))
 1. Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", CMCL@ACL, pp.81-85, 2024 ([DOI](https://aclanthology.org/2024.cmcl-1.7/), [poster](/pdfs/CMCL@ACL2024.pdf))
 ### 2023
 1. [Takahiro Komamizu](/), "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 ([DOI](https://doi.org/10.1007/978-3-031-39821-6_15), [slide](/pdfs/DEXA2023.pdf)) --- {{< awards name="Best Paper Award" >}}
@@ -101,6 +101,7 @@ draft: false
 ## Pre-Print
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features", CoRR, Vol.abs/2404.19542, 2024 ([DOI](https://doi.org/10.48550/arXiv.2404.19542))
 1. Tingwei Liu, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association", CoRR, Vol.abs/2405.17323, 2024 ([DOI](https://doi.org/10.48550/arXiv.2405.17323))
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Action Selection Learning for Multi-label Multi-view Action Recognition", CoRR, Vol.abs/2410.03302, 2024 ([DOI](https://doi.org/10.48550/arXiv.2410.03302))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining", CoRR, Vol.abs/2303.03144, 2023 ([DOI](https://doi.org/10.48550/arXiv.2303.03144))
 1. Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results", CoRR, Vol.abs/2307.09143, 2023 ([DOI](https://doi.org/10.48550/arXiv.2307.09143))
 1. Jialiang Shi, [Takahiro Komamizu](/), Keisuke Doman, Haruya Kyutoku, Ichiro Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", CoRR, Vol.abs/2310.15593, 2023 ([DOI](https://doi.org/10.48550/arXiv.2310.15593))
