@@ -4,6 +4,12 @@ date: 2020-10-20T22:24:46+09:00
 draft: false
 ---
 
+## 講演
+- [駒水 孝裕](/), "名古屋大学におけるデジタル人材育成に向けたリカレント教育プログラムの取り組み", 令和6年度東海地区大学教育研究会 研究大会：「地域社会のニーズとリカレント教育のこれから」～豊かに、そして幸せに生きるために～, 2024.11
+- [駒水 孝裕](/), 広瀬 智（株式会社デンソー）, "企業と大学のカリキュラムマッピングと産学連携教育の試み", 第4回東海デジタル人材フォーラム, 2023.3
+- [駒水 孝裕](/), "デジタル人材育成における産学連携の取り組み", 株式会社デンソー 23年度ソフトウェア技術者交流会, 2023.3
+- [駒水 孝裕](/), "データ工学分野における技術と研究", 科目「ICT活用」, 筑波大学附属坂戸高校, 2012.2
+----
 ## 論文誌
 - Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier", Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 ([DOI](https://doi.org/10.1527/tjsai.E-K25))
 - 山腰 貴大, 小川 泰弘, [駒水 孝裕](/), 外山 勝彦, "ランダムフォレストを用いた法令用語の校正", 人工知能学会論文誌, Vol.35, No.1, pp.H-J53_1-14, 2020 ([DOI](https://doi.org/10.1527/tjsai.H-J53))
@@ -98,11 +104,6 @@ draft: false
 ### 2009
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "異種XMLデータに対するファセット検索手法の提案", 情報処理学会 研究報告デジタルドキュメント（DD）, Vol.2009-DD-073, No.7, pp.1-8, 2009 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=66263&item_no=1&page_id=13&block_id=8)) -- {{< awards name="IPSJ Yamashita SIG Research Award" url="http://www.ipsj.or.jp/award/yamashita2010.html" >}}
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案", 第1回データ工学と情報マネジメントに関するフォーラム, pp.B7-6, 2009
-----
-## 講演
-- [駒水 孝裕](/), 広瀬 智（株式会社デンソー）, "企業と大学のカリキュラムマッピングと産学連携教育の試み", 第4回東海デジタル人材フォーラム, 2023.3
-- [駒水 孝裕](/), "デジタル人材育成における産学連携の取り組み", 株式会社デンソー 23年度ソフトウェア技術者交流会, 2023.3
-- [駒水 孝裕](/), "データ工学分野における技術と研究", 科目「ICT活用」, 筑波大学附属坂戸高校, 2012.2
 ----
 ## 寄稿
 - [駒水 孝裕](/), "The Web Conference 2020 参加報告", 情報処理, Vol.61, No.10, pp.1078-1079, 2020.9 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=206940&item_no=1&page_id=13&block_id=8))

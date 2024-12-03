@@ -20,6 +20,10 @@ draft: false
             out.append("----")
 
     urls = {
+        'invited': {
+            'text': '講演',
+            'url': "./domestic_invited.json",
+        },
         'journal': {
             'text': '論文誌',
             'url': "./domestic_journal.json"
@@ -31,10 +35,6 @@ draft: false
         'nonref_conference': {
             'text': '査読なし会議',
             'url': "./domestic_nonrefconf.json"
-        },
-        'invited': {
-            'text': '講演',
-            'url': "./domestic_invited.json",
         },
         'article': {
             'text': '寄稿',
