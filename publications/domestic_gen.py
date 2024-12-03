@@ -91,7 +91,10 @@ def formatPaper(paper, style='journal'):
     out = f"{authors}, \"{paper['title']}\", {paper['venue']}"
 
     if 'volume' in paper:
-        out += f", Vol.{paper['volume']}, No.{paper['number']}"
+        out += f", Vol.{paper['volume']}"
+
+    if "number" in paper:
+        out += f", No.{paper['number']}"
 
     if 'pages' in paper:
         out += f", pp.{paper['pages']}"

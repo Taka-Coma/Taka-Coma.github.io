@@ -6,6 +6,21 @@
 				{ "text": "駒水 孝裕"}
 			]
 		},
+		"title": "データと未来を紡ぐモビリティDXプログラム",
+		"venue": "D3: DX human resource Development in the Digital era",
+		"volume": "3",
+		"pages": "2", 
+		"year": "2024",
+		"month": "3",
+		"ee": "https://drive.google.com/file/d/1UVSxF6s8soneijT6gErIcPMHUvojo6EY/view"
+	},
+
+	{
+		"authors": {
+			"author": [
+				{ "text": "駒水 孝裕"}
+			]
+		},
 		"title": "The Web Conference 2020 参加報告",
 		"venue": "情報処理",
 		"volume": "61",
@@ -14,9 +29,7 @@
 		"year": "2020",
 		"month": "9",
 		"ee": "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=206940&item_no=1&page_id=13&block_id=8"
-	}
-
-	,
+	},
 
 	{
 		"authors": {
@@ -31,9 +44,7 @@
 		"year": "2018",
 		"month": "10",
 		"ee": "https://archive.dbsj.org/dbjapan/2018/msg00210.html"
-	}
-
-	,
+	},
 
 	{
 		"authors": {
@@ -48,9 +59,7 @@
 		"year"  : "2018",
 		"month" : "2",
 		"ee"   : "https://archive.dbsj.org/dbjapan/2018/msg00021.html"
-	}
-
-	,
+	},
 
 	{
 		"authors": {
@@ -65,9 +74,7 @@
  		"year"  : "2017",
  		"month" : "4",
  		"ee"   : "https://archive.dbsj.org/dbjapan/2017/msg00188.html"
-	}
-
-	,
+	},
 
 	{
 		"authors": {
