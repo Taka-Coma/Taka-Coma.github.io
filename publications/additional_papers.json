@@ -4,6 +4,22 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Yusuke Kimura" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Kenji Hatano" }
+ 		]},
+  		"title": "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models",
+  		"venue": "CustomNLP4U@EMNLP",
+  		"pages": "53–62",
+  		"year" : "2024",
+			"ee": "https://doi.org/10.18653/v1/2024.customnlp4u-1.6",
+			"key": "CustomNLP4U@EMNLP2024"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
  				{ "text": "Yui Miyakawa" },
 				{ "text": "Chihaya Matsuhira" },
 				{ "text": "Hirotaka Kato" },
