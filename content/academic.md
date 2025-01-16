@@ -29,6 +29,9 @@ draft: false
 ## Academic Activities (International)
 
 ### Current Activities
+- Nov. 2024 - now,
+    [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](),
+    Organizing Committee member
 - Dec. 2024 - now,
     [Korea-Japan (Japan-Korea) Database Workshop 2025](https://www.kjdb.or.kr/),
     Local member
@@ -38,6 +41,8 @@ draft: false
 - Nov. 2024 - Feb. 2025, 
     [13th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2025)](http://pa.icar.cnr.it/scsn25/),
     PC member
+
+### Past Activities
 - Mar. 2024 - Jan. 2025, 
     [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
     Session Co-chair,
@@ -50,8 +55,6 @@ draft: false
 - Sep. 2024 - Dec. 2024,
     [13th International Symposium on Information and Communication Technology (SoICT 2024)](https://soict.org/),
     PC member
-
-### Past Activities
 - Feb. 2024 - Aug. 2024,
     [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
     PC member 
