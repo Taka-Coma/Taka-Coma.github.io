@@ -66,19 +66,6 @@
 	},
 
 	{
-		"venue": "DEIM 2020",
-		"venue_url": "http://db-event.jpn.org/deim2020/",
-		"award": "Online Presentation Award",
-		"award_jp": "オンラインプレゼンテーション賞",
-		"award_url": "http://db-event.jpn.org/deim2020/post/awards.html",
-		"paper": {
-			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
-			"title": "不均衡データ分類フレームワークにおけるサンプリング比率の最適化"
-		},
-		"date": "March 2020"
-	},
-
-	{
 		"venue": "DEIM 2018",
 		"venue_url": "http://db-event.jpn.org/deim2018/",
 		"award": "Poster Award",
