@@ -66,19 +66,6 @@
 	},
 
 	{
-		"venue": "DEIM 2018",
-		"venue_url": "http://db-event.jpn.org/deim2018/",
-		"award": "Poster Award",
-		"award_jp": "優秀インタラクティブ賞",
-		"award_url": "http://db-event.jpn.org/deim2018/post/award",
-		"paper": {
-			"author": "伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之",
-			"title": "ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習"
-		},
-		"date": "March 2018"
-	},
-
-	{
 		"venue": "DEIM 2017",
 		"venue_url": "http://db-event.jpn.org/deim2017/",
 		"award": "Student Award",
