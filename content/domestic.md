@@ -30,7 +30,7 @@ draft: false
 - Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", IEICE Tech. Rep., Vol.123, No.432, IE2023-145, pp.414-419, 2024 ([link](https://ken.ieice.org/ken/paper/20240315ac1V/eng/))
 - 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "複数食材の大きさを統合利用した弁当画像の縮尺推定に関する検討", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-103, pp.330-335, 2024 ([link](https://ken.ieice.org/ken/paper/20240315TcCd/))
 - 池田 昂太郎, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌詞の自動翻訳のための発音を考慮した訳語選択に関する研究", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-54, pp.69-74, 2024 ([link](https://ken.ieice.org/ken/paper/20240313Yc1r/))
-- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル付き料理画像のフォントスタイル生成に関する検討", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-69, pp.154-158, 2024 ([link](https://ken.ieice.org/ken/paper/20240314jcCE/))
+- 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル重畳料理サムネイル画像における魅力的なフォントスタイルの分析", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-69, pp.154-158, 2024 ([link](https://ken.ieice.org/ken/paper/20240314jcCE/))
 - 加藤 辰弥, [駒水 孝裕](/), 井手 一郎, "類似度グラフの事前再計算による拡散式画像検索の効率化", 第16回データ工学と情報マネジメントに関するフォーラム, pp.T3-B-4-04, 2024 -- {{< awards name="Student Presentation Award" url="https://confit.atlas.jp/guide/event/deim2024/static/awards" >}}
 - リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", 電子情報通信学会技術研究報告, Vol.123, No.409, PRMU2023-77, pp.150-155, 2024 ([link](https://ken.ieice.org/ken/paper/20240304Wcbr/))
 ### 2023
@@ -106,7 +106,7 @@ draft: false
 - [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案", 第1回データ工学と情報マネジメントに関するフォーラム, pp.B7-6, 2009
 ----
 ## 寄稿
-- [駒水 孝裕](/), "データと未来を紡ぐモビリティDXプログラム", 名古屋大学 数理・データ科学・人工知能教育研究センター D3: DX human resource Development in the Digital era, Vol.3, pp.2, 2024.3 ([link](https://drive.google.com/file/d/1UVSxF6s8soneijT6gErIcPMHUvojo6EY/view))
+- [駒水 孝裕](/), "データと未来を紡ぐモビリティDXプログラム", D3: DX human resource Development in the Digital era, Vol.3, pp.2, 2024.3 ([link](https://drive.google.com/file/d/1UVSxF6s8soneijT6gErIcPMHUvojo6EY/view))
 - [駒水 孝裕](/), "The Web Conference 2020 参加報告", 情報処理, Vol.61, No.10, pp.1078-1079, 2020.9 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=206940&item_no=1&page_id=13&block_id=8))
 - [駒水 孝裕](/), "DEXA 2018 参加報告", DBSJ Newsletter, DBSJ, Vol.11, No.5, 2018.10 ([link](https://archive.dbsj.org/dbjapan/2018/msg00210.html))
 - [駒水 孝裕](/), "IEEE BigData 2017 参加報告", DBSJ Newsletter, DBSJ, Vol.10, No.8, 2018.2 ([link](https://archive.dbsj.org/dbjapan/2018/msg00021.html))
