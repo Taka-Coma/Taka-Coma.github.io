@@ -5,8 +5,7 @@ draft: false
 ---
 
 ## To Appear
-1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp., 2025 ([DOI]())
-1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro IDE, "Towards Visual Storytelling by Understanding Narrative Context through Scene-Graphs", MMM, pp., 2025 ([DOI]())
+1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva",  Int. J. Mach. Learn. & Cyber., pp.1-16, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
 1. [Takahiro Komamizu](/), "ASC: Aggregating Sentence-level Classifications for   Multi-label Long Text Classification", SoICT, pp., 2024 ([DOI](), [slide](/pdfs/SoICT2024.pdf), [poster](/pdfs/SoICT2024_poster.pdf))
 ----
 ## International Journals
@@ -27,6 +26,9 @@ draft: false
 1. [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "Faceted Navigation Framework for XML Data", Int. J. Web Inf. Syst., Vol.8, No.4, pp.348-370, 2012 ([DOI](https://doi.org/10.1108/17440081211282865))
 ----
 ## International Conferences
+### 2025
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_31))
+1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_17))
 ### 2024
 1. Carlos Victorino Padeiro, Tse-Wei Chen 0004, [Takahiro Komamizu](/), Ichiro Ide, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", CVPR Workshops, pp.2111-2120, 2024 ([DOI](https://doi.org/10.1109/CVPRW63382.2024.00216))
 1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro Ide, "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval", DEXA, pp.233-247, 2024 ([DOI](https://doi.org/10.1007/978-3-031-68312-1_18), [slide](/pdfs/DEXA2024.pdf)) --- {{< awards name="Best Paper Award" >}}

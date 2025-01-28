@@ -1,37 +1,20 @@
 [
 
 	{
-		"type": "conference",
+		"type": "journal",
 		"authors": {
 			"author": [
-				{ "text": "Chihaya Matsuhira" },
-				{ "text": "Marc A. Kastner" },
+				{ "text": "Bolin Zhang" },
+				{ "text": "Chao Yang" },
+				{ "text": "Bin Jiang" },
 			  { "text": "Takahiro Komamizu" },
-				{ "text": "Takatsugu Hirayama" },
-			  { "text": "Ichiro IDE" }
+			  { "text": "Ichiro Ide" }
  		]},
-  		"title": "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models.",
-  		"venue": "MMM",
-  		"pages": "",
+  		"title": "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval",
+  		"venue": " Int. J. Mach. Learn. & Cyber.",
+  		"pages": "1-16",
   		"year" : "2025",
-			"ee": ""
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-			  { "text": "Itthisak Phueaksri" },
-			  { "text": "Marc A. Kastner" },
-			  { "text": "Yasutomo Kawanishi" },
-			  { "text": "Takahiro Komamizu" },
-			  { "text": "Ichiro IDE" }
- 		]},
-  		"title": "Towards Visual Storytelling by Understanding Narrative Context through Scene-Graphs.",
-  		"venue": "MMM",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": ""
+			"ee": "https://doi.org/10.1007/s13042-024-02520-w"
 	},
 
 	{
