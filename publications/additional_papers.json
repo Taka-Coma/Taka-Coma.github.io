@@ -1,6 +1,23 @@
 [
 
 	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Bolin Zhang" },
+				{ "text": "Chao Yang" },
+				{ "text": "Bin Jiang" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval",
+  		"venue": " Int. J. Mach. Learn. & Cyber.",
+  		"pages": "1-16",
+  		"year" : "2025",
+			"ee": "https://doi.org/10.1007/s13042-024-02520-w"
+	},
+
+	{
 		"type": "conference",
 		"authors": {
 			"author": [
