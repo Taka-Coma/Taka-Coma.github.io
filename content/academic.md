@@ -31,8 +31,11 @@ draft: false
 
 ### Current Activities
 
+- Feb. 2025 - now,
+    [27th International Conference on Information Integration and Web Intelligence (iiWAS2025)](https://www.iiwas.org/conferences/iiwas2025/),
+    Local co-chair
 - Nov. 2024 - now,
-    [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](),
+    [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html),
     Organizing Committee member
 - Dec. 2024 - now,
     [Korea-Japan (Japan-Korea) Database Workshop 2025](https://www.kjdb.or.kr/),
