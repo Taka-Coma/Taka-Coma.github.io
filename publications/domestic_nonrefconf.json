@@ -3,6 +3,87 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "田中優衣" },
+ { "text": "カストナー マークアウレル" },
+ { "text": "川西 康友" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "形容詞の視覚的な多様性の定量化に向けた検討",
+  		"venue": "2025年電子情報通信学会総合大会",
+			"volume": "情報・システム2",
+			"number": "D-12-52",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Carlos Victorino Padeiro" },
+ { "text": "Tse-Wei Chen" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection",
+  		"venue": "IEICE Tech. Rep.",  
+			"volume": "???",
+			"number": "???, IE????-???",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "加藤 眸" },
+ { "text": "加藤 大貴" },
+ { "text": "平山 高嗣" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "折り図の自動生成に向けた折り紙画像からの折り線推定",
+  		"venue": "電子情報通信学会技術研究報告",
+			"volume": "???",
+			"number": "???, MVE????-???",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "髙木 七海" },
+ { "text": "久徳 遙矢" }, 
+ { "text": "道満 恵介" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "タイトル重畳料理画像における魅力的なフォントの分析と推定",
+  		"venue": "第17回データ工学と情報マネジメントに関するフォーラム",
+  		"pages": "6E-05",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Jialiang Shi" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "HashtagMeta: Fake News Mitigation for Hashtag Recommendation",
+  		"venue": "第17回データ工学と情報マネジメントに関するフォーラム",
+  		"pages": "1K-05",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },

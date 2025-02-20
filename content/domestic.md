@@ -19,6 +19,12 @@ draft: false
 - 永野 真知, 早瀬 康裕, [駒水 孝裕](/), 北川 博之, "GitHubとStack Overflowの開発者の活動記録を併用したリポジトリ推薦", ソフトウェアエンジニアリングシンポジウム 2017, pp.138-145, 2017 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183222&item_no=1&page_id=13&block_id=8))
 ----
 ## 査読なし会議
+### 2025
+- 田中優衣, カストナー マークアウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025
+- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.???, No.???, IE????-???, pp., 2025
+- 加藤 眸, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図の自動生成に向けた折り紙画像からの折り線推定", 電子情報通信学会技術研究報告, Vol.???, No.???, MVE????-???, pp., 2025
+- 髙木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル重畳料理画像における魅力的なフォントの分析と推定", 第17回データ工学と情報マネジメントに関するフォーラム, pp.6E-05, 2025
+- Jialiang Shi, [Takahiro Komamizu](/), Ichiro Ide, "HashtagMeta: Fake News Mitigation for Hashtag Recommendation", 第17回データ工学と情報マネジメントに関するフォーラム, pp.1K-05, 2025
 ### 2024
 - Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-012, 2024
 - Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Toward Visual Storytelling using Scene-Graph Contexts", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-099, 2024

@@ -28,7 +28,9 @@ draft: false
 
 ## Academic Activities (International)
 
+
 ### Current Activities
+
 - Nov. 2024 - now,
     [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](),
     Organizing Committee member
@@ -38,11 +40,13 @@ draft: false
 - Jul. 2024 - Jul. 2025,
     [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
     Conference Co-chair
+
+
+### Past Activities
+
 - Nov. 2024 - Feb. 2025, 
     [13th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2025)](http://pa.icar.cnr.it/scsn25/),
     PC member
-
-### Past Activities
 - Mar. 2024 - Jan. 2025, 
     [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
     Session Co-chair,
@@ -164,22 +168,22 @@ draft: false
 - IEEE Transactions on Industrial Informatics (TII): 2024
 - IEEE Access: 2018, 2019
 - Knowledge and Information Systems (KAIS): 2023
-- BMC Medical Research Methodology: 2023
-- Multimedia Systems: 2020
+- Multimedia Systems: 2020, 2025
 - World Wide Web (WWW): 2018
+- BMC Medical Research Methodology: 2023
 
 ----
 
 ## Reviewer: International Conference
 - ACM MM: 2024
 - ICMR: 2024
-- ICME: 2019, 2020, 2021
+- ICME: 2019, 2020, 2021, 2025
 - ICSC: 2018, 2020
 - DSAA: 2016
 - DaWaK: 2016
 - WISE: 2016, 2017
 - IEEE BigData: 2023, 2024
-- SoICT: 2022, 2023
+- SoICT: 2022, 2023, 2024
 - CustomNLP4U@EMBLP2024
 
 ----

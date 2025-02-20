@@ -102,6 +102,10 @@ draft: false
 1. [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "A framework of faceted navigation for XML data", iiWAS, pp.28-35, 2011 ([DOI](https://doi.org/10.1145/2095536.2095544), [slide](/pdfs/iiWAS2011.pdf))
 1. [Takahiro Komamizu](/), Yuto Yamaguchi, Toshiyuki Amagasa, Hiroyuki Kitagawa, "FACTUS: Faceted Twitter User Search Using Twitter Lists", WISE, pp.343-344, 2011 ([DOI](https://doi.org/10.1007/978-3-642-24434-6_35), [poster](/pdfs/WISE2011.pdf))
 ----
+## Editor
+1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "The Fifth Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2024, Phuket, Thailand, June 10-14, 202", ICDAR@ICMR, 2024 ([DOI](https://doi.org/10.1145/3643488))
+1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), "Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202", NarSUM@MM, 2023 ([DOI](https://doi.org/10.1145/3607540))
+----
 ## Pre-Print
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features", CoRR, Vol.abs/2404.19542, 2024 ([DOI](https://doi.org/10.48550/arXiv.2404.19542))
 1. Tingwei Liu, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association", CoRR, Vol.abs/2405.17323, 2024 ([DOI](https://doi.org/10.48550/arXiv.2405.17323))

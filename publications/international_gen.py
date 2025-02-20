@@ -35,21 +35,31 @@ draft: false
         out.append("----")
 
     urls = {
+
         'journal': {
             'text': 'International Journals',
             'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AJournal_Articles%3A&h=1000&format=json"
             #'url': "https://dblp.dagstuhl.de/search/publ/api?q=takahiro%20komamizu%20type%3AJournal_Articles%3A&h=1000&format=json"
         },
+
         'conference': {
             'text': 'International Conferences',
             'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AConference_and_Workshop_Papers%3A&h=1000&format=json"
             #'url': "https://dblp.dagstuhl.de/search/publ/api?q=takahiro%20komamizu%20type%3AConference_and_Workshop_Papers%3A&h=1000&format=json"
+
         },
+
+        'editor': {
+            'text': 'Editor',
+            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AEditorship%3A&h=1000&format=json"
+        },
+
         'preprint': {
             'text': 'Pre-Print',
             'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_and_Other_Publications%3A&h=1000&format=json"
             #'url': "https://dblp.dagstuhl.de/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_and_Other_Publications%3A&h=1000&format=json"
         }
+
     }
 
     for style in urls:
