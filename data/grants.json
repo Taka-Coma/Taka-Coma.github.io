@@ -1,6 +1,41 @@
 [ { 
 	"name": "競争的資金（代表）",
 	"grants": [
+
+		{
+			"title": "2021年度 科学研究費補助金 基盤研究 (B)",
+			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+			"application": "/pdfs/kaken_kibanb_2025.pdf",
+			"theme": "異種データを活用した高精度な知識抽出と提供のための情報統合基盤の研究",
+			"theme_url": "",
+			"theme_number": "",
+			"duration": "2025年4月~2029年3月",
+			"grant_amount": {
+				"total": "? 千円",
+				"direct": "? 千円",
+				"indirect": "? 千円"
+			},
+			"members": [
+				{
+					"name": "波多野 賢治",
+					"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
+					"affiliation": "同志社大学"
+				},{
+					"name": "井手 一郎",
+					"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
+					"affiliation": "名古屋大学"
+				},{
+					"name": "石川 佳治",
+					"url": "https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html",
+					"affiliation": "名古屋大学"
+				},{
+					"name": "Marc A. Kastner",
+					"url": "https://www.marc-kastner.com/ja",
+					"affiliation": "広島市立大学"
+				}
+			]
+		},
+
 		{
 			"title": "2023年度 挑戦的研究（萌芽）",
 			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
