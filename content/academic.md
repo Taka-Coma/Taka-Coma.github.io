@@ -32,6 +32,12 @@ draft: false
 ### Current Activities
 
 - Feb. 2025 - now,
+    [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM2025)](),
+    Organizing Committee member
+- Feb. 2025 - now,
+    [IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM2025)](),
+    Organizing Committee member
+- Feb. 2025 - now,
     [27th International Conference on Information Integration and Web Intelligence (iiWAS2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Local co-chair
 - Nov. 2024 - now,
