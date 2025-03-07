@@ -16,7 +16,7 @@ draft: false
         if len(data) > 0:
             out.append("## 採択済み")
             for paper in data:
-                out.append('- ' + formatPaper(paper, style=paper['type']))
+                out.append('1. ' + formatPaper(paper, style=paper['type']))
             out.append("----")
 
     urls = {
@@ -77,10 +77,10 @@ def getContent(url, style):
             tmp_cont = []
             for paper in papers[year]:
                 tmp_cont.append(formatPaper(paper, style=style))
-            out.append('- ' + '\n- '.join(tmp_cont))
+            out.append('1. ' + '\n1. '.join(tmp_cont))
     else:
         tmp_cont = [formatPaper(paper, style=style) for paper in papers]
-        out.append('- ' + '\n- '.join(tmp_cont))
+        out.append('1. ' + '\n1. '.join(tmp_cont))
 
     return out
 
