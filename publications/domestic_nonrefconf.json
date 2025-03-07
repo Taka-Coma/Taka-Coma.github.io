@@ -83,7 +83,8 @@
   		"title": "タイトル重畳料理画像における魅力的なフォントの分析と推定",
   		"venue": "第17回データ工学と情報マネジメントに関するフォーラム",
   		"pages": "6E-05",
-  		"year" : "2025"
+  		"year" : "2025",
+			"ee": "https://pub.confit.atlas.jp/ja/event/deim2025/presentation/6E-05"
 	},
 
 	{
@@ -96,7 +97,8 @@
   		"title": "HashtagMeta: Fake News Mitigation for Hashtag Recommendation",
   		"venue": "第17回データ工学と情報マネジメントに関するフォーラム",
   		"pages": "1K-05",
-  		"year" : "2025"
+  		"year" : "2025",
+			"ee": "https://pub.confit.atlas.jp/ja/event/deim2025/presentation/1K-05"
 	},
 
 	{
@@ -172,9 +174,9 @@
  		]},
   		"title": "大規模言語モデルは未知語に対する人間の感情想起を再現できるか？",
   		"venue": "第21回テキストアナリティクス・シンポジウム",
-			"volume": "",
-			"number": "",
-  		"pages": "",
+			"volume": "124",
+			"number": "173, NLC2024-7",
+  		"pages": "33-38",
   		"year" : "2024",
 			"ee": "https://ken.ieice.org/ken/paper/202409024c44/"
 	},
@@ -295,7 +297,7 @@
   		"venue": "第16回データ工学と情報マネジメントに関するフォーラム",
   		"pages": "T3-B-4-04",
   		"year" : "2024",
-			"ee": "",
+			"ee": "https://confit.atlas.jp/guide/event/deim2024/subject/T3-B-4-04/tables",
 			"awards": [
 				{
 					"name": "Student Presentation Award",
@@ -351,7 +353,7 @@
   		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
   		"pages": "2-6",
   		"year" : "2023",
-			"ee": "",
+			"ee": "https://www.nadasemi.jp/dbws-2023/",
 			"awards": [
 				{
 					"name": "Presentation Award Runner-up",
@@ -371,7 +373,7 @@
   		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
   		"pages": "2-7",
   		"year" : "2023",
-			"ee": ""
+			"ee": "https://www.nadasemi.jp/dbws-2023/"
 	},
 
 	{
@@ -504,7 +506,7 @@
   		"venue": "第15回データ工学と情報マネジメントに関するフォーラム",
   		"pages": "1b-6.4",
   		"year" : "2023",
-			"ee": "",
+			"ee": "https://proceedings-of-deim.github.io/DEIM2023/1b-6-4.pdf",
 			"awards": [
 				{
 					"name": "Student Presentation Award",
@@ -614,8 +616,7 @@
   		"title": "PiDP: 処方箋に対する GCN の対照学習に基づく錠剤検出",
   		"venue": "2023 年電子情報通信学会総合大会",
   		"pages": "D-12-3",
-  		"year" : "2023",
-			"ee": ""
+  		"year" : "2023"
 	},
 
 	{
@@ -766,7 +767,7 @@
 			"number": "15",
   		"pages": "1-6",
   		"year" : "2022",
-			"ee": "",
+			"ee": "https://ipsj.ixsq.nii.ac.jp/record/220013/files/IPSJ-IFAT22148015.pdf",
 			"awards": [
 				{
 					"name": "Student Award",
