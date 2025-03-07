@@ -21,6 +21,24 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "グエン チュン タイン" },
+ { "text": "川西 康友" },
+ { "text": "ビジェイ ジョン" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案",
+  		"venue": "電子情報通信学会技術研究報告",
+			"volume": "",
+			"number": ", PRMU-",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },
@@ -28,11 +46,11 @@
  		]},
   		"title": "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection",
   		"venue": "IEICE Tech. Rep.",  
-			"volume": "???",
-			"number": "???, IE????-???",
-  		"pages": "",
+			"volume": "124",
+			"number": "405 IE2024-118",
+  		"pages": "144-149",
   		"year" : "2025",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20250306JcjK/"
 	},
 
 	{
@@ -46,11 +64,11 @@
  		]},
   		"title": "折り図の自動生成に向けた折り紙画像からの折り線推定",
   		"venue": "電子情報通信学会技術研究報告",
-			"volume": "???",
-			"number": "???, MVE????-???",
-  		"pages": "",
+			"volume": "124",
+			"number": "406, MVE2024-98",
+  		"pages": "373-378",
   		"year" : "2025",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20250307qcj1/"
 	},
 
 	{

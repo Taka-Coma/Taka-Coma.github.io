@@ -21,8 +21,9 @@ draft: false
 ## 査読なし会議
 ### 2025
 - 田中優衣, カストナー マークアウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025
-- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.???, No.???, IE????-???, pp., 2025
-- 加藤 眸, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図の自動生成に向けた折り紙画像からの折り線推定", 電子情報通信学会技術研究報告, Vol.???, No.???, MVE????-???, pp., 2025
+- グエン チュン タイン, 川西 康友, ビジェイ ジョン, [駒水 孝裕](/), 井手 一郎, "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案", 電子情報通信学会技術研究報告, Vol., No., PRMU-, pp., 2025
+- Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.124, No.405 IE2024-118, pp.144-149, 2025 ([link](https://ken.ieice.org/ken/paper/20250306JcjK/))
+- 加藤 眸, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図の自動生成に向けた折り紙画像からの折り線推定", 電子情報通信学会技術研究報告, Vol.124, No.406, MVE2024-98, pp.373-378, 2025 ([link](https://ken.ieice.org/ken/paper/20250307qcj1/))
 - 髙木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル重畳料理画像における魅力的なフォントの分析と推定", 第17回データ工学と情報マネジメントに関するフォーラム, pp.6E-05, 2025
 - Jialiang Shi, [Takahiro Komamizu](/), Ichiro Ide, "HashtagMeta: Fake News Mitigation for Hashtag Recommendation", 第17回データ工学と情報マネジメントに関するフォーラム, pp.1K-05, 2025
 ### 2024
