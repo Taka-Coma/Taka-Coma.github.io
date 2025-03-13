@@ -45,7 +45,7 @@ draft: false
     [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html),
     Organizing Committee member
 - Dec. 2024 - now,
-    [Korea-Japan (Japan-Korea) Database Workshop 2025](https://www.kjdb.or.kr/),
+    [Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)](https://www.kjdb.or.kr/),
     Local member
 - Jul. 2024 - Jul. 2025,
     [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
@@ -90,9 +90,9 @@ draft: false
 
 #### Current Activities
 
-- Dec. 2024 - Jun. 2025,
-    [IEEE International Conference on Multimedia and Expo 2025 (ICME 2025)](https://2025.ieeeicme.org/),
-    Reviewer
+- Mar. 2025 - Dec. 2025,
+    [2025 IEEE International Conference on Big Data (IEEE BigData 2025)](https://conferences.cis.um.edu.mo/ieeebigdata2025/),
+    PC member
 
 #### Past Activities
 
@@ -105,12 +105,6 @@ draft: false
 - Sep. 2024 - Dec. 2024,
     [13th International Symposium on Information and Communication Technology (SoICT 2024)](https://soict.org/),
     PC member
-- Aug. 2024 - Nov. 2024,
-    [Workshop on Customizable NLP (CustomNLP4U@EMNLP 2024)](https://customnlp4u-24.github.io/),
-    Reviewer
-- Apr. 2024 - Aug. 2024,
-    [32nd ACM International Conference on Multimedia (ACM MM 2024)](https://2024.acmmm.org/),
-    Reviewer
 - Feb. 2024 - Aug. 2024,
     [35th International Conference on Database and Expert Systems Applications (DEXA 2024)](https://www.dexa.org/dexa2024), 
     PC member 
@@ -138,52 +132,58 @@ draft: false
 - Nov. 2021 - Jan. 2022,
 	[10th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2022)](http://pa.icar.cnr.it/scsn22/),
 	PC member
-- Dec. 2020 - Jul. 2021,
-    [IEEE International Conference on Multimedia and Expo 2021 (ICME 2021)](https://2021.ieeeicme.org/2021.ieeeicme.org/index.html),
-    Reviewer
 - Nov. 2020 - Jan. 2021,
 	[9th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2021)](http://pa.icar.cnr.it/scsn21/),
 	PC member
 - Apr. 2020 - Oct. 2020, 
 	[3rd International Workshop on EntitY REtrieval (EYRE@CIKM2020)](https://sites.google.com/view/eyre20),
 	PC member
-- Dec. 2019 - Jul. 2020,
-    [IEEE International Conference on Multimedia and Expo 2020 (ICME 2020)](https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.html),
-    Reviewer
-- Sep. 2019 - Feb. 2020,
-    [IEEE 14th International Conference on Semantic Computing (ICSC 2020)](https://semanticcomputing.wixsite.com/website-5),
-    Reviewer
 - Sep. 2019 - Feb. 2020,
 	[8th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2020)](http://pa.icar.cnr.it/scsn20/),
 	PC member
 - Apr. 2019 - Nov. 2019,
 	[2nd International Workshop on EntitY REtrieval (EYRE@CIKM2019)](https://sites.google.com/view/eyre19),
 	PC member
-- Dec. 2018 - Jul. 2019,
-    [IEEE International Conference on Multimedia and Expo 2019 (ICME 2019)](https://www.2019.ieeeicme.org/167.99.148.246/index.html),
-    Reviewer
 - Dec. 2018 - Feb. 2019,
 	[7th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2019)](http://pa.icar.cnr.it/scsn19/),
 	PC member
 - Dec. 2017 - Feb. 2018,
 	[12th IEEE International Conference on Semantic Computing (ICSC 2018)](http://pa.icar.cnr.it/scsn19/),
 	PC member
-- Apr. 2017 - Nov. 2017,
-    [18th International Conference on Web Information Systems Engineering (WISE 2017)](http://www.wise-conferences.org/2017/),
-    Reviewer
-- Jun. 2016 - Oct. 2016,
-    [3rd IEEE International Conference on Data Science and Advanced Analytics (DSAA 2016)](https://sites.ualberta.ca/~dsaa16/),
-    Reviewer
-- Apr. 2016 - Nov. 2016,
-    [17th International Conference on Web Information Systems Engineering (WISE 2016)](http://www.wise-conferences.org/2016/),
-    Reviewer
-- Mar. 2016 - Sep. 2016,
-    [18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK 2016)](https://www.dexa.org/previous/dexa2016/dawak2016.html),
-    Reviewer
 
 ----
 
-### Reviewer: International Journal
+### Reviewer
+
+#### International Conference
+- Jul. 2025,
+    [15th ACM International Conference on Multimedia Retrieval (ICMR 2025)](https://www.icmr-2025.org/)
+- Jun. 2025,
+    [IEEE International Conference on Multimedia and Expo 2025 (ICME 2025)](https://2025.ieeeicme.org/)
+- Nov. 2024,
+    [Workshop on Customizable NLP (CustomNLP4U@EMNLP 2024)](https://customnlp4u-24.github.io/)
+- Aug. 2024,
+    [32nd ACM International Conference on Multimedia (ACM MM 2024)](https://2024.acmmm.org/)
+- Jul. 2021,
+    [IEEE International Conference on Multimedia and Expo 2021 (ICME 2021)](https://2021.ieeeicme.org/2021.ieeeicme.org/index.html)
+- Jul. 2020,
+    [IEEE International Conference on Multimedia and Expo 2020 (ICME 2020)](https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.html)
+- Feb. 2020,
+    [IEEE 14th International Conference on Semantic Computing (ICSC 2020)](https://semanticcomputing.wixsite.com/website-5)
+- Jul. 2019,
+    [IEEE International Conference on Multimedia and Expo 2019 (ICME 2019)](https://www.2019.ieeeicme.org/167.99.148.246/index.html)
+- Nov. 2017,
+    [18th International Conference on Web Information Systems Engineering (WISE 2017)](http://www.wise-conferences.org/2017/)
+- Oct. 2016,
+    [3rd IEEE International Conference on Data Science and Advanced Analytics (DSAA 2016)](https://sites.ualberta.ca/~dsaa16/)
+- Nov. 2016,
+    [17th International Conference on Web Information Systems Engineering (WISE 2016)](http://www.wise-conferences.org/2016/)
+- Sep. 2016,
+    [18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK 2016)](https://www.dexa.org/previous/dexa2016/dawak2016.html)
+
+
+
+#### International Journal
 - IEEE Transactions on Computational Social Systems (TCSS): 2021, 2022, 2023, 2024
 - IEEE Transactions on Multimedia (TOMM): 2024
 - IEEE Transactions on Industrial Informatics (TII): 2024
