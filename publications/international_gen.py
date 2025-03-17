@@ -2,6 +2,7 @@
 
 import requests
 import json
+import re
 
 with open('../data/awards.json', 'r') as f:
     data = json.load(f)
@@ -99,7 +100,7 @@ def formatPaper(paper, style='journal'):
     else:
         authors = ', '.join([f"[{a['text']}](/)"
             if a['text'] == 'Takahiro Komamizu'
-            else a['text'].replace(' 0001', '') for a in paper['authors']['author']])
+            else re.sub(r' 000\d', '', a['text']) for a in paper['authors']['author']])
 
     out = f"{authors}, \"{paper['title'][:-1].replace(' - ', ': ')}\", {paper['venue']}"
 
