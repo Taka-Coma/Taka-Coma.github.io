@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusio", FG, pp., 2025 ([DOI]())
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp., 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 1. [Takahiro Komamizu](/), "ASC: Aggregating Sentence-level Classifications for   Multi-label Long Text Classification", SoICT, pp., 2024 ([DOI](), [slide](/pdfs/SoICT2024.pdf), [poster](/pdfs/SoICT2024_poster.pdf))
 ----
