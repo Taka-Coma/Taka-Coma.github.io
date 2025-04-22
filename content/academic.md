@@ -248,9 +248,10 @@ draft: false
 - Jul. 2019 - Nov. 2019, [第17回情報学ワークショップ (WiNF 2019)](https://sites.google.com/view/winf2019/), プログラム委員会, プログラム委員
 
 ### Reviewer: Japanese Journal
-- IEICE Journal: 2013, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023
-- DBSJ Journal: 2019, 2021, 2022, 2023
-- IPSJ Journal: 2020, 2022, 2023
+- IEICE Journal: 2013, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- [DBSJ Journal](https://dbsj.org/journal/journal_cat/dbsj_journal_j/): 2019, 2021, 2022, 2023
+- [DBSJ DDS Journal](https://dbsj.org/journal/journal_cat/data-driven_studies/): 2025
+- [IPSJ Journal](https://www.ipsj.or.jp/journal/index.html): 2020, 2022, 2023, 2024
 
 -----
 
