@@ -7,13 +7,13 @@
 			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
 			"application": "/pdfs/kaken_kibanb_2025.pdf",
 			"theme": "異種データを活用した高精度な知識抽出と提供のための情報統合基盤の研究",
-			"theme_url": "",
-			"theme_number": "",
+			"theme_url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00161/",
+			"theme_number": "25K00161",
 			"duration": "2025年4月~2029年3月",
 			"grant_amount": {
-				"total": "? 千円",
-				"direct": "? 千円",
-				"indirect": "? 千円"
+				"total": "18,850千円",
+				"direct": "14,500千円",
+				"indirect": "4,350千円"
 			},
 			"members": [
 				{
