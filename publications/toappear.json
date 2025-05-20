@@ -32,20 +32,6 @@
   		"pages": "",
   		"year" : "2025",
 			"ee": "https://doi.org/10.1109/tafe.2025.3533416"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-			  { "text": "Takahiro Komamizu" }
- 		]},
-  		"title": "ASC: Aggregating Sentence-level Classifications for   Multi-label Long Text Classification.",
-  		"venue": "SoICT",
-  		"pages": "",
-  		"year" : "2024",
-			"ee": "https://doi.org/10.1007/978-981-96-4288-5_14",
-			"key": "SoICT2024"
 	}
 
 ]

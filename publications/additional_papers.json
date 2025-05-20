@@ -1,6 +1,20 @@
 [
 
 	{
+		"type": "conference",
+		"authors": {
+			"author": [
+			  { "text": "Takahiro Komamizu" }
+ 		]},
+  		"title": "ASC: Aggregating Sentence-level Classifications for Multi-label Long Text Classification.",
+  		"venue": "SoICT",
+  		"pages": "174–185",
+  		"year" : "2024",
+			"ee": "https://doi.org/10.1007/978-981-96-4288-5_14",
+			"key": "SoICT2024"
+	},
+
+	{
 		"type": "journal",
 		"authors": {
 			"author": [

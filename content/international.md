@@ -7,7 +7,6 @@ draft: false
 ## To Appear
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusio", FG, pp., 2025 ([DOI]())
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp., 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
-1. [Takahiro Komamizu](/), "ASC: Aggregating Sentence-level Classifications for   Multi-label Long Text Classification", SoICT, pp., 2024 ([DOI](https://doi.org/10.1007/978-981-96-4288-5_14), [slide](/pdfs/SoICT2024.pdf), [poster](/pdfs/SoICT2024_poster.pdf))
 ----
 ## International Journals
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva",  Int. J. Mach. Learn. & Cyber., pp.1-16, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
@@ -39,6 +38,7 @@ draft: false
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "ICDAR 24: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.1332-1333, 2024 ([DOI](https://doi.org/10.1145/3652583.3659999))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation", ACM Multimedia, pp.7307-7315, 2024 ([DOI](https://doi.org/10.1145/3664647.3681202))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Action Selection Learning for Multi-label Multi-view Action Recognition", MMAsia, pp.50:1, 2024 ([DOI](https://doi.org/10.1145/3696409.3700211))
+1. [Takahiro Komamizu](/), "ASC: Aggregating Sentence-level Classifications for Multi-label Long Text Classification", SoICT, pp.174–185, 2024 ([DOI](https://doi.org/10.1007/978-981-96-4288-5_14), [slide](/pdfs/SoICT2024.pdf), [poster](/pdfs/SoICT2024_poster.pdf))
 1. Yusuke Kimura, [Takahiro Komamizu](/), Kenji Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Model", CustomNLP4U@EMNLP, pp.53–62, 2024 ([DOI](https://doi.org/10.18653/v1/2024.customnlp4u-1.6))
 1. Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", CMCL@ACL, pp.81-85, 2024 ([DOI](https://aclanthology.org/2024.cmcl-1.7/), [poster](/pdfs/CMCL@ACL2024.pdf))
 ### 2023
@@ -108,6 +108,8 @@ draft: false
 1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), "Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202", NarSUM@MM, 2023 ([DOI](https://doi.org/10.1145/3607540))
 ----
 ## Pre-Print
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition", CoRR, Vol.abs/2504.02279, 2025 ([DOI](https://doi.org/10.48550/arXiv.2504.02279))
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", CoRR, Vol.abs/2504.02287, 2025 ([DOI](https://doi.org/10.48550/arXiv.2504.02287))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features", CoRR, Vol.abs/2404.19542, 2024 ([DOI](https://doi.org/10.48550/arXiv.2404.19542))
 1. Tingwei Liu, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association", CoRR, Vol.abs/2405.17323, 2024 ([DOI](https://doi.org/10.48550/arXiv.2405.17323))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Action Selection Learning for Multi-label Multi-view Action Recognition", CoRR, Vol.abs/2410.03302, 2024 ([DOI](https://doi.org/10.48550/arXiv.2410.03302))
