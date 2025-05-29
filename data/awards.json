@@ -1,6 +1,19 @@
 [
 
 	{
+		"venue": "FG 2025",
+		"venue_url": "https://fg2025.ieee-biometrics.org/",
+		"award": "Best Student Paper Award",
+		"award_jp": "最優秀学生論文賞",
+		"award_url": "",
+		"paper": {
+			"author": "Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, Takahiro Komamizu, Ichiro Ide",
+  		"title": "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion"
+		},
+		"date": "May 2025"
+	},
+
+	{
 		"venue": "DEXA 2024",
 		"venue_url": "https://www.dexa.org/dexa2024",
 		"award": "Best Paper Award",
