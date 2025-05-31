@@ -90,6 +90,10 @@ draft: false
 
 #### Current Activities
 
+- May. 2025 - Dec. 2025,
+    [25th IEEE International Conferenceon Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/index.html),
+    PC member
+
 - Mar. 2025 - Dec. 2025,
     [2025 IEEE International Conference on Big Data (IEEE BigData 2025)](https://conferences.cis.um.edu.mo/ieeebigdata2025/),
     PC member
