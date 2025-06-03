@@ -4,6 +4,23 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Yuka Teramoto" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Mitsunori Matsushita" },
+				{ "text": "Kenji Hatano" }
+ 		]},
+  		"title": "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction.",
+  		"venue": "MisD@ICWSM",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "",
+			"key": "MisD2025"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 			  { "text": "Trung Thanh NGUYEN" },
 				{ "text": "Yasutomo Kawanishi" },
 				{ "text": "Vijay John" },
@@ -29,7 +46,7 @@
  		]},
   		"title": "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection.",
   		"venue": "IEEE Transactions on AgriFood Electronics",
-  		"pages": "",
+  		"pages": "1-13",
   		"year" : "2025",
 			"ee": "https://doi.org/10.1109/tafe.2025.3533416"
 	}

@@ -5,8 +5,9 @@ draft: false
 ---
 
 ## To Appear
+1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 ([DOI]()) --- {{< awards name="Best Student Paper Award" >}}
-1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp., 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 ----
 ## International Journals
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva",  Int. J. Mach. Learn. & Cyber., pp.1-16, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
