@@ -131,7 +131,7 @@ def formatPaper(paper, style='journal'):
             out += f" ([DOI]({paper['ee']}))"
 
 
-    if paper['title'].lower() in awards:
+    if paper['title'].lower() in awards and style != 'preprint':
         out += ' --- {{< awards name="' + awards[paper['title'].lower()] + '" >}}'
         
     return out
@@ -140,7 +140,12 @@ def formatPaper(paper, style='journal'):
 
 def getPapers(url, style):
     r = requests.get(url)
-    data = r.json()['result']['hits']['hit']
+    jdata = r.json()
+
+    with open(f'./international_tmp/{style}.json', 'w') as w:
+        json.dump(jdata, w)
+
+    data = jdata['result']['hits']['hit']
 
     if style == 'conference':
         out = {}

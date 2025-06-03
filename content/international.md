@@ -109,7 +109,7 @@ draft: false
 1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), "Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202", NarSUM@MM, 2023 ([DOI](https://doi.org/10.1145/3607540))
 ----
 ## Pre-Print
-1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", CoRR, Vol.abs/2504.02287, 2025 ([DOI](https://doi.org/10.48550/arXiv.2504.02287)) --- {{< awards name="Best Student Paper Award" >}}
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", CoRR, Vol.abs/2504.02287, 2025 ([DOI](https://doi.org/10.48550/arXiv.2504.02287))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features", CoRR, Vol.abs/2404.19542, 2024 ([DOI](https://doi.org/10.48550/arXiv.2404.19542))
 1. Tingwei Liu, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association", CoRR, Vol.abs/2405.17323, 2024 ([DOI](https://doi.org/10.48550/arXiv.2405.17323))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Action Selection Learning for Multi-label Multi-view Action Recognition", CoRR, Vol.abs/2410.03302, 2024 ([DOI](https://doi.org/10.48550/arXiv.2410.03302))
