@@ -1,6 +1,23 @@
 [
 
 	{
+		"type": "journal",
+		"authors": {
+			"author": [
+			  { "text": "Trung Thanh NGUYEN" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Vijay John" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide " }
+ 		]},
+  		"title": "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition.",
+  		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
+	{
 		"type": "conference",
 		"authors": {
 			"author": [

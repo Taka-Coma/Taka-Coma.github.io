@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI]())
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 ([DOI]()) --- {{< awards name="Best Student Paper Award" >}}
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
