@@ -191,7 +191,7 @@ draft: false
 - IEEE Transactions on Multimedia (TOMM): 2024
 - IEEE Transactions on Industrial Informatics (TII): 2024
 - IEEE Access: 2018, 2019, 2025
-- Knowledge and Information Systems (KAIS): 2023
+- Knowledge and Information Systems (KAIS): 2023, 2025
 - Multimedia Systems: 2020, 2025
 - World Wide Web (WWW): 2018
 - BMC Medical Research Methodology: 2023
