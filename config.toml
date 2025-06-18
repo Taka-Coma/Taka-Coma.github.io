@@ -52,11 +52,11 @@ publishDir="docs"
 		url = "https://www.i.nagoya-u.ac.jp/en/"
 
 	[[params.affiliation.list]]
-		text = "東海国立大学機構 アカデミック・セントラル シームレス数理・データ科学教育共創部門"
+		text = "Tokai National Higher Education and Research System, Academic Central, Seamless Mathematical and Data Science Education Co-Creation unit"
 		url = "https://ac.thers.ac.jp/division/Data-Science/"
 
 	[[params.affiliation.list]]
-		text = "東海国立大学機構 アカデミック・セントラル 地域高等教育基盤センター"
+		text = "Tokai National Higher Education and Research System, Academic Central, Regional Centre for Higher Education"
 		url = "https://ac.thers.ac.jp/division/Regional-Centre-For-Higher-Education/"
 
 	[[params.affiliation.list]]
@@ -91,12 +91,13 @@ publishDir="docs"
 			affiliation = "Graduate School of Informatics, Nagoya University"
 			affurl = "https://www.i.nagoya-u.ac.jp/en/"
 
+
 		[[params.researchpos.list.others]]
-			affiliation = "東海国立大学機構 アカデミック・セントラル シームレス数理・データ科学教育共創部門"
+			affiliation = "Tokai National Higher Education and Research System, Academic Central, Seamless Mathematical and Data Science Education Co-Creation unit"
 			affurl = "https://ac.thers.ac.jp/division/Data-Science/"
 	
 		[[params.researchpos.list.others]]
-			affiliation = "東海国立大学機構 アカデミック・セントラル 地域高等教育基盤センター"
+			affiliation = "Tokai National Higher Education and Research System, Academic Central, Regional Centre for Higher Education"
 			affurl = "https://ac.thers.ac.jp/division/Regional-Centre-For-Higher-Education/"
 
 		[[params.researchpos.list.others]]
@@ -197,7 +198,7 @@ publishDir="docs"
 	[[params.educations.list]]
 		text = "Graduate"
 		date = "March 2005"
-		school = "Ushiku Eishin senior high school（牛久栄進高等学校）"
+		school = "Ushiku Eishin senior high school"
 		schoolurl = "http://www.ushikueishin-h.ibk.ed.jp/"
 
 
