@@ -5,8 +5,12 @@ date = "2020-10-20"
 
 
 ## Education Programs at [Nagoya University](http://www.nagoya-u.ac.jp/) 
-- 2018 ~ now, [実践データサイエンティスト育成プログラム](https://www.mds.nagoya-u.ac.jp/ds-program) 運営メンバー
-- 2023 ~ now, [モビリティ分野における実践DX人材育成リカレント教育プログラム](https://www.mds.nagoya-u.ac.jp/mobids/ds-program-for-mobility) プログラム責任者
+- 2018 ~ now, [実践データサイエンティスト育成プログラム](https://www.mds.nagoya-u.ac.jp/ds-program), 運営メンバー
+    - [EN] Practical Data Scientist Development Program
+- 2023 ~ now, [モビリティ分野における実践DX人材育成リカレント教育プログラム](https://www.mds.nagoya-u.ac.jp/mobids/ds-program-for-mobility), プログラム責任者
+    - [EN] Recurrent Education Program for Practical DX Talent Development in the Mobility Field
+- 2024 - now, [東海国立大学機構 名古屋大学 次世代AI人材育成事業](https://www.mds.nagoya-u.ac.jp/mda-program/tokai-boost), 運営メンバー
+    - [EN] JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas
 
 ----
 
