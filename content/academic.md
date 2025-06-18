@@ -33,13 +33,13 @@ draft: false
 #### Current Activities
 
 - Feb. 2025 - now,
-    [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM2025)](https://muws-workshop.github.io/),
+    [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)](https://muws-workshop.github.io/),
     Organizing Committee member
 - Feb. 2025 - now,
-    [IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM2025)](https://sites.google.com/view/intentvc/),
+    [IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM 2025)](https://sites.google.com/view/intentvc/),
     Organizing Committee member
 - Feb. 2025 - now,
-    [27th International Conference on Information Integration and Web Intelligence (iiWAS2025)](https://www.iiwas.org/conferences/iiwas2025/),
+    [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
 - Nov. 2024 - now,
     [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html),
@@ -66,13 +66,13 @@ draft: false
     [29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)](https://www.dasfaa2024.org/), 
     Local Arrangement Committee member
 - Mar. 2023 - Nov. 2023,
-	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2023)](https://narsum.cf/),
+	[2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACMMM 2023)](https://narsum.cf/),
 	Program Co-chiar
 - Jan. 2023 - Aug. 2023,
 	[IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)](https://homepages.uc.edu/~niunn/IRI23/index.html),
 	Workshop Co-Chair
 - Apr. 2022 - Oct. 2022,
-	[1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACM MM 2022)](https://www.narsum.cf/),
+	[1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACMMM 2022)](https://www.narsum.cf/),
 	Web and SNS Chair, PC member
 - Jun. 2020 - Dec. 2021, 
 	[4th International Conference on Multimedia Information Processing and Retrieval (MIPR 2021)](https://mipr2021.org/),
@@ -115,7 +115,7 @@ draft: false
     [14th International Conference on Multimedia Retrieval (ICMR 2024)](http://icmr2024.org/),
     PC member
 - Nov. 2023 - Feb. 2023,
-    [30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024) ](https://sites.google.com/view/iw-fcv2024/),
+    [30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024)](https://sites.google.com/view/iw-fcv2024/),
     TPC member
 - Oct. 2023 - Feb. 2023,
 	[12th IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge (SCSN@ICSC 2024)](http://pa.icar.cnr.it/scsn24/),
@@ -139,13 +139,13 @@ draft: false
 	[9th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2021)](http://pa.icar.cnr.it/scsn21/),
 	PC member
 - Apr. 2020 - Oct. 2020, 
-	[3rd International Workshop on EntitY REtrieval (EYRE@CIKM2020)](https://sites.google.com/view/eyre20),
+	[3rd International Workshop on EntitY REtrieval (EYRE@CIKM 2020)](https://sites.google.com/view/eyre20),
 	PC member
 - Sep. 2019 - Feb. 2020,
 	[8th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2020)](http://pa.icar.cnr.it/scsn20/),
 	PC member
 - Apr. 2019 - Nov. 2019,
-	[2nd International Workshop on EntitY REtrieval (EYRE@CIKM2019)](https://sites.google.com/view/eyre19),
+	[2nd International Workshop on EntitY REtrieval (EYRE@CIKM 2019)](https://sites.google.com/view/eyre19),
 	PC member
 - Dec. 2018 - Feb. 2019,
 	[7th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2019)](http://pa.icar.cnr.it/scsn19/),
@@ -166,7 +166,7 @@ draft: false
 - Nov. 2024,
     [Workshop on Customizable NLP (CustomNLP4U@EMNLP 2024)](https://customnlp4u-24.github.io/)
 - Aug. 2024,
-    [32nd ACM International Conference on Multimedia (ACM MM 2024)](https://2024.acmmm.org/)
+    [32nd ACM International Conference on Multimedia (ACMMM 2024)](https://2024.acmmm.org/)
 - Jul. 2021,
     [IEEE International Conference on Multimedia and Expo 2021 (ICME 2021)](https://2021.ieeeicme.org/2021.ieeeicme.org/index.html)
 - Jul. 2020,

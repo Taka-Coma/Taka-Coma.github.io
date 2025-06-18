@@ -1,6 +1,24 @@
 [
 
 	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{ "text": "Nanami Takagi" },
+				{ "text": "Haruya Kyutoku" },
+				{ "text": "Keisuke Doman" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images.",
+  		"venue": "MVA",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "",
+			"key": "MVA2025"
+	},
+
+	{
 		"type": "journal",
 		"authors": {
 			"author": [
@@ -14,7 +32,7 @@
   		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
   		"pages": "",
   		"year" : "2025",
-			"ee": ""
+			"ee": "https://doi.org/10.1145/3744742"
 	},
 
 	{

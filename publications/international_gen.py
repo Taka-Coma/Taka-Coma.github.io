@@ -139,11 +139,17 @@ def formatPaper(paper, style='journal'):
 
 
 def getPapers(url, style):
-    r = requests.get(url)
-    jdata = r.json()
+    try:
+        r = requests.get(url, timeout=5)
+        jdata = r.json()
 
-    with open(f'./international_tmp/{style}.json', 'w') as w:
-        json.dump(jdata, w)
+        with open(f'./international_tmp/{style}.json', 'w') as w:
+            json.dump(jdata, w)
+
+    except:
+        print('Time out: ', style)
+        with open(f'./international_tmp/{style}.json', 'r') as r:
+            jdata = json.load(r)
 
     data = jdata['result']['hits']['hit']
 
