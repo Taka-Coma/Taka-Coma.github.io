@@ -113,6 +113,7 @@ draft: false
 1. [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案", 第1回データ工学と情報マネジメントに関するフォーラム, pp.B7-6, 2009
 ----
 ## 寄稿
+1. [駒水 孝裕](/), "モビリティ分野に特化したリカレント教育プログラム", D3: DX human resource Development in the Digital era, Vol.4, pp.5, 2025.3 ([link](https://drive.google.com/file/d/1V4Ertz6uUJLRPcpnc66NbR3f-oShCLOo/view))
 1. [駒水 孝裕](/), "データと未来を紡ぐモビリティDXプログラム", D3: DX human resource Development in the Digital era, Vol.3, pp.2, 2024.3 ([link](https://drive.google.com/file/d/1UVSxF6s8soneijT6gErIcPMHUvojo6EY/view))
 1. [駒水 孝裕](/), "The Web Conference 2020 参加報告", 情報処理, Vol.61, No.10, pp.1078-1079, 2020.9 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=206940&item_no=1&page_id=13&block_id=8))
 1. [駒水 孝裕](/), "DEXA 2018 参加報告", DBSJ Newsletter, DBSJ, Vol.11, No.5, 2018.10 ([link](https://archive.dbsj.org/dbjapan/2018/msg00210.html))
