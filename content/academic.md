@@ -163,6 +163,8 @@ draft: false
     [33rd ACM International Conference on Multimedia (ACMMM 2025)](https://acmmm2025.org/),
     Regular Track, Brave New Idea Track
 - Jul. 2025,
+    [ACM MM 2025 Workshop on Multimedia Analytics with Multimodal Large Language Models (MA-LLM25)](https://ma-llm25.github.io/)
+- Jul. 2025,
     [15th ACM International Conference on Multimedia Retrieval (ICMR 2025)](https://www.icmr-2025.org/)
 - Jun. 2025,
     [IEEE International Conference on Multimedia and Expo 2025 (ICME 2025)](https://2025.ieeeicme.org/)
