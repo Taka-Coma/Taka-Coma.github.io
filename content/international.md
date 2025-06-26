@@ -6,7 +6,7 @@ draft: false
 
 ## To Appear
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]())
-1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI]())
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025 ([DOI](https://doi.org/10.36190/2025.23))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 ([DOI]()) --- {{< awards name="Best Student Paper Award" >}}
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
@@ -107,6 +107,7 @@ draft: false
 1. [Takahiro Komamizu](/), Yuto Yamaguchi, Toshiyuki Amagasa, Hiroyuki Kitagawa, "FACTUS: Faceted Twitter User Search Using Twitter Lists", WISE, pp.343-344, 2011 ([DOI](https://doi.org/10.1007/978-3-642-24434-6_35), [poster](/pdfs/WISE2011.pdf))
 ----
 ## Editor
+1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, "Proceedings of the 6th Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2025, Chicago, IL, USA, 30 June 2025- 3 July 202", ICDAR@ICMR, 2025 ([DOI](https://doi.org/10.1145/3733566))
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "The Fifth Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2024, Phuket, Thailand, June 10-14, 202", ICDAR@ICMR, 2024 ([DOI](https://doi.org/10.1145/3643488))
 1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), "Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202", NarSUM@MM, 2023 ([DOI](https://doi.org/10.1145/3607540))
 ----
