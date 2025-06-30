@@ -31,6 +31,7 @@ draft: false
 ----
 ## International Conferences
 ### 2025
+1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son Tran, "ICDAR 25: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.2145-2147, 2025 ([DOI](https://doi.org/10.1145/3731715.3734511))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_31))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_17))
 ### 2024
