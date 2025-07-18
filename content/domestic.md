@@ -20,6 +20,15 @@ draft: false
 ----
 ## 査読なし会議
 ### 2025
+1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro IDE, "Visual Adapter for Extracting Textually-related Features for Video Captioning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-148, 2025
+1. Lei Xiang, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-079, 2025
+1. Trung Thanh Nguyen, Yasutomo Kawanishi , Vijay John, [Takahiro Komamizu](/), Ichiro IDE, "MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-038, 2025
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging Gradient-Based Pruning for Efficient Neural Networks in Crop Disease Detection", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-001, 2025
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation (ACMMM2024)", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IT3-06, 2025 (Invited Talk)
+1. Peiyuan Zhu, Marc A. Kastner, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro IDE, "MLLM-based Dataset Construction for Hazard-aware Guidance for the Visually Impaired", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-140, 2025
+1. Pham Dinh Duy, Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Image Retrieval based on Editable Scene Graph with Contrastive Representation Learning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-097, 2025
+1. 加藤 眸, 加藤 大貴, 平山 高嗣, 駒水孝裕, 井手一郎, "折り図の自動生成のための折り線推定とその評価", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-176, 2025
+1. 田中優衣, カストナーマークアウレル, 川西康友, 駒水孝裕, 井手一郎, "画像特徴のクラスタリングによる形容詞の視覚的な多様性の分析", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-145, 2025
 1. 田中優衣, カストナー マークアウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025
 1. グエン チュン タイン, 川西 康友, ビジェイ ジョン, [駒水 孝裕](/), 井手 一郎, "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案", 電子情報通信学会技術研究報告, Vol., No., PRMU-, pp., 2025
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.124, No.405 IE2024-118, pp.144-149, 2025 ([link](https://ken.ieice.org/ken/paper/20250306JcjK/))
@@ -42,7 +51,7 @@ draft: false
 1. リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", 電子情報通信学会技術研究報告, Vol.123, No.409, PRMU2023-77, pp.150-155, 2024 ([link](https://ken.ieice.org/ken/paper/20240304Wcbr/))
 ### 2023
 1. 佐野 智也, 外山 勝彦, [駒水 孝裕](/), 増田 知子, "歴史情報としての法令データベースの構築", デジタルアーカイブ学会誌, Vol.7, No.s2, pp.s142-s145, 2023 ([link](https://doi.org/10.24506/jsda.7.s2_s142))
-1. NGUYEN Trung Thanh, NGUYEN Phi Le, 川西 康友, [駒水 孝裕](/), 井手 一郎, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 ([link](https://www.nadasemi.jp/dbws-2023/)) -- {{< awards name="Presentation Award Runner-up" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
+1. Trung Thanh Nguyen, NGUYEN Phi Le, 川西 康友, [駒水 孝裕](/), 井手 一郎, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 ([link](https://www.nadasemi.jp/dbws-2023/)) -- {{< awards name="Presentation Award Runner-up" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
 1. 加藤 辰弥, [駒水 孝裕](/), 井手 一郎, "画像検索におけるRe-rankerに基づくDiffusion事前計算", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-7, 2023 ([link](https://www.nadasemi.jp/dbws-2023/))
 1. Bolin Zhang, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Chao Yang, Bin Jiang, Ichiro Ide, "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-84, 2023
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Leverage Semantic Alignment of Object Relations for Image Captioning", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-84, 2023

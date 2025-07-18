@@ -119,7 +119,10 @@ def formatPaper(paper, style='journal'):
     if 'awards' in paper:
         tmp_cont = ['{{< awards name="' + award['name'] + '" url="' + award['url'] + '" >}}' for award in paper['awards']]
         out += " -- " + ', '.join(tmp_cont)
-        
+    
+    if 'note' in paper:
+        out += f" ({paper['note']})"
+
     return out
 
 

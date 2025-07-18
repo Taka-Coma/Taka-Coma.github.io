@@ -3,6 +3,141 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "Junan Chen" },
+ { "text": "Trung Thanh Nguyen" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Visual Adapter for Extracting Textually-related Features for Video Captioning",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS3-148",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Lei Xiang" },
+ { "text": "Yasutomo Kawanishi " },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS3-079",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Trung Thanh Nguyen" },
+ { "text": "Yasutomo Kawanishi " },
+ { "text": "Vijay John" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS3-038",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Carlos Victorino Padeiro" },
+ { "text": "Tse-Wei Chen" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Leveraging Gradient-Based Pruning for Efficient Neural Networks in Crop Disease Detection",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS3-001",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Chihaya Matsuhira" },
+ { "text": "Marc A. Kastner" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Takatsugu Hirayama" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation (ACMMM2024)",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IT3-06",
+  		"year" : "2025",
+			"note": "Invited Talk"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Peiyuan Zhu" },
+ { "text": "Marc A. Kastner" },
+ { "text": "Hirotaka Kato" },
+ { "text": "Takatsugu Hirayama" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "MLLM-based Dataset Construction for Hazard-aware Guidance for the Visually Impaired",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS2-140",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Pham Dinh Duy" },
+ { "text": "Itthisak Phueaksri" },
+ { "text": "Marc A. Kastner" },
+ { "text": "Yasutomo Kawanishi " },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro IDE" }
+ 		]},
+  		"title": "Image Retrieval based on Editable Scene Graph with Contrastive Representation Learning",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS2-097",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "加藤 眸" },
+ { "text": "加藤 大貴" },
+ { "text": "平山 高嗣" },
+ { "text": "駒水孝裕" },
+ { "text": "井手一郎" } 
+ 		]},
+  		"title": "折り図の自動生成のための折り線推定とその評価",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS1-176",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "田中優衣" },
+ { "text": "カストナーマークアウレル" },
+ { "text": "川西康友" },
+ { "text": "駒水孝裕" },
+ { "text": "井手一郎" } 
+ 		]},
+  		"title": "画像特徴のクラスタリングによる形容詞の視覚的な多様性の分析",
+  		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
+  		"pages": "IS1-145",
+  		"year" : "2025"
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "田中優衣" },
  { "text": "カストナー マークアウレル" },
  { "text": "川西 康友" },
@@ -343,7 +478,7 @@
 	{
 		"authors": {
 			"author": [
- { "text": "NGUYEN Trung Thanh" },
+ { "text": "Trung Thanh Nguyen" },
  { "text": "NGUYEN Phi Le" },
  { "text": "川西 康友" },
  { "text": "駒水 孝裕" },
