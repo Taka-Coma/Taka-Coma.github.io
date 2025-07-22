@@ -32,27 +32,27 @@ draft: false
 
 #### Current Activities
 
-- Feb. 2025 - now,
+- Feb. 2025 - Oct. 2025,
     [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)](https://muws-workshop.github.io/),
     Organizing Committee member
-- Feb. 2025 - now,
+- Feb. 2025 - Oct. 2025,
     [IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM 2025)](https://sites.google.com/view/intentvc/),
     Organizing Committee member
-- Feb. 2025 - now,
+- Feb. 2025 - Dec. 2025,
     [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
-- Nov. 2024 - now,
-    [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html),
-    Organizing Committee member
-- Dec. 2024 - now,
+- Dec. 2024 - Nov. 2025,
     [Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)](https://www.kjdb.or.kr/),
     Local member
-- Jul. 2024 - Jul. 2025,
-    [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
-    Conference Co-chair
 
 #### Past Activities
 
+- Nov. 2024 - Jul. 2025,
+    [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html),
+    Organizing Committee member
+- Jul. 2024 - Jul. 2025,
+    [International conference on Advanced Machine Learning and Data Science (AMLDS 2025)](https://amlds.site/index.html),
+    Conference Co-chair
 - Mar. 2024 - Jan. 2025, 
     [Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)](https://academics.gitlab.io/conferences/narsum/),
     Session Co-chair
@@ -159,6 +159,8 @@ draft: false
 ### Reviewer
 
 #### International Conference
+- [Meta] Jul. 2025, 
+    [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
     [33rd ACM International Conference on Multimedia (ACMMM 2025)](https://acmmm2025.org/),
     Regular Track, Brave New Idea Track
