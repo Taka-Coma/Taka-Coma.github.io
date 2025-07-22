@@ -14,6 +14,19 @@
 	},
 
 	{
+		"venue": "ACM MM 2024",
+		"venue_url": "https://2024.acmmm.org/",
+		"award": "Best Paper Nomination",
+		"award_jp": "最優秀論文賞ノミネート",
+		"award_url": "https://2024.acmmm.org/awards",
+		"paper": {
+			"author": "Chihaya Matsuhira, Marc A. Kastner, Takahiro Komamizu, Takatsugu Hirayama, Ichiro Ide",
+  		"title": "Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation"
+		},
+		"date": "Oct 2024"
+	},
+
+	{
 		"venue": "DEXA 2024",
 		"venue_url": "https://www.dexa.org/dexa2024",
 		"award": "Best Paper Award",
