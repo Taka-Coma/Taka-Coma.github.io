@@ -163,7 +163,7 @@ draft: false
     [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
     [33rd ACM International Conference on Multimedia (ACMMM 2025)](https://acmmm2025.org/),
-    Regular Track, Brave New Idea Track
+    Regular Track, Brave New Idea Track, Datasets Track
 - Jul. 2025,
     [ACM MM 2025 Workshop on Multimedia Analytics with Multimodal Large Language Models (MA-LLM25)](https://ma-llm25.github.io/)
 - Jul. 2025,
