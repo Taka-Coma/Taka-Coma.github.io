@@ -212,12 +212,12 @@ draft: false
 #### Current Activities
 
 - Jul. 2025 - Mar. 2026, [第18回データ工学と情報マネジメントに関するフォーラム (DEIM 2026)](), 実行委員会, プログラム副委員長 
-- Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [データベースシステム研究運営委員会](https://www.ipsj-dbs.org/), 専門委員
 - Jun. 2025 - Jun. 2027, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会, 幹事
 - Apr. 2023 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 教材分科会, 委員
 
 #### Past Activities
+- Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [データベースシステム研究運営委員会](https://www.ipsj-dbs.org/), 専門委員
 - Jun. 2023 - Jun. 2025, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 幹事補佐
 - Oct. 2023 - Sep, 2024, [第23回情報科学技術フォーラム (FIT 2024)](https://www.ipsj.or.jp/event/fit/fit2024/index.html), [委員会](https://www.ipsj.or.jp/event/fit/fit2024/members.html), 研究会担当委員 (ISS-DE)
 - Jun. 2019 - Jun. 2023, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
