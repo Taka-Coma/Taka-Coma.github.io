@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Feature", MUWS@ACMMM, pp., 2025 ([DOI]())
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025 ([DOI](https://doi.org/10.36190/2025.23))
@@ -12,6 +13,7 @@ draft: false
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 ----
 ## International Journals
+1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva",  Int. J. Mach. Learn. & Cyber., pp.1-16, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
 1. Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning", IEEE Access, Vol.12, pp.55889-55904, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3390153), [homepage](https://zero-pima.github.io/))
@@ -70,12 +72,14 @@ draft: false
 ### 2020
 1. Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Differential Translation for Japanese Partially Amended Statutory Sentences", JSAI-isAI Workshops, pp.162-178, 2020 ([DOI](https://doi.org/10.1007/978-3-030-79942-7_11))
 1. [Takahiro Komamizu](/), Risa Uehara, Yasuhiro Ogawa, Katsuhiko Toyama, "MUEnsemble: Multi-ratio Undersampling-Based Ensemble Framework for Imbalanced Data", DEXA, pp.213-228, 2020 ([DOI](https://doi.org/10.1007/978-3-030-59051-2_14), [slide](/pdfs/DEXA2020.pdf))
+1. Yasuhiro Ogawa, Yuta Ikari, [Takahiro Komamizu](/), Katsuhiko Toyama, "NUKL at the NTCIR-15 QA Lab-PoliInfo-2 Task", NTCIR, 2020 ([DOI](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/09-NTCIR15-QALAB-OgawaY.pdf))
 1. [Takahiro Komamizu](/), "SPARQL with XQuery-based Filtering", ISWC, pp.69-74, 2020 ([DOI](https://ceur-ws.org/Vol-2721/paper512.pdf), [slide](/pdfs/ISWC2020.pdf))
 1. Yasuhiro Ogawa, Yuta Ikari, [Takahiro Komamizu](/), Katsuhiko Toyama, "NUKL at the NTCIR-15 QA Lab-PoliInfo-2 Task", NTCIR-15, pp.145-152, 2020 ([DOI](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/09-NTCIR15-QALAB-OgawaY.pdf))
 ### 2019
 1. Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier", IEEE BigData, pp.4342-4351, 2019 ([DOI](https://doi.org/10.1109/BigData47090.2019.9006511))
 1. [Takahiro Komamizu](/), Kazuya Fujioka, Yasuhiro Ogawa, Katsuhiko Toyama, "Exploring Relevant Parts Between Legal Documents Using Substructure Matching", JSAI-isAI Workshops, pp.5-19, 2019 ([DOI](https://doi.org/10.1007/978-3-030-58790-1_1), [slide](/pdfs/JURISIN2019.pdf))
 1. Yasuhiro Ogawa, Michiaki Satou, [Takahiro Komamizu](/), Katsuhiko Toyama, "nagoy Team&apos;s Summarization System at the NTCIR-14 QA Lab-PoliInfo", NTCIR, pp.110-121, 2019 ([DOI](https://doi.org/10.1007/978-3-030-36805-0_9))
+1. Yasuhiro Ogawa, Michiaki Satou, [Takahiro Komamizu](/), Katsuhiko Toyama, "nagoy Team&apos;s Summarization System at the NTCIR-14 QA Lab PoliInfo", NTCIR, 2019 ([DOI](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/06-NTCIR14-QALAB-OgawaY.pdf))
 1. [Takahiro Komamizu](/), Yushi Uchida, Yasuhiro Ogawa, Katsuhiko Toyama, "Analyzing Japanese Law History through Modeling Multi-versioned Entity", BlockSW/CKG@ISWC, 2019 ([DOI](https://ceur-ws.org/Vol-2599/CKG2019_paper_5.pdf), [slide](/pdfs/CKG@ISWC2019.pdf))
 1. Takahiro Yamakoshi, Vee Satayamas, Hutchatai Chanlekha, Yasuhiro Ogawa, [Takahiro Komamizu](/), Asanee Kawtrakul, Katsuhiko Toyama, "Thai Legal Term Correction using Random Forests with Outside-the-sentence Features", PACLIC 33, pp.306-314, 2019 ([DOI](http://jaslli.org/files/proceedings/33_paclic33_postconf.pdf))
 ### 2018

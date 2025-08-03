@@ -1,392 +1,306 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
-  <title>Taka-Coma</title>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <meta name="description" content="This is Takahiro Komamizu&#39;s homepage." />
-  <meta name="author" content="Takahiro Komamizu" />
-
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <link rel="stylesheet" href="/css/mero.css" />
-  <link rel="stylesheet" href="/css/timeline.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
-
-  <link
-    href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
-    rel="stylesheet"
-  />
-	<link
-		rel="stylesheet"
-		href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
-	/>
-
+<!doctype html><html lang=en-us>
+<head>
+<title>Taka-Coma</title>
+<meta charset=utf-8>
+<meta content="width=device-width,initial-scale=1" name=viewport>
+<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
+<meta name=description content="This is Takahiro Komamizu's homepage.">
+<meta name=author content="Takahiro Komamizu">
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC crossorigin=anonymous>
+<link rel=stylesheet href=/css/mero.css>
+<link rel=stylesheet href=/css/timeline.css>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css>
+<link href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap" rel=stylesheet>
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
 </head>
-
-
-  <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
-    <div class="wrapper">
-      <nav class="mb-3 mt-3 ml-1">
-  <div class="btn-group">
-    <div class="btn btn-dark text-warning border border-warning">
-      <a href="/">Home</a>
-    </div>
-
-    <div class="btn-group">
-      <button type='button'
-				class="btn btn-dark border border-warning dropdown-toggle text-warning"
-				data-bs-toggle='dropdown'
-				aria-expanded="false"
-				id='research_menu'>
-				Researches
-			</button>
-
-      <div
-        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
-				aria-labelledby="research_menu"
-      >
-      	<a class='dropdown-item' href="/researches">Overview</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/mlod">Hetero LOD Management</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/imbalance">Imbalanced Classification</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/legal">Legal Data Management</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/faceted">Faceted Search</a>
-      </div>
-    </div>
-
-    <div class="btn-group">
-      <button type='button'
-				class="btn btn-dark border border-warning dropdown-toggle text-warning"
-				data-bs-toggle='dropdown'
-				aria-expanded="false"
-				id='publication_menu'>
-				Publications
-			</button>
-
-      <div
-        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
-				aria-labelledby="publication_menu"
-      >
-        <a class='dropdown-item' href="/international">International</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/domestic">Domestic</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/awards">Awards</a>
-      </div>
-    </div>
-
-    <div class="btn-group">
-      <button type='button'
-				class="btn btn-dark border border-warning dropdown-toggle text-warning"
-				data-bs-toggle='dropdown'
-				aria-expanded="false"
-				id='activity_menu'>
-				Activities
-			</button>
-
-      <div
-        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
-				aria-labelledby="activity_menu"
-      >
-        <a class='dropdown-item' href="/academic">Academic</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/grants">Grants</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/education">Education</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/supervision">Supervision</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/design">Design</a>
-      </div>
-    </div>
-
-  </div>
+<body class="bg-dark text-white m-auto" style=width:95%;max-width:1024px>
+<div class=wrapper>
+<nav class="mb-3 mt-3 ml-1">
+<div class=btn-group>
+<div class="btn btn-dark text-warning border border-warning">
+<a href=/>Home</a>
+</div>
+<div class=btn-group>
+<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=research_menu>
+Researches
+</button>
+<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=research_menu>
+<a class=dropdown-item href=/researches>Overview</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/mlod>Hetero LOD Management</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/imbalance>Imbalanced Classification</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/legal>Legal Data Management</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/faceted>Faceted Search</a>
+</div>
+</div>
+<div class=btn-group>
+<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=publication_menu>
+Publications
+</button>
+<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=publication_menu>
+<a class=dropdown-item href=/international>International</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/domestic>Domestic</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/awards>Awards</a>
+</div>
+</div>
+<div class=btn-group>
+<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=activity_menu>
+Activities
+</button>
+<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=activity_menu>
+<a class=dropdown-item href=/academic>Academic</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/grants>Grants</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/education>Education</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/supervision>Supervision</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/design>Design</a>
+</div>
+</div>
+</div>
 </nav>
-
-      <main>
-        
+<main>
 <article class="border rounded p-3 position-relative mt-4 p-4">
-  <div class="header border-bottom mb-3">
-    <h1 style="font-size: 2.5em;">
-			<img src='' class='mb-3'/>
-      International
-			
-				<a href="https://dblp.org/pid/60/10773.html" target="_blank">
-					<span class="px-2 py-1 bg-dark rounded border"
-						style="font-size: 12pt; display: inline-block">DBLP</span>
-				</a>
-
-				<a href="https://scholar.google.co.jp/citations?user=j4n_V44AAAAJ&hl=en" target="_blank">
-					<span class="px-2 py-1 bg-dark rounded border"
-						style="font-size: 12pt; display: inline-block">Google Scholar</span>
-				</a>
-
-				<a href="http://dl.acm.org/author_page.cfm?id=81490688053&cfid=766658899&cftoken=59914711" target="_blank">
-					<span class="px-2 py-1 bg-dark rounded border"
-						style="font-size: 12pt; display: inline-block">ACM</span>
-				</a>
-
-				<a href="https://ieeexplore.ieee.org/author/37085586176" target="_blank">
-					<span class="px-2 py-1 bg-dark rounded border"
-						style="font-size: 12pt; display: inline-block">IEEE</span>
-				</a>
-
-				<a href="https://aclanthology.org/people/t/takahiro-komamizu/" target="_blank">
-					<span class="px-2 py-1 bg-dark rounded border"
-						style="font-size: 12pt; display: inline-block">ACL Anth.</span>
-				</a>
-
-				<a href="https://orcid.org/0000-0002-3041-4330" target="_blank">
-					<span class="px-2 py-1 bg-dark rounded border"
-						style="font-size: 12pt; display: inline-block">ORCID</span>
-				</a>
-
-
-			
-    </h1>
-
-    <div
-    class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
-    style="position: absolute; top: -19px; font-size: 0.9em;"
- 	 >
- 	   <span
- 	     class="more"
- 	     style="font-size: 1.5em;"
- 	   >
- 	     &#43;
- 	     &#43;
- 	     &#43;
- 	   </span>
- 	 </div>
-
-  </div>
-  <div class="article pb-3">
-    <h2 id="to-appear">To Appear</h2>
+<div class="header border-bottom mb-3">
+<h1 style=font-size:2.5em>
+<img src class=mb-3>
+International
+<a href=https://dblp.org/pid/60/10773.html target=_blank>
+<span class="px-2 py-1 bg-dark rounded border" style=font-size:12pt;display:inline-block>DBLP</span>
+</a>
+<a href="https://scholar.google.co.jp/citations?user=j4n_V44AAAAJ&hl=en" target=_blank>
+<span class="px-2 py-1 bg-dark rounded border" style=font-size:12pt;display:inline-block>Google Scholar</span>
+</a>
+<a href="http://dl.acm.org/author_page.cfm?id=81490688053&cfid=766658899&cftoken=59914711" target=_blank>
+<span class="px-2 py-1 bg-dark rounded border" style=font-size:12pt;display:inline-block>ACM</span>
+</a>
+<a href=https://ieeexplore.ieee.org/author/37085586176 target=_blank>
+<span class="px-2 py-1 bg-dark rounded border" style=font-size:12pt;display:inline-block>IEEE</span>
+</a>
+<a href=https://aclanthology.org/people/t/takahiro-komamizu/ target=_blank>
+<span class="px-2 py-1 bg-dark rounded border" style=font-size:12pt;display:inline-block>ACL Anth.</span>
+</a>
+<a href=https://orcid.org/0000-0002-3041-4330 target=_blank>
+<span class="px-2 py-1 bg-dark rounded border" style=font-size:12pt;display:inline-block>ORCID</span>
+</a>
+</h1>
+<div class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark" style=position:absolute;top:-19px;font-size:.9em>
+<span class=more style=font-size:1.5em>
++
++
++
+</span>
+</div>
+</div>
+<div class="article pb-3">
+<h2 id=to-appear>To Appear</h2>
 <ol>
-<li>Nanami Takagi, Haruya Kyutoku, Keisuke Doman, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images&rdquo;, MVA, pp., 2025 (<a href="" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide , &ldquo;Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition&rdquo;, ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 (<a href="https://doi.org/10.1145/3744742" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Yuka Teramoto, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Mitsunori Matsushita, Kenji Hatano, &ldquo;Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction&rdquo;, MisD@ICWSM, pp., 2025 (<a href="https://doi.org/10.36190/2025.23" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide , &ldquo;MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion&rdquo;, FG, pp., 2025 (<a href="" target="_blank" rel="nofollow">DOI</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li>Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Analyzing the Visual Variety of Adjectives based on Clustering of Visual Feature&rdquo;, MUWS@ACMMM, pp., 2025 (<a href target=_blank rel=nofollow>DOI</a>)</li>
+<li>Nanami Takagi, Haruya Kyutoku, Keisuke Doman, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images&rdquo;, MVA, pp., 2025 (<a href target=_blank rel=nofollow>DOI</a>)</li>
+<li>Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide , &ldquo;Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition&rdquo;, ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 (<a href=https://doi.org/10.1145/3744742 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yuka Teramoto, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Mitsunori Matsushita, Kenji Hatano, &ldquo;Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction&rdquo;, MisD@ICWSM, pp., 2025 (<a href=https://doi.org/10.36190/2025.23 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide , &ldquo;MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion&rdquo;, FG, pp., 2025 (<a href target=_blank rel=nofollow>DOI</a>) &mdash;
+<span style=color:salmon!important>
 Best Student Paper Award
 </span>
-
 </li>
-<li>Carlos Victorino Padeiro, Tse-Wei Chen, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection&rdquo;, IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 (<a href="https://doi.org/10.1109/tafe.2025.3533416" target="_blank" rel="nofollow">DOI</a>)</li>
+<li>Carlos Victorino Padeiro, Tse-Wei Chen, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection&rdquo;, IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 (<a href=https://doi.org/10.1109/tafe.2025.3533416 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
 <hr>
-<h2 id="international-journals">International Journals</h2>
+<h2 id=international-journals>International Journals</h2>
 <ol>
-<li>Bolin Zhang, Chao Yang, Bin Jiang, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva&rdquo;,  Int. J. Mach. Learn. &amp; Cyber., pp.1-16, 2025 (<a href="https://doi.org/10.1007/s13042-024-02520-w" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, &ldquo;Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation&rdquo;, IEEE Access, Vol.12, pp.41299-41316, 2024 (<a href="https://doi.org/10.1109/ACCESS.2024.3378095" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning&rdquo;, IEEE Access, Vol.12, pp.55889-55904, 2024 (<a href="https://doi.org/10.1109/ACCESS.2024.3390153" target="_blank" rel="nofollow">DOI</a>, <a href="https://zero-pima.github.io/" target="_blank" rel="nofollow">homepage</a>)</li>
-<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Image-Collection Summarization Using Scene-Graph Generation With External Knowledge&rdquo;, IEEE Access, Vol.12, pp.17499-17512, 2024 (<a href="https://doi.org/10.1109/ACCESS.2024.3360113" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Bolin Zhang, Haruya Kyutoku, Keisuke Doman, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, Jiangbo Qian, &ldquo;Cross-modal recipe retrieval based on unified text encoder with fine-grained contrastive learning&rdquo;, Knowl. Based Syst., Vol.305, pp.112641, 2024 (<a href="https://doi.org/10.1016/j.knosys.2024.112641" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, &ldquo;Computational measurement of perceived pointiness from pronunciation&rdquo;, Multim. Tools Appl., Vol.83, No.9, pp.26183-26210, 2024 (<a href="https://doi.org/10.1007/s11042-023-15732-z" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, &ldquo;Correction to: Computational measurement of perceived pointiness from pronunciation&rdquo;, Multim. Tools Appl., Vol.83, No.9, pp.26211-26212, 2024 (<a href="https://doi.org/10.1007/s11042-023-17657-z" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;An Approach to Generate a Caption for an Image Collection Using Scene Graph Generation&rdquo;, IEEE Access, Vol.11, pp.128245-128260, 2023 (<a href="https://doi.org/10.1109/ACCESS.2023.3332098" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Yusuke Kimura, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Kenji Hatano, &ldquo;An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification&rdquo;, Informatica, Vol.47, No.3, 2023 (<a href="https://doi.org/10.31449/inf.v47i3.4742" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification&rdquo;, J. Data Intell., Vol.2, No.4, pp.462-474, 2021 (<a href="https://doi.org/10.26421/JDI2.4-5" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification&rdquo;, J. Data Intell., Vol.2, No.1, pp.30-46, 2021 (<a href="https://doi.org/10.26421/JDI2.1-2" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Random walk-based entity representation learning and re-ranking for entity search&rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (<a href="https://doi.org/10.1007/s10115-020-01445-4" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Hiroyoshi Ito, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Detecting Communities and Correlated Attribute Clusters on Multi-Attributed Graphs&rdquo;, IEICE Trans. Inf. Syst., Vol.102-D, No.4, pp.810-820, 2019 (<a href="https://doi.org/10.1587/transinf.2018DAP0022" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (<a href="https://doi.org/10.1108/IJWIS-03-2016-0014" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Facet-value extraction scheme from textual contents in XML data&rdquo;, Int. J. Web Inf. Syst., Vol.11, No.3, pp.270-290, 2015 (<a href="https://doi.org/10.1108/IJWIS-04-2015-0012" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Faceted Navigation Framework for XML Data&rdquo;, Int. J. Web Inf. Syst., Vol.8, No.4, pp.348-370, 2012 (<a href="https://doi.org/10.1108/17440081211282865" target="_blank" rel="nofollow">DOI</a>)</li>
+<li>Bolin Zhang, Chao Yang, Bin Jiang, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval&rdquo;, Int. J. Mach. Learn. Cybern., Vol.16, No.7, pp.4509-4524, 2025 (<a href=https://doi.org/10.1007/s13042-024-02520-w target=_blank rel=nofollow>DOI</a>)</li>
+<li>Bolin Zhang, Chao Yang, Bin Jiang, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva&rdquo;, Int. J. Mach. Learn. & Cyber., pp.1-16, 2025 (<a href=https://doi.org/10.1007/s13042-024-02520-w target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, &ldquo;Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation&rdquo;, IEEE Access, Vol.12, pp.41299-41316, 2024 (<a href=https://doi.org/10.1109/ACCESS.2024.3378095 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning&rdquo;, IEEE Access, Vol.12, pp.55889-55904, 2024 (<a href=https://doi.org/10.1109/ACCESS.2024.3390153 target=_blank rel=nofollow>DOI</a>, <a href=https://zero-pima.github.io/ target=_blank rel=nofollow>homepage</a>)</li>
+<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Image-Collection Summarization Using Scene-Graph Generation With External Knowledge&rdquo;, IEEE Access, Vol.12, pp.17499-17512, 2024 (<a href=https://doi.org/10.1109/ACCESS.2024.3360113 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Bolin Zhang, Haruya Kyutoku, Keisuke Doman, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, Jiangbo Qian, &ldquo;Cross-modal recipe retrieval based on unified text encoder with fine-grained contrastive learning&rdquo;, Knowl. Based Syst., Vol.305, pp.112641, 2024 (<a href=https://doi.org/10.1016/j.knosys.2024.112641 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, &ldquo;Computational measurement of perceived pointiness from pronunciation&rdquo;, Multim. Tools Appl., Vol.83, No.9, pp.26183-26210, 2024 (<a href=https://doi.org/10.1007/s11042-023-15732-z target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, Takatsugu Hirayama, Yasutomo Kawanishi, Keisuke Doman, Daisuke Deguchi, &ldquo;Correction to: Computational measurement of perceived pointiness from pronunciation&rdquo;, Multim. Tools Appl., Vol.83, No.9, pp.26211-26212, 2024 (<a href=https://doi.org/10.1007/s11042-023-17657-z target=_blank rel=nofollow>DOI</a>)</li>
+<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;An Approach to Generate a Caption for an Image Collection Using Scene Graph Generation&rdquo;, IEEE Access, Vol.11, pp.128245-128260, 2023 (<a href=https://doi.org/10.1109/ACCESS.2023.3332098 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yusuke Kimura, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Kenji Hatano, &ldquo;An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification&rdquo;, Informatica, Vol.47, No.3, 2023 (<a href=https://doi.org/10.31449/inf.v47i3.4742 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification&rdquo;, J. Data Intell., Vol.2, No.4, pp.462-474, 2021 (<a href=https://doi.org/10.26421/JDI2.4-5 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification&rdquo;, J. Data Intell., Vol.2, No.1, pp.30-46, 2021 (<a href=https://doi.org/10.26421/JDI2.1-2 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Random walk-based entity representation learning and re-ranking for entity search&rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (<a href=https://doi.org/10.1007/s10115-020-01445-4 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Hiroyoshi Ito, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Detecting Communities and Correlated Attribute Clusters on Multi-Attributed Graphs&rdquo;, IEICE Trans. Inf. Syst., Vol.102-D, No.4, pp.810-820, 2019 (<a href=https://doi.org/10.1587/transinf.2018DAP0022 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (<a href=https://doi.org/10.1108/IJWIS-03-2016-0014 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Facet-value extraction scheme from textual contents in XML data&rdquo;, Int. J. Web Inf. Syst., Vol.11, No.3, pp.270-290, 2015 (<a href=https://doi.org/10.1108/IJWIS-04-2015-0012 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Faceted Navigation Framework for XML Data&rdquo;, Int. J. Web Inf. Syst., Vol.8, No.4, pp.348-370, 2012 (<a href=https://doi.org/10.1108/17440081211282865 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
 <hr>
-<h2 id="international-conferences">International Conferences</h2>
-<h3 id="2025">2025</h3>
+<h2 id=international-conferences>International Conferences</h2>
+<h3 id=2025>2025</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son Tran, &ldquo;ICDAR 25: Intelligent Cross-Data Analysis and Retrieval&rdquo;, ICMR, pp.2145-2147, 2025 (<a href="https://doi.org/10.1145/3731715.3734511" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Takatsugu Hirayama, Ichiro Ide, &ldquo;Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models&rdquo;, MMM, pp.428-441, 2025 (<a href="https://doi.org/10.1007/978-981-96-2071-5_31" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs&rdquo;, MMM, pp.226-239, 2025 (<a href="https://doi.org/10.1007/978-981-96-2071-5_17" target="_blank" rel="nofollow">DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son Tran, &ldquo;ICDAR 25: Intelligent Cross-Data Analysis and Retrieval&rdquo;, ICMR, pp.2145-2147, 2025 (<a href=https://doi.org/10.1145/3731715.3734511 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Takatsugu Hirayama, Ichiro Ide, &ldquo;Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models&rdquo;, MMM, pp.428-441, 2025 (<a href=https://doi.org/10.1007/978-981-96-2071-5_31 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs&rdquo;, MMM, pp.226-239, 2025 (<a href=https://doi.org/10.1007/978-981-96-2071-5_17 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-<h3 id="2024">2024</h3>
+<h3 id=2024>2024</h3>
 <ol>
-<li>Carlos Victorino Padeiro, Tse-Wei Chen, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation&rdquo;, CVPR Workshops, pp.2111-2120, 2024 (<a href="https://doi.org/10.1109/CVPRW63382.2024.00216" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Tatsuya Kato, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval&rdquo;, DEXA, pp.233-247, 2024 (<a href="https://doi.org/10.1007/978-3-031-68312-1_18" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/DEXA2024.pdf" target="_blank" rel="nofollow">slide</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li>Carlos Victorino Padeiro, Tse-Wei Chen, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation&rdquo;, CVPR Workshops, pp.2111-2120, 2024 (<a href=https://doi.org/10.1109/CVPRW63382.2024.00216 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Tatsuya Kato, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval&rdquo;, DEXA, pp.233-247, 2024 (<a href=https://doi.org/10.1007/978-3-031-68312-1_18 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/DEXA2024.pdf target=_blank rel=nofollow>slide</a>) &mdash;
+<span style=color:salmon!important>
 Best Paper Award
 </span>
-
 </li>
-<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features&rdquo;, FG, pp.1-10, 2024 (<a href="https://doi.org/10.1109/FG59268.2024.10581896" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Yuka Teramoto, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Mitsunori Matsushita, Kenji Hatano, &ldquo;Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM&rdquo;, iiWAS, pp.53-58, 2024 (<a href="https://doi.org/10.1007/978-3-031-78090-5_5" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;ICDAR 24: Intelligent Cross-Data Analysis and Retrieval&rdquo;, ICMR, pp.1332-1333, 2024 (<a href="https://doi.org/10.1145/3652583.3659999" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Takatsugu Hirayama, Ichiro Ide, &ldquo;Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation&rdquo;, ACM Multimedia, pp.7307-7315, 2024 (<a href="https://doi.org/10.1145/3664647.3681202" target="_blank" rel="nofollow">DOI</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features&rdquo;, FG, pp.1-10, 2024 (<a href=https://doi.org/10.1109/FG59268.2024.10581896 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yuka Teramoto, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Mitsunori Matsushita, Kenji Hatano, &ldquo;Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM&rdquo;, iiWAS, pp.53-58, 2024 (<a href=https://doi.org/10.1007/978-3-031-78090-5_5 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;ICDAR 24: Intelligent Cross-Data Analysis and Retrieval&rdquo;, ICMR, pp.1332-1333, 2024 (<a href=https://doi.org/10.1145/3652583.3659999 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Takatsugu Hirayama, Ichiro Ide, &ldquo;Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation&rdquo;, ACM Multimedia, pp.7307-7315, 2024 (<a href=https://doi.org/10.1145/3664647.3681202 target=_blank rel=nofollow>DOI</a>) &mdash;
+<span style=color:salmon!important>
 Best Paper Nomination
 </span>
-
 </li>
-<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Action Selection Learning for Multi-label Multi-view Action Recognition&rdquo;, MMAsia, pp.50:1, 2024 (<a href="https://doi.org/10.1145/3696409.3700211" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;ASC: Aggregating Sentence-level Classifications for Multi-label Long Text Classification&rdquo;, SoICT, pp.174–185, 2024 (<a href="https://doi.org/10.1007/978-981-96-4288-5_14" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/SoICT2024.pdf" target="_blank" rel="nofollow">slide</a>, <a href="/pdfs/SoICT2024_poster.pdf" target="_blank" rel="nofollow">poster</a>)</li>
-<li>Yusuke Kimura, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Kenji Hatano, &ldquo;L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Model&rdquo;, CustomNLP4U@EMNLP, pp.53–62, 2024 (<a href="https://doi.org/10.18653/v1/2024.customnlp4u-1.6" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?&rdquo;, CMCL@ACL, pp.81-85, 2024 (<a href="https://aclanthology.org/2024.cmcl-1.7/" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/CMCL@ACL2024.pdf" target="_blank" rel="nofollow">poster</a>)</li>
+<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Action Selection Learning for Multi-label Multi-view Action Recognition&rdquo;, MMAsia, pp.50:1, 2024 (<a href=https://doi.org/10.1145/3696409.3700211 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;ASC: Aggregating Sentence-level Classifications for Multi-label Long Text Classification&rdquo;, SoICT, pp.174–185, 2024 (<a href=https://doi.org/10.1007/978-981-96-4288-5_14 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/SoICT2024.pdf target=_blank rel=nofollow>slide</a>, <a href=/pdfs/SoICT2024_poster.pdf target=_blank rel=nofollow>poster</a>)</li>
+<li>Yusuke Kimura, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Kenji Hatano, &ldquo;L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Model&rdquo;, CustomNLP4U@EMNLP, pp.53–62, 2024 (<a href=https://doi.org/10.18653/v1/2024.customnlp4u-1.6 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yui Miyakawa, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?&rdquo;, CMCL@ACL, pp.81-85, 2024 (<a href=https://aclanthology.org/2024.cmcl-1.7/ target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/CMCL@ACL2024.pdf target=_blank rel=nofollow>poster</a>)</li>
 </ol>
-<h3 id="2023">2023</h3>
+<h3 id=2023>2023</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning&rdquo;, DEXA, pp.188-202, 2023 (<a href="https://doi.org/10.1007/978-3-031-39821-6_15" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/DEXA2023.pdf" target="_blank" rel="nofollow">slide</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning&rdquo;, DEXA, pp.188-202, 2023 (<a href=https://doi.org/10.1007/978-3-031-39821-6_15 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/DEXA2023.pdf target=_blank rel=nofollow>slide</a>) &mdash;
+<span style=color:salmon!important>
 Best Paper Award
 </span>
-
 </li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, &ldquo;Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words&rdquo;, MCGE@MM, pp.115-125, 2023 (<a href="https://doi.org/10.1145/3607541.3616818" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Visual Passage Score Aggregation for Image Retrieval&rdquo;, MIPR, pp.37-42, 2023 (<a href="https://doi.org/10.1109/MIPR59079.2023.00021" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/MIPR2023.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li>Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Satoshi Yamazaki, Karen Stephen, Kajal Kansal, &ldquo;NarSUM '23: The 2nd Workshop on User-Centric Narrative Summarization of Long Videos&rdquo;, ACM Multimedia, pp.9731-9733, 2023 (<a href="https://doi.org/10.1145/3581783.3610946" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Jialiang Shi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Keisuke Doman, Haruya Kyutoku, Ichiro Ide, &ldquo;RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network&rdquo;, MMAsia, pp.56:1-56:7, 2023 (<a href="https://doi.org/10.1145/3595916.3626430" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach&rdquo;, MMM, pp.178-190, 2023 (<a href="https://doi.org/10.1007/978-3-031-27077-2_14" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Small Object Detection for Birds with Swin Transformer&rdquo;, MVA, pp.1-5, 2023 (<a href="https://doi.org/10.23919/MVA57639.2023.10216093" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Banri Kojima, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasutomo Kawanishi, Keisuke Doman, Ichiro Ide, &ldquo;Image Impression Estimation by Clustering People with Similar Tastes&rdquo;, MVA, pp.1-5, 2023 (<a href="https://doi.org/10.23919/MVA57639.2023.10216055" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/MVA2023_poster.pdf" target="_blank" rel="nofollow">poster</a>)</li>
-<li>Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, &ldquo;MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results&rdquo;, MVA, pp.1-11, 2023 (<a href="https://doi.org/10.23919/MVA57639.2023.10215935" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Carlos Victorino Padeiro, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection&rdquo;, MVA, pp.1-6, 2023 (<a href="https://doi.org/10.23919/MVA57639.2023.10215815" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese&rdquo;, PACLIC, pp.322-337, 2023 (<a href="https://aclanthology.org/2023.paclic-1.33" target="_blank" rel="nofollow">DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, &ldquo;Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words&rdquo;, MCGE@MM, pp.115-125, 2023 (<a href=https://doi.org/10.1145/3607541.3616818 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Visual Passage Score Aggregation for Image Retrieval&rdquo;, MIPR, pp.37-42, 2023 (<a href=https://doi.org/10.1109/MIPR59079.2023.00021 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/MIPR2023.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li>Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Satoshi Yamazaki, Karen Stephen, Kajal Kansal, &ldquo;NarSUM '23: The 2nd Workshop on User-Centric Narrative Summarization of Long Videos&rdquo;, ACM Multimedia, pp.9731-9733, 2023 (<a href=https://doi.org/10.1145/3581783.3610946 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Jialiang Shi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Keisuke Doman, Haruya Kyutoku, Ichiro Ide, &ldquo;RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network&rdquo;, MMAsia, pp.56:1-56:7, 2023 (<a href=https://doi.org/10.1145/3595916.3626430 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach&rdquo;, MMM, pp.178-190, 2023 (<a href=https://doi.org/10.1007/978-3-031-27077-2_14 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Small Object Detection for Birds with Swin Transformer&rdquo;, MVA, pp.1-5, 2023 (<a href=https://doi.org/10.23919/MVA57639.2023.10216093 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Banri Kojima, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasutomo Kawanishi, Keisuke Doman, Ichiro Ide, &ldquo;Image Impression Estimation by Clustering People with Similar Tastes&rdquo;, MVA, pp.1-5, 2023 (<a href=https://doi.org/10.23919/MVA57639.2023.10216055 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/MVA2023_poster.pdf target=_blank rel=nofollow>poster</a>)</li>
+<li>Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, &ldquo;MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results&rdquo;, MVA, pp.1-11, 2023 (<a href=https://doi.org/10.23919/MVA57639.2023.10215935 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Carlos Victorino Padeiro, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection&rdquo;, MVA, pp.1-6, 2023 (<a href=https://doi.org/10.23919/MVA57639.2023.10215815 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Akira Yoshida, Chihaya Matsuhira, Hirotaka Kato, Takatsugu Hirayama, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese&rdquo;, PACLIC, pp.322-337, 2023 (<a href=https://aclanthology.org/2023.paclic-1.33 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-<h3 id="2022">2022</h3>
+<h3 id=2022>2022</h3>
 <ol>
-<li>Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Daisuke Deguchi, &ldquo;Detection of Birds in a 3D Environment Referring to Audio-Visual Information&rdquo;, AVSS, pp.1-7, 2022 (<a href="https://doi.org/10.1109/AVSS56176.2022.9959510" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Kazuma Kusu, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Kenji Hatano, &ldquo;Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives&rdquo;, ICADL, pp.377-391, 2022 (<a href="https://doi.org/10.1007/978-3-031-21756-2_29" target="_blank" rel="nofollow">DOI</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li>Yasutomo Kawanishi, Ichiro Ide, Baidong Chu, Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Daisuke Deguchi, &ldquo;Detection of Birds in a 3D Environment Referring to Audio-Visual Information&rdquo;, AVSS, pp.1-7, 2022 (<a href=https://doi.org/10.1109/AVSS56176.2022.9959510 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Kazuma Kusu, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Kenji Hatano, &ldquo;Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives&rdquo;, ICADL, pp.377-391, 2022 (<a href=https://doi.org/10.1007/978-3-031-21756-2_29 target=_blank rel=nofollow>DOI</a>) &mdash;
+<span style=color:salmon!important>
 Best Paper Runner-up
 </span>
-
 </li>
-<li>Da Huo, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Action Semantic Alignment for Image Captioning&rdquo;, MIPR, pp.194-197, 2022 (<a href="https://doi.org/10.1109/MIPR54900.2022.00041" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Hirotaka Kato, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Daisuke Deguchi, Hiroshi Murase, &ldquo;Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generation&rdquo;, MIPR, pp.240-245, 2022 (<a href="https://doi.org/10.1109/MIPR54900.2022.00050" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Yusuke Kimura, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Kenji Hatano, &ldquo;Multi-task Learning-based Text Classification with Subword-Phrase Extraction&rdquo;, SoICT, pp.23-30, 2022 (<a href="https://doi.org/10.1145/3568562.3568635" target="_blank" rel="nofollow">DOI</a>)</li>
+<li>Da Huo, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Action Semantic Alignment for Image Captioning&rdquo;, MIPR, pp.194-197, 2022 (<a href=https://doi.org/10.1109/MIPR54900.2022.00041 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Hirotaka Kato, Takatsugu Hirayama, Keisuke Doman, Ichiro Ide, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Daisuke Deguchi, Hiroshi Murase, &ldquo;Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generation&rdquo;, MIPR, pp.240-245, 2022 (<a href=https://doi.org/10.1109/MIPR54900.2022.00050 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yusuke Kimura, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Kenji Hatano, &ldquo;Multi-task Learning-based Text Classification with Subword-Phrase Extraction&rdquo;, SoICT, pp.23-30, 2022 (<a href=https://doi.org/10.1145/3568562.3568635 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-<h3 id="2021">2021</h3>
+<h3 id=2021>2021</h3>
 <ol>
-<li>Takahiro Yamakoshi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes&rdquo;, WAT@ACL/IJCNLP, pp.124-132, 2021 (<a href="https://doi.org/10.18653/v1/2021.wat-1.12" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;MMEnsemble: Imbalanced Classification Framework Using Metric Learning and Multi-sampling Ratio Ensemble&rdquo;, DEXA, pp.176-188, 2021 (<a href="https://doi.org/10.1007/978-3-030-86475-0_18" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/DEXA2021.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;FPX-G: First Person Exploration for Graph&rdquo;, MIPR, pp.70-76, 2021 (<a href="https://doi.org/10.1109/MIPR51284.2021.00018" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/MIPR2021.pdf" target="_blank" rel="nofollow">slide</a>)</li>
+<li>Takahiro Yamakoshi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes&rdquo;, WAT@ACL/IJCNLP, pp.124-132, 2021 (<a href=https://doi.org/10.18653/v1/2021.wat-1.12 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;MMEnsemble: Imbalanced Classification Framework Using Metric Learning and Multi-sampling Ratio Ensemble&rdquo;, DEXA, pp.176-188, 2021 (<a href=https://doi.org/10.1007/978-3-030-86475-0_18 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/DEXA2021.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;FPX-G: First Person Exploration for Graph&rdquo;, MIPR, pp.70-76, 2021 (<a href=https://doi.org/10.1109/MIPR51284.2021.00018 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/MIPR2021.pdf target=_blank rel=nofollow>slide</a>)</li>
 </ol>
-<h3 id="2020">2020</h3>
+<h3 id=2020>2020</h3>
 <ol>
-<li>Takahiro Yamakoshi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Differential Translation for Japanese Partially Amended Statutory Sentences&rdquo;, JSAI-isAI Workshops, pp.162-178, 2020 (<a href="https://doi.org/10.1007/978-3-030-79942-7_11" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Risa Uehara, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;MUEnsemble: Multi-ratio Undersampling-Based Ensemble Framework for Imbalanced Data&rdquo;, DEXA, pp.213-228, 2020 (<a href="https://doi.org/10.1007/978-3-030-59051-2_14" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/DEXA2020.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;SPARQL with XQuery-based Filtering&rdquo;, ISWC, pp.69-74, 2020 (<a href="https://ceur-ws.org/Vol-2721/paper512.pdf" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/ISWC2020.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li>Yasuhiro Ogawa, Yuta Ikari, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Katsuhiko Toyama, &ldquo;NUKL at the NTCIR-15 QA Lab-PoliInfo-2 Task&rdquo;, NTCIR-15, pp.145-152, 2020 (<a href="http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/09-NTCIR15-QALAB-OgawaY.pdf" target="_blank" rel="nofollow">DOI</a>)</li>
+<li>Takahiro Yamakoshi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Differential Translation for Japanese Partially Amended Statutory Sentences&rdquo;, JSAI-isAI Workshops, pp.162-178, 2020 (<a href=https://doi.org/10.1007/978-3-030-79942-7_11 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Risa Uehara, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;MUEnsemble: Multi-ratio Undersampling-Based Ensemble Framework for Imbalanced Data&rdquo;, DEXA, pp.213-228, 2020 (<a href=https://doi.org/10.1007/978-3-030-59051-2_14 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/DEXA2020.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li>Yasuhiro Ogawa, Yuta Ikari, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Katsuhiko Toyama, &ldquo;NUKL at the NTCIR-15 QA Lab-PoliInfo-2 Task&rdquo;, NTCIR, 2020 (<a href=https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/09-NTCIR15-QALAB-OgawaY.pdf target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;SPARQL with XQuery-based Filtering&rdquo;, ISWC, pp.69-74, 2020 (<a href=https://ceur-ws.org/Vol-2721/paper512.pdf target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/ISWC2020.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li>Yasuhiro Ogawa, Yuta Ikari, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Katsuhiko Toyama, &ldquo;NUKL at the NTCIR-15 QA Lab-PoliInfo-2 Task&rdquo;, NTCIR-15, pp.145-152, 2020 (<a href=http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/09-NTCIR15-QALAB-OgawaY.pdf target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-<h3 id="2019">2019</h3>
+<h3 id=2019>2019</h3>
 <ol>
-<li>Takahiro Yamakoshi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&rdquo;, IEEE BigData, pp.4342-4351, 2019 (<a href="https://doi.org/10.1109/BigData47090.2019.9006511" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Kazuya Fujioka, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Exploring Relevant Parts Between Legal Documents Using Substructure Matching&rdquo;, JSAI-isAI Workshops, pp.5-19, 2019 (<a href="https://doi.org/10.1007/978-3-030-58790-1_1" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/JURISIN2019.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li>Yasuhiro Ogawa, Michiaki Satou, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Katsuhiko Toyama, &ldquo;nagoy Team's Summarization System at the NTCIR-14 QA Lab-PoliInfo&rdquo;, NTCIR, pp.110-121, 2019 (<a href="https://doi.org/10.1007/978-3-030-36805-0_9" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yushi Uchida, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Analyzing Japanese Law History through Modeling Multi-versioned Entity&rdquo;, BlockSW/CKG@ISWC, 2019 (<a href="https://ceur-ws.org/Vol-2599/CKG2019_paper_5.pdf" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/CKG@ISWC2019.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li>Takahiro Yamakoshi, Vee Satayamas, Hutchatai Chanlekha, Yasuhiro Ogawa, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Asanee Kawtrakul, Katsuhiko Toyama, &ldquo;Thai Legal Term Correction using Random Forests with Outside-the-sentence Features&rdquo;, PACLIC 33, pp.306-314, 2019 (<a href="http://jaslli.org/files/proceedings/33_paclic33_postconf.pdf" target="_blank" rel="nofollow">DOI</a>)</li>
+<li>Takahiro Yamakoshi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&rdquo;, IEEE BigData, pp.4342-4351, 2019 (<a href=https://doi.org/10.1109/BigData47090.2019.9006511 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Kazuya Fujioka, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Exploring Relevant Parts Between Legal Documents Using Substructure Matching&rdquo;, JSAI-isAI Workshops, pp.5-19, 2019 (<a href=https://doi.org/10.1007/978-3-030-58790-1_1 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/JURISIN2019.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li>Yasuhiro Ogawa, Michiaki Satou, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Katsuhiko Toyama, &ldquo;nagoy Team's Summarization System at the NTCIR-14 QA Lab-PoliInfo&rdquo;, NTCIR, pp.110-121, 2019 (<a href=https://doi.org/10.1007/978-3-030-36805-0_9 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yasuhiro Ogawa, Michiaki Satou, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Katsuhiko Toyama, &ldquo;nagoy Team's Summarization System at the NTCIR-14 QA Lab PoliInfo&rdquo;, NTCIR, 2019 (<a href=https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/06-NTCIR14-QALAB-OgawaY.pdf target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yushi Uchida, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Analyzing Japanese Law History through Modeling Multi-versioned Entity&rdquo;, BlockSW/CKG@ISWC, 2019 (<a href=https://ceur-ws.org/Vol-2599/CKG2019_paper_5.pdf target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/CKG@ISWC2019.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li>Takahiro Yamakoshi, Vee Satayamas, Hutchatai Chanlekha, Yasuhiro Ogawa, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Asanee Kawtrakul, Katsuhiko Toyama, &ldquo;Thai Legal Term Correction using Random Forests with Outside-the-sentence Features&rdquo;, PACLIC 33, pp.306-314, 2019 (<a href=http://jaslli.org/files/proceedings/33_paclic33_postconf.pdf target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-<h3 id="2018">2018</h3>
+<h3 id=2018>2018</h3>
 <ol>
-<li>Takahiro Yamakoshi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Japanese Legal Term Correction Using Random Forests&rdquo;, JURIX, pp.161-170, 2018 (<a href="https://doi.org/10.3233/978-1-61499-935-5-161" target="_blank" rel="nofollow">DOI</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li>Takahiro Yamakoshi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasuhiro Ogawa, Katsuhiko Toyama, &ldquo;Japanese Legal Term Correction Using Random Forests&rdquo;, JURIX, pp.161-170, 2018 (<a href=https://doi.org/10.3233/978-1-61499-935-5-161 target=_blank rel=nofollow>DOI</a>) &mdash;
+<span style=color:salmon!important>
 Best Paper Award
 </span>
-
 </li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Graph Analytical Re-Ranking for Entity Search&rdquo;, CIKM Workshops, 2018 (<a href="https://ceur-ws.org/Vol-2482/paper6.pdf" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/EYRE@CIKM2018.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Learning Interpretable Entity Representation in Linked Data&rdquo;, DEXA, pp.153-168, 2018 (<a href="https://doi.org/10.1007/978-3-319-98809-2_10" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/DEXA2018.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li>Hiroyoshi Ito, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Community Detection and Correlated Attribute Cluster Analysis on Multi-Attributed Graphs&rdquo;, EDBT/ICDT Workshops, pp.2-9, 2018 (<a href="https://ceur-ws.org/Vol-2083/paper-01.pdf" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Hiroyoshi Ito, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Network-Word Embedding for Dynamic Text Attributed Networks&rdquo;, ICSC, pp.334-339, 2018 (<a href="https://doi.org/10.1109/ICSC.2018.00069" target="_blank" rel="nofollow">DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Graph Analytical Re-Ranking for Entity Search&rdquo;, CIKM Workshops, 2018 (<a href=https://ceur-ws.org/Vol-2482/paper6.pdf target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/EYRE@CIKM2018.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Learning Interpretable Entity Representation in Linked Data&rdquo;, DEXA, pp.153-168, 2018 (<a href=https://doi.org/10.1007/978-3-319-98809-2_10 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/DEXA2018.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li>Hiroyoshi Ito, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Community Detection and Correlated Attribute Cluster Analysis on Multi-Attributed Graphs&rdquo;, EDBT/ICDT Workshops, pp.2-9, 2018 (<a href=https://ceur-ws.org/Vol-2083/paper-01.pdf target=_blank rel=nofollow>DOI</a>)</li>
+<li>Hiroyoshi Ito, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Network-Word Embedding for Dynamic Text Attributed Networks&rdquo;, ICSC, pp.334-339, 2018 (<a href=https://doi.org/10.1109/ICSC.2018.00069 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-<h3 id="2017">2017</h3>
+<h3 id=2017>2017</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Sayami Okumura, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;FORK: Feedback-Aware ObjectRank-Based Keyword Search over Linked Data&rdquo;, AIRS, pp.58-70, 2017 (<a href="https://doi.org/10.1007/978-3-319-70145-5_5" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/AIRS2017.pdf" target="_blank" rel="nofollow">slide</a>, <a href="/pdfs/AIRS2017_poster.pdf" target="_blank" rel="nofollow">poster</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Implicit order join: Joining log data with property data by discovering implicit order-oriented keys with human assistance&rdquo;, IEEE BigData, pp.4400-4406, 2017 (<a href="https://doi.org/10.1109/BigData.2017.8258474" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/HMData2017.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Jin Nakazawa, Toshiyuki Amagasa, Hiroyuki Kitagawa, Hideyuki Tokuda, &ldquo;Analytical toolbox for smart city applications: Garbage collection log use case&rdquo;, IEEE BigData, pp.4105-4110, 2017 (<a href="https://doi.org/10.1109/BigData.2017.8258429" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/IWSC2017.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;CROISSANT: centralized relational interface for web-scale SPARQL endpoints&rdquo;, iiWAS, pp.284-288, 2017 (<a href="https://doi.org/10.1145/3151759.3151803" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/iiWAS2017.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Salman Ahmed Shaikh, Hiroaki Shiokawa, Hiroyuki Kitagawa, &ldquo;SOLA: Stream OLAP-based Analytical Framework for Roadway Maintenance&rdquo;, MEDES, pp.35-41, 2017 (<a href="https://doi.org/10.1145/3167020.3167026" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/SBDDE@MEDES2017.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yasuhiro Hayase, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Exploring Identical Users on GitHub and Stack Overflow&rdquo;, SEKE, pp.584-589, 2017 (<a href="https://doi.org/10.18293/SEKE2017-109" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/SEKE2017.pdf" target="_blank" rel="nofollow">slide</a>, <a href="https://github.com/Taka-Coma/PJD_GHSO" target="_blank" rel="nofollow">dataset</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Sayami Okumura, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;FORK: Feedback-Aware ObjectRank-Based Keyword Search over Linked Data&rdquo;, AIRS, pp.58-70, 2017 (<a href=https://doi.org/10.1007/978-3-319-70145-5_5 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/AIRS2017.pdf target=_blank rel=nofollow>slide</a>, <a href=/pdfs/AIRS2017_poster.pdf target=_blank rel=nofollow>poster</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Implicit order join: Joining log data with property data by discovering implicit order-oriented keys with human assistance&rdquo;, IEEE BigData, pp.4400-4406, 2017 (<a href=https://doi.org/10.1109/BigData.2017.8258474 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/HMData2017.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Jin Nakazawa, Toshiyuki Amagasa, Hiroyuki Kitagawa, Hideyuki Tokuda, &ldquo;Analytical toolbox for smart city applications: Garbage collection log use case&rdquo;, IEEE BigData, pp.4105-4110, 2017 (<a href=https://doi.org/10.1109/BigData.2017.8258429 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/IWSC2017.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;CROISSANT: centralized relational interface for web-scale SPARQL endpoints&rdquo;, iiWAS, pp.284-288, 2017 (<a href=https://doi.org/10.1145/3151759.3151803 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/iiWAS2017.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Salman Ahmed Shaikh, Hiroaki Shiokawa, Hiroyuki Kitagawa, &ldquo;SOLA: Stream OLAP-based Analytical Framework for Roadway Maintenance&rdquo;, MEDES, pp.35-41, 2017 (<a href=https://doi.org/10.1145/3167020.3167026 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/SBDDE@MEDES2017.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yasuhiro Hayase, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Exploring Identical Users on GitHub and Stack Overflow&rdquo;, SEKE, pp.584-589, 2017 (<a href=https://doi.org/10.18293/SEKE2017-109 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/SEKE2017.pdf target=_blank rel=nofollow>slide</a>, <a href=https://github.com/Taka-Coma/PJD_GHSO target=_blank rel=nofollow>dataset</a>)</li>
 </ol>
-<h3 id="2016">2016</h3>
+<h3 id=2016>2016</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Salman Ahmed Shaikh, Hiroaki Shiokawa, Hiroyuki Kitagawa, &ldquo;Towards Real-Time Analysis of Smart City Data: A Case Study on City Facility Utilizations&rdquo;, HPCC/SmartCity/DSS, pp.1357-1364, 2016 (<a href="https://doi.org/10.1109/HPCC-SmartCity-DSS.2016.0192" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/SmartCity2016.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Interleaving Clustering of Classes and Properties for Disambiguating Linked Data&rdquo;, ICADL, pp.251-256, 2016 (<a href="https://doi.org/10.1007/978-3-319-49304-6_30" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/ICADL2016.pdf" target="_blank" rel="nofollow">slide</a>, <a href="/pdfs/ICADL2016_poster.pdf" target="_blank" rel="nofollow">poster</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Visual Spatial-OLAP for Vehicle Recorder Data on Micro-sized Electric Vehicles&rdquo;, IDEAS, pp.358-363, 2016 (<a href="https://doi.org/10.1145/2938503.2938532" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/IDEAS2016.pdf" target="_blank" rel="nofollow">slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Salman Ahmed Shaikh, Hiroaki Shiokawa, Hiroyuki Kitagawa, &ldquo;Towards Real-Time Analysis of Smart City Data: A Case Study on City Facility Utilizations&rdquo;, HPCC/SmartCity/DSS, pp.1357-1364, 2016 (<a href=https://doi.org/10.1109/HPCC-SmartCity-DSS.2016.0192 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/SmartCity2016.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Interleaving Clustering of Classes and Properties for Disambiguating Linked Data&rdquo;, ICADL, pp.251-256, 2016 (<a href=https://doi.org/10.1007/978-3-319-49304-6_30 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/ICADL2016.pdf target=_blank rel=nofollow>slide</a>, <a href=/pdfs/ICADL2016_poster.pdf target=_blank rel=nofollow>poster</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Visual Spatial-OLAP for Vehicle Recorder Data on Micro-sized Electric Vehicles&rdquo;, IDEAS, pp.358-363, 2016 (<a href=https://doi.org/10.1145/2938503.2938532 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/IDEAS2016.pdf target=_blank rel=nofollow>slide</a>)</li>
 </ol>
-<h3 id="2015">2015</h3>
+<h3 id=2015>2015</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;SPOOL: a SPARQL-based ETL framework for OLAP over linked data&rdquo;, iiWAS, pp.49:1-49:10, 2015 (<a href="https://doi.org/10.1145/2837185.2837230" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/iiWAS2015.pdf" target="_blank" rel="nofollow">slide</a>) &mdash; 
-
-
-<span style="color: salmon !important">
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;SPOOL: a SPARQL-based ETL framework for OLAP over linked data&rdquo;, iiWAS, pp.49:1-49:10, 2015 (<a href=https://doi.org/10.1145/2837185.2837230 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/iiWAS2015.pdf target=_blank rel=nofollow>slide</a>) &mdash;
+<span style=color:salmon!important>
 Best Paper Award
 </span>
-
 </li>
 </ol>
-<h3 id="2014">2014</h3>
+<h3 id=2014>2014</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;A scheme of automated object and facet extraction for faceted search over XML data&rdquo;, IDEAS, pp.338-341, 2014 (<a href="https://doi.org/10.1145/2628194.2628241" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/IDEAS2014.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Extracting Facets from Textual Contents for Faceted Search over XML Data&rdquo;, iiWAS, pp.420-429, 2014 (<a href="https://doi.org/10.1145/2684200.2684294" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/iiWAS2014.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Frequent-Pattern Based Facet Extraction from Graph Data&rdquo;, NBiS, pp.318-323, 2014 (<a href="https://doi.org/10.1109/NBiS.2014.77" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/NBiS2014.pdf" target="_blank" rel="nofollow">slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;A scheme of automated object and facet extraction for faceted search over XML data&rdquo;, IDEAS, pp.338-341, 2014 (<a href=https://doi.org/10.1145/2628194.2628241 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/IDEAS2014.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Extracting Facets from Textual Contents for Faceted Search over XML Data&rdquo;, iiWAS, pp.420-429, 2014 (<a href=https://doi.org/10.1145/2684200.2684294 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/iiWAS2014.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;Frequent-Pattern Based Facet Extraction from Graph Data&rdquo;, NBiS, pp.318-323, 2014 (<a href=https://doi.org/10.1109/NBiS.2014.77 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/NBiS2014.pdf target=_blank rel=nofollow>slide</a>)</li>
 </ol>
-<h3 id="2012">2012</h3>
+<h3 id=2012>2012</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Mariko Kamie, Kazuhiro Fukui, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;A Scheme of Fragment-Based Faceted Image Search&rdquo;, DEXA, pp.450-457, 2012 (<a href="https://doi.org/10.1007/978-3-642-32597-7_40" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/DEXA2012.pdf" target="_blank" rel="nofollow">slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Mariko Kamie, Kazuhiro Fukui, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;A Scheme of Fragment-Based Faceted Image Search&rdquo;, DEXA, pp.450-457, 2012 (<a href=https://doi.org/10.1007/978-3-642-32597-7_40 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/DEXA2012.pdf target=_blank rel=nofollow>slide</a>)</li>
 </ol>
-<h3 id="2011">2011</h3>
+<h3 id=2011>2011</h3>
 <ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;A framework of faceted navigation for XML data&rdquo;, iiWAS, pp.28-35, 2011 (<a href="https://doi.org/10.1145/2095536.2095544" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/iiWAS2011.pdf" target="_blank" rel="nofollow">slide</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Yuto Yamaguchi, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;FACTUS: Faceted Twitter User Search Using Twitter Lists&rdquo;, WISE, pp.343-344, 2011 (<a href="https://doi.org/10.1007/978-3-642-24434-6_35" target="_blank" rel="nofollow">DOI</a>, <a href="/pdfs/WISE2011.pdf" target="_blank" rel="nofollow">poster</a>)</li>
-</ol>
-<hr>
-<h2 id="editor">Editor</h2>
-<ol>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Marc A. Kastner, Minh-Son Dao, &ldquo;Proceedings of the 6th Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2025, Chicago, IL, USA, 30 June 2025- 3 July 202&rdquo;, ICDAR@ICMR, 2025 (<a href="https://doi.org/10.1145/3733566" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;The Fifth Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2024, Phuket, Thailand, June 10-14, 202&rdquo;, ICDAR@ICMR, 2024 (<a href="https://doi.org/10.1145/3643488" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202&rdquo;, NarSUM@MM, 2023 (<a href="https://doi.org/10.1145/3607540" target="_blank" rel="nofollow">DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;A framework of faceted navigation for XML data&rdquo;, iiWAS, pp.28-35, 2011 (<a href=https://doi.org/10.1145/2095536.2095544 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/iiWAS2011.pdf target=_blank rel=nofollow>slide</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Yuto Yamaguchi, Toshiyuki Amagasa, Hiroyuki Kitagawa, &ldquo;FACTUS: Faceted Twitter User Search Using Twitter Lists&rdquo;, WISE, pp.343-344, 2011 (<a href=https://doi.org/10.1007/978-3-642-24434-6_35 target=_blank rel=nofollow>DOI</a>, <a href=/pdfs/WISE2011.pdf target=_blank rel=nofollow>poster</a>)</li>
 </ol>
 <hr>
-<h2 id="pre-print">Pre-Print</h2>
+<h2 id=editor>Editor</h2>
 <ol>
-<li>Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion&rdquo;, CoRR, Vol.abs/2504.02287, 2025 (<a href="https://doi.org/10.48550/arXiv.2504.02287" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features&rdquo;, CoRR, Vol.abs/2404.19542, 2024 (<a href="https://doi.org/10.48550/arXiv.2404.19542" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Tingwei Liu, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association&rdquo;, CoRR, Vol.abs/2405.17323, 2024 (<a href="https://doi.org/10.48550/arXiv.2405.17323" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Action Selection Learning for Multi-label Multi-view Action Recognition&rdquo;, CoRR, Vol.abs/2410.03302, 2024 (<a href="https://doi.org/10.48550/arXiv.2410.03302" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Takatsugu Hirayama, Ichiro Ide, &ldquo;Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation&rdquo;, CoRR, Vol.abs/2411.03595, 2024 (<a href="https://doi.org/10.48550/arXiv.2411.03595" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, &ldquo;IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining&rdquo;, CoRR, Vol.abs/2303.03144, 2023 (<a href="https://doi.org/10.48550/arXiv.2303.03144" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, &ldquo;MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results&rdquo;, CoRR, Vol.abs/2307.09143, 2023 (<a href="https://doi.org/10.48550/arXiv.2307.09143" target="_blank" rel="nofollow">DOI</a>)</li>
-<li>Jialiang Shi, <a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, Keisuke Doman, Haruya Kyutoku, Ichiro Ide, &ldquo;RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network&rdquo;, CoRR, Vol.abs/2310.15593, 2023 (<a href="https://doi.org/10.48550/arXiv.2310.15593" target="_blank" rel="nofollow">DOI</a>)</li>
-<li><a href="/" target="_blank" rel="nofollow">Takahiro Komamizu</a>, &ldquo;SPARQL with XQuery-based Filtering&rdquo;, CoRR, Vol.abs/2009.06194, 2020 (<a href="https://arxiv.org/abs/2009.06194" target="_blank" rel="nofollow">DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Marc A. Kastner, Minh-Son Dao, &ldquo;Proceedings of the 6th Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2025, Chicago, IL, USA, 30 June 2025- 3 July 202&rdquo;, ICDAR@ICMR, 2025 (<a href=https://doi.org/10.1145/3733566 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;The Fifth Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2024, Phuket, Thailand, June 10-14, 202&rdquo;, ICDAR@ICMR, 2024 (<a href=https://doi.org/10.1145/3643488 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202&rdquo;, NarSUM@MM, 2023 (<a href=https://doi.org/10.1145/3607540 target=_blank rel=nofollow>DOI</a>)</li>
 </ol>
-
-  </div>
+<hr>
+<h2 id=pre-print>Pre-Print</h2>
+<ol>
+<li>Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion&rdquo;, CoRR, Vol.abs/2504.02287, 2025 (<a href=https://doi.org/10.48550/arXiv.2504.02287 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features&rdquo;, CoRR, Vol.abs/2404.19542, 2024 (<a href=https://doi.org/10.48550/arXiv.2404.19542 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Tingwei Liu, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association&rdquo;, CoRR, Vol.abs/2405.17323, 2024 (<a href=https://doi.org/10.48550/arXiv.2405.17323 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Trung Thanh Nguyen, Yasutomo Kawanishi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, &ldquo;Action Selection Learning for Multi-label Multi-view Action Recognition&rdquo;, CoRR, Vol.abs/2410.03302, 2024 (<a href=https://doi.org/10.48550/arXiv.2410.03302 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Takatsugu Hirayama, Ichiro Ide, &ldquo;Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation&rdquo;, CoRR, Vol.abs/2411.03595, 2024 (<a href=https://doi.org/10.48550/arXiv.2411.03595 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Chihaya Matsuhira, Marc A. Kastner, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, &ldquo;IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining&rdquo;, CoRR, Vol.abs/2303.03144, 2023 (<a href=https://doi.org/10.48550/arXiv.2303.03144 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui, &ldquo;MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results&rdquo;, CoRR, Vol.abs/2307.09143, 2023 (<a href=https://doi.org/10.48550/arXiv.2307.09143 target=_blank rel=nofollow>DOI</a>)</li>
+<li>Jialiang Shi, <a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, Keisuke Doman, Haruya Kyutoku, Ichiro Ide, &ldquo;RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network&rdquo;, CoRR, Vol.abs/2310.15593, 2023 (<a href=https://doi.org/10.48550/arXiv.2310.15593 target=_blank rel=nofollow>DOI</a>)</li>
+<li><a href=/ target=_blank rel=nofollow>Takahiro Komamizu</a>, &ldquo;SPARQL with XQuery-based Filtering&rdquo;, CoRR, Vol.abs/2009.06194, 2020 (<a href=https://arxiv.org/abs/2009.06194 target=_blank rel=nofollow>DOI</a>)</li>
+</ol>
+</div>
 </article>
-
-      </main>
-    </div>
-    <footer>
-  <div class="w-50 bg-danger ml-auto mr-auto mt-4" style="height: 2px;"></div>
-  <div class="mt-4 mb-2" style="font-size: 0.9em;">
-    <p class="text-center">
-			Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
-    </p>
-  </div>
+</main>
+</div>
+<footer>
+<div class="w-50 bg-danger ml-auto mr-auto mt-4" style=height:2px></div>
+<div class="mt-4 mb-2" style=font-size:.9em>
+<p class=text-center>
+Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
+</p>
+</div>
 </footer>
-
-<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<script src="/js/mero.js"></script>
-
-  </body>
+<script src=https://code.jquery.com/jquery-3.6.1.min.js></script>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js integrity=sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM crossorigin=anonymous></script>
+<script src=/js/mero.js></script>
+</body>
 </html>
