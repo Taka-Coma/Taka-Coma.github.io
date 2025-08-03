@@ -14,7 +14,6 @@ draft: false
 ----
 ## International Journals
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
-1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva",  Int. J. Mach. Learn. & Cyber., pp.1-16, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
 1. Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning", IEEE Access, Vol.12, pp.55889-55904, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3390153), [homepage](https://zero-pima.github.io/))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Image-Collection Summarization Using Scene-Graph Generation With External Knowledge", IEEE Access, Vol.12, pp.17499-17512, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3360113))
