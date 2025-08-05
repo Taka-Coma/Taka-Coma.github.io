@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## To Appear
-1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Caption", MMGR@ACMMM, pp., 2025 ([DOI]())
+1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp., 2025 ([DOI]())
 1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@ACMMM, pp., 2025 ([DOI]())
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
