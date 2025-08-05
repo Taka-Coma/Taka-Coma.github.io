@@ -4,13 +4,27 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Takahiro Komamizu" }
+ 		]},
+  		"title": "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions",
+  		"venue": "MMGR@ACMMM",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "",
+			"key": "MMGR2025"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Yui Tanaka" },
 				{ "text": "Marc A. Kastner" },
 				{ "text": "Yasutomo Kawanishi" },
 				{ "text": "Takahiro Komamizu" },
 				{ "text": "Ichiro Ide" }
  		]},
-  		"title": "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features",
+  		"title": "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features.",
   		"venue": "MUWS@ACMMM",
   		"pages": "",
   		"year" : "2025",

@@ -1,1066 +1,1468 @@
-<!doctype html><html lang=en-us>
-<head>
-<title>Taka-Coma</title>
-<meta charset=utf-8>
-<meta content="width=device-width,initial-scale=1" name=viewport>
-<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
-<meta name=description content="This is Takahiro Komamizu's homepage.">
-<meta name=author content="Takahiro Komamizu">
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC crossorigin=anonymous>
-<link rel=stylesheet href=/css/mero.css>
-<link rel=stylesheet href=/css/timeline.css>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css>
-<link href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap" rel=stylesheet>
-<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <title>Taka-Coma</title>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <meta name="description" content="This is Takahiro Komamizu&#39;s homepage." />
+  <meta name="author" content="Takahiro Komamizu" />
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/mero.css" />
+  <link rel="stylesheet" href="/css/timeline.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
+    rel="stylesheet"
+  />
+	<link
+		rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+	/>
+
 </head>
-<body class="bg-dark text-white m-auto" style=width:95%;max-width:1024px>
-<div class=wrapper>
-<nav class="mb-3 mt-3 ml-1">
-<div class=btn-group>
-<div class="btn btn-dark text-warning border border-warning">
-<a href=/>Home</a>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=research_menu>
-Researches
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=research_menu>
-<a class=dropdown-item href=/researches>Overview</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/mlod>Hetero LOD Management</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/imbalance>Imbalanced Classification</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/legal>Legal Data Management</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/faceted>Faceted Search</a>
-</div>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=publication_menu>
-Publications
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=publication_menu>
-<a class=dropdown-item href=/international>International</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/domestic>Domestic</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/awards>Awards</a>
-</div>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=activity_menu>
-Activities
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=activity_menu>
-<a class=dropdown-item href=/academic>Academic</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/grants>Grants</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/education>Education</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/supervision>Supervision</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/design>Design</a>
-</div>
-</div>
-</div>
+
+
+  <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
+    <div class="wrapper">
+      <nav class="mb-3 mt-3 ml-1">
+  <div class="btn-group">
+    <div class="btn btn-dark text-warning border border-warning">
+      <a href="/">Home</a>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='research_menu'>
+				Researches
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="research_menu"
+      >
+      	<a class='dropdown-item' href="/researches">Overview</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/mlod">Hetero LOD Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/imbalance">Imbalanced Classification</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/legal">Legal Data Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/faceted">Faceted Search</a>
+      </div>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='publication_menu'>
+				Publications
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="publication_menu"
+      >
+        <a class='dropdown-item' href="/international">International</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/domestic">Domestic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/awards">Awards</a>
+      </div>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='activity_menu'>
+				Activities
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="activity_menu"
+      >
+        <a class='dropdown-item' href="/academic">Academic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/grants">Grants</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/education">Education</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/supervision">Supervision</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/design">Design</a>
+      </div>
+    </div>
+
+  </div>
 </nav>
-<main>
+
+      <main>
+        
 <article class="border rounded p-3 position-relative mt-4 p-4">
+
 <div class="header border-bottom mb-3">
-<h1 style=font-size:2.5em>
-Awards
-</h1>
-<div class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark" style=position:absolute;top:-19px;font-size:.9em>
-<span class=more style=font-size:1.5em>
-+
-+
-+
-</span>
+	<h1 style="font-size: 2.5em;">
+	  Awards
+	</h1>
+
+  <div
+  	class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
+  	style="position: absolute; top: -19px; font-size: 0.9em;"
+	>
+  	<span
+  	  class="more"
+  	  style="font-size: 1.5em;"
+  	>
+  	  &#43;
+  	  &#43;
+  	  &#43;
+  	</span>
+	</div>
 </div>
+
+<div class='row row-cols-1 bg-secondary pt-3'>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Student Paper Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀学生論文賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>May 2025</span>
+						<br>
+						<a href='' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://fg2025.ieee-biometrics.org/' target='_blank'>FG 2025</a>
+							
+						
+					</li>
+
+					<li>Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, Takahiro Komamizu, Ichiro Ide</li>
+					
+						<li>MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Nomination
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀論文賞ノミネート
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>Oct 2024</span>
+						<br>
+						<a href='https://2024.acmmm.org/awards' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://2024.acmmm.org/' target='_blank'>ACM MM 2024</a>
+							
+						
+					</li>
+
+					<li>Chihaya Matsuhira, Marc A. Kastner, Takahiro Komamizu, Takatsugu Hirayama, Ichiro Ide</li>
+					
+						<li>Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀論文賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>August 2024</span>
+						<br>
+						<a href='' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.dexa.org/dexa2024' target='_blank'>DEXA 2024</a>
+							
+						
+					</li>
+
+					<li>Tatsuya Kato, Takahiro Komamizu, Ichiro IDE,</li>
+					
+						<li>R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀論文賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>August 2023</span>
+						<br>
+						<a href='' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.dexa.org/dexa2023' target='_blank'>DEXA 2023</a>
+							
+						
+					</li>
+
+					<li>Takahiro Komamizu</li>
+					
+						<li>Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Runner-Up Solution Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							準優勝
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>July 2023</span>
+						<br>
+						<a href='https://www.mva-org.jp/mva2023/challenge/challenge_winner' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.mva-org.jp/mva2023/' target='_blank'>MVA 2023</a>
+							
+						
+					</li>
+
+					<li>Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide</li>
+					
+						<li>Happy Day - Small Object Detection for Birds with Swin Transformer</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Runner-up
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀論文賞 Runner-up
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>December 2022</span>
+						<br>
+						<a href='https://icadl.net/icadl2022/best-paper.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://icadl.net/icadl2022/' target='_blank'>ICADL 2022</a>
+							
+						
+					</li>
+
+					<li>Kazuma Kusu, Takahiro Komamizu, Kenji Hatano</li>
+					
+						<li>Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優論文秀賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>December 2018</span>
+						<br>
+						<a href='' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://jurix2018.ai.rug.nl/' target='_blank'>JURIX 2018</a>
+							
+						
+					</li>
+
+					<li>Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama</li>
+					
+						<li>Japanese Legal Term Correction using Random Forests</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀論文賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>December 2015</span>
+						<br>
+						<a href='' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://www.iiwas.org/conferences/iiwas2015/home' target='_blank'>iiWAS 2015</a>
+							
+						
+					</li>
+
+					<li>Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa</li>
+					
+						<li>SPOOL: A SPARQL-based ETL Framework for OLAP over Linked Data</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
 </div>
-<div class="row row-cols-1 bg-secondary pt-3">
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Student Paper Award
-</h4>
-<h6 class="py-2 m-0">
-最優秀学生論文賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>May 2025</span>
-<br>
-<a href target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://fg2025.ieee-biometrics.org/ target=_blank>FG 2025</a>
-</li>
-<li>Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, Takahiro Komamizu, Ichiro Ide</li>
-<li>MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Nomination
-</h4>
-<h6 class="py-2 m-0">
-最優秀論文賞ノミネート
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>Oct 2024</span>
-<br>
-<a href=https://2024.acmmm.org/awards target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://2024.acmmm.org/ target=_blank>ACM MM 2024</a>
-</li>
-<li>Chihaya Matsuhira, Marc A. Kastner, Takahiro Komamizu, Takatsugu Hirayama, Ichiro Ide</li>
-<li>Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Award
-</h4>
-<h6 class="py-2 m-0">
-最優秀論文賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>August 2024</span>
-<br>
-<a href target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.dexa.org/dexa2024 target=_blank>DEXA 2024</a>
-</li>
-<li>Tatsuya Kato, Takahiro Komamizu, Ichiro IDE,</li>
-<li>R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Award
-</h4>
-<h6 class="py-2 m-0">
-最優秀論文賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>August 2023</span>
-<br>
-<a href target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.dexa.org/dexa2023 target=_blank>DEXA 2023</a>
-</li>
-<li>Takahiro Komamizu</li>
-<li>Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Runner-Up Solution Award
-</h4>
-<h6 class="py-2 m-0">
-準優勝
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>July 2023</span>
-<br>
-<a href=https://www.mva-org.jp/mva2023/challenge/challenge_winner target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.mva-org.jp/mva2023/ target=_blank>MVA 2023</a>
-</li>
-<li>Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide</li>
-<li>Happy Day - Small Object Detection for Birds with Swin Transformer</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Runner-up
-</h4>
-<h6 class="py-2 m-0">
-最優秀論文賞 Runner-up
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>December 2022</span>
-<br>
-<a href=https://icadl.net/icadl2022/best-paper.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://icadl.net/icadl2022/ target=_blank>ICADL 2022</a>
-</li>
-<li>Kazuma Kusu, Takahiro Komamizu, Kenji Hatano</li>
-<li>Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Award
-</h4>
-<h6 class="py-2 m-0">
-最優論文秀賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>December 2018</span>
-<br>
-<a href target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://jurix2018.ai.rug.nl/ target=_blank>JURIX 2018</a>
-</li>
-<li>Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama</li>
-<li>Japanese Legal Term Correction using Random Forests</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Award
-</h4>
-<h6 class="py-2 m-0">
-最優秀論文賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>December 2015</span>
-<br>
-<a href target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://www.iiwas.org/conferences/iiwas2015/home target=_blank>iiWAS 2015</a>
-</li>
-<li>Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa</li>
-<li>SPOOL: A SPARQL-based ETL Framework for OLAP over Linked Data</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+
 <hr>
+
 <div class="header border-bottom mb-3">
-<h1 style=font-size:2.5em>
-Awards in Japanese Events
-</h1>
-</div>
-<div class="row row-cols-1 bg-secondary pt-3">
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Poster Award
-</h4>
-<h6 class="py-2 m-0">
-MIRU インタラクティブ発表賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>July 2023</span>
-<br>
-<a href=http://cvim.ipsj.or.jp/MIRU2023/award/ target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://cvim.ipsj.or.jp/MIRU2023/ target=_blank>MIRU 2023</a>
-</li>
-<li>松平 茅隼, カストナーマークアウ レル, 駒水 孝裕, 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎</li>
-<li>類音語の連想性を考慮した未知語の発音に対する画像生成</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-JSAI Incentive Award
-</h4>
-<h6 class="py-2 m-0">
-人工知能学会研究会優秀賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>June 2021</span>
-<br>
-<a href=https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/ target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.sigswo.org/papers/51program target=_blank>SWO 51</a>
-</li>
-<li>駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
-<li>法令沿革LOD構築のためのDBpediaにおける法令エンティティの同定</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Paper Award
-</h4>
-<h6 class="py-2 m-0">
-最優秀賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>November 2020</span>
-<br>
-<a href=https://sites.google.com/view/winf2020/award target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://sites.google.com/view/winf2020 target=_blank>WiNF 2020</a>
-</li>
-<li>近藤 匠, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
-<li>利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Online Presentation Award
-</h4>
-<h6 class="py-2 m-0">
-オンラインプレゼンテーション賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2020</span>
-<br>
-<a href=http://db-event.jpn.org/deim2020/post/awards.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/deim2020/ target=_blank>DEIM 2020</a>
-</li>
-<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
-<li>不均衡データ分類フレームワークにおけるサンプリング比率の最適化</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-FUJITSU Award
-</h4>
-<h6 class="py-2 m-0">
-FUJITSU賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>September 2019</span>
-<br>
-<a href=https://db-event.jpn.org/webdbf2019/award.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/webdbf2019/ target=_blank>WebDBF 2019</a>
-</li>
-<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
-<li>弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-FRONTEO Award
-</h4>
-<h6 class="py-2 m-0">
-株式会社FRONTEO賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>September 2019</span>
-<br>
-<a href=https://db-event.jpn.org/webdbf2019/award.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/webdbf2019/ target=_blank>WebDBF 2019</a>
-</li>
-<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
-<li>弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-MicroAd Award
-</h4>
-<h6 class="py-2 m-0">
-マイクロアド賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>September 2019</span>
-<br>
-<a href=https://db-event.jpn.org/webdbf2019/award.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/webdbf2019/ target=_blank>WebDBF 2019</a>
-</li>
-<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
-<li>弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Poster Award
-</h4>
-<h6 class="py-2 m-0">
-優秀インタラクティブ賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2018</span>
-<br>
-<a href=http://db-event.jpn.org/deim2018/post/award target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/deim2018/ target=_blank>DEIM 2018</a>
-</li>
-<li>伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之</li>
-<li>ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Distinguished Student Award from the Chair of Department of Computer Science
-</h4>
-<h6 class="py-2 m-0">
-CS専攻長表彰
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2015</span>
-<br>
-<a href=http://www.cs.tsukuba.ac.jp/internal/awards.html#26 target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.sie.tsukuba.ac.jp/ target=_blank>Graduate School of SIE, University of Tsukuba</a>
-</li>
-<li>Takahiro Komamizu</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Distinguished Student Award from the Chair of Department of Computer Science
-</h4>
-<h6 class="py-2 m-0">
-CS専攻長表彰
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2012</span>
-<br>
-<a href=http://www.cs.tsukuba.ac.jp/internal/awards.html#23 target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.sie.tsukuba.ac.jp/ target=_blank>Graduate School of SIE, University of Tsukuba</a>
-</li>
-<li>Takahiro Komamizu</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-IPSJ Yamashita SIG Research Award
-</h4>
-<h6 class="py-2 m-0">
-山下記念研究賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2011</span>
-<br>
-<a href=http://www.ipsj.or.jp/award/yamashita2010.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://www.ipsj.or.jp/index.html target=_blank>情報処理学会</a>
-</li>
-<li>駒水 孝裕, 天笠 俊之, 北川 博之</li>
-<li>異種XMLデータに対するファセット検索手法の提案</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Student Award
-</h4>
-<h6 class="py-2 m-0">
-学生奨励賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2011</span>
-<br>
-<a href=http://www.ipsj.or.jp/award/taikaigakusei.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://www.ipsj.or.jp/10jigyo/taikai/73kai/ target=_blank>IPSJ 全国大会 2011</a>
-</li>
-<li>駒水 孝裕, 天笠 俊之, 北川 博之</li>
-<li>XMLデータに対するファセット検索のユーザビリティ評価</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Student Award
-</h4>
-<h6 class="py-2 m-0">
-学生奨励賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2010</span>
-<br>
-<a href=http://db-event.jpn.org/deim2010/award.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/deim2010/ target=_blank>DEIM 2010</a>
-</li>
-<li>駒水 孝裕, 天笠 俊之, 北川 博之</li>
-<li>異種XMLデータに対するファセット検索における多様な検索</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+	<h1 style="font-size: 2.5em;">
+		Awards in Japanese Events
+	</h1>
+</div>
+
+<div class='row row-cols-1 bg-secondary pt-3'>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Poster Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							MIRU インタラクティブ発表賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>July 2023</span>
+						<br>
+						<a href='http://cvim.ipsj.or.jp/MIRU2023/award/' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://cvim.ipsj.or.jp/MIRU2023/' target='_blank'>MIRU 2023</a>
+							
+						
+					</li>
+
+					<li>松平 茅隼, カストナーマークアウ レル, 駒水 孝裕, 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎</li>
+					
+						<li>類音語の連想性を考慮した未知語の発音に対する画像生成</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							JSAI Incentive Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							人工知能学会研究会優秀賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>June 2021</span>
+						<br>
+						<a href='https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.sigswo.org/papers/51program' target='_blank'>SWO 51</a>
+							
+						
+					</li>
+
+					<li>駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
+					
+						<li>法令沿革LOD構築のためのDBpediaにおける法令エンティティの同定</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Paper Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							最優秀賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>November 2020</span>
+						<br>
+						<a href='https://sites.google.com/view/winf2020/award' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://sites.google.com/view/winf2020' target='_blank'>WiNF 2020</a>
+							
+						
+					</li>
+
+					<li>近藤 匠, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
+					
+						<li>利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Online Presentation Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							オンラインプレゼンテーション賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2020</span>
+						<br>
+						<a href='http://db-event.jpn.org/deim2020/post/awards.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/deim2020/' target='_blank'>DEIM 2020</a>
+							
+						
+					</li>
+
+					<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
+					
+						<li>不均衡データ分類フレームワークにおけるサンプリング比率の最適化</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							FUJITSU Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							FUJITSU賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>September 2019</span>
+						<br>
+						<a href='https://db-event.jpn.org/webdbf2019/award.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/webdbf2019/' target='_blank'>WebDBF 2019</a>
+							
+						
+					</li>
+
+					<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
+					
+						<li>弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							FRONTEO Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							株式会社FRONTEO賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>September 2019</span>
+						<br>
+						<a href='https://db-event.jpn.org/webdbf2019/award.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/webdbf2019/' target='_blank'>WebDBF 2019</a>
+							
+						
+					</li>
+
+					<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
+					
+						<li>弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							MicroAd Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							マイクロアド賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>September 2019</span>
+						<br>
+						<a href='https://db-event.jpn.org/webdbf2019/award.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/webdbf2019/' target='_blank'>WebDBF 2019</a>
+							
+						
+					</li>
+
+					<li>植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦</li>
+					
+						<li>弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Poster Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							優秀インタラクティブ賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2018</span>
+						<br>
+						<a href='http://db-event.jpn.org/deim2018/post/award' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/deim2018/' target='_blank'>DEIM 2018</a>
+							
+						
+					</li>
+
+					<li>伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之</li>
+					
+						<li>ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Distinguished Student Award from the Chair of Department of Computer Science
+						</h4>
+						<h6 class='py-2 m-0'>
+							CS専攻長表彰
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2015</span>
+						<br>
+						<a href='http://www.cs.tsukuba.ac.jp/internal/awards.html#26' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.sie.tsukuba.ac.jp/' target='_blank'>Graduate School of SIE, University of Tsukuba</a>
+							
+						
+					</li>
+
+					<li>Takahiro Komamizu</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Distinguished Student Award from the Chair of Department of Computer Science
+						</h4>
+						<h6 class='py-2 m-0'>
+							CS専攻長表彰
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2012</span>
+						<br>
+						<a href='http://www.cs.tsukuba.ac.jp/internal/awards.html#23' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.sie.tsukuba.ac.jp/' target='_blank'>Graduate School of SIE, University of Tsukuba</a>
+							
+						
+					</li>
+
+					<li>Takahiro Komamizu</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							IPSJ Yamashita SIG Research Award 
+						</h4>
+						<h6 class='py-2 m-0'>
+							山下記念研究賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2011</span>
+						<br>
+						<a href='http://www.ipsj.or.jp/award/yamashita2010.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://www.ipsj.or.jp/index.html' target='_blank'>情報処理学会</a>
+							
+						
+					</li>
+
+					<li>駒水 孝裕, 天笠 俊之, 北川 博之</li>
+					
+						<li>異種XMLデータに対するファセット検索手法の提案</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Student Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							学生奨励賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2011</span>
+						<br>
+						<a href='http://www.ipsj.or.jp/award/taikaigakusei.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://www.ipsj.or.jp/10jigyo/taikai/73kai/' target='_blank'>IPSJ 全国大会 2011</a>
+							
+						
+					</li>
+
+					<li>駒水 孝裕, 天笠 俊之, 北川 博之</li>
+					
+						<li>XMLデータに対するファセット検索のユーザビリティ評価</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Student Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							学生奨励賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2010</span>
+						<br>
+						<a href='http://db-event.jpn.org/deim2010/award.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/deim2010/' target='_blank'>DEIM 2010</a>
+							
+						
+					</li>
+
+					<li>駒水 孝裕, 天笠 俊之, 北川 博之</li>
+					
+						<li>異種XMLデータに対するファセット検索における多様な検索</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+</div>
+
+
+
+
+
 <hr>
+
 <div class="header border-bottom mb-3">
-<h1 style=font-size:2.5em>
-Awards for Students
-</h1>
+	<h1 style="font-size: 2.5em;">
+		Awards for Students
+	</h1>
 </div>
-<div class="row row-cols-1 bg-secondary pt-3">
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Student Presentation Award
-</h4>
-<h6 class="py-2 m-0">
-学生プレゼンテーション賞
-</h6>
+
+<div class='row row-cols-1 bg-secondary pt-3'>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Student Presentation Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							学生プレゼンテーション賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2024</span>
+						<br>
+						<a href='https://confit.atlas.jp/guide/event/deim2024/static/awards' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://confit.atlas.jp/guide/event/deim2024/top' target='_blank'>DEIM 2024</a>
+							
+						
+					</li>
+
+					<li>加藤 辰弥，駒水 孝裕，井手 一郎</li>
+					
+						<li>類似度グラフの事前再計算による拡散式画像検索の効率化</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Presentation Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							優秀賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>September 2023</span>
+						<br>
+						<a href='https://www.nadasemi.jp/dbws-2023/award/' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.nadasemi.jp/dbws-2023/' target='_blank'>DBWS 2023</a>
+							
+						
+					</li>
+
+					<li>NGUYEN Trung Thanh</li>
+					
+						<li>医療分野におけるゼロショット錠剤-処方箋対応付け</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Best Booster Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							Best Booster Award
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>July 2023</span>
+						<br>
+						<a href='https://www.mva-org.jp/mva2023/' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://www.mva-org.jp/mva2023/' target='_blank'>MVA 2023 - Small Object Detection Challenge for Spotting Birds 2023</a>
+							
+						
+					</li>
+
+					<li>Huo Da</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Student Presentation Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							学生プレゼンテーション賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2023</span>
+						<br>
+						<a href='https://event.dbsj.org/deim2023/post/awards.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://event.dbsj.org/deim2023/' target='_blank'>DEIM 2023</a>
+							
+						
+					</li>
+
+					<li>寺本 優香, 駒水 孝裕, 波多野 賢治</li>
+					
+						<li>固有表現タグおよびPOSタグによる交換制約付きデータ拡張手法</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Presentation Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							優秀プレゼンテーション賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>September 2020</span>
+						<br>
+						<a href='https://sites.google.com/view/dbws2020/%E8%A1%A8%E5%BD%B0?authuser=0' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='https://sites.google.com/view/dbws2020/' target='_blank'>DBWS 2020</a>
+							
+						
+					</li>
+
+					<li>近藤 匠</li>
+					
+						<li>利用規約の不公平文検出における不均衡データ分類に関する一考察</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Student Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							学生プレゼンテーション賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2017</span>
+						<br>
+						<a href='http://db-event.jpn.org/deim2017/award.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://db-event.jpn.org/deim2017/' target='_blank'>DEIM 2017</a>
+							
+						
+					</li>
+
+					<li>伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之</li>
+					
+						<li>ノードが複数の属性を持つグラフにおけるコミュニティ検出</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class='col-6 mb-4'>
+		<div class='card border-white bg-dark h-100'>
+			<div class='card-header border-white bg-dark px-4'>
+				<div class='row'>
+					<div class='col-8'>
+						<h4 class='pt-2 m-0'>
+							<i class="fa fa-trophy award-trophy" style="font-size:24px"></i>
+							Student Award
+						</h4>
+						<h6 class='py-2 m-0'>
+							学生奨励賞
+						</h6>
+					</div>
+
+					<div class='col-4 pt-2 text-right'>
+						<span class='p-1'>March 2017</span>
+						<br>
+						<a href='http://www.ipsj.or.jp/award/taikaigakusei.html' target='_blank'>
+							<span class="material-symbols-outlined">web</span>
+							Web Page
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class='card-body px-4'>
+				<ul class='card-text award-text'>
+					<li>
+						
+							
+								<a href='http://www.ipsj.or.jp/event/taikai/79/index.html' target='_blank'>IPSJ 全国大会 2017</a>
+							
+						
+					</li>
+
+					<li>永野 真知, 早瀬 康裕, 駒水 孝裕, 北川 博之</li>
+					
+						<li>GitHubとStack Overflowにおけるユーザ行動の統一的な分析</li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+	</div>
+
 </div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2024</span>
-<br>
-<a href=https://confit.atlas.jp/guide/event/deim2024/static/awards target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://confit.atlas.jp/guide/event/deim2024/top target=_blank>DEIM 2024</a>
-</li>
-<li>加藤 辰弥，駒水 孝裕，井手 一郎</li>
-<li>類似度グラフの事前再計算による拡散式画像検索の効率化</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Presentation Award
-</h4>
-<h6 class="py-2 m-0">
-優秀賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>September 2023</span>
-<br>
-<a href=https://www.nadasemi.jp/dbws-2023/award/ target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.nadasemi.jp/dbws-2023/ target=_blank>DBWS 2023</a>
-</li>
-<li>NGUYEN Trung Thanh</li>
-<li>医療分野におけるゼロショット錠剤-処方箋対応付け</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Best Booster Award
-</h4>
-<h6 class="py-2 m-0">
-Best Booster Award
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>July 2023</span>
-<br>
-<a href=https://www.mva-org.jp/mva2023/ target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://www.mva-org.jp/mva2023/ target=_blank>MVA 2023 - Small Object Detection Challenge for Spotting Birds 2023</a>
-</li>
-<li>Huo Da</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Student Presentation Award
-</h4>
-<h6 class="py-2 m-0">
-学生プレゼンテーション賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2023</span>
-<br>
-<a href=https://event.dbsj.org/deim2023/post/awards.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://event.dbsj.org/deim2023/ target=_blank>DEIM 2023</a>
-</li>
-<li>寺本 優香, 駒水 孝裕, 波多野 賢治</li>
-<li>固有表現タグおよびPOSタグによる交換制約付きデータ拡張手法</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Presentation Award
-</h4>
-<h6 class="py-2 m-0">
-優秀プレゼンテーション賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>September 2020</span>
-<br>
-<a href="https://sites.google.com/view/dbws2020/%E8%A1%A8%E5%BD%B0?authuser=0" target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=https://sites.google.com/view/dbws2020/ target=_blank>DBWS 2020</a>
-</li>
-<li>近藤 匠</li>
-<li>利用規約の不公平文検出における不均衡データ分類に関する一考察</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Student Award
-</h4>
-<h6 class="py-2 m-0">
-学生プレゼンテーション賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2017</span>
-<br>
-<a href=http://db-event.jpn.org/deim2017/award.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://db-event.jpn.org/deim2017/ target=_blank>DEIM 2017</a>
-</li>
-<li>伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之</li>
-<li>ノードが複数の属性を持つグラフにおけるコミュニティ検出</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-6 mb-4">
-<div class="card border-white bg-dark h-100">
-<div class="card-header border-white bg-dark px-4">
-<div class=row>
-<div class=col-8>
-<h4 class="pt-2 m-0">
-<i class="fa fa-trophy award-trophy" style=font-size:24px></i>
-Student Award
-</h4>
-<h6 class="py-2 m-0">
-学生奨励賞
-</h6>
-</div>
-<div class="col-4 pt-2 text-right">
-<span class=p-1>March 2017</span>
-<br>
-<a href=http://www.ipsj.or.jp/award/taikaigakusei.html target=_blank>
-<span class=material-symbols-outlined>web</span>
-Web Page
-</a>
-</div>
-</div>
-</div>
-<div class="card-body px-4">
-<ul class="card-text award-text">
-<li>
-<a href=http://www.ipsj.or.jp/event/taikai/79/index.html target=_blank>IPSJ 全国大会 2017</a>
-</li>
-<li>永野 真知, 早瀬 康裕, 駒水 孝裕, 北川 博之</li>
-<li>GitHubとStack Overflowにおけるユーザ行動の統一的な分析</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+
+
 </article>
-</main>
-</div>
-<footer>
-<div class="w-50 bg-danger ml-auto mr-auto mt-4" style=height:2px></div>
-<div class="mt-4 mb-2" style=font-size:.9em>
-<p class=text-center>
-Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
-</p>
-</div>
+
+      </main>
+    </div>
+    <footer>
+  <div class="w-50 bg-danger ml-auto mr-auto mt-4" style="height: 2px;"></div>
+  <div class="mt-4 mb-2" style="font-size: 0.9em;">
+    <p class="text-center">
+			Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
+    </p>
+  </div>
 </footer>
-<script src=https://code.jquery.com/jquery-3.6.1.min.js></script>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js integrity=sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM crossorigin=anonymous></script>
-<script src=/js/mero.js></script>
-</body>
+
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/js/mero.js"></script>
+
+  </body>
 </html>

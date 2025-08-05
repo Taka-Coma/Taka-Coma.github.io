@@ -1,566 +1,992 @@
-<!doctype html><html lang=en-us>
-<head>
-<title>Taka-Coma</title>
-<meta charset=utf-8>
-<meta content="width=device-width,initial-scale=1" name=viewport>
-<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
-<meta name=description content="This is Takahiro Komamizu's homepage.">
-<meta name=author content="Takahiro Komamizu">
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC crossorigin=anonymous>
-<link rel=stylesheet href=/css/mero.css>
-<link rel=stylesheet href=/css/timeline.css>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css>
-<link href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap" rel=stylesheet>
-<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <title>Taka-Coma</title>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <meta name="description" content="This is Takahiro Komamizu&#39;s homepage." />
+  <meta name="author" content="Takahiro Komamizu" />
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/mero.css" />
+  <link rel="stylesheet" href="/css/timeline.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
+    rel="stylesheet"
+  />
+	<link
+		rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+	/>
+
 </head>
-<body class="bg-dark text-white m-auto" style=width:95%;max-width:1024px>
-<div class=wrapper>
-<nav class="mb-3 mt-3 ml-1">
-<div class=btn-group>
-<div class="btn btn-dark text-warning border border-warning">
-<a href=/>Home</a>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=research_menu>
-Researches
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=research_menu>
-<a class=dropdown-item href=/researches>Overview</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/mlod>Hetero LOD Management</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/imbalance>Imbalanced Classification</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/legal>Legal Data Management</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/faceted>Faceted Search</a>
-</div>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=publication_menu>
-Publications
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=publication_menu>
-<a class=dropdown-item href=/international>International</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/domestic>Domestic</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/awards>Awards</a>
-</div>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=activity_menu>
-Activities
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=activity_menu>
-<a class=dropdown-item href=/academic>Academic</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/grants>Grants</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/education>Education</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/supervision>Supervision</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/design>Design</a>
-</div>
-</div>
-</div>
+
+
+  <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
+    <div class="wrapper">
+      <nav class="mb-3 mt-3 ml-1">
+  <div class="btn-group">
+    <div class="btn btn-dark text-warning border border-warning">
+      <a href="/">Home</a>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='research_menu'>
+				Researches
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="research_menu"
+      >
+      	<a class='dropdown-item' href="/researches">Overview</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/mlod">Hetero LOD Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/imbalance">Imbalanced Classification</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/legal">Legal Data Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/faceted">Faceted Search</a>
+      </div>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='publication_menu'>
+				Publications
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="publication_menu"
+      >
+        <a class='dropdown-item' href="/international">International</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/domestic">Domestic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/awards">Awards</a>
+      </div>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='activity_menu'>
+				Activities
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="activity_menu"
+      >
+        <a class='dropdown-item' href="/academic">Academic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/grants">Grants</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/education">Education</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/supervision">Supervision</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/design">Design</a>
+      </div>
+    </div>
+
+  </div>
 </nav>
-<main>
+
+      <main>
+        
 <article class="border rounded p-3 position-relative mt-4 p-4">
+
 <div class="header border-bottom mb-3">
-<h1 style=font-size:2.5em>
-Grants
-</h1>
-<div class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark" style=position:absolute;top:-19px;font-size:.9em>
-<span class=more style=font-size:1.5em>
-+
-+
-+
-</span>
-</div>
-</div>
-<h3 class=py-3>競争的資金（代表）</h3>
-<div class="row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3">
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-異種データを活用した高精度な知識抽出と提供のための情報統合基盤の研究
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2025年度 科学研究費補助金 基盤研究 (B)</a>
-</li>
-<li>課題番号：25K00161</li>
-<li>研究期間：2025年4月~2029年3月</li>
-<li>配分額：18,850千円
-<ul>
-<li>直接経費：14,500千円</li>
-<li>間接経費：4,350千円</li>
-</ul>
-</li>
-<li>分担者<ul>
-<li>
-<a href=https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/ target=_blank>波多野 賢治</a>（同志社大学）
-</li>
-<li>
-<a href=https://www.cs.is.i.nagoya-u.ac.jp/users/ide/ target=_blank>井手 一郎</a>（名古屋大学）
-</li>
-<li>
-<a href=https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html target=_blank>石川 佳治</a>（名古屋大学）
-</li>
-<li>
-<a href=https://www.marc-kastner.com/ja target=_blank>Marc A. Kastner</a>（広島市立大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00161/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-<a href=/pdfs/kaken_kibanb_2025.pdf target=_blank class=mx-3>
-<span class=material-symbols-outlined>file_open</span>
-申請書
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-オンデマンド型仮想六法の構成方法の研究開発
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2023年度 挑戦的研究（萌芽）</a>
-</li>
-<li>課題番号：23K18507</li>
-<li>研究期間：2023年6月~2025年3月</li>
-<li>配分額：6,370千円
-<ul>
-<li>直接経費：4,900千円</li>
-<li>間接経費：1,470千円</li>
-</ul>
-</li>
-<li>分担者<ul>
-<li>
-<a href=http://www.kl.i.is.nagoya-u.ac.jp/person/toyama/ target=_blank>外山 勝彦</a>（名古屋大学）
-</li>
-<li>
-<a href=https://profs.provost.nagoya-u.ac.jp/html/100000698_ja.html target=_blank>佐野 智也</a>（名古屋大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K18507/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-<a href=/pdfs/kaken_houga_2023.pdf target=_blank class=mx-3>
-<span class=material-symbols-outlined>file_open</span>
-申請書
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-異種オープンデータ活用のためのデータ統合・管理基盤の研究開発
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2021年度 科学研究費補助金 基盤研究 (B)</a>
-</li>
-<li>課題番号：21H03555</li>
-<li>研究期間：2021年4月~2025年3月</li>
-<li>配分額：17,160千円
-<ul>
-<li>直接経費：13,200千円</li>
-<li>間接経費：3,960千円</li>
-</ul>
-</li>
-<li>分担者<ul>
-<li>
-<a href=https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/ target=_blank>波多野 賢治</a>（同志社大学）
-</li>
-<li>
-<a href=https://www.cs.is.i.nagoya-u.ac.jp/users/ide/ target=_blank>井手 一郎</a>（名古屋大学）
-</li>
-<li>
-<a href=https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html target=_blank>石川 佳治</a>（名古屋大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K21726/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-<a href=/pdfs/kaken_kibanb_2021.pdf target=_blank class=mx-3>
-<span class=material-symbols-outlined>file_open</span>
-申請書
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-大規模データ分析のための多視点分析管理システムの研究開発
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2018年度 科学研究費補助金 若手研究</a>
-</li>
-<li>課題番号：18K18056</li>
-<li>研究期間：2018年4月~2021年3月</li>
-<li>配分額：4,160千円
-<ul>
-<li>直接経費：3,200千円</li>
-<li>間接経費：960千円</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18056/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-<a href=/pdfs/kaken_wakate_2018.pdf target=_blank class=mx-3>
-<span class=material-symbols-outlined>file_open</span>
-申請書
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h3 class=py-3>競争的資金（分担）</h3>
-<div class="row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3">
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-冷戦終結と米国宇宙政策―学際融合的アプローチによる再検証―
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2024年度 科学研究費補助金 基盤研究 (B)</a>
-</li>
-<li>課題番号：24K00227</li>
-<li>研究期間：2024年4月~2027年3月</li>
-<li>代表：<a href=https://researchmap.jp/read0107711 target=_blank>渡邉 浩崇</a>（大阪大学）</li>
-<li>分担者<ul>
-<li>
-<a href target=_blank>養老 真一</a>（大阪大学）
-</li>
-<li>
-<a href target=_blank>外山 勝彦</a>（名古屋大学）
-</li>
-<li>
-<a href target=_blank>小塚 荘一郎</a>（学習院大学）
-</li>
-<li>
-<a href target=_blank>上田 真二</a>（関西大学）
-</li>
-<li>
-駒水 孝裕（名古屋大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K00227/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-品質を保証するEnd-to-Endビッグデータ近似処理技術に関する研究
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2022年度 科学研究費補助金 基盤研究 (B)</a>
-</li>
-<li>課題番号：22H03594</li>
-<li>研究期間：2022年4月~2026年3月</li>
-<li>代表：<a href=https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html target=_blank>石川 佳治</a>（名古屋大学）</li>
-<li>分担者<ul>
-<li>
-<a href=https://baycedar.github.io/ja/ target=_blank>杉浦 健人</a>（名古屋大学）
-</li>
-<li>
-駒水 孝裕（名古屋大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K24850/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-言語情報がもつ視覚的性質の分析とそのマルチメディア統合処理への応用
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2022年度 科学研究費補助金 基盤研究 (B)</a>
-</li>
-<li>課題番号：22H03612</li>
-<li>研究期間：2022年4月~2026年3月</li>
-<li>代表：<a href=https://www.cs.is.i.nagoya-u.ac.jp/users/ide/ target=_blank>井手 一郎</a>（名古屋大学）</li>
-<li>分担者<ul>
-<li>
-<a href=https://www.vislab.is.i.nagoya-u.ac.jp/~hirayamat/ target=_blank>平山 高嗣</a>（人間環境大学）
-</li>
-<li>
-<a href=https://www.vislab.is.i.nagoya-u.ac.jp/~kawanishiy/ target=_blank>川西 康友</a>（国立研究開発法人理化学研究所）
-</li>
-<li>
-<a href=https://md.sist.chukyo-u.ac.jp/~doman/ target=_blank>道満 恵介</a>（中京大学）
-</li>
-<li>
-駒水 孝裕（名古屋大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K24868/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-地方自治体における法情報のDX化と発信
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=https://www.jsps.go.jp/j-grantsinaid/ target=_blank>2022年度 科学研究費補助金 基盤研究 (B)</a>
-</li>
-<li>課題番号：22H03901</li>
-<li>研究期間：2022年4月~2026年3月</li>
-<li>代表：<a href=https://www.ds.nagoya-cu.ac.jp/faculty/ogawa/ target=_blank>小川 泰弘</a>（名古屋市立大学）</li>
-<li>分担者<ul>
-<li>
-<a href=http://researcher.ih.otaru-uc.ac.jp/profile/ja.295ad4787f7a0228.html target=_blank>木村 泰知</a>（小樽商科大学）
-</li>
-<li>
-駒水 孝裕（名古屋大学）
-</li>
-</ul></li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25155/ target=_blank class=mx-3>
-<span class=material-symbols-outlined>web</span>
-Web ページ
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h3 class=py-3>研究助成</h3>
-<div class="row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3">
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-不均衡データに対する異なる比率のサンプリングを利用した協調学習
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=http://www.kayamorif.or.jp/j.html target=_blank>公益財団法人 栢森情報科学振興財団 研究助成</a>
-</li>
-<li>研究期間：2019年11月~2021年11月</li>
-<li>配分額：1,000千円
-</li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=/pdfs/kayamori_zaidan_2019.pdf target=_blank class=mx-3>
-<span class=material-symbols-outlined>file_open</span>
-申請書
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-グラフデータ分析のための特徴分析に関する研究開発
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href=http://www.airpf.or.jp/josei.html target=_blank>公益財団法人 人工知能研究振興財団 研究助成</a>
-</li>
-<li>研究期間：2019年1月~2020年8月</li>
-<li>配分額：500千円
-</li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-<a href=/pdfs/ai_zaidan_2018.pdf target=_blank class=mx-3>
-<span class=material-symbols-outlined>file_open</span>
-申請書
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h3 class=py-3>大学内予算</h3>
-<div class="row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3">
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-グラフデータに対するファセット検索についての研究
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href target=_blank>筑波大学 研究基盤支援プログラム（Aタイプ）</a>
-</li>
-<li>研究期間：2012年7月~2013年3月</li>
-<li>配分額：464千円
-</li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-画像特徴を利用した顔画像に対するファセット探索インターフェースの開発
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href target=_blank>筑波大学 コンピュータサイエンス専攻ソリューション型研究開発プロジェクト</a>
-</li>
-<li>研究期間：2011年7月~2012年3月</li>
-<li>配分額：550千円（前期：250千円，後期：300千円）
-</li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-</div>
-</div>
-</div>
-</div>
-<div class="col mb-3">
-<div class="card border-white h-100 bg-dark">
-<div class="card-header px-4 border-white">
-<h4 class="pt-2 m-0">
-分散ストリーム処理における外れ値検証手法の提案
-</h4>
-</div>
-<div class=card-body>
-<ul class=card-text>
-<li>
-<a href target=_blank>筑波大学 コンピュータサイエンス専攻 ICT-SA ソリューション型研究開発プロジェクト</a>
-</li>
-<li>研究期間：2009年7月~2010年3月</li>
-<li>配分額：100千円（前期：50千円，後期：50千円）
-</li>
-</ul>
-</div>
-<div class="card-footer bg-secondary">
-<div class="d-flex justify-content-end py-1">
-</div>
-</div>
-</div>
-</div>
-</div>
+	<h1 style="font-size: 2.5em;">
+	  Grants
+	</h1>
+
+  <div
+  	class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
+  	style="position: absolute; top: -19px; font-size: 0.9em;"
+	>
+  	<span
+  	  class="more"
+  	  style="font-size: 1.5em;"
+  	>
+  	  &#43;
+  	  &#43;
+  	  &#43;
+  	</span>
+	</div>
+</div>
+
+
+	<h3 class='py-3'>競争的資金（代表）</h3>
+	<div class='row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3'>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						異種データを活用した高精度な知識抽出と提供のための情報統合基盤の研究
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2025年度 科学研究費補助金 基盤研究 (B)</a>
+						</li>
+
+						
+						<li>課題番号：25K00161</li>
+						
+
+						<li>研究期間：2025年4月~2029年3月</li>
+
+						
+						<li>配分額：18,850千円
+							
+								<ul>
+									<li>直接経費：14,500千円</li>
+									<li>間接経費：4,350千円</li>
+								</ul>
+							
+						</li>
+						
+
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/' target='_blank'>波多野 賢治</a>（同志社大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://www.cs.is.i.nagoya-u.ac.jp/users/ide/' target='_blank'>井手 一郎</a>（名古屋大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html' target='_blank'>石川 佳治</a>（名古屋大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://www.marc-kastner.com/ja' target='_blank'>Marc A. Kastner</a>（広島市立大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00161/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+							<a href='/pdfs/kaken_kibanb_2025.pdf' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">file_open</span>
+								申請書
+							</a>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						オンデマンド型仮想六法の構成方法の研究開発
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2023年度 挑戦的研究（萌芽）</a>
+						</li>
+
+						
+						<li>課題番号：23K18507</li>
+						
+
+						<li>研究期間：2023年6月~2025年3月</li>
+
+						
+						<li>配分額：6,370千円
+							
+								<ul>
+									<li>直接経費：4,900千円</li>
+									<li>間接経費：1,470千円</li>
+								</ul>
+							
+						</li>
+						
+
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='http://www.kl.i.is.nagoya-u.ac.jp/person/toyama/' target='_blank'>外山 勝彦</a>（名古屋大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://profs.provost.nagoya-u.ac.jp/html/100000698_ja.html' target='_blank'>佐野 智也</a>（名古屋大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K18507/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+							<a href='/pdfs/kaken_houga_2023.pdf' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">file_open</span>
+								申請書
+							</a>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						異種オープンデータ活用のためのデータ統合・管理基盤の研究開発
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2021年度 科学研究費補助金 基盤研究 (B)</a>
+						</li>
+
+						
+						<li>課題番号：21H03555</li>
+						
+
+						<li>研究期間：2021年4月~2025年3月</li>
+
+						
+						<li>配分額：17,160千円
+							
+								<ul>
+									<li>直接経費：13,200千円</li>
+									<li>間接経費：3,960千円</li>
+								</ul>
+							
+						</li>
+						
+
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/' target='_blank'>波多野 賢治</a>（同志社大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://www.cs.is.i.nagoya-u.ac.jp/users/ide/' target='_blank'>井手 一郎</a>（名古屋大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html' target='_blank'>石川 佳治</a>（名古屋大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K21726/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+							<a href='/pdfs/kaken_kibanb_2021.pdf' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">file_open</span>
+								申請書
+							</a>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						大規模データ分析のための多視点分析管理システムの研究開発
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2018年度 科学研究費補助金 若手研究</a>
+						</li>
+
+						
+						<li>課題番号：18K18056</li>
+						
+
+						<li>研究期間：2018年4月~2021年3月</li>
+
+						
+						<li>配分額：4,160千円
+							
+								<ul>
+									<li>直接経費：3,200千円</li>
+									<li>間接経費：960千円</li>
+								</ul>
+							
+						</li>
+						
+
+						
+
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18056/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+							<a href='/pdfs/kaken_wakate_2018.pdf' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">file_open</span>
+								申請書
+							</a>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+</div>
+
+	<h3 class='py-3'>競争的資金（分担）</h3>
+	<div class='row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3'>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						冷戦終結と米国宇宙政策―学際融合的アプローチによる再検証―
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2024年度 科学研究費補助金 基盤研究 (B)</a>
+						</li>
+
+						
+						<li>課題番号：24K00227</li>
+						
+
+						<li>研究期間：2024年4月~2027年3月</li>
+
+						
+
+						
+						<li>代表：<a href='https://researchmap.jp/read0107711' target='_blank'>渡邉 浩崇</a>（大阪大学）</li>
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='' target='_blank'>養老 真一</a>（大阪大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='' target='_blank'>外山 勝彦</a>（名古屋大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='' target='_blank'>小塚 荘一郎</a>（学習院大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='' target='_blank'>上田 真二</a>（関西大学）
+								
+								</li>
+							
+								<li>
+								
+									駒水 孝裕（名古屋大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K00227/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						品質を保証するEnd-to-Endビッグデータ近似処理技術に関する研究
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2022年度 科学研究費補助金 基盤研究 (B)</a>
+						</li>
+
+						
+						<li>課題番号：22H03594</li>
+						
+
+						<li>研究期間：2022年4月~2026年3月</li>
+
+						
+
+						
+						<li>代表：<a href='https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html' target='_blank'>石川 佳治</a>（名古屋大学）</li>
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='https://baycedar.github.io/ja/' target='_blank'>杉浦 健人</a>（名古屋大学）
+								
+								</li>
+							
+								<li>
+								
+									駒水 孝裕（名古屋大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K24850/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						言語情報がもつ視覚的性質の分析とそのマルチメディア統合処理への応用
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2022年度 科学研究費補助金 基盤研究 (B)</a>
+						</li>
+
+						
+						<li>課題番号：22H03612</li>
+						
+
+						<li>研究期間：2022年4月~2026年3月</li>
+
+						
+
+						
+						<li>代表：<a href='https://www.cs.is.i.nagoya-u.ac.jp/users/ide/' target='_blank'>井手 一郎</a>（名古屋大学）</li>
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='https://www.vislab.is.i.nagoya-u.ac.jp/~hirayamat/' target='_blank'>平山 高嗣</a>（人間環境大学）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://www.vislab.is.i.nagoya-u.ac.jp/~kawanishiy/' target='_blank'>川西 康友</a>（国立研究開発法人理化学研究所）
+								
+								</li>
+							
+								<li>
+								
+									<a href='https://md.sist.chukyo-u.ac.jp/~doman/' target='_blank'>道満 恵介</a>（中京大学）
+								
+								</li>
+							
+								<li>
+								
+									駒水 孝裕（名古屋大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K24868/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						地方自治体における法情報のDX化と発信
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank">2022年度 科学研究費補助金 基盤研究 (B)</a>
+						</li>
+
+						
+						<li>課題番号：22H03901</li>
+						
+
+						<li>研究期間：2022年4月~2026年3月</li>
+
+						
+
+						
+						<li>代表：<a href='https://www.ds.nagoya-cu.ac.jp/faculty/ogawa/' target='_blank'>小川 泰弘</a>（名古屋市立大学）</li>
+						
+
+						
+							<li>分担者<ul>
+							
+								<li>
+								
+									<a href='http://researcher.ih.otaru-uc.ac.jp/profile/ja.295ad4787f7a0228.html' target='_blank'>木村 泰知</a>（小樽商科大学）
+								
+								</li>
+							
+								<li>
+								
+									駒水 孝裕（名古屋大学）
+								
+								</li>
+							
+							</ul></li>
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+							<a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25155/' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">web</span>
+								Web ページ
+							</a>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+</div>
+
+	<h3 class='py-3'>研究助成</h3>
+	<div class='row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3'>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						不均衡データに対する異なる比率のサンプリングを利用した協調学習
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="http://www.kayamorif.or.jp/j.html" target="_blank">公益財団法人 栢森情報科学振興財団 研究助成</a>
+						</li>
+
+						
+
+						<li>研究期間：2019年11月~2021年11月</li>
+
+						
+						<li>配分額：1,000千円
+							
+						</li>
+						
+
+						
+
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+						
+							<a href='/pdfs/kayamori_zaidan_2019.pdf' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">file_open</span>
+								申請書
+							</a>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						グラフデータ分析のための特徴分析に関する研究開発
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="http://www.airpf.or.jp/josei.html" target="_blank">公益財団法人 人工知能研究振興財団 研究助成</a>
+						</li>
+
+						
+
+						<li>研究期間：2019年1月~2020年8月</li>
+
+						
+						<li>配分額：500千円
+							
+						</li>
+						
+
+						
+
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+						
+							<a href='/pdfs/ai_zaidan_2018.pdf' target='_blank' class='mx-3'>
+								<span class="material-symbols-outlined">file_open</span>
+								申請書
+							</a>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+</div>
+
+	<h3 class='py-3'>大学内予算</h3>
+	<div class='row row-cols-1 row-cols-md-2 border-bottom border-light mb-4 pb-3'>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						グラフデータに対するファセット検索についての研究
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="" target="_blank">筑波大学 研究基盤支援プログラム（Aタイプ）</a>
+						</li>
+
+						
+
+						<li>研究期間：2012年7月~2013年3月</li>
+
+						
+						<li>配分額：464千円
+							
+						</li>
+						
+
+						
+
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						画像特徴を利用した顔画像に対するファセット探索インターフェースの開発
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="" target="_blank">筑波大学 コンピュータサイエンス専攻ソリューション型研究開発プロジェクト</a>
+						</li>
+
+						
+
+						<li>研究期間：2011年7月~2012年3月</li>
+
+						
+						<li>配分額：550千円（前期：250千円，後期：300千円）
+							
+						</li>
+						
+
+						
+
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+		<div class='col mb-3'>
+			<div class='card border-white h-100 bg-dark'>
+
+				<div class='card-header px-4 border-white'>
+					<h4 class='pt-2 m-0'>
+						分散ストリーム処理における外れ値検証手法の提案
+					</h4>
+				</div>
+
+				<div class='card-body'>
+					<ul class='card-text'>
+						<li>
+							<a href="" target="_blank">筑波大学 コンピュータサイエンス専攻 ICT-SA ソリューション型研究開発プロジェクト</a>
+						</li>
+
+						
+
+						<li>研究期間：2009年7月~2010年3月</li>
+
+						
+						<li>配分額：100千円（前期：50千円，後期：50千円）
+							
+						</li>
+						
+
+						
+
+						
+
+					</ul>
+
+				</div>
+
+				<div class='card-footer bg-secondary'>
+					<div class='d-flex justify-content-end py-1'>
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	
+</div>
+
+
 </article>
-</main>
-</div>
-<footer>
-<div class="w-50 bg-danger ml-auto mr-auto mt-4" style=height:2px></div>
-<div class="mt-4 mb-2" style=font-size:.9em>
-<p class=text-center>
-Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
-</p>
-</div>
+
+      </main>
+    </div>
+    <footer>
+  <div class="w-50 bg-danger ml-auto mr-auto mt-4" style="height: 2px;"></div>
+  <div class="mt-4 mb-2" style="font-size: 0.9em;">
+    <p class="text-center">
+			Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
+    </p>
+  </div>
 </footer>
-<script src=https://code.jquery.com/jquery-3.6.1.min.js></script>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js integrity=sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM crossorigin=anonymous></script>
-<script src=/js/mero.js></script>
-</body>
+
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/js/mero.js"></script>
+
+  </body>
 </html>
