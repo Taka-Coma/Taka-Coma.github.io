@@ -1,181 +1,130 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
-  <title>Taka-Coma</title>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <meta name="description" content="This is Takahiro Komamizu&#39;s homepage." />
-  <meta name="author" content="Takahiro Komamizu" />
-
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <link rel="stylesheet" href="/css/mero.css" />
-  <link rel="stylesheet" href="/css/timeline.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
-
-  <link
-    href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
-    rel="stylesheet"
-  />
-	<link
-		rel="stylesheet"
-		href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
-	/>
-
+<!doctype html><html lang=en-us>
+<head>
+<title>Taka-Coma</title>
+<meta charset=utf-8>
+<meta content="width=device-width,initial-scale=1" name=viewport>
+<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
+<meta name=description content="This is Takahiro Komamizu's homepage.">
+<meta name=author content="Takahiro Komamizu">
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC crossorigin=anonymous>
+<link rel=stylesheet href=/css/mero.css>
+<link rel=stylesheet href=/css/timeline.css>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css>
+<link href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap" rel=stylesheet>
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
 </head>
-
-
-  <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
-    <div class="wrapper">
-      <nav class="mb-3 mt-3 ml-1">
-  <div class="btn-group">
-    <div class="btn btn-dark text-warning border border-warning">
-      <a href="/">Home</a>
-    </div>
-
-    <div class="btn-group">
-      <button type='button'
-				class="btn btn-dark border border-warning dropdown-toggle text-warning"
-				data-bs-toggle='dropdown'
-				aria-expanded="false"
-				id='research_menu'>
-				Researches
-			</button>
-
-      <div
-        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
-				aria-labelledby="research_menu"
-      >
-      	<a class='dropdown-item' href="/researches">Overview</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/mlod">Hetero LOD Management</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/imbalance">Imbalanced Classification</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/legal">Legal Data Management</a>
-				<div class="dropdown-divider border-warning"></div>
-      	<a class='dropdown-item' href="/faceted">Faceted Search</a>
-      </div>
-    </div>
-
-    <div class="btn-group">
-      <button type='button'
-				class="btn btn-dark border border-warning dropdown-toggle text-warning"
-				data-bs-toggle='dropdown'
-				aria-expanded="false"
-				id='publication_menu'>
-				Publications
-			</button>
-
-      <div
-        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
-				aria-labelledby="publication_menu"
-      >
-        <a class='dropdown-item' href="/international">International</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/domestic">Domestic</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/awards">Awards</a>
-      </div>
-    </div>
-
-    <div class="btn-group">
-      <button type='button'
-				class="btn btn-dark border border-warning dropdown-toggle text-warning"
-				data-bs-toggle='dropdown'
-				aria-expanded="false"
-				id='activity_menu'>
-				Activities
-			</button>
-
-      <div
-        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
-				aria-labelledby="activity_menu"
-      >
-        <a class='dropdown-item' href="/academic">Academic</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/grants">Grants</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/education">Education</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/supervision">Supervision</a>
-				<div class="dropdown-divider border-warning"></div>
-        <a class='dropdown-item' href="/design">Design</a>
-      </div>
-    </div>
-
-  </div>
+<body class="bg-dark text-white m-auto" style=width:95%;max-width:1024px>
+<div class=wrapper>
+<nav class="mb-3 mt-3 ml-1">
+<div class=btn-group>
+<div class="btn btn-dark text-warning border border-warning">
+<a href=/>Home</a>
+</div>
+<div class=btn-group>
+<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=research_menu>
+Researches
+</button>
+<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=research_menu>
+<a class=dropdown-item href=/researches>Overview</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/mlod>Hetero LOD Management</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/imbalance>Imbalanced Classification</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/legal>Legal Data Management</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/faceted>Faceted Search</a>
+</div>
+</div>
+<div class=btn-group>
+<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=publication_menu>
+Publications
+</button>
+<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=publication_menu>
+<a class=dropdown-item href=/international>International</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/domestic>Domestic</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/awards>Awards</a>
+</div>
+</div>
+<div class=btn-group>
+<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=activity_menu>
+Activities
+</button>
+<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=activity_menu>
+<a class=dropdown-item href=/academic>Academic</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/grants>Grants</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/education>Education</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/supervision>Supervision</a>
+<div class="dropdown-divider border-warning"></div>
+<a class=dropdown-item href=/design>Design</a>
+</div>
+</div>
+</div>
 </nav>
-
-      <main>
-        
+<main>
 <article class="border rounded p-3 position-relative mt-4 p-4">
-  <div class="header border-bottom mb-3">
-    <h1 style="font-size: 2.5em;">
-			<img src='' class='mb-3'/>
-      Student Supervision
-			
-    </h1>
-
-    <div
-    class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
-    style="position: absolute; top: -19px; font-size: 0.9em;"
- 	 >
- 	   <span
- 	     class="more"
- 	     style="font-size: 1.5em;"
- 	   >
- 	     &#43;
- 	     &#43;
- 	     &#43;
- 	   </span>
- 	 </div>
-
-  </div>
-  <div class="article pb-3">
-    <h2 id="as-supervisor">As Supervisor</h2>
-<h3 id="phd-student">Ph.D. Student</h3>
+<div class="header border-bottom mb-3">
+<h1 style=font-size:2.5em>
+<img src class=mb-3>
+Student Supervision
+</h1>
+<div class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark" style=position:absolute;top:-19px;font-size:.9em>
+<span class=more style=font-size:1.5em>
++
++
++
+</span>
+</div>
+</div>
+<div class="article pb-3">
+<h2 id=as-supervisor>As Supervisor</h2>
+<h3 id=phd-student>Ph.D. Student</h3>
 <ol>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/carlos-padeiro/" target="_blank" rel="nofollow">Carlos V. Padeiro</a>, 2021.10 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/carlos-padeiro/ target=_blank rel=nofollow>Carlos V. Padeiro</a>, 2021.10 - now</li>
 </ol>
 <hr>
-<h2 id="as-sub-supervisor">As Sub-supervisor</h2>
-<h3 id="phd-student-1">Ph.D. Student</h3>
+<h2 id=as-sub-supervisor>As Sub-supervisor</h2>
+<h3 id=phd-student-1>Ph.D. Student</h3>
 <ol>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/xiang-lei/" target="_blank" rel="nofollow">Xiang Lei</a>, 2024.10 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/tingwei-liu/" target="_blank" rel="nofollow">Tingwei Liu</a>, 2024.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/" target="_blank" rel="nofollow">Nguyen Trung Thanh</a>, 2024.10 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/duy-dinh-pham/" target="_blank" rel="nofollow">Pham Duy Dinh</a>, 2022.10 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/jialiang-shi/" target="_blank" rel="nofollow">Jialiang Shi</a>, 2021.10 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/anditya-arifianto/" target="_blank" rel="nofollow">Anditya Arifianto</a>, 2021.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/da-huo/" target="_blank" rel="nofollow">Da Huo</a>, 2021.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/chihaya-matsuhira/" target="_blank" rel="nofollow">Chihaya Matsuhira</a>, 2022.4 - 2025.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/itthisak-phueaksri/" target="_blank" rel="nofollow">Itthisak Phueaksri</a>, 2021.4 - 2024.9</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/xiang-lei/ target=_blank rel=nofollow>Xiang Lei</a>, 2024.10 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/tingwei-liu/ target=_blank rel=nofollow>Tingwei Liu</a>, 2024.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/ target=_blank rel=nofollow>Nguyen Trung Thanh</a>, 2024.10 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/duy-dinh-pham/ target=_blank rel=nofollow>Pham Duy Dinh</a>, 2022.10 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/jialiang-shi/ target=_blank rel=nofollow>Jialiang Shi</a>, 2021.10 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/anditya-arifianto/ target=_blank rel=nofollow>Anditya Arifianto</a>, 2021.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/da-huo/ target=_blank rel=nofollow>Da Huo</a>, 2021.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/chihaya-matsuhira/ target=_blank rel=nofollow>Chihaya Matsuhira</a>, 2022.4 - 2025.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/itthisak-phueaksri/ target=_blank rel=nofollow>Itthisak Phueaksri</a>, 2021.4 - 2024.9</li>
 <li>Takahiro Yamakoshi, 2018.4 - 2021.3</li>
 </ol>
-<h3 id="master-student">Master Student</h3>
+<h3 id=master-student>Master Student</h3>
 <ol>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/yohei-ogawa/" target="_blank" rel="nofollow">Yohei Ogawa</a>, 2025.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/wenqiu-tang/" target="_blank" rel="nofollow">Wen Qiu Tang</a>, 2025.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/xueshan-xia/" target="_blank" rel="nofollow">Xueshan Xia</a>, 2025.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/hitomi-kato/" target="_blank" rel="nofollow">Hitomi Kato</a>, 2025.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/yui-tanaka/" target="_blank" rel="nofollow">Yui Tanaka</a>, 2025.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/junan-chen/" target="_blank" rel="nofollow">Junan Chen</a>, 2024.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/takeshi-yamanaka/" target="_blank" rel="nofollow">Takeshi Yamanaka</a>, 2024.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/peiyuan-zhu/" target="_blank" rel="nofollow">Peiyuan Zhu</a>, 2024.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/" target="_blank" rel="nofollow">Kotaro Ikeda</a>, 2024.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/" target="_blank" rel="nofollow">Marika Watanabe</a>, 2024.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/shui-aoyama/" target="_blank" rel="nofollow">Shui Aoyama</a>, 2023.4 - now</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/yui-miyakawa/" target="_blank" rel="nofollow">Yui Miyakawa</a>, 2023.4 - 2025.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/nanami-takagi/" target="_blank" rel="nofollow">Nanami Takagi</a>, 2023.4 - 2025.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/" target="_blank" rel="nofollow">Nguyen Trung Thanh</a>, 2022.10 - 2024.9</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/tingwei-liu/" target="_blank" rel="nofollow">Tingwei Liu</a>, 2022.4 - 2024.4</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/tatsuya-kato/" target="_blank" rel="nofollow">Tatsuya Kato</a>, 2022.4 - 2024.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/chihaya-matsuhira/" target="_blank" rel="nofollow">Chihaya Matsuhira</a>, 2021.4 - 2022.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/banri-kojima/" target="_blank" rel="nofollow">Banri Kojima</a>, 2021.4 - 2023.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/jiahang-lu/" target="_blank" rel="nofollow">Jiahang Lu</a>, 2021.4 - 2023.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/yiming-wang/" target="_blank" rel="nofollow">Yiming Wang</a>, 2021.4 - 2023.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/yohei-ogawa/ target=_blank rel=nofollow>Yohei Ogawa</a>, 2025.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/wenqiu-tang/ target=_blank rel=nofollow>Wen Qiu Tang</a>, 2025.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/xueshan-xia/ target=_blank rel=nofollow>Xueshan Xia</a>, 2025.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/hitomi-kato/ target=_blank rel=nofollow>Hitomi Kato</a>, 2025.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/yui-tanaka/ target=_blank rel=nofollow>Yui Tanaka</a>, 2025.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/junan-chen/ target=_blank rel=nofollow>Junan Chen</a>, 2024.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/takeshi-yamanaka/ target=_blank rel=nofollow>Takeshi Yamanaka</a>, 2024.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/peiyuan-zhu/ target=_blank rel=nofollow>Peiyuan Zhu</a>, 2024.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/ target=_blank rel=nofollow>Kotaro Ikeda</a>, 2024.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/ target=_blank rel=nofollow>Marika Watanabe</a>, 2024.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/shui-aoyama/ target=_blank rel=nofollow>Shui Aoyama</a>, 2023.4 - now</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/yui-miyakawa/ target=_blank rel=nofollow>Yui Miyakawa</a>, 2023.4 - 2025.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/nanami-takagi/ target=_blank rel=nofollow>Nanami Takagi</a>, 2023.4 - 2025.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/ target=_blank rel=nofollow>Nguyen Trung Thanh</a>, 2022.10 - 2024.9</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/tingwei-liu/ target=_blank rel=nofollow>Tingwei Liu</a>, 2022.4 - 2024.4</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/tatsuya-kato/ target=_blank rel=nofollow>Tatsuya Kato</a>, 2022.4 - 2024.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/chihaya-matsuhira/ target=_blank rel=nofollow>Chihaya Matsuhira</a>, 2021.4 - 2022.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/banri-kojima/ target=_blank rel=nofollow>Banri Kojima</a>, 2021.4 - 2023.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/jiahang-lu/ target=_blank rel=nofollow>Jiahang Lu</a>, 2021.4 - 2023.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/yiming-wang/ target=_blank rel=nofollow>Yiming Wang</a>, 2021.4 - 2023.3</li>
 <li>Takumi Kondo, 2020.4 - 2022.3</li>
 <li>Yuta Ikari, 2020.4 - 2022.3</li>
 <li>Mitsuaki Sato, 2018.4 - 2019.4</li>
@@ -186,15 +135,15 @@
 <li>Yoshitaka Shigeno, 2018.4 - 2020.3</li>
 <li>Weijia Li, 2018.4 - 2020.3</li>
 </ol>
-<h3 id="bachelor-student">Bachelor Student</h3>
+<h3 id=bachelor-student>Bachelor Student</h3>
 <ol>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/hitomi-kato/" target="_blank" rel="nofollow">Hitomi Kato</a>, 2024.4 - 2025.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/yui-tanaka/" target="_blank" rel="nofollow">Yui Tanaka</a>, 2024.4 - 2025.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/" target="_blank" rel="nofollow">Kotaro Ikeda</a>, 2023.4 - 2024.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/" target="_blank" rel="nofollow">Marika Watanabe</a>, 2023.4 - 2024.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/yui-miyakawa/" target="_blank" rel="nofollow">Yui Miyakawa</a>, 2022.4 - 2023.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/nanami-takagi/" target="_blank" rel="nofollow">Nanami Takagi</a>, 2022.4 - 2023.3</li>
-<li><a href="https://www.cs.is.i.nagoya-u.ac.jp/people/akira-yoshida/" target="_blank" rel="nofollow">Akira Yoshida</a>, 2022.4 - 2023.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/hitomi-kato/ target=_blank rel=nofollow>Hitomi Kato</a>, 2024.4 - 2025.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/yui-tanaka/ target=_blank rel=nofollow>Yui Tanaka</a>, 2024.4 - 2025.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/ target=_blank rel=nofollow>Kotaro Ikeda</a>, 2023.4 - 2024.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/ target=_blank rel=nofollow>Marika Watanabe</a>, 2023.4 - 2024.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/yui-miyakawa/ target=_blank rel=nofollow>Yui Miyakawa</a>, 2022.4 - 2023.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/nanami-takagi/ target=_blank rel=nofollow>Nanami Takagi</a>, 2022.4 - 2023.3</li>
+<li><a href=https://www.cs.is.i.nagoya-u.ac.jp/people/akira-yoshida/ target=_blank rel=nofollow>Akira Yoshida</a>, 2022.4 - 2023.3</li>
 <li>Guedes Kenji, 2020.4 - 2021.3</li>
 <li>Daisuke Akita, 2020.4 - 2021.3</li>
 <li>Shoi Ito, 2020.4 - 2021.3</li>
@@ -208,34 +157,30 @@
 <li>Yusuke Asakawa, 2018.4 - 2019.3</li>
 </ol>
 <hr>
-<h2 id="as-advisor">As Advisor</h2>
+<h2 id=as-advisor>As Advisor</h2>
 <ul>
 <li>Ph.D. Student at Doshisha University
 <ul>
-<li><a href="https://www-mil.cis.doshisha.ac.jp/portfolio/kusu-kazuma/" target="_blank" rel="nofollow">Kazuma Kusu</a>, 2021.3 - now</li>
-<li><a href="https://www-mil.cis.doshisha.ac.jp/portfolio/kimura-yusuke/" target="_blank" rel="nofollow">Yusuke Kimura</a>, 2021.3 - now</li>
-<li><a href="https://www-mil.cis.doshisha.ac.jp/portfolio/teramoto-yuka/" target="_blank" rel="nofollow">Yuka Teramoto</a>, 2021.3 - now</li>
+<li><a href=https://www-mil.cis.doshisha.ac.jp/portfolio/kusu-kazuma/ target=_blank rel=nofollow>Kazuma Kusu</a>, 2021.3 - now</li>
+<li><a href=https://www-mil.cis.doshisha.ac.jp/portfolio/kimura-yusuke/ target=_blank rel=nofollow>Yusuke Kimura</a>, 2021.3 - now</li>
+<li><a href=https://www-mil.cis.doshisha.ac.jp/portfolio/teramoto-yuka/ target=_blank rel=nofollow>Yuka Teramoto</a>, 2021.3 - now</li>
 </ul>
 </li>
 </ul>
-
-  </div>
+</div>
 </article>
-
-      </main>
-    </div>
-    <footer>
-  <div class="w-50 bg-danger ml-auto mr-auto mt-4" style="height: 2px;"></div>
-  <div class="mt-4 mb-2" style="font-size: 0.9em;">
-    <p class="text-center">
-			Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
-    </p>
-  </div>
+</main>
+</div>
+<footer>
+<div class="w-50 bg-danger ml-auto mr-auto mt-4" style=height:2px></div>
+<div class="mt-4 mb-2" style=font-size:.9em>
+<p class=text-center>
+Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
+</p>
+</div>
 </footer>
-
-<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<script src="/js/mero.js"></script>
-
-  </body>
+<script src=https://code.jquery.com/jquery-3.6.1.min.js></script>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js integrity=sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM crossorigin=anonymous></script>
+<script src=/js/mero.js></script>
+</body>
 </html>
