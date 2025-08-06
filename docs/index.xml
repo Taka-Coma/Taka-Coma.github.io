@@ -1,8 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Taka-Coma</title><link>/</link><description>Recent content on Taka-Coma</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Design</title><link>/design/</link><pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate><guid>/design/</guid><description>Logo Design My Logo
-Conference List Logo (202405)
-Conference List Logo (202411)
-Poster Design DS Program Customized Course (front)</description></item><item><title>Domestic</title><link>/domestic/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/domestic/</guid><description>講演 駒水 孝裕, &amp;ldquo;名古屋大学におけるデジタル人材育成に向けたリカレント教育プログラムの取り組み&amp;rdquo;, 令和6年度東海地区大学教育研究会 研究大会：「地域社会のニーズとリカレント教育のこれから」～豊かに、そして幸せに生きるために～, 2024.11 駒水 孝裕, 広瀬 智（株式会社デンソー）, &amp;ldquo;企業と大学のカリキュラムマッピングと産学連携教育の試み&amp;rdquo;, 第4回東海デジタル人材フォーラム, 2023.3 駒水 孝裕, &amp;ldquo;デジタル人材育成における産学連携の取り組み&amp;rdquo;, 株式会社デンソー 23年度ソフトウェア技術者交流会, 2023.3 駒水 孝裕, &amp;ldquo;データ工学分野における技術と研究&amp;rdquo;, 科目「ICT活用」, 筑波大学附属坂戸高校, 2012.2 論文誌 Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&amp;rdquo;, Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 (DOI) 山腰 貴大, 小川 泰弘, 駒水 孝裕, 外山 勝彦, &amp;ldquo;ランダムフォレストを用いた法令用語の校正&amp;rdquo;, 人工知能学会論文誌, Vol.</description></item><item><title>Faceted Search</title><link>/faceted/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/faceted/</guid><description>Semi-structured data such as XML data have been used in various situations in order to reuse information not only in the services but also external applications. Utilizing semi-structured data is an important challenge. This research especially focuses on the exploration over semi-structured data. Faceted search is one of the promising exploratory search methods, therefore, this research applies faceted search to semi-structured data. In order to construct a faceted search system, this research works on four directions: (1) a framework to construct a faceted search system over XML data which is a tree-structured semi-structured data, (2) the extended framework for graph-structured semi-structured data, (3) an automation scheme for extracting necessary information, and (4) utilization of textual contents in semi-structured data.</description></item><item><title>Heterogeneous LOD Management</title><link>/mlod/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/mlod/</guid><description>Publications International Journals Takahiro Komamizu, &amp;ldquo;Random walk-based entity representation learning and re-ranking for entity search&amp;rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (DOI) Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa, &amp;ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&amp;rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (DOI) International Conferences Takahiro Komamizu, Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;FPX-G: First Person Exploration for Graph&amp;rdquo;, MIPR, pp.</description></item><item><title>Imbalanced Classification</title><link>/imbalance/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/imbalance/</guid><description>In classification, class imbalance is a factor that degrades the classification performance of many classification methods. Resampling is one widely accepted approach to the class imbalance; however, it still suffers from an insufficient data space, which also degrades performance. To overcome this, in this paper, an undersampling-based imbalanced classification framework, MMEnsemble, is proposed that incorporates metric learning into a multi-ratio undersampling-based ensemble. This framework also overcomes a problem with determining the appropriate sampling ratio in the multi-ratio ensemble method.</description></item><item><title>International</title><link>/international/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/international/</guid><description>To Appear Takahiro Komamizu, &amp;ldquo;Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions&amp;rdquo;, MMGR@ACMMM, pp., 2025 (DOI) Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, Takahiro Komamizu, Ichiro Ide, &amp;ldquo;Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features&amp;rdquo;, MUWS@ACMMM, pp., 2025 (DOI) Nanami Takagi, Haruya Kyutoku, Keisuke Doman, Takahiro Komamizu, Ichiro Ide, &amp;ldquo;Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images&amp;rdquo;, MVA, pp.</description></item><item><title>Japanese Legal Data Management</title><link>/legal/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/legal/</guid><description>Law LOD project https://www.lawlod.net/ Publications Japanese Domestic Journals Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&amp;rdquo;, Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 (DOI) 山腰 貴大, 小川 泰弘, 駒水 孝裕, 外山 勝彦, &amp;ldquo;ランダムフォレストを用いた法令用語の校正&amp;rdquo;, 人工知能学会論文誌, Vol.35, No.1, pp.H-J53_1-14, 2020 (DOI) International Conferences Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes&amp;rdquo;, WAT@ACL/IJCNLP, pp.</description></item><item><title>Search and Analysis on LOD</title><link>/lod/</link><pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate><guid>/lod/</guid><description>Publications International Journals Takahiro Komamizu, &amp;ldquo;Random walk-based entity representation learning and re-ranking for entity search&amp;rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (DOI) Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa, &amp;ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&amp;rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (DOI) International Conferences Takahiro Komamizu, Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;FPX-G: First Person Exploration for Graph&amp;rdquo;, MIPR, pp.</description></item><item><title>Research Activities</title><link>/academic/</link><pubDate>Tue, 20 Oct 2020 22:24:28 +0900</pubDate><guid>/academic/</guid><description>Members ACM: Association for Computing Machinery
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taka-Coma</title>
+    <link>/</link>
+    <description>Recent content on Taka-Coma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>/design/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/design/</guid>
+      <description>Logo Design     My Logo
+      Conference List Logo (202405)
+      Conference List Logo (202411)
+                                Poster Design     DS Program Customized Course (front)</description>
+    </item>
+    
+    <item>
+      <title>Domestic</title>
+      <link>/domestic/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/domestic/</guid>
+      <description>講演  駒水 孝裕, &amp;ldquo;名古屋大学におけるデジタル人材育成に向けたリカレント教育プログラムの取り組み&amp;rdquo;, 令和6年度東海地区大学教育研究会 研究大会：「地域社会のニーズとリカレント教育のこれから」～豊かに、そして幸せに生きるために～, 2024.11 駒水 孝裕, 広瀬 智（株式会社デンソー）, &amp;ldquo;企業と大学のカリキュラムマッピングと産学連携教育の試み&amp;rdquo;, 第4回東海デジタル人材フォーラム, 2023.3 駒水 孝裕, &amp;ldquo;デジタル人材育成における産学連携の取り組み&amp;rdquo;, 株式会社デンソー 23年度ソフトウェア技術者交流会, 2023.3 駒水 孝裕, &amp;ldquo;データ工学分野における技術と研究&amp;rdquo;, 科目「ICT活用」, 筑波大学附属坂戸高校, 2012.2   論文誌  Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&amp;rdquo;, Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 (DOI) 山腰 貴大, 小川 泰弘, 駒水 孝裕, 外山 勝彦, &amp;ldquo;ランダムフォレストを用いた法令用語の校正&amp;rdquo;, 人工知能学会論文誌, Vol.</description>
+    </item>
+    
+    <item>
+      <title>Faceted Search</title>
+      <link>/faceted/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/faceted/</guid>
+      <description>Semi-structured data such as XML data have been used in various situations in order to reuse information not only in the services but also external applications. Utilizing semi-structured data is an important challenge. This research especially focuses on the exploration over semi-structured data. Faceted search is one of the promising exploratory search methods, therefore, this research applies faceted search to semi-structured data. In order to construct a faceted search system, this research works on four directions: (1) a framework to construct a faceted search system over XML data which is a tree-structured semi-structured data, (2) the extended framework for graph-structured semi-structured data, (3) an automation scheme for extracting necessary information, and (4) utilization of textual contents in semi-structured data.</description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous LOD Management</title>
+      <link>/mlod/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/mlod/</guid>
+      <description>Publications International Journals  Takahiro Komamizu, &amp;ldquo;Random walk-based entity representation learning and re-ranking for entity search&amp;rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (DOI) Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa, &amp;ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&amp;rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (DOI)  International Conferences  Takahiro Komamizu, Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;FPX-G: First Person Exploration for Graph&amp;rdquo;, MIPR, pp.</description>
+    </item>
+    
+    <item>
+      <title>Imbalanced Classification</title>
+      <link>/imbalance/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/imbalance/</guid>
+      <description>In classification, class imbalance is a factor that degrades the classification performance of many classification methods. Resampling is one widely accepted approach to the class imbalance; however, it still suffers from an insufficient data space, which also degrades performance. To overcome this, in this paper, an undersampling-based imbalanced classification framework, MMEnsemble, is proposed that incorporates metric learning into a multi-ratio undersampling-based ensemble. This framework also overcomes a problem with determining the appropriate sampling ratio in the multi-ratio ensemble method.</description>
+    </item>
+    
+    <item>
+      <title>International</title>
+      <link>/international/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/international/</guid>
+      <description>To Appear  Takahiro Komamizu, &amp;ldquo;Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions&amp;rdquo;, MMGR@ACMMM, pp., 2025 (DOI) Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, Takahiro Komamizu, Ichiro Ide, &amp;ldquo;Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features&amp;rdquo;, MUWS@ACMMM, pp., 2025 (DOI) Nanami Takagi, Haruya Kyutoku, Keisuke Doman, Takahiro Komamizu, Ichiro Ide, &amp;ldquo;Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images&amp;rdquo;, MVA, pp.</description>
+    </item>
+    
+    <item>
+      <title>Japanese Legal Data Management</title>
+      <link>/legal/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/legal/</guid>
+      <description>Law LOD project  https://www.lawlod.net/   Publications Japanese Domestic Journals  Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier&amp;rdquo;, Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 (DOI) 山腰 貴大, 小川 泰弘, 駒水 孝裕, 外山 勝彦, &amp;ldquo;ランダムフォレストを用いた法令用語の校正&amp;rdquo;, 人工知能学会論文誌, Vol.35, No.1, pp.H-J53_1-14, 2020 (DOI)  International Conferences  Takahiro Yamakoshi, Takahiro Komamizu, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes&amp;rdquo;, WAT@ACL/IJCNLP, pp.</description>
+    </item>
+    
+    <item>
+      <title>Search and Analysis on LOD</title>
+      <link>/lod/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:46 +0900</pubDate>
+      
+      <guid>/lod/</guid>
+      <description>Publications International Journals  Takahiro Komamizu, &amp;ldquo;Random walk-based entity representation learning and re-ranking for entity search&amp;rdquo;, Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020 (DOI) Takahiro Komamizu, Toshiyuki Amagasa, Hiroyuki Kitagawa, &amp;ldquo;H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction&amp;rdquo;, Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016 (DOI)  International Conferences  Takahiro Komamizu, Shoi Ito, Yasuhiro Ogawa, Katsuhiko Toyama, &amp;ldquo;FPX-G: First Person Exploration for Graph&amp;rdquo;, MIPR, pp.</description>
+    </item>
+    
+    <item>
+      <title>Research Activities</title>
+      <link>/academic/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:28 +0900</pubDate>
+      
+      <guid>/academic/</guid>
+      <description>Members  ACM: Association for Computing Machinery
 Student Member (May 2012 - Mar. 2015), Professional Member (Apr. 2015 -) IEEE: Institute of Electrical and Electronics Engineers
 Student Member (Mar. 2012 - Dec. 2013), Regular Member (Apr. 2018 -) ACL: Association for Computational Linguistics
 Faculty Member (May 2020 - Dec. 2020, Aug. 2024 - Dec. 2024) DBSJ: Database Society of Japan（日本データベース学会）
-Student Member (Dec. 2008 - Mar. 2015), Regular Member (Apr. 2015 -) IPSJ: Information Processing Society of Japan（情報処理学会）</description></item><item><title>Student Supervision</title><link>/supervision/</link><pubDate>Tue, 20 Oct 2020 22:24:28 +0900</pubDate><guid>/supervision/</guid><description>As Supervisor Ph.D. Student Carlos V. Padeiro, 2021.10 - now As Sub-supervisor Ph.D. Student Xiang Lei, 2024.10 - now Tingwei Liu, 2024.4 - now Nguyen Trung Thanh, 2024.10 - now Pham Duy Dinh, 2022.10 - now Jialiang Shi, 2021.10 - now Anditya Arifianto, 2021.4 - now Da Huo, 2021.4 - now Chihaya Matsuhira, 2022.4 - 2025.3 Itthisak Phueaksri, 2021.4 - 2024.9 Takahiro Yamakoshi, 2018.4 - 2021.3 Master Student Yohei Ogawa, 2025.</description></item><item><title>Education</title><link>/education/</link><pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate><guid>/education/</guid><description>Education Programs at Nagoya University 2018 ~ now, 実践データサイエンティスト育成プログラム, 運営メンバー [EN] Practical Data Scientist Development Program 2023 ~ now, モビリティ分野における実践DX人材育成リカレント教育プログラム, プログラム責任者 [EN] Recurrent Education Program for Practical DX Talent Development in the Mobility Field 2024 - now, 東海国立大学機構 名古屋大学 次世代AI人材育成事業, 運営メンバー [EN] JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas Lectures at Nagoya University School of Informatics（情報学部）</description></item></channel></rss>
+Student Member (Dec. 2008 - Mar. 2015), Regular Member (Apr. 2015 -) IPSJ: Information Processing Society of Japan（情報処理学会）</description>
+    </item>
+    
+    <item>
+      <title>Student Supervision</title>
+      <link>/supervision/</link>
+      <pubDate>Tue, 20 Oct 2020 22:24:28 +0900</pubDate>
+      
+      <guid>/supervision/</guid>
+      <description>As Supervisor Ph.D. Student  Carlos V. Padeiro, 2021.10 - now   As Sub-supervisor Ph.D. Student  Xiang Lei, 2024.10 - now Tingwei Liu, 2024.4 - now Nguyen Trung Thanh, 2024.10 - now Pham Duy Dinh, 2022.10 - now Jialiang Shi, 2021.10 - now Anditya Arifianto, 2021.4 - now Da Huo, 2021.4 - now Chihaya Matsuhira, 2022.4 - 2025.3 Itthisak Phueaksri, 2021.4 - 2024.9 Takahiro Yamakoshi, 2018.4 - 2021.3  Master Student  Yohei Ogawa, 2025.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/education/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/education/</guid>
+      <description>Education Programs at Nagoya University  2018 ~ now, 実践データサイエンティスト育成プログラム, 運営メンバー  [EN] Practical Data Scientist Development Program   2023 ~ now, モビリティ分野における実践DX人材育成リカレント教育プログラム, プログラム責任者  [EN] Recurrent Education Program for Practical DX Talent Development in the Mobility Field   2024 - now, 東海国立大学機構 名古屋大学 次世代AI人材育成事業, 運営メンバー  [EN] JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas     Lectures at Nagoya University   School of Informatics（情報学部）</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,271 +1,322 @@
-<!doctype html><html lang=en-us>
-<head>
-<title>Taka-Coma</title>
-<meta charset=utf-8>
-<meta content="width=device-width,initial-scale=1" name=viewport>
-<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
-<meta name=description content="This is Takahiro Komamizu's homepage.">
-<meta name=author content="Takahiro Komamizu">
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC crossorigin=anonymous>
-<link rel=stylesheet href=/css/mero.css>
-<link rel=stylesheet href=/css/timeline.css>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css>
-<link href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap" rel=stylesheet>
-<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <title>Taka-Coma</title>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <meta name="description" content="This is Takahiro Komamizu&#39;s homepage." />
+  <meta name="author" content="Takahiro Komamizu" />
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/mero.css" />
+  <link rel="stylesheet" href="/css/timeline.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
+    rel="stylesheet"
+  />
+	<link
+		rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+	/>
+
 </head>
-<body class="bg-dark text-white m-auto" style=width:95%;max-width:1024px>
-<div class=wrapper>
-<nav class="mb-3 mt-3 ml-1">
-<div class=btn-group>
-<div class="btn btn-dark text-warning border border-warning">
-<a href=/>Home</a>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=research_menu>
-Researches
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=research_menu>
-<a class=dropdown-item href=/researches>Overview</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/mlod>Hetero LOD Management</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/imbalance>Imbalanced Classification</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/legal>Legal Data Management</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/faceted>Faceted Search</a>
-</div>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=publication_menu>
-Publications
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=publication_menu>
-<a class=dropdown-item href=/international>International</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/domestic>Domestic</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/awards>Awards</a>
-</div>
-</div>
-<div class=btn-group>
-<button type=button class="btn btn-dark border border-warning dropdown-toggle text-warning" data-bs-toggle=dropdown aria-expanded=false id=activity_menu>
-Activities
-</button>
-<div class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning" aria-labelledby=activity_menu>
-<a class=dropdown-item href=/academic>Academic</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/grants>Grants</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/education>Education</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/supervision>Supervision</a>
-<div class="dropdown-divider border-warning"></div>
-<a class=dropdown-item href=/design>Design</a>
-</div>
-</div>
-</div>
+
+
+  <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
+    <div class="wrapper">
+      <nav class="mb-3 mt-3 ml-1">
+  <div class="btn-group">
+    <div class="btn btn-dark text-warning border border-warning">
+      <a href="/">Home</a>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='research_menu'>
+				Researches
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="research_menu"
+      >
+      	<a class='dropdown-item' href="/researches">Overview</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/mlod">Hetero LOD Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/imbalance">Imbalanced Classification</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/legal">Legal Data Management</a>
+				<div class="dropdown-divider border-warning"></div>
+      	<a class='dropdown-item' href="/faceted">Faceted Search</a>
+      </div>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='publication_menu'>
+				Publications
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="publication_menu"
+      >
+        <a class='dropdown-item' href="/international">International</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/domestic">Domestic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/awards">Awards</a>
+      </div>
+    </div>
+
+    <div class="btn-group">
+      <button type='button'
+				class="btn btn-dark border border-warning dropdown-toggle text-warning"
+				data-bs-toggle='dropdown'
+				aria-expanded="false"
+				id='activity_menu'>
+				Activities
+			</button>
+
+      <div
+        class="dropdown-menu p-2 bg-dark mt-2 w-auto mt-1 border border-warning"
+				aria-labelledby="activity_menu"
+      >
+        <a class='dropdown-item' href="/academic">Academic</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/grants">Grants</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/education">Education</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/supervision">Supervision</a>
+				<div class="dropdown-divider border-warning"></div>
+        <a class='dropdown-item' href="/design">Design</a>
+      </div>
+    </div>
+
+  </div>
 </nav>
-<main>
+
+      <main>
+        
 <article class="border rounded p-3 position-relative mt-4 p-4">
-<div class="header border-bottom mb-3">
-<h1 style=font-size:2.5em>
-<img src class=mb-3>
-Research Activities
-</h1>
-<div class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark" style=position:absolute;top:-19px;font-size:.9em>
-<span class=more style=font-size:1.5em>
-+
-+
-+
-</span>
-</div>
-</div>
-<div class="article pb-3">
-<h2 id=members>Members</h2>
+  <div class="header border-bottom mb-3">
+    <h1 style="font-size: 2.5em;">
+			<img src='' class='mb-3'/>
+      Research Activities
+			
+    </h1>
+
+    <div
+    class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
+    style="position: absolute; top: -19px; font-size: 0.9em;"
+ 	 >
+ 	   <span
+ 	     class="more"
+ 	     style="font-size: 1.5em;"
+ 	   >
+ 	     &#43;
+ 	     &#43;
+ 	     &#43;
+ 	   </span>
+ 	 </div>
+
+  </div>
+  <div class="article pb-3">
+    <h2 id="members">Members</h2>
 <ul>
-<li><a href=http://www.acm.org/ target=_blank rel=nofollow>ACM: Association for Computing Machinery</a><br>
+<li><a href="http://www.acm.org/" target="_blank" rel="nofollow">ACM: Association for Computing Machinery</a><br>
 Student Member (May 2012 - Mar. 2015), Professional Member (Apr. 2015 -)</li>
-<li><a href=https://www.ieee.org/index.html target=_blank rel=nofollow>IEEE: Institute of Electrical and Electronics Engineers</a><br>
+<li><a href="https://www.ieee.org/index.html" target="_blank" rel="nofollow">IEEE: Institute of Electrical and Electronics Engineers</a><br>
 Student Member (Mar. 2012 - Dec. 2013), Regular Member (Apr. 2018 -)</li>
-<li><a href=https://www.aclweb.org/portal/ target=_blank rel=nofollow>ACL: Association for Computational Linguistics</a><br>
+<li><a href="https://www.aclweb.org/portal/" target="_blank" rel="nofollow">ACL: Association for Computational Linguistics</a><br>
 Faculty Member (May 2020 - Dec. 2020, Aug. 2024 - Dec. 2024)</li>
-<li><a href=http://dbsj.org/ target=_blank rel=nofollow>DBSJ: Database Society of Japan（日本データベース学会）</a><br>
+<li><a href="http://dbsj.org/" target="_blank" rel="nofollow">DBSJ: Database Society of Japan（日本データベース学会）</a><br>
 Student Member (Dec. 2008 - Mar. 2015), Regular Member (Apr. 2015 -)</li>
-<li><a href=http://www.ipsj.or.jp/ target=_blank rel=nofollow>IPSJ: Information Processing Society of Japan（情報処理学会）</a><br>
+<li><a href="http://www.ipsj.or.jp/" target="_blank" rel="nofollow">IPSJ: Information Processing Society of Japan（情報処理学会）</a><br>
 Student Member (Jun. 2010 - Jun. 2013), Regular Member (Apr. 2018 -)</li>
-<li><a href=http://www.ieice.org/ target=_blank rel=nofollow>IEICE: The Institute of Electronics, Information and Communication Engineers（電子情報通信学会）</a><br>
+<li><a href="http://www.ieice.org/" target="_blank" rel="nofollow">IEICE: The Institute of Electronics, Information and Communication Engineers（電子情報通信学会）</a><br>
 Regular Member (Jun. 2018 -)</li>
-<li><a href=http://www.anlp.jp/ target=_blank rel=nofollow>NLP: The Association for Natural Language Processing（言語処理学会）</a><br>
+<li><a href="http://www.anlp.jp/" target="_blank" rel="nofollow">NLP: The Association for Natural Language Processing（言語処理学会）</a><br>
 Regular Member (Feb. 2018 -)</li>
-<li><a href=https://www.ai-gakkai.or.jp/ target=_blank rel=nofollow>JSAI: Japanese Society for Artificial（人工知能学会）</a><br>
+<li><a href="https://www.ai-gakkai.or.jp/" target="_blank" rel="nofollow">JSAI: Japanese Society for Artificial（人工知能学会）</a><br>
 Regular Member (Apr. 2018 -)</li>
-<li><a href=http://www.aaai.org/ target=_blank rel=nofollow>AAAI: the American Association for Artificial Intelligence</a><br>
+<li><a href="http://www.aaai.org/" target="_blank" rel="nofollow">AAAI: the American Association for Artificial Intelligence</a><br>
 Professional Member (Dec. 2016 - Dec. 2017)</li>
 </ul>
 <hr>
-<h2 id=academic-activities-international>Academic Activities (International)</h2>
-<h3 id=organization>Organization</h3>
-<h4 id=current-activities>Current Activities</h4>
+<h2 id="academic-activities-international">Academic Activities (International)</h2>
+<h3 id="organization">Organization</h3>
+<h4 id="current-activities">Current Activities</h4>
 <ul>
 <li>Feb. 2025 - Oct. 2025,
-<a href=https://muws-workshop.github.io/ target=_blank rel=nofollow>4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)</a>,
+<a href="https://muws-workshop.github.io/" target="_blank" rel="nofollow">4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)</a>,
 Organizing Committee member</li>
 <li>Feb. 2025 - Oct. 2025,
-<a href=https://sites.google.com/view/intentvc/ target=_blank rel=nofollow>IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM 2025)</a>,
+<a href="https://sites.google.com/view/intentvc/" target="_blank" rel="nofollow">IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM 2025)</a>,
 Organizing Committee member</li>
 <li>Feb. 2025 - Dec. 2025,
-<a href=https://www.iiwas.org/conferences/iiwas2025/ target=_blank rel=nofollow>27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)</a>,
+<a href="https://www.iiwas.org/conferences/iiwas2025/" target="_blank" rel="nofollow">27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)</a>,
 Organization co-chair</li>
 <li>Dec. 2024 - Nov. 2025,
-<a href=https://www.kjdb.or.kr/ target=_blank rel=nofollow>Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)</a>,
+<a href="https://www.kjdb.or.kr/" target="_blank" rel="nofollow">Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)</a>,
 Local member</li>
 </ul>
-<h4 id=past-activities>Past Activities</h4>
+<h4 id="past-activities">Past Activities</h4>
 <ul>
 <li>Nov. 2024 - Jul. 2025,
-<a href=https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html target=_blank rel=nofollow>5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)</a>,
+<a href="https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html" target="_blank" rel="nofollow">5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)</a>,
 Organizing Committee member</li>
 <li>Jul. 2024 - Jul. 2025,
-<a href=https://amlds.site/index.html target=_blank rel=nofollow>International conference on Advanced Machine Learning and Data Science (AMLDS 2025)</a>,
+<a href="https://amlds.site/index.html" target="_blank" rel="nofollow">International conference on Advanced Machine Learning and Data Science (AMLDS 2025)</a>,
 Conference Co-chair</li>
 <li>Mar. 2024 - Jan. 2025,
-<a href=https://academics.gitlab.io/conferences/narsum/ target=_blank rel=nofollow>Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)</a>,
+<a href="https://academics.gitlab.io/conferences/narsum/" target="_blank" rel="nofollow">Special Session ExpertSUM: Expert-Level Text Summarization from Fine-Grained Multimedia Analytics (ExpertSUM@MMM 2025)</a>,
 Session Co-chair</li>
 <li>Jan. 2024 - Jan. 2025,
-<a href=https://mmm2025.net/ target=_blank rel=nofollow>31st International Conference on Multimedia Modelling (MMM 2025)</a>,
+<a href="https://mmm2025.net/" target="_blank" rel="nofollow">31st International Conference on Multimedia Modelling (MMM 2025)</a>,
 Web Co-chair</li>
 <li>Dec. 2023 - Jun. 2024,
-<a href=https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html target=_blank rel=nofollow>4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)</a>,
+<a href="https://www2.nict.go.jp/bidal/icdar_icmr2024/index.html" target="_blank" rel="nofollow">4th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2024)</a>,
 Organizing Committee member</li>
 <li>Mar. 2022 - Jul. 2024,
-<a href=https://www.dasfaa2024.org/ target=_blank rel=nofollow>29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)</a>,
+<a href="https://www.dasfaa2024.org/" target="_blank" rel="nofollow">29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)</a>,
 Local Arrangement Committee member</li>
 <li>Mar. 2023 - Nov. 2023,
-<a href=https://narsum.cf/ target=_blank rel=nofollow>2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACMMM 2023)</a>,
+<a href="https://narsum.cf/" target="_blank" rel="nofollow">2nd Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACMMM 2023)</a>,
 Program Co-chiar</li>
 <li>Jan. 2023 - Aug. 2023,
-<a href=https://homepages.uc.edu/~niunn/IRI23/index.html target=_blank rel=nofollow>IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)</a>,
+<a href="https://homepages.uc.edu/~niunn/IRI23/index.html" target="_blank" rel="nofollow">IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI 2023)</a>,
 Workshop Co-Chair</li>
 <li>Apr. 2022 - Oct. 2022,
-<a href=https://www.narsum.cf/ target=_blank rel=nofollow>1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACMMM 2022)</a>,
+<a href="https://www.narsum.cf/" target="_blank" rel="nofollow">1st Workshop on User-Centric Narrative Summarization of Long Videos (NarSUM@ACMMM 2022)</a>,
 Web and SNS Chair, PC member</li>
 <li>Jun. 2020 - Dec. 2021,
-<a href=https://mipr2021.org/ target=_blank rel=nofollow>4th International Conference on Multimedia Information Processing and Retrieval (MIPR 2021)</a>,
+<a href="https://mipr2021.org/" target="_blank" rel="nofollow">4th International Conference on Multimedia Information Processing and Retrieval (MIPR 2021)</a>,
 Web and SNS Co-Chair</li>
 <li>Apr. 2021 - Sep. 2021,
-<a href=https://takacoma.gitlab.io/tmi-educational-video-competition/ target=_blank rel=nofollow>TMI Educational Video Competition in collaboration with IV21</a>,
+<a href="https://takacoma.gitlab.io/tmi-educational-video-competition/" target="_blank" rel="nofollow">TMI Educational Video Competition in collaboration with IV21</a>,
 Organizing Co-Chair</li>
 <li>Feb. 2010 - Apr. 2010,
-<a href=http://dasfaa2010.cs.tsukuba.ac.jp/ target=_blank rel=nofollow>15th International Conference on Database Systems for Advanced Applications (DASFAA 2010)</a>,
+<a href="http://dasfaa2010.cs.tsukuba.ac.jp/" target="_blank" rel="nofollow">15th International Conference on Database Systems for Advanced Applications (DASFAA 2010)</a>,
 Student leading staff</li>
 </ul>
 <hr>
-<h3 id=program-committee>Program Committee</h3>
-<h4 id=current-activities-1>Current Activities</h4>
+<h3 id="program-committee">Program Committee</h3>
+<h4 id="current-activities-1">Current Activities</h4>
 <ul>
 <li>May. 2025 - Dec. 2025,
-<a href=https://www3.cs.stonybrook.edu/~icdm2025/index.html target=_blank rel=nofollow>25th IEEE International Conferenceon Data Mining (ICDM 2025)</a>,
+<a href="https://www3.cs.stonybrook.edu/~icdm2025/index.html" target="_blank" rel="nofollow">25th IEEE International Conferenceon Data Mining (ICDM 2025)</a>,
 PC member</li>
 <li>Mar. 2025 - Dec. 2025,
-<a href=https://conferences.cis.um.edu.mo/ieeebigdata2025/ target=_blank rel=nofollow>2025 IEEE International Conference on Big Data (IEEE BigData 2025)</a>,
+<a href="https://conferences.cis.um.edu.mo/ieeebigdata2025/" target="_blank" rel="nofollow">2025 IEEE International Conference on Big Data (IEEE BigData 2025)</a>,
 PC member</li>
 </ul>
-<h4 id=past-activities-1>Past Activities</h4>
+<h4 id="past-activities-1">Past Activities</h4>
 <ul>
 <li>Nov. 2024 - Feb. 2025,
-<a href=http://pa.icar.cnr.it/scsn25/ target=_blank rel=nofollow>13th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2025)</a>,
+<a href="http://pa.icar.cnr.it/scsn25/" target="_blank" rel="nofollow">13th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2025)</a>,
 PC member</li>
 <li>Feb. 2024 - Dec. 2024,
-<a href=https://bigdataieee.org/BigData2024/ target=_blank rel=nofollow>2024 IEEE International Conference on Big Data (IEEE BigData 2024)</a>,
+<a href="https://bigdataieee.org/BigData2024/" target="_blank" rel="nofollow">2024 IEEE International Conference on Big Data (IEEE BigData 2024)</a>,
 PC member</li>
 <li>Sep. 2024 - Dec. 2024,
-<a href=https://soict.org/ target=_blank rel=nofollow>13th International Symposium on Information and Communication Technology (SoICT 2024)</a>,
+<a href="https://soict.org/" target="_blank" rel="nofollow">13th International Symposium on Information and Communication Technology (SoICT 2024)</a>,
 PC member</li>
 <li>Feb. 2024 - Aug. 2024,
-<a href=https://www.dexa.org/dexa2024 target=_blank rel=nofollow>35th International Conference on Database and Expert Systems Applications (DEXA 2024)</a>,
+<a href="https://www.dexa.org/dexa2024" target="_blank" rel="nofollow">35th International Conference on Database and Expert Systems Applications (DEXA 2024)</a>,
 PC member</li>
 <li>Nov. 2023 - Jun. 2024,
-<a href=http://icmr2024.org/ target=_blank rel=nofollow>14th International Conference on Multimedia Retrieval (ICMR 2024)</a>,
+<a href="http://icmr2024.org/" target="_blank" rel="nofollow">14th International Conference on Multimedia Retrieval (ICMR 2024)</a>,
 PC member</li>
 <li>Nov. 2023 - Feb. 2023,
-<a href=https://sites.google.com/view/iw-fcv2024/ target=_blank rel=nofollow>30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024)</a>,
+<a href="https://sites.google.com/view/iw-fcv2024/" target="_blank" rel="nofollow">30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024)</a>,
 TPC member</li>
 <li>Oct. 2023 - Feb. 2023,
-<a href=http://pa.icar.cnr.it/scsn24/ target=_blank rel=nofollow>12th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge (SCSN@ICSC 2024)</a>,
+<a href="http://pa.icar.cnr.it/scsn24/" target="_blank" rel="nofollow">12th IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge (SCSN@ICSC 2024)</a>,
 PC member</li>
 <li>Sep. 2023 - Dec. 2023,
-<a href=https://soict.org/ target=_blank rel=nofollow>12th International Symposium on Information and Communication Technology (SoICT 2023)</a>,
+<a href="https://soict.org/" target="_blank" rel="nofollow">12th International Symposium on Information and Communication Technology (SoICT 2023)</a>,
 PC member (AI Foundation and Big Data)</li>
 <li>Apr. 2023 - Dec. 2023,
-<a href=http://bigdataieee.org/BigData2023/index.html target=_blank rel=nofollow>2023 IEEE International Conference on Big Data (IEEE BigData 2023)</a>,
+<a href="http://bigdataieee.org/BigData2023/index.html" target="_blank" rel="nofollow">2023 IEEE International Conference on Big Data (IEEE BigData 2023)</a>,
 PC member</li>
 <li>Sep. 2022 - Feb. 2023,
-<a href=http://pa.icar.cnr.it/scsn23/ target=_blank rel=nofollow>11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)</a>,
+<a href="http://pa.icar.cnr.it/scsn23/" target="_blank" rel="nofollow">11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2023)</a>,
 PC member</li>
 <li>Jul. 2021 - Dec. 2022,
-<a href=https://soict.org/ target=_blank rel=nofollow>11th International Symposium on Information and Communication Technology (SoICT 2022)</a>,
+<a href="https://soict.org/" target="_blank" rel="nofollow">11th International Symposium on Information and Communication Technology (SoICT 2022)</a>,
 PC member</li>
 <li>Nov. 2021 - Jan. 2022,
-<a href=http://pa.icar.cnr.it/scsn22/ target=_blank rel=nofollow>10th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2022)</a>,
+<a href="http://pa.icar.cnr.it/scsn22/" target="_blank" rel="nofollow">10th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN@ICSC 2022)</a>,
 PC member</li>
 <li>Nov. 2020 - Jan. 2021,
-<a href=http://pa.icar.cnr.it/scsn21/ target=_blank rel=nofollow>9th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2021)</a>,
+<a href="http://pa.icar.cnr.it/scsn21/" target="_blank" rel="nofollow">9th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2021)</a>,
 PC member</li>
 <li>Apr. 2020 - Oct. 2020,
-<a href=https://sites.google.com/view/eyre20 target=_blank rel=nofollow>3rd International Workshop on EntitY REtrieval (EYRE@CIKM 2020)</a>,
+<a href="https://sites.google.com/view/eyre20" target="_blank" rel="nofollow">3rd International Workshop on EntitY REtrieval (EYRE@CIKM 2020)</a>,
 PC member</li>
 <li>Sep. 2019 - Feb. 2020,
-<a href=http://pa.icar.cnr.it/scsn20/ target=_blank rel=nofollow>8th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2020)</a>,
+<a href="http://pa.icar.cnr.it/scsn20/" target="_blank" rel="nofollow">8th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2020)</a>,
 PC member</li>
 <li>Apr. 2019 - Nov. 2019,
-<a href=https://sites.google.com/view/eyre19 target=_blank rel=nofollow>2nd International Workshop on EntitY REtrieval (EYRE@CIKM 2019)</a>,
+<a href="https://sites.google.com/view/eyre19" target="_blank" rel="nofollow">2nd International Workshop on EntitY REtrieval (EYRE@CIKM 2019)</a>,
 PC member</li>
 <li>Dec. 2018 - Feb. 2019,
-<a href=http://pa.icar.cnr.it/scsn19/ target=_blank rel=nofollow>7th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2019)</a>,
+<a href="http://pa.icar.cnr.it/scsn19/" target="_blank" rel="nofollow">7th International Workshop on Semantic Computing for Social Networks (SCSN@ICSC 2019)</a>,
 PC member</li>
 <li>Dec. 2017 - Feb. 2018,
-<a href=http://pa.icar.cnr.it/scsn19/ target=_blank rel=nofollow>12th IEEE International Conference on Semantic Computing (ICSC 2018)</a>,
+<a href="http://pa.icar.cnr.it/scsn19/" target="_blank" rel="nofollow">12th IEEE International Conference on Semantic Computing (ICSC 2018)</a>,
 PC member</li>
 </ul>
 <hr>
-<h3 id=reviewer>Reviewer</h3>
-<h4 id=international-conference>International Conference</h4>
+<h3 id="reviewer">Reviewer</h3>
+<h4 id="international-conference">International Conference</h4>
 <ul>
 <li>[Meta] Jul. 2025,
-<a href=https://adma2025.github.io/ target=_blank rel=nofollow>The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)</a></li>
+<a href="https://adma2025.github.io/" target="_blank" rel="nofollow">The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)</a></li>
 <li>Jul. 2025,
-<a href=https://acmmm2025.org/ target=_blank rel=nofollow>33rd ACM International Conference on Multimedia (ACMMM 2025)</a>,
+<a href="https://acmmm2025.org/" target="_blank" rel="nofollow">33rd ACM International Conference on Multimedia (ACMMM 2025)</a>,
 Regular Track, Brave New Idea Track, Datasets Track</li>
 <li>Jul. 2025,
-<a href=https://ma-llm25.github.io/ target=_blank rel=nofollow>ACM MM 2025 Workshop on Multimedia Analytics with Multimodal Large Language Models (MA-LLM25)</a></li>
+<a href="https://ma-llm25.github.io/" target="_blank" rel="nofollow">ACM MM 2025 Workshop on Multimedia Analytics with Multimodal Large Language Models (MA-LLM@ACMMM 2025)</a></li>
 <li>Jul. 2025,
-<a href=https://www.icmr-2025.org/ target=_blank rel=nofollow>15th ACM International Conference on Multimedia Retrieval (ICMR 2025)</a></li>
+<a href="https://www.icmr-2025.org/" target="_blank" rel="nofollow">15th ACM International Conference on Multimedia Retrieval (ICMR 2025)</a></li>
 <li>Jun. 2025,
-<a href=https://2025.ieeeicme.org/ target=_blank rel=nofollow>IEEE International Conference on Multimedia and Expo 2025 (ICME 2025)</a></li>
+<a href="https://2025.ieeeicme.org/" target="_blank" rel="nofollow">IEEE International Conference on Multimedia and Expo 2025 (ICME 2025)</a></li>
 <li>Nov. 2024,
-<a href=https://customnlp4u-24.github.io/ target=_blank rel=nofollow>Workshop on Customizable NLP (CustomNLP4U@EMNLP 2024)</a></li>
+<a href="https://customnlp4u-24.github.io/" target="_blank" rel="nofollow">Workshop on Customizable NLP (CustomNLP4U@EMNLP 2024)</a></li>
 <li>Aug. 2024,
-<a href=https://2024.acmmm.org/ target=_blank rel=nofollow>32nd ACM International Conference on Multimedia (ACMMM 2024)</a></li>
+<a href="https://2024.acmmm.org/" target="_blank" rel="nofollow">32nd ACM International Conference on Multimedia (ACMMM 2024)</a></li>
 <li>Jul. 2021,
-<a href=https://2021.ieeeicme.org/2021.ieeeicme.org/index.html target=_blank rel=nofollow>IEEE International Conference on Multimedia and Expo 2021 (ICME 2021)</a></li>
+<a href="https://2021.ieeeicme.org/2021.ieeeicme.org/index.html" target="_blank" rel="nofollow">IEEE International Conference on Multimedia and Expo 2021 (ICME 2021)</a></li>
 <li>Jul. 2020,
-<a href=https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.html target=_blank rel=nofollow>IEEE International Conference on Multimedia and Expo 2020 (ICME 2020)</a></li>
+<a href="https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.html" target="_blank" rel="nofollow">IEEE International Conference on Multimedia and Expo 2020 (ICME 2020)</a></li>
 <li>Feb. 2020,
-<a href=https://semanticcomputing.wixsite.com/website-5 target=_blank rel=nofollow>IEEE 14th International Conference on Semantic Computing (ICSC 2020)</a></li>
+<a href="https://semanticcomputing.wixsite.com/website-5" target="_blank" rel="nofollow">IEEE 14th International Conference on Semantic Computing (ICSC 2020)</a></li>
 <li>Jul. 2019,
-<a href=https://www.2019.ieeeicme.org/167.99.148.246/index.html target=_blank rel=nofollow>IEEE International Conference on Multimedia and Expo 2019 (ICME 2019)</a></li>
+<a href="https://www.2019.ieeeicme.org/167.99.148.246/index.html" target="_blank" rel="nofollow">IEEE International Conference on Multimedia and Expo 2019 (ICME 2019)</a></li>
 <li>Nov. 2017,
-<a href=http://www.wise-conferences.org/2017/ target=_blank rel=nofollow>18th International Conference on Web Information Systems Engineering (WISE 2017)</a></li>
+<a href="http://www.wise-conferences.org/2017/" target="_blank" rel="nofollow">18th International Conference on Web Information Systems Engineering (WISE 2017)</a></li>
 <li>Oct. 2016,
-<a href=https://sites.ualberta.ca/~dsaa16/ target=_blank rel=nofollow>3rd IEEE International Conference on Data Science and Advanced Analytics (DSAA 2016)</a></li>
+<a href="https://sites.ualberta.ca/~dsaa16/" target="_blank" rel="nofollow">3rd IEEE International Conference on Data Science and Advanced Analytics (DSAA 2016)</a></li>
 <li>Nov. 2016,
-<a href=http://www.wise-conferences.org/2016/ target=_blank rel=nofollow>17th International Conference on Web Information Systems Engineering (WISE 2016)</a></li>
+<a href="http://www.wise-conferences.org/2016/" target="_blank" rel="nofollow">17th International Conference on Web Information Systems Engineering (WISE 2016)</a></li>
 <li>Sep. 2016,
-<a href=https://www.dexa.org/previous/dexa2016/dawak2016.html target=_blank rel=nofollow>18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK 2016)</a></li>
+<a href="https://www.dexa.org/previous/dexa2016/dawak2016.html" target="_blank" rel="nofollow">18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK 2016)</a></li>
 </ul>
-<h4 id=international-journal>International Journal</h4>
+<h4 id="international-journal">International Journal</h4>
 <ul>
 <li>IEEE Transactions on Computational Social Systems (TCSS): 2021, 2022, 2023, 2024</li>
 <li>IEEE Transactions on Multimedia (TOMM): 2024</li>
@@ -277,95 +328,99 @@ Regular Track, Brave New Idea Track, Datasets Track</li>
 <li>BMC Medical Research Methodology: 2023</li>
 </ul>
 <hr>
-<h2 id=academic-activities-japanese-domestic>Academic Activities (Japanese Domestic)</h2>
-<h3 id=committee-member>Committee Member</h3>
-<h4 id=current-activities-2>Current Activities</h4>
+<h2 id="academic-activities-japanese-domestic">Academic Activities (Japanese Domestic)</h2>
+<h3 id="committee-member">Committee Member</h3>
+<h4 id="current-activities-2">Current Activities</h4>
 <ul>
-<li>Jul. 2025 - Mar. 2026, <a href target=_blank rel=nofollow>第18回データ工学と情報マネジメントに関するフォーラム (DEIM 2026)</a>, 実行委員会, プログラム副委員長</li>
-<li>Jun. 2025 - Jun. 2027, <a href=https://www.ieice.org/jpn_r/ target=_blank rel=nofollow>電子情報通信学会</a>, <a href=https://www.ieice.org/iss/de/jpn/ target=_blank rel=nofollow>データ工学研究専門委員会</a>, 専門委員</li>
-<li>Apr. 2022 - now, <a href=http://dbsj.org/ target=_blank rel=nofollow>日本データベース学会</a>, 広報委員会, 幹事</li>
-<li>Apr. 2023 - now, <a href=http://www.mi.u-tokyo.ac.jp/consortium/activities4.html target=_blank rel=nofollow>数理・データサイエンス・AI教育強化拠点コンソーシアム</a>, 教材分科会, 委員</li>
+<li>Jul. 2025 - Mar. 2026, <a href="" target="_blank" rel="nofollow">第18回データ工学と情報マネジメントに関するフォーラム (DEIM 2026)</a>, 実行委員会, プログラム副委員長</li>
+<li>Jun. 2025 - Jun. 2027, <a href="https://www.ieice.org/jpn_r/" target="_blank" rel="nofollow">電子情報通信学会</a>, <a href="https://www.ieice.org/iss/de/jpn/" target="_blank" rel="nofollow">データ工学研究専門委員会</a>, 専門委員</li>
+<li>Apr. 2022 - now, <a href="http://dbsj.org/" target="_blank" rel="nofollow">日本データベース学会</a>, 広報委員会, 幹事</li>
+<li>Apr. 2023 - now, <a href="http://www.mi.u-tokyo.ac.jp/consortium/activities4.html" target="_blank" rel="nofollow">数理・データサイエンス・AI教育強化拠点コンソーシアム</a>, 教材分科会, 委員</li>
 </ul>
-<h4 id=past-activities-2>Past Activities</h4>
+<h4 id="past-activities-2">Past Activities</h4>
 <ul>
-<li>Apr. 2023 - Mar. 2025, <a href=https://www.ipsj.or.jp/ target=_blank rel=nofollow>情報処理学会</a>, <a href=https://www.ipsj-dbs.org/ target=_blank rel=nofollow>データベースシステム研究運営委員会</a>, 専門委員</li>
-<li>Jun. 2023 - Jun. 2025, <a href=https://www.ieice.org/jpn_r/ target=_blank rel=nofollow>電子情報通信学会</a>, <a href=https://www.ieice.org/iss/de/jpn/ target=_blank rel=nofollow>データ工学研究専門委員会</a>, 幹事補佐</li>
-<li>Oct. 2023 - Sep, 2024, <a href=https://www.ipsj.or.jp/event/fit/fit2024/index.html target=_blank rel=nofollow>第23回情報科学技術フォーラム (FIT 2024)</a>, <a href=https://www.ipsj.or.jp/event/fit/fit2024/members.html target=_blank rel=nofollow>委員会</a>, 研究会担当委員 (ISS-DE)</li>
-<li>Jun. 2019 - Jun. 2023, <a href=https://www.ieice.org/jpn_r/ target=_blank rel=nofollow>電子情報通信学会</a>, <a href=https://www.ieice.org/iss/de/jpn/ target=_blank rel=nofollow>データ工学研究専門委員会</a>, 専門委員</li>
-<li>Apr. 2022 - Mar. 2023, <a href=http://www.mi.u-tokyo.ac.jp/consortium/activities4.html target=_blank rel=nofollow>数理・データサイエンス・AI教育強化拠点コンソーシアム</a>, 調査研究分科会, 委員</li>
-<li>Apr. 2022 - Mar. 2023, <a href=https://event.dbsj.org/deim2023/ target=_blank rel=nofollow>第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)</a>, 実行委員会, ローカル共同委員長</li>
-<li>Mar. 2022 - Sep. 2022, <a href=http://dbsj.org/ target=_blank rel=nofollow>日本データベース学会</a>, システム委員会, 構成メンバー</li>
-<li>Apr. 2021 - Mar. 2022, <a href=https://event.dbsj.org/deim2022/ target=_blank rel=nofollow>第14回データ工学と情報マネジメントに関するフォーラム (DEIM 2022)</a>, 実行委員会, ローカル共同委員長</li>
-<li>Mar. 2019 - May 2020, <a href=http://db-event.jpn.org/deim2020 target=_blank rel=nofollow>第12回データ工学と情報マネジメントに関するフォーラム (DEIM 2020)</a>, 実行委員会, 幹事（Web・出版担当）</li>
-<li>Mar. 2018 - May 2019, <a href=http://db-event.jpn.org/deim2019 target=_blank rel=nofollow>第11回データ工学と情報マネジメントに関するフォーラム (DEIM 2019)</a>, 実行委員会, Web・出版委員長</li>
-<li>Jun. 2018 - Mar. 2019, <a href=http://www.anlp.jp/nlp2019/ target=_blank rel=nofollow>言語処理学会第25回年次大会 (NLP 2019)</a>, 実行委員会, 委員</li>
-<li>Jul. 2018 - Mar. 2019, <a href=http://www.kl.is.i.nagoya-u.ac.jp/winf2018/ target=_blank rel=nofollow>第16回情報学ワークショップ (WiNF 2018)</a>, 実行委員会, 委員（会計担当）</li>
-<li>May 2018 - Sep. 2018, <a href=http://db-event.jpn.org/webdbf2018/ target=_blank rel=nofollow>第11回Webとデータベースに関するフォーラム (WebDB Forum 2018)</a>, 実行委員会, 出版・印刷担当幹事, 学生奨励賞評価委員会, 委員</li>
-<li>Aug. 2017 - Sep. 2017, <a href=http://db-event.jpn.org/webdbf2017/ target=_blank rel=nofollow>第10回Webとデータベースに関するフォーラム (WebDB Forum 2017)</a>, 実行委員会, Web担当幹事</li>
-<li>Sep. 2016, <a href=http://db-event.jpn.org/webdbf2016/ target=_blank rel=nofollow>第9回Webとデータベースに関するフォーラム (WebDB Forum 2016)</a>, 学生奨励賞評価委員会, 委員</li>
-<li>Sep. 2014, <a href=http://www.ipsj.or.jp/event/fit/fit2014/ target=_blank rel=nofollow>第13回情報科学技術フォーラム (FIT 2014)</a>, 学生スタッフリーダー</li>
-</ul>
-<hr>
-<h3 id=editor>Editor</h3>
-<h4 id=current-activities-3>Current Activities</h4>
-<ul>
-<li>Apr. 2023 - May. 2027, <a href=https://www.ipsj.or.jp/ target=_blank rel=nofollow>情報処理学会</a>, <a href=https://www.ipsj.or.jp/annai/committee/meibo/2020ronbunshi.html target=_blank rel=nofollow>論文誌ジャーナル/JIP編集委員会</a>, 編集委員</li>
-<li>Apr. 2021 - Jul. 2026, <a href=https://www.ieice.org/eng_r/information/schedule/journals.php target=_blank rel=nofollow>IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management</a>, Associate Editor, Special Section Editorial Committee</li>
-<li>Apr. 2023 - Mar. 2027, <a href=https://www.ipsj.or.jp/ target=_blank rel=nofollow>情報処理学会</a>, <a href=https://www.ipsj-tod.org/ target=_blank rel=nofollow>論文誌データベース編集委員会</a>, 編集委員</li>
-</ul>
-<h4 id=past-activities-3>Past Activities</h4>
-<ul>
-<li>Jul. 2015 - Mar. 2022, <a href=http://dbsj.org/ target=_blank rel=nofollow>日本データベース学会</a>, 電子広報編集委員会, 編集委員</li>
+<li>Apr. 2023 - Mar. 2025, <a href="https://www.ipsj.or.jp/" target="_blank" rel="nofollow">情報処理学会</a>, <a href="https://www.ipsj-dbs.org/" target="_blank" rel="nofollow">データベースシステム研究運営委員会</a>, 専門委員</li>
+<li>Jun. 2023 - Jun. 2025, <a href="https://www.ieice.org/jpn_r/" target="_blank" rel="nofollow">電子情報通信学会</a>, <a href="https://www.ieice.org/iss/de/jpn/" target="_blank" rel="nofollow">データ工学研究専門委員会</a>, 幹事補佐</li>
+<li>Oct. 2023 - Sep, 2024, <a href="https://www.ipsj.or.jp/event/fit/fit2024/index.html" target="_blank" rel="nofollow">第23回情報科学技術フォーラム (FIT 2024)</a>, <a href="https://www.ipsj.or.jp/event/fit/fit2024/members.html" target="_blank" rel="nofollow">委員会</a>, 研究会担当委員 (ISS-DE)</li>
+<li>Jun. 2019 - Jun. 2023, <a href="https://www.ieice.org/jpn_r/" target="_blank" rel="nofollow">電子情報通信学会</a>, <a href="https://www.ieice.org/iss/de/jpn/" target="_blank" rel="nofollow">データ工学研究専門委員会</a>, 専門委員</li>
+<li>Apr. 2022 - Mar. 2023, <a href="http://www.mi.u-tokyo.ac.jp/consortium/activities4.html" target="_blank" rel="nofollow">数理・データサイエンス・AI教育強化拠点コンソーシアム</a>, 調査研究分科会, 委員</li>
+<li>Apr. 2022 - Mar. 2023, <a href="https://event.dbsj.org/deim2023/" target="_blank" rel="nofollow">第15回データ工学と情報マネジメントに関するフォーラム (DEIM 2023)</a>, 実行委員会, ローカル共同委員長</li>
+<li>Mar. 2022 - Sep. 2022, <a href="http://dbsj.org/" target="_blank" rel="nofollow">日本データベース学会</a>, システム委員会, 構成メンバー</li>
+<li>Apr. 2021 - Mar. 2022, <a href="https://event.dbsj.org/deim2022/" target="_blank" rel="nofollow">第14回データ工学と情報マネジメントに関するフォーラム (DEIM 2022)</a>, 実行委員会, ローカル共同委員長</li>
+<li>Mar. 2019 - May 2020, <a href="http://db-event.jpn.org/deim2020" target="_blank" rel="nofollow">第12回データ工学と情報マネジメントに関するフォーラム (DEIM 2020)</a>, 実行委員会, 幹事（Web・出版担当）</li>
+<li>Mar. 2018 - May 2019, <a href="http://db-event.jpn.org/deim2019" target="_blank" rel="nofollow">第11回データ工学と情報マネジメントに関するフォーラム (DEIM 2019)</a>, 実行委員会, Web・出版委員長</li>
+<li>Jun. 2018 - Mar. 2019, <a href="http://www.anlp.jp/nlp2019/" target="_blank" rel="nofollow">言語処理学会第25回年次大会 (NLP 2019)</a>, 実行委員会, 委員</li>
+<li>Jul. 2018 - Mar. 2019, <a href="http://www.kl.is.i.nagoya-u.ac.jp/winf2018/" target="_blank" rel="nofollow">第16回情報学ワークショップ (WiNF 2018)</a>, 実行委員会, 委員（会計担当）</li>
+<li>May 2018 - Sep. 2018, <a href="http://db-event.jpn.org/webdbf2018/" target="_blank" rel="nofollow">第11回Webとデータベースに関するフォーラム (WebDB Forum 2018)</a>, 実行委員会, 出版・印刷担当幹事, 学生奨励賞評価委員会, 委員</li>
+<li>Aug. 2017 - Sep. 2017, <a href="http://db-event.jpn.org/webdbf2017/" target="_blank" rel="nofollow">第10回Webとデータベースに関するフォーラム (WebDB Forum 2017)</a>, 実行委員会, Web担当幹事</li>
+<li>Sep. 2016, <a href="http://db-event.jpn.org/webdbf2016/" target="_blank" rel="nofollow">第9回Webとデータベースに関するフォーラム (WebDB Forum 2016)</a>, 学生奨励賞評価委員会, 委員</li>
+<li>Sep. 2014, <a href="http://www.ipsj.or.jp/event/fit/fit2014/" target="_blank" rel="nofollow">第13回情報科学技術フォーラム (FIT 2014)</a>, 学生スタッフリーダー</li>
 </ul>
 <hr>
-<h3 id=program-committee-1>Program Committee</h3>
-<h4 id=current-activities-4>Current Activities</h4>
+<h3 id="editor">Editor</h3>
+<h4 id="current-activities-3">Current Activities</h4>
 <ul>
-<li>Jun. 2025 - Sep. 2025, <a href=https://sites.google.com/mil.doshisha.ac.jp/dbws-2025 target=_blank rel=nofollow>東海関西データベースワークショップ 2025</a>, プログラム委員会, プログラム委員</li>
+<li>Apr. 2023 - May. 2027, <a href="https://www.ipsj.or.jp/" target="_blank" rel="nofollow">情報処理学会</a>, <a href="https://www.ipsj.or.jp/annai/committee/meibo/2020ronbunshi.html" target="_blank" rel="nofollow">論文誌ジャーナル/JIP編集委員会</a>, 編集委員</li>
+<li>Apr. 2021 - Jul. 2026, <a href="https://www.ieice.org/eng_r/information/schedule/journals.php" target="_blank" rel="nofollow">IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management</a>, Associate Editor, Special Section Editorial Committee</li>
+<li>Apr. 2023 - Mar. 2027, <a href="https://www.ipsj.or.jp/" target="_blank" rel="nofollow">情報処理学会</a>, <a href="https://www.ipsj-tod.org/" target="_blank" rel="nofollow">論文誌データベース編集委員会</a>, 編集委員</li>
 </ul>
-<h4 id=past-activities-4>Past Activities</h4>
+<h4 id="past-activities-3">Past Activities</h4>
 <ul>
-<li>Sep. 2024 - Sep. 2024, <a href=https://www.nadasemi.jp/dbws_2024/ target=_blank rel=nofollow>東海関西データベースワークショップ 2024</a>, プログラム委員会, プログラム委員</li>
-<li>Sep. 2023 - Sep. 2023, <a href=https://www.nadasemi.jp/dbws-2023/ target=_blank rel=nofollow>東海関西データベースワークショップ 2023</a>, プログラム委員会, プログラム委員</li>
-<li>Sep. 2022 - Sep. 2022, <a href=https://sites.google.com/mil.doshisha.ac.jp/dbws2022/home target=_blank rel=nofollow>東海関西データベースワークショップ 2022</a>, プログラム委員会, プログラム委員</li>
-<li>Sep. 2021 - Sep. 2021, <a href=https://sites.google.com/db.info.gifu-u.ac.jp/dbws2021/ target=_blank rel=nofollow>東海関西データベースワークショップ 2021</a>, プログラム委員会．プログラム委員</li>
-<li>Sep. 2020 - Nov. 2020, <a href=https://sites.google.com/view/winf2020 target=_blank rel=nofollow>第18回情報学ワークショップ (WiNF 2020)</a>, プログラム委員会, プログラム委員</li>
-<li>Jul. 2019 - Nov. 2019, <a href=https://sites.google.com/view/winf2019/ target=_blank rel=nofollow>第17回情報学ワークショップ (WiNF 2019)</a>, プログラム委員会, プログラム委員</li>
+<li>Jul. 2015 - Mar. 2022, <a href="http://dbsj.org/" target="_blank" rel="nofollow">日本データベース学会</a>, 電子広報編集委員会, 編集委員</li>
 </ul>
-<h3 id=reviewer-japanese-journal>Reviewer: Japanese Journal</h3>
+<hr>
+<h3 id="program-committee-1">Program Committee</h3>
+<h4 id="current-activities-4">Current Activities</h4>
+<ul>
+<li>Jun. 2025 - Sep. 2025, <a href="https://sites.google.com/mil.doshisha.ac.jp/dbws-2025" target="_blank" rel="nofollow">東海関西データベースワークショップ 2025</a>, プログラム委員会, プログラム委員</li>
+</ul>
+<h4 id="past-activities-4">Past Activities</h4>
+<ul>
+<li>Sep. 2024 - Sep. 2024, <a href="https://www.nadasemi.jp/dbws_2024/" target="_blank" rel="nofollow">東海関西データベースワークショップ 2024</a>, プログラム委員会, プログラム委員</li>
+<li>Sep. 2023 - Sep. 2023, <a href="https://www.nadasemi.jp/dbws-2023/" target="_blank" rel="nofollow">東海関西データベースワークショップ 2023</a>, プログラム委員会, プログラム委員</li>
+<li>Sep. 2022 - Sep. 2022, <a href="https://sites.google.com/mil.doshisha.ac.jp/dbws2022/home" target="_blank" rel="nofollow">東海関西データベースワークショップ 2022</a>, プログラム委員会, プログラム委員</li>
+<li>Sep. 2021 - Sep. 2021, <a href="https://sites.google.com/db.info.gifu-u.ac.jp/dbws2021/" target="_blank" rel="nofollow">東海関西データベースワークショップ 2021</a>, プログラム委員会．プログラム委員</li>
+<li>Sep. 2020 - Nov. 2020, <a href="https://sites.google.com/view/winf2020" target="_blank" rel="nofollow">第18回情報学ワークショップ (WiNF 2020)</a>, プログラム委員会, プログラム委員</li>
+<li>Jul. 2019 - Nov. 2019, <a href="https://sites.google.com/view/winf2019/" target="_blank" rel="nofollow">第17回情報学ワークショップ (WiNF 2019)</a>, プログラム委員会, プログラム委員</li>
+</ul>
+<h3 id="reviewer-japanese-journal">Reviewer: Japanese Journal</h3>
 <ul>
 <li>IEICE Journal: 2013, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025</li>
-<li><a href=https://dbsj.org/journal/journal_cat/dbsj_journal_j/ target=_blank rel=nofollow>DBSJ Journal</a>: 2019, 2021, 2022, 2023</li>
-<li><a href=https://dbsj.org/journal/journal_cat/data-driven_studies/ target=_blank rel=nofollow>DBSJ DDS Journal</a>: 2025</li>
-<li><a href=https://www.ipsj.or.jp/journal/index.html target=_blank rel=nofollow>IPSJ Journal</a>: 2020, 2022, 2023, 2024</li>
+<li><a href="https://dbsj.org/journal/journal_cat/dbsj_journal_j/" target="_blank" rel="nofollow">DBSJ Journal</a>: 2019, 2021, 2022, 2023</li>
+<li><a href="https://dbsj.org/journal/journal_cat/data-driven_studies/" target="_blank" rel="nofollow">DBSJ DDS Journal</a>: 2025</li>
+<li><a href="https://www.ipsj.or.jp/journal/index.html" target="_blank" rel="nofollow">IPSJ Journal</a>: 2020, 2022, 2023, 2024</li>
 </ul>
 <hr>
-<h2 id=other-activities>Other Activities</h2>
+<h2 id="other-activities">Other Activities</h2>
 <ul>
 <li>ACLReading（ACL読み会@名古屋大）
 <ul>
-<li><a href=http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2018nagoya/ target=_blank rel=nofollow>2018</a></li>
-<li><a href=http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2019nagoya/ target=_blank rel=nofollow>2019</a></li>
-<li><a href=http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2023nagoya/ target=_blank rel=nofollow>2023</a></li>
+<li><a href="http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2018nagoya/" target="_blank" rel="nofollow">2018</a></li>
+<li><a href="http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2019nagoya/" target="_blank" rel="nofollow">2019</a></li>
+<li><a href="http://cr.fvcrc.i.nagoya-u.ac.jp/~sasano/acl2023nagoya/" target="_blank" rel="nofollow">2023</a></li>
 </ul>
 </li>
-<li><a href=http://www.kde.cs.tsukuba.ac.jp/dbreading/ target=_blank rel=nofollow>DBReading（データベース勉強会）</a></li>
-<li><a href=https://sites.google.com/site/sereadings/ target=_blank rel=nofollow>SEReading（ソフトウェア工学勉強会）</a></li>
+<li><a href="http://www.kde.cs.tsukuba.ac.jp/dbreading/" target="_blank" rel="nofollow">DBReading（データベース勉強会）</a></li>
+<li><a href="https://sites.google.com/site/sereadings/" target="_blank" rel="nofollow">SEReading（ソフトウェア工学勉強会）</a></li>
 </ul>
-</div>
+
+  </div>
 </article>
-</main>
-</div>
-<footer>
-<div class="w-50 bg-danger ml-auto mr-auto mt-4" style=height:2px></div>
-<div class="mt-4 mb-2" style=font-size:.9em>
-<p class=text-center>
-Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
-</p>
-</div>
+
+      </main>
+    </div>
+    <footer>
+  <div class="w-50 bg-danger ml-auto mr-auto mt-4" style="height: 2px;"></div>
+  <div class="mt-4 mb-2" style="font-size: 0.9em;">
+    <p class="text-center">
+			Copyright &#169; Takahiro Komamizu 2020. All Rights Reserved.
+    </p>
+  </div>
 </footer>
-<script src=https://code.jquery.com/jquery-3.6.1.min.js></script>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js integrity=sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM crossorigin=anonymous></script>
-<script src=/js/mero.js></script>
-</body>
+
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/js/mero.js"></script>
+
+  </body>
 </html>
