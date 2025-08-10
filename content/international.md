@@ -5,6 +5,8 @@ draft: false
 ---
 
 ## To Appear
+1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-aware Word Selection for Lyric Translation", ACPR, pp., 2025 ([DOI]())
+1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp., 2025 ([DOI]())
 1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp., 2025 ([DOI]())
 1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@ACMMM, pp., 2025 ([DOI]())
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]())

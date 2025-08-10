@@ -4,6 +4,44 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Kotaro Ikeda" },
+				{ "text": "Chihaya Matsuhira" },
+				{ "text": "Hirotaka Kato" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Lip Shape-aware Word Selection for Lyric Translation.",
+  		"venue": "ACPR",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "",
+			"key": "ACPR2025_ikeda"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{ "text": "Hitomi Kato" },
+				{ "text": "Hirotaka Kato" },
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Origami Crease Recognition for Automatic Folding Diagrams Generation.",
+  		"venue": "ACPR",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "",
+			"key": "ACPR2025_kato"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Takahiro Komamizu" }
  		]},
   		"title": "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions.",
