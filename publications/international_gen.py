@@ -133,7 +133,10 @@ def formatPaper(paper, style='journal'):
 
     if paper['title'].lower() in awards and style != 'preprint':
         out += ' --- {{< awards name="' + awards[paper['title'].lower()] + '" >}}'
-        
+
+    if 'note' in paper:
+        out += ' --- ' + paper['note']
+
     return out
 
 

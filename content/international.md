@@ -5,11 +5,12 @@ draft: false
 ---
 
 ## To Appear
+1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", IEICE Trans. Inf. Syst., Vol.E109-D, No.2, pp., 2026 ([DOI]())
 1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-aware Word Selection for Lyric Translation", ACPR, pp., 2025 ([DOI]())
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp., 2025 ([DOI]())
 1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp., 2025 ([DOI]())
 1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@ACMMM, pp., 2025 ([DOI]())
-1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]())
+1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]()) --- Presentation only
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025 ([DOI](https://doi.org/10.36190/2025.23))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 ([DOI]()) --- {{< awards name="Best Student Paper Award" >}}

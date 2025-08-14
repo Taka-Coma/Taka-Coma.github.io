@@ -1,6 +1,25 @@
 [
 
 	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Nanami Takagi" },
+				{ "text": "Haruya Kyutoku" },
+				{ "text": "Keisuke Doman" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+		]},
+  	"title": "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images.",
+		"venue": "IEICE Trans. Inf. Syst.",
+		"volume": "E109-D",
+		"number": "2",
+		"pages": "",
+		"year": "2026",
+		"ee": ""
+	},
+
+	{
 		"type": "conference",
 		"authors": {
 			"author": [
@@ -85,7 +104,8 @@
   		"pages": "",
   		"year" : "2025",
 			"ee": "",
-			"key": "MVA2025"
+			"key": "MVA2025",
+			"note": "Presentation only"
 	},
 
 	{
