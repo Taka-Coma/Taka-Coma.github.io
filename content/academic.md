@@ -194,13 +194,17 @@ draft: false
 
 
 #### International Journal
-- IEEE Transactions on Computational Social Systems (TCSS): 2021, 2022, 2023, 2024
-- IEEE Transactions on Multimedia (TOMM): 2024
-- IEEE Transactions on Industrial Informatics (TII): 2024
+- ACM Transactions on Knowledge Discovery from Data (TKDD): 2025
+- ACM Transactions on Multimedia Computing Communications and Applications (TOMM): 2025
 - IEEE Access: 2018, 2019, 2025
-- Knowledge and Information Systems (KAIS): 2023, 2025
-- Multimedia Systems: 2020, 2025
-- World Wide Web (WWW): 2018
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2025
+- IEEE Transactions on Computational Social Systems (TCSS): 2021, 2022, 2023, 2024
+- IEEE Transactions on Industrial Informatics (TII): 2024
+- IEEE Transactions on Multimedia (ToMM): 2024
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI): 2025
+- Springer Knowledge and Information Systems (KAIS): 2023, 2025
+- Springer Multimedia Systems: 2020, 2025
+- Springer World Wide Web (WWW): 2018
 - BMC Medical Research Methodology: 2023
 
 ----
