@@ -194,18 +194,18 @@ draft: false
 
 
 #### International Journal
-- ACM Transactions on Knowledge Discovery from Data (TKDD): 2025
-- ACM Transactions on Multimedia Computing Communications and Applications (TOMM): 2025
-- IEEE Access: 2018, 2019, 2025
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2025
-- IEEE Transactions on Computational Social Systems (TCSS): 2021, 2022, 2023, 2024
-- IEEE Transactions on Industrial Informatics (TII): 2024
-- IEEE Transactions on Multimedia (ToMM): 2024
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI): 2025
-- Springer Knowledge and Information Systems (KAIS): 2023, 2025
-- Springer Multimedia Systems: 2020, 2025
-- Springer World Wide Web (WWW): 2018
-- BMC Medical Research Methodology: 2023
+- [ACM Transactions on Knowledge Discovery from Data (TKDD)](https://dl.acm.org/journal/tkdd): 2025
+- [ACM Transactions on Multimedia Computing Communications and Applications (TOMM)](https://dl.acm.org/journal/tomm): 2025
+- [IEEE Access](https://ieeeaccess.ieee.org/): 2018, 2019, 2025
+- [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieee-cas.org/publication/tcsvt): 2025
+- [IEEE Transactions on Computational Social Systems (TCSS)](https://www.ieeesmc.org/publications/transactions-on-computational-social-systems/): 2021, 2022, 2023, 2024
+- [IEEE Transactions on Industrial Informatics (TII)](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics): 2024
+- [IEEE Transactions on Multimedia (ToMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia): 2024
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp): 2025
+- [Springer Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115): 2023, 2025
+- [Springer Multimedia Systems](https://link.springer.com/journal/530): 2020, 2025
+- [Springer World Wide Web (WWW)](https://link.springer.com/journal/11280): 2018
+- [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/): 2023
 
 ----
 
