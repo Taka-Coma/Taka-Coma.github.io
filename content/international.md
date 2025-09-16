@@ -10,9 +10,7 @@ draft: false
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp., 2025 ([DOI]())
 1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp., 2025 ([DOI]())
 1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@ACMMM, pp., 2025 ([DOI]())
-1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025 ([DOI]()) --- Presentation only
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
-1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025 ([DOI](https://doi.org/10.36190/2025.23))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 ([DOI]()) --- {{< awards name="Best Student Paper Award" >}}
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 ----
@@ -39,6 +37,8 @@ draft: false
 1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son Tran, "ICDAR 25: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.2145-2147, 2025 ([DOI](https://doi.org/10.1145/3731715.3734511))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_31))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_17))
+1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp.1-9, 2025 ([DOI](https://doi.org/10.36190/2025.23))
+1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, 2025 --- Presentation only
 ### 2024
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", CVPR Workshops, pp.2111-2120, 2024 ([DOI](https://doi.org/10.1109/CVPRW63382.2024.00216))
 1. Tatsuya Kato, [Takahiro Komamizu](/), Ichiro Ide, "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval", DEXA, pp.233-247, 2024 ([DOI](https://doi.org/10.1007/978-3-031-68312-1_18), [slide](/pdfs/DEXA2024.pdf)) --- {{< awards name="Best Paper Award" >}}

@@ -1,5 +1,40 @@
 [
 
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{ "text": "Yuka Teramoto" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Mitsunori Matsushita" },
+				{ "text": "Kenji Hatano" }
+ 		]},
+  		"title": "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction.",
+  		"venue": "MisD@ICWSM",
+  		"pages": "1-9",
+  		"year" : "2025",
+			"ee": "https://doi.org/10.36190/2025.23",
+			"key": "MisD2025"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{ "text": "Nanami Takagi" },
+				{ "text": "Haruya Kyutoku" },
+				{ "text": "Keisuke Doman" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images.",
+  		"venue": "MVA",
+  		"year" : "2025",
+			"key": "MVA2025",
+			"note": "Presentation only"
+	},
+
 	{
 		"type": "conference",
 		"authors": {
