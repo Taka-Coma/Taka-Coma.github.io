@@ -1,6 +1,24 @@
 [
 
 	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Yasutomo Kawanishi" },
+			  { "text": "Trung Thanh NGUYEN" },
+			  { "text": "Junan Chen" }
+ 		]},
+  		"title": "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning.",
+  		"venue": "ACM MM",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "https://doi.org/10.1145/3746027.3762057",
+			"key": "IntentVC2025"
+	},
+
+	{
 		"type": "journal",
 		"authors": {
 			"author": [

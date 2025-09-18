@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. [Takahiro Komamizu](/), Marc A. Kastner, Yasutomo Kawanishi, Trung Thanh NGUYEN, Junan Chen, "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning", ACM MM, pp., 2025 ([DOI](https://doi.org/10.1145/3746027.3762057))
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", IEICE Trans. Inf. Syst., Vol.E109-D, No.2, pp., 2026 ([DOI]())
 1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-aware Word Selection for Lyric Translation", ACPR, pp., 2025 ([DOI]())
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp., 2025 ([DOI]())
