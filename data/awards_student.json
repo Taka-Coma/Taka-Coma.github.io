@@ -1,6 +1,32 @@
 [
 
 	{
+		"venue": "DBWS 2025",
+		"venue_url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
+		"award":  "Presentation Award",
+		"award_jp": "優秀賞",
+		"award_url":  "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E",
+		"paper": {
+			"author": "Tang Wenqiu",
+			"title": "Leveraging control vectors and adversarial reinforcement learning for role playing agents"
+		},
+		"date": "September 2025"
+	},
+
+	{
+		"venue": "DBWS 2025",
+		"venue_url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
+		"award":  "Presentation Award",
+		"award_jp": "優秀賞",
+		"award_url":  "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E",
+		"paper": {
+			"author": "益田 菜々望",
+			"title": "調理動画に基づく調理の`上手さ'評価実験"
+		},
+		"date": "September 2025"
+	},
+
+	{
 		"venue": "DEIM 2024",
 		"venue_url": "https://confit.atlas.jp/guide/event/deim2024/top",
 		"award": "Student Presentation Award",

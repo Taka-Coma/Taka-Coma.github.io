@@ -51,8 +51,6 @@ draft: false
 1. リュウ テイイ, 川西 康友, [駒水 孝裕](/), 井手 一郎, "映像中の微小な鳥に対する検出領域絞込みと検出履歴を考慮した追跡", 電子情報通信学会技術研究報告, Vol.123, No.409, PRMU2023-77, pp.150-155, 2024 ([link](https://ken.ieice.org/ken/paper/20240304Wcbr/))
 ### 2023
 1. 佐野 智也, 外山 勝彦, [駒水 孝裕](/), 増田 知子, "歴史情報としての法令データベースの構築", デジタルアーカイブ学会誌, Vol.7, No.s2, pp.s142-s145, 2023 ([link](https://doi.org/10.24506/jsda.7.s2_s142))
-1. Trung Thanh Nguyen, NGUYEN Phi Le, 川西 康友, [駒水 孝裕](/), 井手 一郎, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 ([link](https://www.nadasemi.jp/dbws-2023/)) -- {{< awards name="Presentation Award Runner-up" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
-1. 加藤 辰弥, [駒水 孝裕](/), 井手 一郎, "画像検索におけるRe-rankerに基づくDiffusion事前計算", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-7, 2023 ([link](https://www.nadasemi.jp/dbws-2023/))
 1. Bolin Zhang, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Chao Yang, Bin Jiang, Ichiro Ide, "Unified Transformer with Fine-grained Contrastive Learning for Cross-modal Recipe Retrieval", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS3-84, 2023
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Leverage Semantic Alignment of Object Relations for Image Captioning", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-84, 2023
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Image Collection Scene Graph Summarization Enhancing Relation Predictor with External Knowledge", 第26回 画像の認識・理解シンポジウム (MIRU2023), pp.IS1-78, 2023
@@ -120,6 +118,13 @@ draft: false
 ### 2009
 1. [駒水 孝裕](/), 天笠 俊之, 北川 博之, "異種XMLデータに対するファセット検索手法の提案", 情報処理学会 研究報告デジタルドキュメント（DD）, Vol.2009-DD-073, No.7, pp.1-8, 2009 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=66263&item_no=1&page_id=13&block_id=8)) -- {{< awards name="IPSJ Yamashita SIG Research Award" url="http://www.ipsj.or.jp/award/yamashita2010.html" >}}
 1. [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案", 第1回データ工学と情報マネジメントに関するフォーラム, pp.B7-6, 2009
+----
+## 査読なし会議（学生発表）
+1. Tang Wenqiu, "Leveraging control vectors and adversarial reinforcement learning for role playing agents", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.C-5, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/)) -- {{< awards name="Presentation Award" url="https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E" >}}
+1. 池田 昂太郎, "擬似対訳を用いた歌詞らしい歌詞翻訳", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.C-13, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/))
+1. 益田 菜々望, "調理動画に基づく調理の`上手さ'評価実験", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.D-5, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/)) -- {{< awards name="Presentation Award" url="https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E" >}}
+1. Trung Thanh Nguyen, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 ([link](https://www.nadasemi.jp/dbws-2023/)) -- {{< awards name="Presentation Award Runner-up" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
+1. 加藤 辰弥, "画像検索におけるRe-rankerに基づくDiffusion事前計算", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-7, 2023 ([link](https://www.nadasemi.jp/dbws-2023/))
 ----
 ## 寄稿
 1. [駒水 孝裕](/), "モビリティ分野に特化したリカレント教育プログラム", D3: DX human resource Development in the Digital era, Vol.4, pp.5, 2025.3 ([link](https://drive.google.com/file/d/1V4Ertz6uUJLRPcpnc66NbR3f-oShCLOo/view))

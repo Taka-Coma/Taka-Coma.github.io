@@ -36,6 +36,10 @@ draft: false
             'text': '査読なし会議',
             'url': "./domestic_nonrefconf.json"
         },
+        'students_conference': {
+            'text': '査読なし会議（学生発表）',
+            'url': "./domestic_students.json"
+        },
         'article': {
             'text': '寄稿',
             'url': "./domestic_article.json"
