@@ -43,7 +43,7 @@ draft: false
     Organization co-chair
 - Dec. 2024 - Nov. 2025,
     [Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)](https://www.kjdb.or.kr/),
-    Local member
+    Organizing Co-chair
 
 #### Past Activities
 
