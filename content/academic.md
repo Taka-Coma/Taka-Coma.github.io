@@ -90,6 +90,9 @@ draft: false
 
 #### Current Activities
 
+- Sep. 2025 - Dec. 2025,
+    [14th International Symposium on Information and Communication Technology (SoICT 2025)](https://soict.org/),
+    PC member
 - May. 2025 - Dec. 2025,
     [25th IEEE International Conferenceon Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/index.html),
     PC member
