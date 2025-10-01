@@ -4,6 +4,23 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+			  { "text": "Junan Chen" },
+			  { "text": "Trung Thanh NGUYEN" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning.",
+  		"venue": "MMAsia",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": "",
+			"key": "MMAsia2025"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Takahiro Komamizu" },
 				{ "text": "Marc A. Kastner" },
 				{ "text": "Yasutomo Kawanishi" },
