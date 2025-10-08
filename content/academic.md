@@ -162,6 +162,8 @@ draft: false
 ### Reviewer
 
 #### International Conference
+- May 2026,
+    [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2026.ieeeicassp.org/)
 - [Meta] Jul. 2025, 
     [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
