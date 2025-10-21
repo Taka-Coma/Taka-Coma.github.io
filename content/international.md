@@ -5,12 +5,14 @@ draft: false
 ---
 
 ## To Appear
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI]())
+1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide , "Semantic Alignment on Action for Image Captioning", IEEE Access, pp., 2025 ([DOI]())
 1. Junan Chen, Trung Thanh NGUYEN, [Takahiro Komamizu](/), Ichiro Ide, "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning", MMAsia, pp., 2025 ([DOI]())
 1. [Takahiro Komamizu](/), Marc A. Kastner, Yasutomo Kawanishi, Trung Thanh NGUYEN, Junan Chen, "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning", ACM MM, pp., 2025 ([DOI](https://doi.org/10.1145/3746027.3762057))
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", IEICE Trans. Inf. Syst., Vol.E109-D, No.2, pp., 2026 ([DOI]())
 1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-aware Word Selection for Lyric Translation", ACPR, pp., 2025 ([DOI]())
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp., 2025 ([DOI]())
-1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp., 2025 ([DOI]())
+1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp., 2025 ([DOI](https://doi.org/10.1145/3746266.3762160))
 1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@ACMMM, pp., 2025 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 ([DOI]()) --- {{< awards name="Best Student Paper Award" >}}

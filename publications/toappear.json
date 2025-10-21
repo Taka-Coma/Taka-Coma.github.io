@@ -1,5 +1,40 @@
 [
 
+
+	{
+		"type": "journal",
+		"authors": {
+			"author": [
+			  { "text": "Trung Thanh NGUYEN" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide " }
+ 		]},
+  		"title": "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection.",
+  		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
+	{
+		"type": "journal",
+		"authors": {
+			"author": [
+			  { "text": "Da Huo" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Takatsugu Hirayama" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Ichiro Ide " }
+ 		]},
+  		"title": "Semantic Alignment on Action for Image Captioning.",
+  		"venue": "IEEE Access",
+  		"pages": "",
+  		"year" : "2025",
+			"ee": ""
+	},
+
 	{
 		"type": "conference",
 		"authors": {
@@ -102,7 +137,7 @@
   		"venue": "MMGR@ACMMM",
   		"pages": "",
   		"year" : "2025",
-			"ee": "",
+			"ee": "https://doi.org/10.1145/3746266.3762160",
 			"key": "MMGR2025"
 	},
 
