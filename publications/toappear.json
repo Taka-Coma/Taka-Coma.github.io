@@ -56,6 +56,24 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Sherzod Hakimov" },
+			  { "text": "David Semedo" },
+			  { "text": "Eric Müller-Budack" },
+				{ "text": "Marc A. Kastner" },
+				{ "text": "Takahiro Komamizu" }
+ 		]},
+  		"title": "MUWS 2025: The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media.",
+  		"venue": "ACM MM",
+  		"pages": "14308-14310",
+  		"year" : "2025",
+			"ee": "https://doi.org/10.1145/3746027.3762109",
+			"key": "MUWS2025"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 				{ "text": "Takahiro Komamizu" },
 				{ "text": "Marc A. Kastner" },
 				{ "text": "Yasutomo Kawanishi" },
@@ -64,7 +82,7 @@
  		]},
   		"title": "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning.",
   		"venue": "ACM MM",
-  		"pages": "",
+  		"pages": "13813–13814",
   		"year" : "2025",
 			"ee": "https://doi.org/10.1145/3746027.3762057",
 			"key": "IntentVC2025"
@@ -141,6 +159,7 @@
 			"key": "MMGR2025"
 	},
 
+
 	{
 		"type": "conference",
 		"authors": {
@@ -153,10 +172,10 @@
  		]},
   		"title": "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features.",
   		"venue": "MUWS@ACMMM",
-  		"pages": "",
+  		"pages": "17 - 25",
   		"year" : "2025",
-			"ee": "",
-			"key": "MUWS2025"
+			"ee": "https://doi.org/10.1145/3728481.376216",
+			"key": "MUWS2025_Tanaka"
 	},
 
 	{
