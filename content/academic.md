@@ -42,7 +42,7 @@ draft: false
     [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
 - Dec. 2024 - Nov. 2025,
-    [Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)](https://www.kjdb.or.kr/),
+    [Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)](https://kj-db.org/kjdb/kjdb2025/),
     Organizing Co-chair
 
 #### Past Activities
