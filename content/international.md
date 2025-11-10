@@ -5,11 +5,12 @@ draft: false
 ---
 
 ## To Appear
-1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI]())
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "View-aware Cross-modal Distillation for Multi-view Action Recognitio", FG, pp., 2026 ([DOI]())
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide , "Semantic Alignment on Action for Image Captioning", IEEE Access, pp., 2025 ([DOI]())
 1. Junan Chen, Trung Thanh NGUYEN, [Takahiro Komamizu](/), Ichiro Ide, "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning", MMAsia, pp., 2025 ([DOI]())
 1. Sherzod Hakimov, David Semedo, Eric Müller-Budack, Marc A. Kastner, [Takahiro Komamizu](/), "MUWS 2025: The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media", ACM MM, pp.14308-14310, 2025 ([DOI](https://doi.org/10.1145/3746027.3762109))
-1. [Takahiro Komamizu](/), Marc A. Kastner, Yasutomo Kawanishi, Trung Thanh NGUYEN, Junan Chen, "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning", ACM MM, pp.13813–13814, 2025 ([DOI](https://doi.org/10.1145/3746027.3762057))
+1. [Takahiro Komamizu](/), Marc A. Kastner, Yasutomo Kawanishi, Trung Thanh NGUYEN, Junan Chen, "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning", ACM MM, pp.13813–13814, 2025 ([DOI](https://doi.org/10.1145/3746027.3762057), [slide](/pdfs/IntentVC@ACMMM2025.pdf))
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", IEICE Trans. Inf. Syst., Vol.E109-D, No.2, pp., 2026 ([DOI]())
 1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-aware Word Selection for Lyric Translation", ACPR, pp., 2025 ([DOI]())
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp., 2025 ([DOI]())

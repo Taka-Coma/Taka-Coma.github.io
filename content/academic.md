@@ -32,12 +32,6 @@ draft: false
 
 #### Current Activities
 
-- Feb. 2025 - Oct. 2025,
-    [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)](https://muws-workshop.github.io/),
-    Organizing Committee member
-- Feb. 2025 - Oct. 2025,
-    [IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM 2025)](https://sites.google.com/view/intentvc/),
-    Organizing Committee member
 - Feb. 2025 - Dec. 2025,
     [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
@@ -47,6 +41,12 @@ draft: false
 
 #### Past Activities
 
+- Feb. 2025 - Oct. 2025,
+    [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)](https://muws-workshop.github.io/),
+    Organizing Committee member
+- Feb. 2025 - Oct. 2025,
+    [IntentVC: Intention-Oriented Controllable Video Captioning (Grand Challenge at ACMMM 2025)](https://sites.google.com/view/intentvc/),
+    Organizing Committee member
 - Nov. 2024 - Jul. 2025,
     [5th International Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR@ICMR 2025)](https://www2.nict.go.jp/bidal/icdar_icmr2025/index.html),
     Organizing Committee member

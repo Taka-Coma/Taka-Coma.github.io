@@ -1,5 +1,22 @@
 [
 
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+			  { "text": "Trung Thanh NGUYEN" },
+				{ "text": "Yasutomo Kawanishi" },
+				{ "text": "Vijay John" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide " }
+ 		]},
+  		"title": "View-aware Cross-modal Distillation for Multi-view Action Recognition",
+  		"venue": "FG",
+  		"pages": "",
+  		"year" : "2026",
+			"ee": "",
+			"key": "FG2026"
+	},
 
 	{
 		"type": "journal",
@@ -14,7 +31,7 @@
   		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
   		"pages": "",
   		"year" : "2025",
-			"ee": ""
+			"ee": "https://dl.acm.org/doi/10.1145/3773986"
 	},
 
 	{
