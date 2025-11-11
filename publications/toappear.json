@@ -19,40 +19,6 @@
 	},
 
 	{
-		"type": "journal",
-		"authors": {
-			"author": [
-			  { "text": "Trung Thanh NGUYEN" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection.",
-  		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": "https://dl.acm.org/doi/10.1145/3773986"
-	},
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-			  { "text": "Da Huo" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "Semantic Alignment on Action for Image Captioning.",
-  		"venue": "IEEE Access",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": ""
-	},
-
-	{
 		"type": "conference",
 		"authors": {
 			"author": [
@@ -67,42 +33,6 @@
   		"year" : "2025",
 			"ee": "",
 			"key": "MMAsia2025"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Sherzod Hakimov" },
-			  { "text": "David Semedo" },
-			  { "text": "Eric Müller-Budack" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Takahiro Komamizu" }
- 		]},
-  		"title": "MUWS 2025: The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media.",
-  		"venue": "ACM MM",
-  		"pages": "14308-14310",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1145/3746027.3762109",
-			"key": "MUWS2025"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Yasutomo Kawanishi" },
-			  { "text": "Trung Thanh NGUYEN" },
-			  { "text": "Junan Chen" }
- 		]},
-  		"title": "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning.",
-  		"venue": "ACM MM",
-  		"pages": "13813–13814",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1145/3746027.3762057",
-			"key": "IntentVC2025"
 	},
 
 	{
@@ -125,74 +55,19 @@
 	},
 
 	{
-		"type": "conference",
+		"type": "journal",
 		"authors": {
 			"author": [
-				{ "text": "Kotaro Ikeda" },
-				{ "text": "Chihaya Matsuhira" },
-				{ "text": "Hirotaka Kato" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide" }
- 		]},
-  		"title": "Lip Shape-aware Word Selection for Lyric Translation.",
-  		"venue": "ACPR",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": "",
-			"key": "ACPR2025_ikeda"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Hitomi Kato" },
-				{ "text": "Hirotaka Kato" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide" }
- 		]},
-  		"title": "Origami Crease Recognition for Automatic Folding Diagrams Generation.",
-  		"venue": "ACPR",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": "",
-			"key": "ACPR2025_kato"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Takahiro Komamizu" }
- 		]},
-  		"title": "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions.",
-  		"venue": "MMGR@ACMMM",
-  		"pages": "47-51",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1145/3746266.3762160",
-			"key": "MMGR@ACMMM2025"
-	},
-
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Yui Tanaka" },
-				{ "text": "Marc A. Kastner" },
+			  { "text": "Trung Thanh NGUYEN" },
 				{ "text": "Yasutomo Kawanishi" },
 				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide" }
+				{ "text": "Ichiro Ide " }
  		]},
-  		"title": "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features.",
-  		"venue": "MUWS@ACMMM",
-  		"pages": "17 - 25",
+  		"title": "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection.",
+  		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
+  		"pages": "",
   		"year" : "2025",
-			"ee": "https://doi.org/10.1145/3728481.376216",
-			"key": "MUWS2025_Tanaka"
+			"ee": "https://dl.acm.org/doi/10.1145/3773986"
 	},
 
 	{
@@ -210,40 +85,6 @@
   		"pages": "",
   		"year" : "2025",
 			"ee": "https://doi.org/10.1145/3744742"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-			  { "text": "Trung Thanh NGUYEN" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Vijay John" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion.",
-  		"venue": "FG",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": "",
-			"key": "FG2025"
-	},
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-				{ "text": "Carlos Victorino Padeiro" },
-				{ "text": "Tse-Wei Chen" },
-			  { "text": "Takahiro Komamizu" },
-			  { "text": "Ichiro Ide" }
- 		]},
-  		"title": "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection.",
-  		"venue": "IEEE Transactions on AgriFood Electronics",
-  		"pages": "1-13",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1109/tafe.2025.3533416"
 	}
 
 ]
