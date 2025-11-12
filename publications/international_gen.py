@@ -105,7 +105,10 @@ def formatPaper(paper, style='journal'):
     out = f"{authors}, \"{paper['title'][:-1].replace(' - ', ': ')}\", {paper['venue']}"
 
     if "volume" in paper:
-        out += f", Vol.{paper['volume']}"
+        if style == 'preprint':
+            out += f", {paper['volume']}"
+        else:
+            out += f", Vol.{paper['volume']}"
 
     if "number" in paper:
         out += f", No.{paper['number']}"

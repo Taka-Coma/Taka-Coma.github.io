@@ -136,6 +136,7 @@ draft: false
 1. [駒水 孝裕](/), "A Study on Faceted Search for Semi-structured Data", 学位論文紹介, DBSJ, 2016.4 ([link](http://dbsj.org/dissertation/2015/5130/))
 ----
 ## 編集
+1. [駒水 孝裕](/), "若手研究者対談企画号", DBSJ Newsletter, Vol.18, No.6, 2025.11 ([link](https://dbsj.org/newsletter-vol-18-no-6/))
 1. [駒水 孝裕](/), "若手研究者対談企画号", DBSJ Newsletter, Vol.17, No.6, 2024.11 ([link](https://dbsj.org/newsletter-vol-17-no-6/))
 1. [駒水 孝裕](/), "若手研究者対談企画号", DBSJ Newsletter, Vol.16, No.6, 2023.11 ([link](https://dbsj.org/newsletter-vol-16-no-6/))
 1. [駒水 孝裕](/), "若手研究者対談企画号", DBSJ Newsletter, Vol.15, No.6, 2022.11 ([link](https://dbjapan.dbsj.org/mailman3/hyperkitty/list/dbjapan@dbsj.org/thread/6PNECOVURENVGQAWI25EYMEWSKCCPU77/))
