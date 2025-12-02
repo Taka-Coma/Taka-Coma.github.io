@@ -163,7 +163,7 @@ draft: false
 
 #### International Conference
 - May 2026,
-    [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2026.ieeeicassp.org/)
+    [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/)
 - [Meta] Jul. 2025, 
     [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
@@ -204,11 +204,12 @@ draft: false
 - [IEEE Access](https://ieeeaccess.ieee.org/): 2018, 2019, 2025
 - [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieee-cas.org/publication/tcsvt): 2025
 - [IEEE Transactions on Computational Social Systems (TCSS)](https://www.ieeesmc.org/publications/transactions-on-computational-social-systems/): 2021, 2022, 2023, 2024
+- [ IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing): 2025
 - [IEEE Transactions on Industrial Informatics (TII)](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics): 2024
-- [IEEE Transactions on Multimedia (ToMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia): 2024
+- [IEEE Transactions on Multimedia (TMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia): 2024, 2025
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp): 2025
 - [Springer Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115): 2023, 2025
-- [Springer Multimedia Systems](https://link.springer.com/journal/530): 2020, 2025
+- [Springer Multimedia Systems (MMSJ)](https://link.springer.com/journal/530): 2020, 2025
 - [Springer World Wide Web (WWW)](https://link.springer.com/journal/11280): 2018
 - [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/): 2023
 
