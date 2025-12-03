@@ -31,7 +31,8 @@
  		]},
   		"title": "Semantic Alignment on Action for Image Captioning.",
   		"venue": "IEEE Access",
-  		"pages": "1-15",
+			"volume": "13",
+  		"pages": "199615 - 199629",
   		"year" : "2025",
 			"ee": "https://doi.org/10.1109/access.2025.3631093"
 	},

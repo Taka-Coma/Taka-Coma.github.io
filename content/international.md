@@ -13,7 +13,7 @@ draft: false
 ----
 ## International Journals
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
-1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide , "Semantic Alignment on Action for Image Captioning", IEEE Access, pp.1-15, 2025 ([DOI](https://doi.org/10.1109/access.2025.3631093))
+1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide , "Semantic Alignment on Action for Image Captioning", IEEE Access, Vol.13, pp.199615 - 199629, 2025 ([DOI](https://doi.org/10.1109/access.2025.3631093))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
 1. Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning", IEEE Access, Vol.12, pp.55889-55904, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3390153), [homepage](https://zero-pima.github.io/))
@@ -33,6 +33,8 @@ draft: false
 ----
 ## International Conferences
 ### 2025
+1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-Aware Word Selection for Lyric Translation", ACPR, pp.48-62, 2025 ([DOI](https://doi.org/10.1007/978-981-95-4398-4_4))
+1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp.16-31, 2025 ([DOI](https://doi.org/10.1007/978-981-95-4398-4_2))
 1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son Tran, "ICDAR 25: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.2145-2147, 2025 ([DOI](https://doi.org/10.1145/3731715.3734511))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_31))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_17))
