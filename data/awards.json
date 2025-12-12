@@ -1,6 +1,19 @@
 [
 
 	{
+		"venue": "MMAsia 2025",
+		"venue_url": "https://mmasia2025.org/",
+		"award": "Best Oral Award",
+		"award_jp": "最優秀口頭発表賞",
+		"award_url": "",
+		"paper": {
+			"author": "Junan Chen, Trung Thanh Nguyen, Takahiro Komamizu, Ichiro Ide",
+  		"title": "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning"
+		},
+		"date": "December 2025"
+	},
+
+	{
 		"venue": "FG 2025",
 		"venue_url": "https://fg2025.ieee-biometrics.org/",
 		"award": "Best Student Paper Award",
@@ -23,7 +36,7 @@
 			"author": "Chihaya Matsuhira, Marc A. Kastner, Takahiro Komamizu, Takatsugu Hirayama, Ichiro Ide",
   		"title": "Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation"
 		},
-		"date": "Oct 2024"
+		"date": "October 2024"
 	},
 
 	{

@@ -1,0 +1,170 @@
+[
+
+	{
+		"venue": "MIRU 2023",
+		"venue_url": "http://cvim.ipsj.or.jp/MIRU2023/",
+		"award": "Best Poster Award",
+		"award_jp": "MIRU インタラクティブ発表賞",
+		"award_url": "http://cvim.ipsj.or.jp/MIRU2023/award/",
+		"paper": {
+			"author" :"松平 茅隼, カストナーマークアウ レル, 駒水 孝裕, 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎",
+			"title": "類音語の連想性を考慮した未知語の発音に対する画像生成"
+		}, 
+		"date": "July 2023"
+	},
+
+	{
+		"venue": "SWO 51",
+		"venue_url": "https://www.sigswo.org/papers/51program",
+		"award": "JSAI Incentive Award",
+		"award_jp": "人工知能学会研究会優秀賞",
+		"award_url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/", 
+		"paper": {
+			"author": "駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "法令沿革LOD構築のためのDBpediaにおける法令エンティティの同定"
+		},
+		"date": "June 2021"
+	}, 
+
+	{
+		"venue": "WiNF 2020",
+		"venue_url": "https://sites.google.com/view/winf2020",
+		"award": "Best Paper Award",
+		"award_jp": "最優秀賞",
+		"award_url": "https://sites.google.com/view/winf2020/award",
+		"paper": {
+			"author": "近藤 匠, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用"
+		},
+		"date": "November 2020"
+	}, 
+
+	{
+		"venue": "DEIM 2020",
+		"venue_url": "http://db-event.jpn.org/deim2020/",
+		"award": "Online Presentation Award",
+		"award_jp": "オンラインプレゼンテーション賞",
+		"award_url": "http://db-event.jpn.org/deim2020/post/awards.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "不均衡データ分類フレームワークにおけるサンプリング比率の最適化"
+		},
+		"date": "March 2020"
+	},
+
+	{
+		"venue": "WebDBF 2019",
+		"venue_url": "http://db-event.jpn.org/webdbf2019/",
+		"award": "FUJITSU Award",
+		"award_jp": "FUJITSU賞",
+		"award_url": "https://db-event.jpn.org/webdbf2019/award.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク"
+		},
+		"date": "September 2019"
+	},
+
+	{
+		"venue": "WebDBF 2019",
+		"venue_url": "http://db-event.jpn.org/webdbf2019/",
+		"award": "FRONTEO Award",
+		"award_jp": "株式会社FRONTEO賞",
+		"award_url": "https://db-event.jpn.org/webdbf2019/award.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク"
+		},
+		"date": "September 2019"
+	},
+
+	{
+		"venue": "WebDBF 2019",
+		"venue_url": "http://db-event.jpn.org/webdbf2019/",
+		"award": "MicroAd Award",
+		"award_jp": "マイクロアド賞",
+		"award_url": "https://db-event.jpn.org/webdbf2019/award.html",
+		"paper": {
+			"author": "植原 リサ, 駒水 孝裕, 小川 泰弘, 外山 勝彦",
+			"title": "弱分類器の調整に基づく不均衡データ向けアンサンブル・フレームワーク"
+		},
+		"date": "September 2019"
+	},
+
+	{
+		"venue": "DEIM 2018",
+		"venue_url": "http://db-event.jpn.org/deim2018/",
+		"award": "Poster Award",
+		"award_jp": "優秀インタラクティブ賞",
+		"award_url": "http://db-event.jpn.org/deim2018/post/award",
+		"paper": {
+			"author": "伊藤 寛祥, 駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "ノードがテキスト情報を持つ動的ネットワークにおけるノードと単語の分散表現学習"
+		},
+		"date": "March 2018"
+	},
+
+	{
+		"venue": "Graduate School of SIE, University of Tsukuba",
+		"venue_url": "https://www.sie.tsukuba.ac.jp/", 
+		"award": "Distinguished Student Award from the Chair of Department of Computer Science",
+		"award_jp": "CS専攻長表彰",
+		"award_url": "http://www.cs.tsukuba.ac.jp/internal/awards.html#26",
+		"paper": {
+			"author": "Takahiro Komamizu"
+		},
+		"date": "March 2015"
+	},
+
+	{
+		"venue": "Graduate School of SIE, University of Tsukuba",
+		"venue_url": "https://www.sie.tsukuba.ac.jp/",
+		"award": "Distinguished Student Award from the Chair of Department of Computer Science",
+		"award_jp": "CS専攻長表彰",
+		"award_url": "http://www.cs.tsukuba.ac.jp/internal/awards.html#23",
+		"paper": {
+			"author": "Takahiro Komamizu"
+		},
+		"date": "March 2012"
+	},
+
+	{
+		"venue": "情報処理学会",
+		"venue_url": "http://www.ipsj.or.jp/index.html",
+		"award": "IPSJ Yamashita SIG Research Award ",
+		"award_jp": "山下記念研究賞",
+		"award_url": "http://www.ipsj.or.jp/award/yamashita2010.html",
+		"paper": {
+			"author": "駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "異種XMLデータに対するファセット検索手法の提案"
+		},
+		"date": "March 2011"
+	},
+
+	{
+		"venue": "IPSJ 全国大会 2011",
+		"venue_url": "http://www.ipsj.or.jp/10jigyo/taikai/73kai/",
+		"award": "Student Award",
+		"award_jp": "学生奨励賞",
+		"award_url": "http://www.ipsj.or.jp/award/taikaigakusei.html",
+		"paper": {
+			"author": "駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "XMLデータに対するファセット検索のユーザビリティ評価"
+		},
+		"date": "March 2011"
+	},
+
+	{
+		"venue": "DEIM 2010",
+		"venue_url": "http://db-event.jpn.org/deim2010/",
+		"award": "Student Award",
+		"award_jp": "学生奨励賞",
+		"award_url": "http://db-event.jpn.org/deim2010/award.html",
+		"paper": {
+			"author": "駒水 孝裕, 天笠 俊之, 北川 博之",
+			"title": "異種XMLデータに対するファセット検索における多様な検索"
+		},
+		"date": "March 2010"
+	}
+
+]

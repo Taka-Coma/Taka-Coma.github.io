@@ -4,6 +4,24 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+			  { "text": "Junan Chen" },
+			  { "text": "Trung Thanh NGUYEN" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning.",
+  		"venue": "MMAsia",
+  		"pages": "1--7",
+			"number": "7",
+  		"year" : "2025",
+			"ee": "https://doi.org/10.1145/3743093.3770950",
+			"key": "MMAsia2025"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 			  { "text": "Trung Thanh NGUYEN" },
 				{ "text": "Yasutomo Kawanishi" },
 				{ "text": "Vijay John" },
@@ -17,66 +35,6 @@
 			"ee": "https://doi.org/10.1109/FG61629.2025.11099071",
 			"key": "FG2025"
 	},
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-			  { "text": "Da Huo" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "Semantic Alignment on Action for Image Captioning.",
-  		"venue": "IEEE Access",
-			"volume": "13",
-  		"pages": "199615 - 199629",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1109/access.2025.3631093"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Kotaro Ikeda" },
-				{ "text": "Chihaya Matsuhira" },
-				{ "text": "Hirotaka Kato" },
-				{ "text": "Marc A. Kastner" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide" }
- 		]},
-  		"title": "Lip Shape-aware Word Selection for Lyric Translation.",
-  		"venue": "ACPR",
-  		"pages": "48–62",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1007/978-981-95-4398-4_4",
-			"key": "ACPR2025_ikeda"
-	},
-
-	{
-		"type": "conference",
-		"authors": {
-			"author": [
-				{ "text": "Hitomi Kato" },
-				{ "text": "Hirotaka Kato" },
-				{ "text": "Takatsugu Hirayama" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide" }
- 		]},
-  		"title": "Origami Crease Recognition for Automatic Folding Diagrams Generation.",
-  		"venue": "ACPR",
-  		"pages": "16–31",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1007/978-981-95-4398-4_2",
-			"key": "ACPR2025_kato"
-	},
-
-
-
 
 	{
 		"type": "journal",
