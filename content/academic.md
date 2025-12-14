@@ -32,15 +32,14 @@ draft: false
 
 #### Current Activities
 
+#### Past Activities
+
 - Feb. 2025 - Dec. 2025,
     [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
-- Dec. 2024 - Nov. 2025,
+- Dec. 2024 - Dec. 2025,
     [Korea-Japan (Japan-Korea) Database Workshop 2025 (KJDB 2025)](https://kj-db.org/kjdb/kjdb2025/),
     Organizing Co-chair
-
-#### Past Activities
-
 - Feb. 2025 - Oct. 2025,
     [4th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2025)](https://muws-workshop.github.io/),
     Organizing Committee member
