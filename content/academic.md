@@ -89,6 +89,8 @@ draft: false
 
 #### Current Activities
 
+#### Past Activities
+
 - Sep. 2025 - Dec. 2025,
     [14th International Symposium on Information and Communication Technology (SoICT 2025)](https://soict.org/),
     PC member
@@ -98,9 +100,6 @@ draft: false
 - Mar. 2025 - Dec. 2025,
     [2025 IEEE International Conference on Big Data (IEEE BigData 2025)](https://conferences.cis.um.edu.mo/ieeebigdata2025/),
     PC member
-
-#### Past Activities
-
 - Nov. 2024 - Feb. 2025, 
     [13th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2025)](http://pa.icar.cnr.it/scsn25/),
     PC member
