@@ -12,7 +12,7 @@ draft: false
 ----
 ## International Journals
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide, "Semantic Alignment on Action for Image Captioning", IEEE Access, Vol.13, pp.199615-199629, 2025 ([DOI](https://doi.org/10.1109/ACCESS.2025.3631093))
-1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
+1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7-8, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Keisuke Doman, Yasutomo Kawanishi, Ichiro Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3378095))
 1. Trung Thanh Nguyen, Phi Le Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning", IEEE Access, Vol.12, pp.55889-55904, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3390153), [homepage](https://zero-pima.github.io/))
@@ -31,6 +31,8 @@ draft: false
 1. [Takahiro Komamizu](/), Toshiyuki Amagasa, Hiroyuki Kitagawa, "Faceted Navigation Framework for XML Data", Int. J. Web Inf. Syst., Vol.8, No.4, pp.348-370, 2012 ([DOI](https://doi.org/10.1108/17440081211282865))
 ----
 ## International Conferences
+### 2026
+1. Ayano Yasui, [Takahiro Komamizu](/), Tomohiro Masuda, "Evaluation of LLM to Likert-type Psychometric Scale Assessment", ICAP, 2026 --- Presentation only
 ### 2025
 1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-Aware Word Selection for Lyric Translation", ACPR, pp.48-62, 2025 ([DOI](https://doi.org/10.1007/978-981-95-4398-4_4))
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp.16-31, 2025 ([DOI](https://doi.org/10.1007/978-981-95-4398-4_2))

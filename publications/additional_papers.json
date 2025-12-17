@@ -4,6 +4,21 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+				{ "text": "Ayano Yasui" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Tomohiro Masuda" }
+ 		]},
+  		"title": "Evaluation of LLM to Likert-type Psychometric Scale Assessment.",
+  		"venue": "ICAP",
+  		"year" : "2026",
+			"key": "ICAP2025",
+			"note": "Presentation only"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 			  { "text": "Junan Chen" },
 			  { "text": "Trung Thanh NGUYEN" },
 				{ "text": "Takahiro Komamizu" },
