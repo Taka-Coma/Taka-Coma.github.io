@@ -5,7 +5,7 @@
 		"venue_url": "https://mmasia2025.org/",
 		"award": "Best Oral Award",
 		"award_jp": "最優秀口頭発表賞",
-		"award_url": "",
+		"award_url": "https://mmasia2025.org/awards",
 		"paper": {
 			"author": "Junan Chen, Trung Thanh Nguyen, Takahiro Komamizu, Ichiro Ide",
   		"title": "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning"
