@@ -89,6 +89,10 @@ draft: false
 
 #### Current Activities
 
+- Nov. 2025 - Feb. 2026, 
+    [14th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2026)](http://pa.icar.cnr.it/scsn26/),
+    PC member
+
 #### Past Activities
 
 - Sep. 2025 - Dec. 2025,
