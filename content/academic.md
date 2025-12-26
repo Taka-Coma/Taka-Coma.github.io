@@ -89,6 +89,9 @@ draft: false
 
 #### Current Activities
 
+- Dec. 2025 - Jun. 2026,
+    [16th International Conference on Multimedia Retrieval (ICMR 2026)](https://icmr2026.org/),
+    PC member
 - Nov. 2025 - Feb. 2026, 
     [14th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2026)](http://pa.icar.cnr.it/scsn26/),
     PC member
