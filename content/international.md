@@ -7,7 +7,7 @@ draft: false
 ## To Appear
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "View-aware Cross-modal Distillation for Multi-view Action Recognition", FG, pp., 2026 ([DOI]())
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", IEICE Trans. Inf. Syst., Vol.E109-D, No.2, pp., 2026 ([DOI]())
-1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., Vol.22, No.6, pp.1--23, 2025 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 ----
 ## International Journals
@@ -36,7 +36,7 @@ draft: false
 ### 2025
 1. Kotaro Ikeda, Chihaya Matsuhira, Hirotaka Kato, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Lip Shape-Aware Word Selection for Lyric Translation", ACPR, pp.48-62, 2025 ([DOI](https://doi.org/10.1007/978-981-95-4398-4_4))
 1. Hitomi Kato, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Origami Crease Recognition for Automatic Folding Diagrams Generation", ACPR, pp.16-31, 2025 ([DOI](https://doi.org/10.1007/978-981-95-4398-4_2))
-1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son Tran, "ICDAR 25: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.2145-2147, 2025 ([DOI](https://doi.org/10.1145/3731715.3734511))
+1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son N. Tran, "ICDAR 25: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.2145-2147, 2025 ([DOI](https://doi.org/10.1145/3731715.3734511))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_31))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_17))
 1. Junan Chen, Trung Thanh NGUYEN, [Takahiro Komamizu](/), Ichiro Ide, "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning", MMAsia, No.7, pp.1--7, 2025 ([DOI](https://doi.org/10.1145/3743093.3770950)) --- {{< awards name="Best Oral Award" >}}

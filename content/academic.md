@@ -167,6 +167,8 @@ draft: false
 ### Reviewer
 
 #### International Conference
+- Jul. 2026,
+    [IEEE International Conference on Multimedia and Expo 2026](https://2026.ieeeicme.org/)
 - May 2026,
     [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/)
 - [Meta] Jul. 2025, 
@@ -207,7 +209,7 @@ draft: false
 - [ACM Transactions on Knowledge Discovery from Data (TKDD)](https://dl.acm.org/journal/tkdd): 2025
 - [ACM Transactions on Multimedia Computing Communications and Applications (TOMM)](https://dl.acm.org/journal/tomm): 2025
 - [IEEE Access](https://ieeeaccess.ieee.org/): 2018, 2019, 2025
-- [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieee-cas.org/publication/tcsvt): 2025
+- [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieee-cas.org/publication/tcsvt): 2025, 2026
 - [IEEE Transactions on Computational Social Systems (TCSS)](https://www.ieeesmc.org/publications/transactions-on-computational-social-systems/): 2021, 2022, 2023, 2024
 - [ IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing): 2025
 - [IEEE Transactions on Industrial Informatics (TII)](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics): 2024
