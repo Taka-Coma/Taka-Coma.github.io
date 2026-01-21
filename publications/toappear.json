@@ -43,25 +43,6 @@
 			"author": [
 			  { "text": "Trung Thanh NGUYEN" },
 				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection.",
-  		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
-  		"pages": "1-23",
-			"volume": "22",
-			"issue": "1",
-			"number": "6",
-  		"year" : "2025",
-			"ee": "https://dl.acm.org/doi/10.1145/3773986"
-	},
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-			  { "text": "Trung Thanh NGUYEN" },
-				{ "text": "Yasutomo Kawanishi" },
 				{ "text": "Vijay John" },
 				{ "text": "Takahiro Komamizu" },
 				{ "text": "Ichiro Ide " }

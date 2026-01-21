@@ -89,6 +89,9 @@ draft: false
 
 #### Current Activities
 
+- Jan. 2026 - Dec. 2026,
+    [2026 IEEE International Conference on Big Data (IEEE BigData 2026)](https://events.engineering.asu.edu/ieee-bigdata-2026/)
+    PC member
 - Dec. 2025 - Jun. 2026,
     [16th International Conference on Multimedia Retrieval (ICMR 2026)](https://icmr2026.org/),
     PC member

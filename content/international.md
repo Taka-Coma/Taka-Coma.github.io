@@ -7,10 +7,10 @@ draft: false
 ## To Appear
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "View-aware Cross-modal Distillation for Multi-view Action Recognition", FG, pp., 2026 ([DOI]())
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", IEICE Trans. Inf. Syst., Vol.E109-D, No.2, pp., 2026 ([DOI]())
-1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., Vol.22, No.6, pp.1--23, 2025 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 ----
 ## International Journals
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., Vol.22, No.6, pp.1-23, 2026 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide, "Semantic Alignment on Action for Image Captioning", IEEE Access, Vol.13, pp.199615-199629, 2025 ([DOI](https://doi.org/10.1109/ACCESS.2025.3631093))
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7-8, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
@@ -130,6 +130,8 @@ draft: false
 ## Pre-Print
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", CoRR, abs/2504.02287, 2025 ([DOI](https://doi.org/10.48550/arXiv.2504.02287))
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro Ide, "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning", CoRR, abs/2510.10022, 2025 ([DOI](https://doi.org/10.48550/arXiv.2510.10022))
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "View-aware Cross-modal Distillation for Multi-view Action Recognition", CoRR, abs/2511.12870, 2025 ([DOI](https://doi.org/10.48550/arXiv.2511.12870))
+1. Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Small Object Detection for Birds with Swin Transformer", CoRR, abs/2511.22310, 2025 ([DOI](https://doi.org/10.48550/arXiv.2511.22310))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features", CoRR, abs/2404.19542, 2024 ([DOI](https://doi.org/10.48550/arXiv.2404.19542))
 1. Tingwei Liu, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association", CoRR, abs/2405.17323, 2024 ([DOI](https://doi.org/10.48550/arXiv.2405.17323))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Action Selection Learning for Multi-label Multi-view Action Recognition", CoRR, abs/2410.03302, 2024 ([DOI](https://doi.org/10.48550/arXiv.2410.03302))
