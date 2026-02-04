@@ -30,10 +30,6 @@ draft: false
 
 ### Organization 
 
-#### Current Activities
-
-#### Past Activities
-
 - Feb. 2025 - Dec. 2025,
     [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
@@ -87,8 +83,6 @@ draft: false
 
 ### Program Committee
 
-#### Current Activities
-
 - Jan. 2026 - Dec. 2026,
     [2026 IEEE International Conference on Big Data (IEEE BigData 2026)](https://events.engineering.asu.edu/ieee-bigdata-2026/)
     PC member
@@ -98,9 +92,6 @@ draft: false
 - Nov. 2025 - Feb. 2026, 
     [14th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2026)](http://pa.icar.cnr.it/scsn26/),
     PC member
-
-#### Past Activities
-
 - Sep. 2025 - Dec. 2025,
     [14th International Symposium on Information and Communication Technology (SoICT 2025)](https://soict.org/),
     PC member
@@ -229,14 +220,10 @@ draft: false
 
 ### Committee Member
 
-#### Current Activities
-
 - Jul. 2025 - Mar. 2026, [第18回データ工学と情報マネジメントに関するフォーラム (DEIM 2026)](), 実行委員会, プログラム副委員長 
 - Jun. 2025 - Jun. 2027, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会, 幹事
 - Apr. 2023 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 教材分科会, 委員
-
-#### Past Activities
 - Apr. 2023 - Mar. 2025, [情報処理学会](https://www.ipsj.or.jp/), [データベースシステム研究運営委員会](https://www.ipsj-dbs.org/), 専門委員
 - Jun. 2023 - Jun. 2025, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 幹事補佐
 - Oct. 2023 - Sep, 2024, [第23回情報科学技術フォーラム (FIT 2024)](https://www.ipsj.or.jp/event/fit/fit2024/index.html), [委員会](https://www.ipsj.or.jp/event/fit/fit2024/members.html), 研究会担当委員 (ISS-DE)
@@ -258,21 +245,15 @@ draft: false
 
 ### Editor 
 
-#### Current Activities
 - Apr. 2023 - May. 2027, [情報処理学会](https://www.ipsj.or.jp/), [論文誌ジャーナル/JIP編集委員会](https://www.ipsj.or.jp/annai/committee/meibo/2020ronbunshi.html), 編集委員
 - Apr. 2021 - Jul. 2026, [IEICE Transactions on Information and Systems, Special Section on Data Engineering and Information Management](https://www.ieice.org/eng_r/information/schedule/journals.php), Associate Editor, Special Section Editorial Committee
 - Apr. 2023 - Mar. 2027, [情報処理学会](https://www.ipsj.or.jp/), [論文誌データベース編集委員会](https://www.ipsj-tod.org/), 編集委員
-
-#### Past Activities
 - Jul. 2015 - Mar. 2022, [日本データベース学会](http://dbsj.org/), 電子広報編集委員会, 編集委員
 
 ----
 
 ### Program Committee
 
-#### Current Activities
-
-#### Past Activities
 - Jun. 2025 - Sep. 2025, [東海関西データベースワークショップ 2025](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025), プログラム委員会, プログラム委員
 - Sep. 2024 - Sep. 2024, [東海関西データベースワークショップ 2024](https://www.nadasemi.jp/dbws_2024/), プログラム委員会, プログラム委員
 - Sep. 2023 - Sep. 2023, [東海関西データベースワークショップ 2023](https://www.nadasemi.jp/dbws-2023/), プログラム委員会, プログラム委員
