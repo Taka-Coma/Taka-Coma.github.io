@@ -30,6 +30,9 @@ draft: false
 
 ### Organization 
 
+- Jan. 2026 - Aug. 2026,
+    [9th IEEE International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2026)](https://mipr2026.org/),
+   Poster co-chair 
 - Feb. 2025 - Dec. 2025,
     [27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)](https://www.iiwas.org/conferences/iiwas2025/),
     Organization co-chair
