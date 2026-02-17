@@ -1,1 +1,4 @@
-<a href="{{ .Destination | safeURL }}" target="_blank" rel="nofollow">{{ .Text | safeHTML }}</a>
+{{- $isExternal := or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://") -}}
+{{- $isFile := or (strings.HasSuffix .Destination ".pdf") (strings.HasSuffix .Destination ".zip") (strings.HasSuffix .Destination ".doc") (strings.HasSuffix .Destination ".docx") (strings.HasSuffix .Destination ".ppt") (strings.HasSuffix .Destination ".pptx") (strings.HasSuffix .Destination ".xls") (strings.HasSuffix .Destination ".xlsx") -}}
+{{- $shouldOpenInNewTab := or $isExternal $isFile -}}
+<a href="{{ .Destination | safeURL }}"{{ if $shouldOpenInNewTab }} target="_blank" rel="nofollow"{{ end }}>{{ .Text | safeHTML }}</a>

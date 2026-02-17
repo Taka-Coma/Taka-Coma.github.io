@@ -4,6 +4,23 @@
 		"type": "conference",
 		"authors": {
 			"author": [
+			  { "text": "Wenqiu Tang" },
+				{ "text": "Zhen Wan" },
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Ichiro Ide " }
+ 		]},
+  		"title": "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs",
+  		"venue": "PAKDD",
+  		"pages": "",
+  		"year" : "2026",
+			"ee": "",
+			"key": "PAKDD2026"
+	},
+
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
 			  { "text": "Trung Thanh NGUYEN" },
 				{ "text": "Yasutomo Kawanishi" },
 				{ "text": "Vijay John" },

@@ -3,8 +3,13 @@
 import requests
 import json
 import re
+import os
 
-with open('../data/awards.json', 'r') as f:
+# Get the directory where this script is located
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+
+with open(os.path.join(PROJECT_ROOT, 'data', 'awards.json'), 'r') as f:
     data = json.load(f)
 
     awards = {}
@@ -13,7 +18,7 @@ with open('../data/awards.json', 'r') as f:
             continue
         awards[f"{row['paper']['title']}.".lower()] =  row['award']
 
-with open('./appendix.json', 'r') as f:
+with open(os.path.join(SCRIPT_DIR, 'appendix.json'), 'r') as f:
     adds = json.load(f)
 
 
@@ -25,13 +30,13 @@ draft: false
 ---
 ''']
 
-    with open('./toappear.json', 'r') as f:
+    with open(os.path.join(SCRIPT_DIR, 'toappear.json'), 'r') as f:
         data = json.load(f)
         if len(data) > 0:
             out.append("## To Appear")
         for paper in data:
             out.append('1. ' + formatPaper(paper, style=paper['type']))
-        
+
     if len(data) > 0:
         out.append("----")
 
@@ -40,13 +45,11 @@ draft: false
         'journal': {
             'text': 'International Journals',
             'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AJournal_Articles%3A&h=1000&format=json"
-            #'url': "https://dblp.dagstuhl.de/search/publ/api?q=takahiro%20komamizu%20type%3AJournal_Articles%3A&h=1000&format=json"
         },
 
         'conference': {
             'text': 'International Conferences',
             'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AConference_and_Workshop_Papers%3A&h=1000&format=json"
-            #'url': "https://dblp.dagstuhl.de/search/publ/api?q=takahiro%20komamizu%20type%3AConference_and_Workshop_Papers%3A&h=1000&format=json"
 
         },
 
@@ -58,7 +61,6 @@ draft: false
         'preprint': {
             'text': 'Pre-Print',
             'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_and_Other_Publications%3A&h=1000&format=json"
-            #'url': "https://dblp.dagstuhl.de/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_and_Other_Publications%3A&h=1000&format=json"
         }
 
     }
@@ -71,7 +73,7 @@ draft: false
         if style != 'preprint':
             out.append("----")
 
-    with open('../content/international.md', 'w') as f:
+    with open(os.path.join(PROJECT_ROOT, 'content', 'international.md'), 'w') as f:
         f.write('\n'.join(out))
 
 
@@ -144,55 +146,134 @@ def formatPaper(paper, style='journal'):
 
 
 
+def getFirstAuthor(paper):
+    """Get the first author's name for sorting"""
+    if 'authors' not in paper or 'author' not in paper['authors']:
+        return ''
+
+    author = paper['authors']['author']
+    if isinstance(author, dict):
+        return author.get('text', '')
+    elif isinstance(author, list) and len(author) > 0:
+        return author[0].get('text', '')
+    return ''
+
+
+def getVenue(paper):
+    """Get the venue name for sorting"""
+    return paper.get('venue', '')
+
+
+def normalizeTitle(title):
+    """Normalize title for duplicate detection"""
+    if not title:
+        return ''
+    # Remove trailing period, convert to lowercase, strip whitespace
+    normalized = title.lower().strip()
+    if normalized.endswith('.'):
+        normalized = normalized[:-1]
+    return normalized
+
+
 def getPapers(url, style):
+    cache_file = os.path.join(SCRIPT_DIR, 'international_tmp', f'{style}.json')
+
     try:
-        r = requests.get(url, timeout=5)
+        print(f'Fetching {style} from remote...')
+        r = requests.get(url, timeout=10)
+        r.raise_for_status()
         jdata = r.json()
 
-        with open(f'./international_tmp/{style}.json', 'w') as w:
+        # Save to cache
+        os.makedirs(os.path.dirname(cache_file), exist_ok=True)
+        with open(cache_file, 'w') as w:
             json.dump(jdata, w)
+        print(f'  ✓ Successfully fetched {style}')
 
-    except:
-        print('Time out: ', style)
-        with open(f'./international_tmp/{style}.json', 'r') as r:
-            jdata = json.load(r)
+    except Exception as e:
+        print(f'  ✗ Failed to fetch {style}: {e}')
+        print(f'  → Loading from cache: {cache_file}')
+        try:
+            with open(cache_file, 'r') as r:
+                jdata = json.load(r)
+            print(f'  ✓ Successfully loaded from cache')
+        except Exception as cache_error:
+            print(f'  ✗ Failed to load from cache: {cache_error}')
+            raise
 
     data = jdata['result']['hits']['hit']
 
     if style == 'conference':
         out = {}
+        seen_titles = set()  # Track titles to avoid duplicates
+
         for d in data:
             paper = d['info']
+            title_key = normalizeTitle(paper.get('title', ''))
 
-            if paper['year'] not in out:
-                out[paper['year']] = []
-            out[paper['year']].append(paper)
+            if title_key:
+                if title_key not in seen_titles:
+                    seen_titles.add(title_key)
+                    if paper['year'] not in out:
+                        out[paper['year']] = []
+                    out[paper['year']].append(paper)
+                else:
+                    print(f'  ⚠ Duplicate found (remote): "{paper.get("title", "")}"')
 
-        with open('./additional_papers.json', 'r') as f:
+        with open(os.path.join(SCRIPT_DIR, 'additional_papers.json'), 'r') as f:
             data = json.load(f)
 
             for paper in data:
                 if paper['type'] != 'conference':
                     continue
-                if paper['year'] not in out:
-                    out[paper['year']] = []
-                out[paper['year']].append(paper)
-                
+
+                title_key = normalizeTitle(paper.get('title', ''))
+                if title_key:
+                    if title_key not in seen_titles:
+                        seen_titles.add(title_key)
+                        if paper['year'] not in out:
+                            out[paper['year']] = []
+                        out[paper['year']].append(paper)
+                    else:
+                        print(f'  ⚠ Duplicate found (local): "{paper.get("title", "")}"')
+
+        # Sort by year (descending), then by venue, then by first author within each year
+        for year in out:
+            out[year] = sorted(out[year], key=lambda x: (getVenue(x), getFirstAuthor(x)))
+
         return dict(sorted(out.items(), key=lambda x:x[0], reverse=True))
 
     else:
         out = []
-        for d in data:
-            out.append(d['info'])
+        seen_titles = set()  # Track titles to avoid duplicates
 
-        with open('./additional_papers.json', 'r') as f:
+        for d in data:
+            paper = d['info']
+            title_key = normalizeTitle(paper.get('title', ''))
+
+            if title_key:
+                if title_key not in seen_titles:
+                    seen_titles.add(title_key)
+                    out.append(paper)
+                else:
+                    print(f'  ⚠ Duplicate found (remote): "{paper.get("title", "")}"')
+
+        with open(os.path.join(SCRIPT_DIR, 'additional_papers.json'), 'r') as f:
             add = json.load(f)
             for paper in add:
                 if paper['type'] != style:
                     continue
-                out.append(paper)
 
-        return sorted(out, key=lambda x:x['year'], reverse=True)
+                title_key = normalizeTitle(paper.get('title', ''))
+                if title_key:
+                    if title_key not in seen_titles:
+                        seen_titles.add(title_key)
+                        out.append(paper)
+                    else:
+                        print(f'  ⚠ Duplicate found (local): "{paper.get("title", "")}"')
+
+        # Sort by year (descending), then by venue, then by first author
+        return sorted(out, key=lambda x: (int(x['year']) * -1, getVenue(x), getFirstAuthor(x)))
 
 
 

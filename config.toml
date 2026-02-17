@@ -43,7 +43,7 @@ publishDir="docs"
 		text = "Analytical Processing"
 
 	[[params.interests.list]]
-		text = "Legal Information Management"
+		text = "Multimedia Data Management"
 
 
 [params.affiliation]
