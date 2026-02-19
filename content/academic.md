@@ -119,10 +119,10 @@ draft: false
 - Nov. 2023 - Jun. 2024,
     [14th International Conference on Multimedia Retrieval (ICMR 2024)](http://icmr2024.org/),
     PC member
-- Nov. 2023 - Feb. 2023,
+- Nov. 2023 - Feb. 2024,
     [30th International Workshop on Frontiers of Computer Vision (IW-FCV 2024)](https://sites.google.com/view/iw-fcv2024/),
     TPC member
-- Oct. 2023 - Feb. 2023,
+- Oct. 2023 - Feb. 2024,
 	[12th IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge (SCSN@ICSC 2024)](http://pa.icar.cnr.it/scsn24/),
 	PC member
 - Sep. 2023 - Dec. 2023,

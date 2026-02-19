@@ -11,6 +11,7 @@ draft: false
 ----
 ## International Journals
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., Vol.22, No.6, pp.1-23, 2026 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
+1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-Overlaid Food Images", IEICE Trans. Inf. Syst., Vol.109, No.2, pp.284-287, 2026 ([DOI](https://doi.org/10.1587/transinf.2025dvl0007))
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide, "Semantic Alignment on Action for Image Captioning", IEEE Access, Vol.13, pp.199615-199629, 2025 ([DOI](https://doi.org/10.1109/ACCESS.2025.3631093))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7-8, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))
