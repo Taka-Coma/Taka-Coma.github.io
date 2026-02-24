@@ -19,6 +19,14 @@ draft: false
 1. 永野 真知, 早瀬 康裕, [駒水 孝裕](/), 北川 博之, "GitHubとStack Overflowの開発者の活動記録を併用したリポジトリ推薦", ソフトウェアエンジニアリングシンポジウム 2017, pp.138-145, 2017 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183222&item_no=1&page_id=13&block_id=8))
 ----
 ## 査読なし会議
+### 2026
+1. 鈴木 瑛仁, 加藤 大貴, カストナー マークアウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漫画話者推定のためのMLLMへの画像入力手法の検討", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
+1. 松平 颯斗, [駒水 孝裕](/), 井手 一郎, "単一画像謎解きに対する類題検索とインコンテキスト学習を用いた解答支援", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
+1. 益田 菜々望, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "動き・姿勢情報に基づく食材切砕動作の熟練度推定", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
+1. 小川 陽平, [駒水 孝裕](/), 井手 一郎, "サッカー中継映像におけるコーナキックの戦術的類似シーン検索のための映像表現学習の検討", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
+1. 山中 剛, 川西 康友, [駒水 孝裕](/), 井手 一郎, "カテゴリ特化学習による姿勢系列からのマイクロジェスチャ認識", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
+1. グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "視野が部分的に重複する多視点行動認識における視点整合性学習法", 電子情報通信学会技術研究報告, Vol., No., PRMU-, pp., 2026
+1. 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "調理シーンにおける切断行動の手順認識に基づく映像要約", 第18回データ工学と情報マネジメントに関するフォーラム, pp.l1-01, 2026
 ### 2025
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro IDE, "Visual Adapter for Extracting Textually-related Features for Video Captioning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-148, 2025
 1. Lei Xiang, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-079, 2025
