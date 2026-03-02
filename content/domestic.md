@@ -27,6 +27,7 @@ draft: false
 1. 山中 剛, 川西 康友, [駒水 孝裕](/), 井手 一郎, "カテゴリ特化学習による姿勢系列からのマイクロジェスチャ認識", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
 1. グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "視野が部分的に重複する多視点行動認識における視点整合性学習法", 電子情報通信学会技術研究報告, Vol., No., PRMU-, pp., 2026
 1. 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "調理シーンにおける切断行動の手順認識に基づく映像要約", 第18回データ工学と情報マネジメントに関するフォーラム, pp.l1-01, 2026
+1. 池田 昂太郎, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "口唇形状の類似性を考慮した歌詞翻訳のための発音のモデル化", 研究報告音楽情報科学（MUS）, Vol.2026-MUS-145, No.14, pp.1-10, 2026 ([link](https://ipsj.ixsq.nii.ac.jp/records/2007045)) -- {{< awards name="Student Award in Multi/Interdisciplinary Category" url="" >}}
 ### 2025
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro IDE, "Visual Adapter for Extracting Textually-related Features for Video Captioning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-148, 2025
 1. Lei Xiang, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-079, 2025

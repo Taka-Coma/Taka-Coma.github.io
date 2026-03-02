@@ -122,6 +122,30 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "池田 昂太郎" },
+ { "text": "加藤 大貴" },
+ { "text": "平山 高嗣" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "口唇形状の類似性を考慮した歌詞翻訳のための発音のモデル化",
+  		"venue": "研究報告音楽情報科学（MUS）",
+			"volume": "2026-MUS-145",
+			"number": "14",
+  		"pages": "1-10",
+  		"year" : "2026",
+			"ee": "https://ipsj.ixsq.nii.ac.jp/records/2007045",
+			"awards": [
+				{
+					"name": "Student Award in Multi/Interdisciplinary Category",
+					"url": ""
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "Junan Chen" },
  { "text": "Trung Thanh Nguyen" },
  { "text": "Takahiro Komamizu" },
