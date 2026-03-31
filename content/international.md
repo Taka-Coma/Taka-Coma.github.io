@@ -10,7 +10,7 @@ draft: false
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 ----
 ## International Journals
-1. Trung Thanh NGUYEN, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide , "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Transactions on Multimedia Computing Communications and Applications., Vol.22, No.6, pp.1-23, 2026 ([DOI](https://dl.acm.org/doi/10.1145/3773986))
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Trans. Multim. Comput. Commun. Appl., Vol.22, No.1, pp.6:1-6:23, 2026 ([DOI](https://doi.org/10.1145/3773986))
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-Overlaid Food Images", IEICE Trans. Inf. Syst., Vol.109, No.2, pp.284-287, 2026 ([DOI](https://doi.org/10.1587/transinf.2025dvl0007))
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide, "Semantic Alignment on Action for Image Captioning", IEEE Access, Vol.13, pp.199615-199629, 2025 ([DOI](https://doi.org/10.1109/ACCESS.2025.3631093))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
@@ -128,6 +128,7 @@ draft: false
 1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), "Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202", NarSUM@MM, 2023 ([DOI](https://doi.org/10.1145/3607540))
 ----
 ## Pre-Print
+1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide, "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", CoRR, abs/2602.19157, 2026 ([DOI](https://doi.org/10.48550/arXiv.2602.19157))
 1. Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Small Object Detection for Birds with Swin Transformer", CoRR, abs/2511.22310, 2025 ([DOI](https://doi.org/10.48550/arXiv.2511.22310))
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro Ide, "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning", CoRR, abs/2510.10022, 2025 ([DOI](https://doi.org/10.48550/arXiv.2510.10022))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", CoRR, abs/2504.02287, 2025 ([DOI](https://doi.org/10.48550/arXiv.2504.02287))
