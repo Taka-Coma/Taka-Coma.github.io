@@ -14,6 +14,9 @@ publishDir="docs"
   mainImage = "images/icon.jpg"
 	mainLogo = "images/logo_white.svg"
 	email = "taka-coma [at] acm.org"
+	researchMap = "https://researchmap.jp/taka-coma"
+	cvFile = "/pdfs/CV_komamizu_202405.pdf"
+	cvVersion = "202405ver."
 
 
 [params.introduction]
@@ -207,7 +210,7 @@ publishDir="docs"
 [params.social]
   [[params.social.list]]
   class = "fa-brands"
-  icon = "fa-twitter"
+  icon = "fa-x"
 	url = "https://twitter.com/TakaComa"
 
   [[params.social.list]]
