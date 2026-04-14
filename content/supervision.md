@@ -14,6 +14,8 @@ draft: false
 ## As Sub-supervisor
 
 ### Ph.D. Student
+1. [Junan Chen](https://www.cs.is.i.nagoya-u.ac.jp/people/junan-chen/), 2026.4 - now
+1. [Peiyuan Zhu](https://www.cs.is.i.nagoya-u.ac.jp/people/peiyuan-zhu/), 2026.4 - now
 1. [Xiang Lei](https://www.cs.is.i.nagoya-u.ac.jp/people/xiang-lei/), 2024.10 - now
 1. [Tingwei Liu](https://www.cs.is.i.nagoya-u.ac.jp/people/tingwei-liu/), 2024.4 - now
 1. [Nguyen Trung Thanh](https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/), 2024.10 - now
@@ -26,17 +28,20 @@ draft: false
 1. Takahiro Yamakoshi, 2018.4 - 2021.3
 
 ### Master Student
+1. [Yihui Wang](https://www.cs.is.i.nagoya-u.ac.jp/people/yuihui-wang/), 2026.4 - now
+1. [Xi Chen](https://www.cs.is.i.nagoya-u.ac.jp/people/xi-chen/), 2026.4 - now
+1. [Akihito Suzuki](https://www.cs.is.i.nagoya-u.ac.jp/people/akihito-suzuki/), 2026.4 - now
 1. [Yohei Ogawa](https://www.cs.is.i.nagoya-u.ac.jp/people/yohei-ogawa/), 2025.4 - now
 1. [Wen Qiu Tang](https://www.cs.is.i.nagoya-u.ac.jp/people/wenqiu-tang/), 2025.4 - now
 1. [Xueshan Xia](https://www.cs.is.i.nagoya-u.ac.jp/people/xueshan-xia/), 2025.4 - now
 1. [Hitomi Kato](https://www.cs.is.i.nagoya-u.ac.jp/people/hitomi-kato/), 2025.4 - now
 1. [Yui Tanaka](https://www.cs.is.i.nagoya-u.ac.jp/people/yui-tanaka/), 2025.4 - now
-1. [Junan Chen](https://www.cs.is.i.nagoya-u.ac.jp/people/junan-chen/), 2024.4 - now
-1. [Takeshi Yamanaka](https://www.cs.is.i.nagoya-u.ac.jp/people/takeshi-yamanaka/), 2024.4 - now
-1. [Peiyuan Zhu](https://www.cs.is.i.nagoya-u.ac.jp/people/peiyuan-zhu/), 2024.4 - now
-1. [Kotaro Ikeda](https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/), 2024.4 - now
-1. [Marika Watanabe](https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/), 2024.4 - now
-1. [Shui Aoyama](https://www.cs.is.i.nagoya-u.ac.jp/people/shui-aoyama/), 2023.4 - now
+1. [Junan Chen](https://www.cs.is.i.nagoya-u.ac.jp/people/junan-chen/), 2024.4 - 2026.3
+1. [Peiyuan Zhu](https://www.cs.is.i.nagoya-u.ac.jp/people/peiyuan-zhu/), 2024.4 - 2026.3
+1. [Takeshi Yamanaka](https://www.cs.is.i.nagoya-u.ac.jp/people/takeshi-yamanaka/), 2024.4 - 2026.3
+1. [Kotaro Ikeda](https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/), 2024.4 - 2026.3
+1. [Marika Watanabe](https://www.cs.is.i.nagoya-u.ac.jp/people/marika-watanabe/), 2024.4 - 2026.3
+1. [Shui Aoyama](https://www.cs.is.i.nagoya-u.ac.jp/people/shui-aoyama/), 2023.4 - 2026.3
 1. [Yui Miyakawa](https://www.cs.is.i.nagoya-u.ac.jp/people/yui-miyakawa/), 2023.4 - 2025.3
 1. [Nanami Takagi](https://www.cs.is.i.nagoya-u.ac.jp/people/nanami-takagi/), 2023.4 - 2025.3
 1. [Nguyen Trung Thanh](https://www.cs.is.i.nagoya-u.ac.jp/people/truen-thanh-nguyen/), 2022.10 - 2024.9
@@ -57,6 +62,12 @@ draft: false
 1. Weijia Li, 2018.4 - 2020.3
 
 ### Bachelor Student
+1. [Atsushi Mizuno](https://www.cs.is.i.nagoya-u.ac.jp/people/atsushi-mizuno/), 2026.4 - now 
+1. [Takumi Nakada](https://www.cs.is.i.nagoya-u.ac.jp/people/takumi-nakada/), 2026.4 - now 
+1. [Mizuki Fujita](https://www.cs.is.i.nagoya-u.ac.jp/people/mizuki-fujita/), 2026.4 - now 
+1. [Akihito Suzuki](https://www.cs.is.i.nagoya-u.ac.jp/people/akihito-suzuki/), 2025.4 - 2026.3
+1. [Nanami Masuda](https://www.cs.is.i.nagoya-u.ac.jp/people/nanami-masuda/), 2025.4 - 2026.3
+1. [Hayato Matsudaira](https://www.cs.is.i.nagoya-u.ac.jp/people/hayato-matsudaira/), 2025.4 - 2026.3
 1. [Hitomi Kato](https://www.cs.is.i.nagoya-u.ac.jp/people/hitomi-kato/), 2024.4 - 2025.3
 1. [Yui Tanaka](https://www.cs.is.i.nagoya-u.ac.jp/people/yui-tanaka/), 2024.4 - 2025.3
 1. [Kotaro Ikeda](https://www.cs.is.i.nagoya-u.ac.jp/people/kotaro-ikeda/), 2023.4 - 2024.3
