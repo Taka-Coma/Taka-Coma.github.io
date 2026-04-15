@@ -91,8 +91,8 @@ draft: false
 
 ## As Advisor
 - Ph.D. Student at Doshisha University
-	- [Kazuma Kusu](https://www-mil.cis.doshisha.ac.jp/portfolio/kusu-kazuma/), 2021.3 - now
-	- [Yusuke Kimura](https://www-mil.cis.doshisha.ac.jp/portfolio/kimura-yusuke/), 2021.3 - now
 	- [Yuka Teramoto](https://www-mil.cis.doshisha.ac.jp/portfolio/teramoto-yuka/), 2021.3 - now
+	- [Kazuma Kusu](https://www-mil.cis.doshisha.ac.jp/portfolio/kusu-kazuma/), 2021.3 - 2026.3
+	- [Yusuke Kimura](https://www-mil.cis.doshisha.ac.jp/portfolio/kimura-yusuke/), 2021.3 - 2026.3
 
 
