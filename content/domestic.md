@@ -11,6 +11,7 @@ draft: false
 1. [駒水 孝裕](/), "データ工学分野における技術と研究", 科目「ICT活用」, 筑波大学附属坂戸高校, 2012.2
 ----
 ## 論文誌
+1. Kazuma Kusu, [Takahiro Komamizu](/), Kenji Hatano, "Repetition path destination index for repeated graph traversal using adjacency lists", The Harris science review of Doshisha University, Vol.66, No.3, pp.183-195, 2025 ([DOI](https://doi.org/10.14988/0002001369))
 1. Takahiro Yamakoshi, [Takahiro Komamizu](/), Yasuhiro Ogawa, Katsuhiko Toyama, "Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier", Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.4, pp.E-K25_1-17, 2020 ([DOI](https://doi.org/10.1527/tjsai.E-K25))
 1. 山腰 貴大, 小川 泰弘, [駒水 孝裕](/), 外山 勝彦, "ランダムフォレストを用いた法令用語の校正", 人工知能学会論文誌, Vol.35, No.1, pp.H-J53_1-14, 2020 ([DOI](https://doi.org/10.1527/tjsai.H-J53))
 ----

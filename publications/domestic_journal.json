@@ -3,6 +3,25 @@
 	{
 		"authors": {
 			"author": [
+				{ "text": "Kazuma Kusu" }, 
+				{ "text": "Takahiro Komamizu" },
+				{ "text": "Kenji Hatano" }
+			]
+		},
+		"title": "Repetition path destination index for repeated graph traversal using adjacency lists",
+		"venue": "The Harris science review of Doshisha University",
+		"volume": "66",
+		"number": "3",
+		"pages": "183-195",
+		"year": "2025",
+		"ee": "https://doi.org/10.14988/0002001369"
+	}
+	
+	,
+
+	{
+		"authors": {
+			"author": [
 				{ "text": "Takahiro Yamakoshi" }, 
 				{ "text": "Takahiro Komamizu" },
 				{ "text": "Yasuhiro Ogawa" },
