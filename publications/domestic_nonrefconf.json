@@ -12,11 +12,11 @@
  		]},
   		"title": "漫画話者推定のためのMLLMへの画像入力手法の検討",
   		"venue": "電子情報通信学会技術研究報告 (MVE)",
-			"volume": "",
-			"number": "",
-  		"pages": "",
+			"volume": "125",
+			"number": "411, MVE2025-107",
+  		"pages": "448-452",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20260318ScSZ/"
 	},
 
 	{
@@ -28,11 +28,11 @@
  		]},
   		"title": "単一画像謎解きに対する類題検索とインコンテキスト学習を用いた解答支援",
   		"venue": "電子情報通信学会技術研究報告 (MVE)",
-			"volume": "",
-			"number": "",
-  		"pages": "",
+			"volume": "125",
+			"number": "411, MVE2025-56",
+  		"pages": "170-175",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20260316Scs3/"
 	},
 
 	{
@@ -46,11 +46,11 @@
  		]},
   		"title": "動き・姿勢情報に基づく食材切砕動作の熟練度推定",
   		"venue": "電子情報通信学会技術研究報告 (MVE)",
-			"volume": "",
-			"number": "",
-  		"pages": "",
+			"volume": "125",
+			"number": "411, MVE2025-123",
+  		"pages": "532-537",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20260317ccs3/"
 	},
 
 	{
@@ -62,11 +62,11 @@
  		]},
   		"title": "サッカー中継映像におけるコーナキックの戦術的類似シーン検索のための映像表現学習の検討",
   		"venue": "電子情報通信学会技術研究報告 (MVE)",
-			"volume": "",
-			"number": "",
-  		"pages": "",
+			"volume": "125",
+			"number": "411, MVE2025-90",
+  		"pages": "356-361",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20260317ccs3/"
 	},
 
 	{
@@ -79,11 +79,11 @@
  		]},
   		"title": "カテゴリ特化学習による姿勢系列からのマイクロジェスチャ認識",
   		"venue": "電子情報通信学会技術研究報告 (MVE)",
-			"volume": "",
-			"number": "",
-  		"pages": "",
+			"volume": "125",
+			"number": "411, MVE2025-125",
+  		"pages": "543-548",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20260318ecSN/"
 	},
 
 	{
@@ -96,11 +96,11 @@
  		]},
   		"title": "視野が部分的に重複する多視点行動認識における視点整合性学習法",
   		"venue": "電子情報通信学会技術研究報告",
-			"volume": "",
-			"number": ", PRMU-",
-  		"pages": "",
+			"volume": "125",
+			"number": "424, PRMU2025-50",
+  		"pages": "46-51",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20260324FcSp/"
 	},
 
 	{
@@ -116,7 +116,7 @@
   		"venue": "第18回データ工学と情報マネジメントに関するフォーラム",
   		"pages": "l1-01",
   		"year" : "2026",
-			"ee": ""
+			"ee": "https://pub.confit.atlas.jp/ja/event/deim2026/presentation/1I-01"
 	},
 
 	{
@@ -293,7 +293,7 @@
 			"number": "D-12-52",
   		"pages": "",
   		"year" : "2025",
-			"ee": ""
+			"ee": "https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-52"
 	},
 
 	{
@@ -307,11 +307,11 @@
  		]},
   		"title": "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案",
   		"venue": "電子情報通信学会技術研究報告",
-			"volume": "",
-			"number": ", PRMU-",
-  		"pages": "",
+			"volume": "124",
+			"number": "445, PRMU2024-49,",
+  		"pages": "19-24",
   		"year" : "2025",
-			"ee": ""
+			"ee": "https://ken.ieice.org/ken/paper/20250318Lcia/"
 	},
 
 	{

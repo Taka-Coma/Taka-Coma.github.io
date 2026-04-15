@@ -21,13 +21,13 @@ draft: false
 ----
 ## 査読なし会議
 ### 2026
-1. 鈴木 瑛仁, 加藤 大貴, カストナー マークアウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漫画話者推定のためのMLLMへの画像入力手法の検討", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
-1. 松平 颯斗, 井手 一郎, [駒水 孝裕](/), "単一画像謎解きに対する類題検索とインコンテキスト学習を用いた解答支援", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
-1. 益田 菜々望, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "動き・姿勢情報に基づく食材切砕動作の熟練度推定", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
-1. 小川 陽平, [駒水 孝裕](/), 井手 一郎, "サッカー中継映像におけるコーナキックの戦術的類似シーン検索のための映像表現学習の検討", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
-1. 山中 剛, 川西 康友, [駒水 孝裕](/), 井手 一郎, "カテゴリ特化学習による姿勢系列からのマイクロジェスチャ認識", 電子情報通信学会技術研究報告 (MVE), Vol., No., pp., 2026
-1. グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "視野が部分的に重複する多視点行動認識における視点整合性学習法", 電子情報通信学会技術研究報告, Vol., No., PRMU-, pp., 2026
-1. 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "調理シーンにおける切断行動の手順認識に基づく映像要約", 第18回データ工学と情報マネジメントに関するフォーラム, pp.l1-01, 2026
+1. 鈴木 瑛仁, 加藤 大貴, カストナー マークアウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漫画話者推定のためのMLLMへの画像入力手法の検討", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-107, pp.448-452, 2026 ([link](https://ken.ieice.org/ken/paper/20260318ScSZ/))
+1. 松平 颯斗, 井手 一郎, [駒水 孝裕](/), "単一画像謎解きに対する類題検索とインコンテキスト学習を用いた解答支援", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-56, pp.170-175, 2026 ([link](https://ken.ieice.org/ken/paper/20260316Scs3/))
+1. 益田 菜々望, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "動き・姿勢情報に基づく食材切砕動作の熟練度推定", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-123, pp.532-537, 2026 ([link](https://ken.ieice.org/ken/paper/20260317ccs3/))
+1. 小川 陽平, [駒水 孝裕](/), 井手 一郎, "サッカー中継映像におけるコーナキックの戦術的類似シーン検索のための映像表現学習の検討", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-90, pp.356-361, 2026 ([link](https://ken.ieice.org/ken/paper/20260317ccs3/))
+1. 山中 剛, 川西 康友, [駒水 孝裕](/), 井手 一郎, "カテゴリ特化学習による姿勢系列からのマイクロジェスチャ認識", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-125, pp.543-548, 2026 ([link](https://ken.ieice.org/ken/paper/20260318ecSN/))
+1. グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "視野が部分的に重複する多視点行動認識における視点整合性学習法", 電子情報通信学会技術研究報告, Vol.125, No.424, PRMU2025-50, pp.46-51, 2026 ([link](https://ken.ieice.org/ken/paper/20260324FcSp/))
+1. 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "調理シーンにおける切断行動の手順認識に基づく映像要約", 第18回データ工学と情報マネジメントに関するフォーラム, pp.l1-01, 2026 ([link](https://pub.confit.atlas.jp/ja/event/deim2026/presentation/1I-01))
 1. 池田 昂太郎, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "口唇形状の類似性を考慮した歌詞翻訳のための発音のモデル化", 研究報告音楽情報科学（MUS）, Vol.2026-MUS-145, No.14, pp.1-10, 2026 ([link](https://ipsj.ixsq.nii.ac.jp/records/2007045)) -- {{< awards name="Student Award in Multi/Interdisciplinary Category" url="" >}}
 ### 2025
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro IDE, "Visual Adapter for Extracting Textually-related Features for Video Captioning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-148, 2025
@@ -39,8 +39,8 @@ draft: false
 1. Pham Dinh Duy, Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Image Retrieval based on Editable Scene Graph with Contrastive Representation Learning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-097, 2025
 1. 加藤 眸, 加藤 大貴, 平山 高嗣, 駒水孝裕, 井手一郎, "折り図の自動生成のための折り線推定とその評価", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-176, 2025
 1. 田中優衣, カストナーマークアウレル, 川西康友, 駒水孝裕, 井手一郎, "画像特徴のクラスタリングによる形容詞の視覚的な多様性の分析", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-145, 2025
-1. 田中優衣, カストナー マークアウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025
-1. グエン チュン タイン, 川西 康友, ビジェイ ジョン, [駒水 孝裕](/), 井手 一郎, "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案", 電子情報通信学会技術研究報告, Vol., No., PRMU-, pp., 2025
+1. 田中優衣, カストナー マークアウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025 ([link](https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-52))
+1. グエン チュン タイン, 川西 康友, ビジェイ ジョン, [駒水 孝裕](/), 井手 一郎, "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案", 電子情報通信学会技術研究報告, Vol.124, No.445, PRMU2024-49,, pp.19-24, 2025 ([link](https://ken.ieice.org/ken/paper/20250318Lcia/))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.124, No.405 IE2024-118, pp.144-149, 2025 ([link](https://ken.ieice.org/ken/paper/20250306JcjK/))
 1. 加藤 眸, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図の自動生成に向けた折り紙画像からの折り線推定", 電子情報通信学会技術研究報告, Vol.124, No.406, MVE2024-98, pp.373-378, 2025 ([link](https://ken.ieice.org/ken/paper/20250307qcj1/))
 1. 髙木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル重畳料理画像における魅力的なフォントの分析と推定", 第17回データ工学と情報マネジメントに関するフォーラム, pp.6E-05, 2025 ([link](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/6E-05))
