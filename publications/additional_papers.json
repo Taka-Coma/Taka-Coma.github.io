@@ -26,7 +26,9 @@
  		]},
   		"title": "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection.",
   		"venue": "IEEE Transactions on AgriFood Electronics",
-  		"pages": "1-13",
+			"volume": "4",
+			"number": "1",
+  		"pages": "68-80",
   		"year" : "2025",
 			"ee": "https://doi.org/10.1109/tafe.2025.3533416"
 	},
