@@ -5,7 +5,6 @@ draft: false
 ---
 
 ## To Appear
-1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: Multi-modal Multi-view Dataset and Benchmarks for Action Recognition in Home Environment", Pattern Recognit., pp., 2026 ([DOI]())
 1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide , "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", PAKDD, pp., 2026 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "View-aware Cross-modal Distillation for Multi-view Action Recognition", FG, pp., 2026 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
@@ -13,6 +12,7 @@ draft: false
 ## International Journals
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Hierarchical Global-Local Fusion for One-stage Open-vocabulary Temporal Action Detection", ACM Trans. Multim. Comput. Commun. Appl., Vol.22, No.1, pp.6:1-6:23, 2026 ([DOI](https://doi.org/10.1145/3773986))
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-Overlaid Food Images", IEICE Trans. Inf. Syst., Vol.109, No.2, pp.284-287, 2026 ([DOI](https://doi.org/10.1587/transinf.2025dvl0007))
+1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "MultiSensor-Home: Multi-modal Multi-view Dataset and Benchmarks for Action Recognition in Home Environment", Pattern Recognit., Vol.179, No.113810, pp.1-12, 2026 ([DOI](https://doi.org/10.1016/j.patcog.2026.113810))
 1. Da Huo, Marc A. Kastner, Takatsugu Hirayama, [Takahiro Komamizu](/), Yasutomo Kawanishi, Ichiro Ide, "Semantic Alignment on Action for Image Captioning", IEEE Access, Vol.13, pp.199615-199629, 2025 ([DOI](https://doi.org/10.1109/ACCESS.2025.3631093))
 1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, Vol.4, No.1, pp.68-80, 2025 ([DOI](https://doi.org/10.1109/tafe.2025.3533416))
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieval", Int. J. Mach. Learn. Cybern., Vol.16, No.7-8, pp.4509-4524, 2025 ([DOI](https://doi.org/10.1007/s13042-024-02520-w))

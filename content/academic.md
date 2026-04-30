@@ -30,6 +30,9 @@ draft: false
 
 ### Organization 
 
+- Feb. 2026 - Oct. 2026,
+    [5th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2026)](https://muws-workshop.github.io/),
+    Organizing Committee member
 - Jan. 2026 - Aug. 2026,
     [9th IEEE International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2026)](https://mipr2026.org/),
    Poster co-chair 
