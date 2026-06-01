@@ -89,11 +89,14 @@ draft: false
 
 ### Program Committee
 
-- Feb. 2026 - Nov. 2026,
-    [34th ACM International Conference on Multimedia](https://2026.acmmm.org/),
-    PC member
 - Jan. 2026 - Dec. 2026,
     [2026 IEEE International Conference on Big Data (IEEE BigData 2026)](https://events.engineering.asu.edu/ieee-bigdata-2026/),
+    PC member
+- Feb. 2026 - Nov. 2026,
+    [34th ACM International Conference on Multimedia (ACM MM 2026)](https://2026.acmmm.org/),
+    PC member
+- May 2025 - Nov. 2026, 
+    [22nd International Conference on Advanced Data Mining and Applications (ADM 2026)](https://adma2026.github.io/),
     PC member
 - Dec. 2025 - Jun. 2026,
     [16th International Conference on Multimedia Retrieval (ICMR 2026)](https://icmr2026.org/),
@@ -101,10 +104,13 @@ draft: false
 - Nov. 2025 - Feb. 2026, 
     [14th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2026)](http://pa.icar.cnr.it/scsn26/),
     PC member
+- Apr. 2025 - Oct. 2025,
+    [21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/),
+    PC member
 - Sep. 2025 - Dec. 2025,
     [14th International Symposium on Information and Communication Technology (SoICT 2025)](https://soict.org/),
     PC member
-- May. 2025 - Dec. 2025,
+- May 2025 - Dec. 2025,
     [25th IEEE International Conferenceon Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/index.html),
     PC member
 - Mar. 2025 - Dec. 2025,
@@ -171,7 +177,7 @@ draft: false
 
 #### International Conference
 - Jul. 2026,
-    [IEEE International Conference on Multimedia and Expo 2026](https://2026.ieeeicme.org/)
+    [IEEE International Conference on Multimedia and Expo 2026 (ICME 2026)](https://2026.ieeeicme.org/)
 - May 2026,
     [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/)
 - [Meta] Jul. 2025, 
