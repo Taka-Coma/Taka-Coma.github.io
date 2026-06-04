@@ -35,24 +35,6 @@
 	},
 
 	{
-		"type": "conference",
-		"authors": {
-			"author": [
-			  { "text": "Trung Thanh NGUYEN" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Vijay John" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "View-aware Cross-modal Distillation for Multi-view Action Recognition.",
-  		"venue": "FG",
-  		"pages": "",
-  		"year" : "2026",
-			"ee": "",
-			"key": "FG2026"
-	},
-
-	{
 		"type": "journal",
 		"authors": {
 			"author": [
