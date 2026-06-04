@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## To Appear
+1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide , "DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Interventio", Interspeech, pp., 2026 ([DOI]())
 1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide , "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", PAKDD, pp., 2026 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "View-aware Cross-modal Distillation for Multi-view Action Recognition", FG, pp., 2026 ([DOI]())
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
@@ -35,6 +36,7 @@ draft: false
 ## International Conferences
 ### 2026
 1. Ayano Yasui, [Takahiro Komamizu](/), Tomohiro Masuda, "Evaluation of LLM to Likert-type Psychometric Scale Assessment", ICAP, 2026 --- Presentation only
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "View-aware Cross-modal Distillation for Multi-view Action Recognition", WACV, pp.7769-7778, 2026 ([DOI](https://doi.org/10.1109/WACV61042.2026.00750))
 ### 2025
 1. Sherzod Hakimov, David Semedo, Eric Müller-Budack, Marc A. Kastner, [Takahiro Komamizu](/), "MUWS 2025: The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media", ACM Multimedia, pp.14308-14310, 2025 ([DOI](https://doi.org/10.1145/3746027.3762109))
 1. [Takahiro Komamizu](/), Marc A. Kastner, Yasutomo Kawanishi, Trung Thanh Nguyen, Junan Chen, "IntentVC 2025: The ACM Multimedia Grand Challenge on Intention-Oriented Controllable Video Captioning", ACM Multimedia, pp.13813-13814, 2025 ([DOI](https://doi.org/10.1145/3746027.3762057))
@@ -43,10 +45,10 @@ draft: false
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp.1-10, 2025 ([DOI](https://doi.org/10.1109/FG61629.2025.11099071)) --- {{< awards name="Best Student Paper Award" >}}
 1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Son N. Tran, "ICDAR 25: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.2145-2147, 2025 ([DOI](https://doi.org/10.1145/3731715.3734511))
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro Ide, "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning", MMAsia, pp.7:1-7:7, 2025 ([DOI](https://doi.org/10.1145/3743093.3770950)) --- {{< awards name="Best Oral Award" >}}
-1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@ACMMM, pp.47-51, 2025 ([DOI](https://doi.org/10.1145/3746266.3762160), [slide](/pdfs/MMGR@ACMMM2025.pdf))
+1. [Takahiro Komamizu](/), "Prospective Analysis of Semantic Image Retrieval: Comparing Scene Graph, Visual Features, and Captions", MMGR@MM, pp.47-51, 2025 ([DOI](https://doi.org/10.1145/3746266.3762160))
 1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_31))
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025 ([DOI](https://doi.org/10.1007/978-981-96-2071-5_17))
-1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@ACMMM, pp.17 - 25, 2025 ([DOI](https://doi.org/10.1145/3728481.376216))
+1. Yui Tanaka, Marc A. Kastner, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Analyzing the Visual Variety of Adjectives based on Clustering of Visual Features", MUWS@MM, pp.17-25, 2025 ([DOI](https://doi.org/10.1145/3728481.3762163))
 1. Nanami Takagi, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Ichiro Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, 2025 --- Presentation only
 1. Yuka Teramoto, [Takahiro Komamizu](/), Mitsunori Matsushita, Kenji Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp.1-9, 2025 ([DOI](https://doi.org/10.36190/2025.23))
 ### 2024
@@ -125,6 +127,7 @@ draft: false
 ----
 ## Editor
 1. [Takahiro Komamizu](/), Marc A. Kastner, Minh-Son Dao, "Proceedings of the 6th Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2025, Chicago, IL, USA, 30 June 2025- 3 July 202", ICDAR@ICMR, 2025 ([DOI](https://doi.org/10.1145/3733566))
+1. Sherzod Hakimov, David Semedo, Eric Müller-Budack, Marc A. Kastner, [Takahiro Komamizu](/), "Proceedings of the 4th International Workshop on Multimodal Human Understanding for the Web and Social Media, MUWS 2025, Dublin, Ireland, 31 October 202", MUWS@MM, 2025 ([DOI](https://doi.org/10.1145/3728481))
 1. Minh-Son Dao, Michael Alexander Riegler, Duc-Tien Dang-Nguyen, Hanh-Nhi Tran, Rage Uday Kiran, [Takahiro Komamizu](/), "The Fifth Workshop on Intelligent Cross-Data Analysis and Retrieval, ICDAR 2024, Phuket, Thailand, June 10-14, 202", ICDAR@ICMR, 2024 ([DOI](https://doi.org/10.1145/3643488))
 1. Mohan S. Kankanhalli, Ioannis (Yiannis) Patras, Jianquan Liu, Yongkang Wong, [Takahiro Komamizu](/), "Proceedings of the 2nd Workshop on User-centric Narrative Summarization of Long Videos, NarSUM 2023, Ottawa ON, Canada, 29 October 202", NarSUM@MM, 2023 ([DOI](https://doi.org/10.1145/3607540))
 ----
