@@ -1,25 +1,5 @@
 [
 
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-			  { "text": "Trung Thanh NGUYEN" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Vijay John" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "MultiSensor-Home: Multi-modal Multi-view Dataset and Benchmarks for Action Recognition in Home Environments",
-  		"venue": "Pattern Recognit.",
-			"volume": "179",
-			"number": "113810",
-  		"pages": "1-12",
-  		"year" : "2026",
-			"ee": "https://doi.org/10.1016/j.patcog.2026.113810"
-	},
-
 	{
 		"type": "conference",
 		"authors": {

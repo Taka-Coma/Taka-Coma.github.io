@@ -30,6 +30,9 @@ draft: false
 
 ### Organization 
 
+- Jun. 2026 - Dec. 2026,
+    [15th International Symposium on Information and Communication Technology (SoICT 2026)](https://soict.org/),
+    Track Chair (Applied AI, Big Data Analytics, and Data-Driven Applications)
 - Feb. 2026 - Oct. 2026,
     [5th International Workshop on Multimodal Human Understanding for the Web and Social Media (MUWS@ACMMM 2026)](https://muws-workshop.github.io/),
     Organizing Committee member
