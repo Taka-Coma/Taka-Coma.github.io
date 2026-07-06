@@ -5,8 +5,9 @@ draft: false
 ---
 
 ## To Appear
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "Leveraging Label-free and Gradient-based Pruning for Efficient Neural Networks in Maize Disease Detectio", IEEE Transactions on AgriFood Electronics, Vol., No., pp., 2026 ([DOI]())
 1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide , "DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention", Interspeech, pp., 2026 ([DOI]())
-1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide , "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", PAKDD, pp., 2026 ([DOI]())
+1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide , "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", PAKDD, pp.411–423, 2026 ([DOI](https://doi.org/10.1007/978-981-92-1947-6_33))
 1. Trung Thanh NGUYEN, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide , "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025 ([DOI](https://doi.org/10.1145/3744742))
 ----
 ## International Journals

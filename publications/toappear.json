@@ -1,6 +1,24 @@
 [
 
 	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{ "text": "Carlos Victorino Padeiro" },
+				{ "text": "Tse-Wei Chen" },
+			  { "text": "Takahiro Komamizu" },
+			  { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Leveraging Label-free and Gradient-based Pruning for Efficient Neural Networks in Maize Disease Detection",
+  		"venue": "IEEE Transactions on AgriFood Electronics",
+			"volume": "",
+			"number": "",
+  		"pages": "",
+  		"year" : "2026",
+			"ee": ""
+	},
+
+	{
 		"type": "conference",
 		"authors": {
 			"author": [
@@ -28,9 +46,9 @@
  		]},
   		"title": "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs.",
   		"venue": "PAKDD",
-  		"pages": "",
+  		"pages": "411–423",
   		"year" : "2026",
-			"ee": "",
+			"ee": "https://doi.org/10.1007/978-981-92-1947-6_33",
 			"key": "PAKDD2026"
 	},
 
