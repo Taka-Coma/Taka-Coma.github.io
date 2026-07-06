@@ -3,9 +3,135 @@
 	{
 		"authors": {
 			"author": [
+ { "text": "加藤 眸" },
+ { "text": "加藤 大貴" },
+ { "text": "カストナー マーク アウレル" },
+ { "text": "平山 高嗣" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" } 
+ 		]},
+  		"title": "折り図自動生成のための手の骨格に基づく折り操作分類",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS1-180",
+  		"year" : "2026"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "田中 優衣" },
+ { "text": "カストナー マーク アウレル" },
+ { "text": "加藤 大貴" },
+ { "text": "平山 高嗣" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" } 
+ 		]},
+  		"title": "形容詞–名詞対に基づいた画像生成による形容詞の心像性・具体性の推定",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS1-158",
+  		"year" : "2026"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Pham Dinh Duy" },
+ { "text": "Itthisak Phueaksri" },
+ { "text": "Yasutomo Kawanishi " },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "RAIR-VF: Reasoning-Augmented Interactive Image Retrieval with Visual Fact Grounding",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS3-141",
+  		"year" : "2026"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Trung Thanh Nguyen" },
+ { "text": "Tuan-Anh Vu" },
+ { "text": "Duc Viet Le" },
+ { "text": "Yasutomo Kawanishi" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" },
+ { "text": "Teja Kattenborn" }
+ 		]},
+  		"title": "Linear-time 3D Forest Point Cloud Segmentation with Geometry-guided Queries",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS3-172",
+  		"year" : "2026"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Trung Thanh Nguyen" },
+ { "text": "Yasutomo Kawanishi" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Beyond Single-view: Cross-view Context Modeling for Multi-view Action Recognition",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS2-170",
+  		"year" : "2026"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Junan Chen" },
+ { "text": "Trung Thanh Nguyen" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" }
+ 		]},
+  		"title": "Grouped Causal Query Adapter for Efficient Visual Adaptation in Video Captioning",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS3-119",
+  		"year" : "2026"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Lei Xiang1" },
+ { "text": "Feilin Cheng" },
+ { "text": "Yasutomo Kawanishi" },
+ { "text": "Takahiro Komamizu" },
+ { "text": "Ichiro Ide" },
+ { "text": "Hosei Nagano" },
+ { "text": "Kenji Suzuki" }
+ 		]},
+  		"title": "Variational AutoEncoder Inverse Mapper for Single-Frequency Lock-In Thermography",
+  		"venue": "第29回 画像の認識・理解シンポジウム (MIRU2026)",
+  		"pages": "IS2-212",
+  		"year" : "2026"
+	},
+
+
+	{
+		"authors": {
+			"author": [
+ { "text": "小川 陽平" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" }
+ 		]},
+  		"title": "サッカー中継映像を用いたコーナキックの戦術的類似検索手法の提案",
+  		"venue": "Sports Informatics and Technology (SIT 2026)",
+			"volume": "",
+			"number": "",
+  		"pages": "P-2-2",
+  		"year" : "2026",
+			"ee": ""
+	},
+
+	{
+		"authors": {
+			"author": [
  { "text": "鈴木 瑛仁" },
  { "text": "加藤 大貴" },
- { "text": "カストナー マークアウレル" },
+ { "text": "カストナー マーク アウレル" },
  { "text": "平山 高嗣" },
  { "text": "駒水 孝裕" },
  { "text": "井手 一郎" }
@@ -149,7 +275,7 @@
  { "text": "Junan Chen" },
  { "text": "Trung Thanh Nguyen" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Visual Adapter for Extracting Textually-related Features for Video Captioning",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -163,7 +289,7 @@
  { "text": "Lei Xiang" },
  { "text": "Yasutomo Kawanishi " },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -178,7 +304,7 @@
  { "text": "Yasutomo Kawanishi " },
  { "text": "Vijay John" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -192,7 +318,7 @@
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Leveraging Gradient-Based Pruning for Efficient Neural Networks in Crop Disease Detection",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -207,7 +333,7 @@
  { "text": "Marc A. Kastner" },
  { "text": "Takahiro Komamizu" },
  { "text": "Takatsugu Hirayama" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation (ACMMM2024)",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -224,7 +350,7 @@
  { "text": "Hirotaka Kato" },
  { "text": "Takatsugu Hirayama" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "MLLM-based Dataset Construction for Hazard-aware Guidance for the Visually Impaired",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -240,7 +366,7 @@
  { "text": "Marc A. Kastner" },
  { "text": "Yasutomo Kawanishi " },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Image Retrieval based on Editable Scene Graph with Contrastive Representation Learning",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -254,8 +380,8 @@
  { "text": "加藤 眸" },
  { "text": "加藤 大貴" },
  { "text": "平山 高嗣" },
- { "text": "駒水孝裕" },
- { "text": "井手一郎" } 
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" } 
  		]},
   		"title": "折り図の自動生成のための折り線推定とその評価",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -266,11 +392,11 @@
 	{
 		"authors": {
 			"author": [
- { "text": "田中優衣" },
- { "text": "カストナーマークアウレル" },
- { "text": "川西康友" },
- { "text": "駒水孝裕" },
- { "text": "井手一郎" } 
+ { "text": "田中 優衣" },
+ { "text": "カストナー マーク アウレル" },
+ { "text": "川西 康友" },
+ { "text": "駒水 孝裕" },
+ { "text": "井手 一郎" } 
  		]},
   		"title": "画像特徴のクラスタリングによる形容詞の視覚的な多様性の分析",
   		"venue": "第28回 画像の認識・理解シンポジウム (MIRU2025)",
@@ -281,8 +407,8 @@
 	{
 		"authors": {
 			"author": [
- { "text": "田中優衣" },
- { "text": "カストナー マークアウレル" },
+ { "text": "田中 優衣" },
+ { "text": "カストナー マーク アウレル" },
  { "text": "川西 康友" },
  { "text": "駒水 孝裕" },
  { "text": "井手 一郎" }
@@ -320,7 +446,7 @@
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection",
   		"venue": "IEICE Tech. Rep.",  
@@ -385,7 +511,7 @@
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection",
   		"venue": "第27回 画像の認識・理解シンポジウム (MIRU2024)",
@@ -498,7 +624,7 @@
  { "text": "Carlos Victorino Padeiro" },
  { "text": "Tse-Wei Chen" },
  { "text": "Takahiro Komamizu" },
- { "text": "Ichiro IDE" }
+ { "text": "Ichiro Ide" }
  		]},
   		"title": "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection",
   		"venue": "IEICE Tech. Rep.",  
@@ -898,7 +1024,7 @@
 				{ "text": "Anditya ARIFIANTO" },
 				{ "text": "Takahiro KOMAMIZU" },
 				{ "text": "Yasutomo KAWANISHI" },
-				{ "text": "Ichiro IDE" }
+				{ "text": "Ichiro Ide" }
  		]},
   		"title": "Towards Generative Image Steganography using Seq2Seq and GAN",
   		"venue": "第25回 画像の認識・理解シンポジウム (MIRU2022)",

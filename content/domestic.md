@@ -21,7 +21,15 @@ draft: false
 ----
 ## 査読なし会議
 ### 2026
-1. 鈴木 瑛仁, 加藤 大貴, カストナー マークアウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漫画話者推定のためのMLLMへの画像入力手法の検討", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-107, pp.448-452, 2026 ([link](https://ken.ieice.org/ken/paper/20260318ScSZ/))
+1. 加藤 眸, 加藤 大貴, カストナー マーク アウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図自動生成のための手の骨格に基づく折り操作分類", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS1-180, 2026
+1. 田中 優衣, カストナー マーク アウレル, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "形容詞–名詞対に基づいた画像生成による形容詞の心像性・具体性の推定", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS1-158, 2026
+1. Pham Dinh Duy, Itthisak Phueaksri, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "RAIR-VF: Reasoning-Augmented Interactive Image Retrieval with Visual Fact Grounding", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS3-141, 2026
+1. Trung Thanh Nguyen, Tuan-Anh Vu, Duc Viet Le, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, Teja Kattenborn, "Linear-time 3D Forest Point Cloud Segmentation with Geometry-guided Queries", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS3-172, 2026
+1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Beyond Single-view: Cross-view Context Modeling for Multi-view Action Recognition", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS2-170, 2026
+1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro Ide, "Grouped Causal Query Adapter for Efficient Visual Adaptation in Video Captioning", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS3-119, 2026
+1. Lei Xiang1, Feilin Cheng, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, Hosei Nagano, Kenji Suzuki, "Variational AutoEncoder Inverse Mapper for Single-Frequency Lock-In Thermography", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS2-212, 2026
+1. 小川 陽平, [駒水 孝裕](/), 井手 一郎, "サッカー中継映像を用いたコーナキックの戦術的類似検索手法の提案", Sports Informatics and Technology (SIT 2026), Vol., No., pp.P-2-2, 2026
+1. 鈴木 瑛仁, 加藤 大貴, カストナー マーク アウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漫画話者推定のためのMLLMへの画像入力手法の検討", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-107, pp.448-452, 2026 ([link](https://ken.ieice.org/ken/paper/20260318ScSZ/))
 1. 松平 颯斗, 井手 一郎, [駒水 孝裕](/), "単一画像謎解きに対する類題検索とインコンテキスト学習を用いた解答支援", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-56, pp.170-175, 2026 ([link](https://ken.ieice.org/ken/paper/20260316Scs3/))
 1. 益田 菜々望, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "動き・姿勢情報に基づく食材切砕動作の熟練度推定", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-123, pp.532-537, 2026 ([link](https://ken.ieice.org/ken/paper/20260317ccs3/))
 1. 小川 陽平, [駒水 孝裕](/), 井手 一郎, "サッカー中継映像におけるコーナキックの戦術的類似シーン検索のための映像表現学習の検討", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-90, pp.356-361, 2026 ([link](https://ken.ieice.org/ken/paper/20260317ccs3/))
@@ -30,30 +38,30 @@ draft: false
 1. 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "調理シーンにおける切断行動の手順認識に基づく映像要約", 第18回データ工学と情報マネジメントに関するフォーラム, pp.l1-01, 2026 ([link](https://pub.confit.atlas.jp/ja/event/deim2026/presentation/1I-01))
 1. 池田 昂太郎, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "口唇形状の類似性を考慮した歌詞翻訳のための発音のモデル化", 研究報告音楽情報科学（MUS）, Vol.2026-MUS-145, No.14, pp.1-10, 2026 ([link](https://ipsj.ixsq.nii.ac.jp/records/2007045)) -- {{< awards name="Student Award in Multi/Interdisciplinary Category" url="" >}}
 ### 2025
-1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro IDE, "Visual Adapter for Extracting Textually-related Features for Video Captioning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-148, 2025
-1. Lei Xiang, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-079, 2025
-1. Trung Thanh Nguyen, Yasutomo Kawanishi , Vijay John, [Takahiro Komamizu](/), Ichiro IDE, "MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-038, 2025
-1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging Gradient-Based Pruning for Efficient Neural Networks in Crop Disease Detection", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-001, 2025
-1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro IDE, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation (ACMMM2024)", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IT3-06, 2025 (Invited Talk)
-1. Peiyuan Zhu, Marc A. Kastner, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro IDE, "MLLM-based Dataset Construction for Hazard-aware Guidance for the Visually Impaired", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-140, 2025
-1. Pham Dinh Duy, Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro IDE, "Image Retrieval based on Editable Scene Graph with Contrastive Representation Learning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-097, 2025
-1. 加藤 眸, 加藤 大貴, 平山 高嗣, 駒水孝裕, 井手一郎, "折り図の自動生成のための折り線推定とその評価", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-176, 2025
-1. 田中優衣, カストナーマークアウレル, 川西康友, 駒水孝裕, 井手一郎, "画像特徴のクラスタリングによる形容詞の視覚的な多様性の分析", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-145, 2025
-1. 田中優衣, カストナー マークアウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025 ([link](https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-52))
+1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro Ide, "Visual Adapter for Extracting Textually-related Features for Video Captioning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-148, 2025
+1. Lei Xiang, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Exploring Unknown Image Generation for Zero-Shot Learning via Diffusion Models", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-079, 2025
+1. Trung Thanh Nguyen, Yasutomo Kawanishi , Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "MultiSensor-Home: Benchmark for Multi-modal Multi-view Action Recognition in Home Environments", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-038, 2025
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "Leveraging Gradient-Based Pruning for Efficient Neural Networks in Crop Disease Detection", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS3-001, 2025
+1. Chihaya Matsuhira, Marc A. Kastner, [Takahiro Komamizu](/), Takatsugu Hirayama, Ichiro Ide, "Investigating conceptual blending of a diffusion model for improving nonword-to-image generation (ACMMM2024)", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IT3-06, 2025 (Invited Talk)
+1. Peiyuan Zhu, Marc A. Kastner, Hirotaka Kato, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "MLLM-based Dataset Construction for Hazard-aware Guidance for the Visually Impaired", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-140, 2025
+1. Pham Dinh Duy, Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Image Retrieval based on Editable Scene Graph with Contrastive Representation Learning", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS2-097, 2025
+1. 加藤 眸, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図の自動生成のための折り線推定とその評価", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-176, 2025
+1. 田中 優衣, カストナー マーク アウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "画像特徴のクラスタリングによる形容詞の視覚的な多様性の分析", 第28回 画像の認識・理解シンポジウム (MIRU2025), pp.IS1-145, 2025
+1. 田中 優衣, カストナー マーク アウレル, 川西 康友, [駒水 孝裕](/), 井手 一郎, "形容詞の視覚的な多様性の定量化に向けた検討", 2025年電子情報通信学会総合大会, Vol.情報・システム2, No.D-12-52, pp., 2025 ([link](https://pub.confit.atlas.jp/ja/event/general2025/presentation/D-12-52))
 1. グエン チュン タイン, 川西 康友, ビジェイ ジョン, [駒水 孝裕](/), 井手 一郎, "広域多視点マルチモーダル行動認識のためのセンサ統合手法とMultiSensor-Homeデータセットの提案", 電子情報通信学会技術研究報告, Vol.124, No.445, PRMU2024-49,, pp.19-24, 2025 ([link](https://ken.ieice.org/ken/paper/20250318Lcia/))
-1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.124, No.405 IE2024-118, pp.144-149, 2025 ([link](https://ken.ieice.org/ken/paper/20250306JcjK/))
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "Leveraging data-free pruning through gradient analysis towards lightweight maize disease detection", IEICE Tech. Rep., Vol.124, No.405 IE2024-118, pp.144-149, 2025 ([link](https://ken.ieice.org/ken/paper/20250306JcjK/))
 1. 加藤 眸, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "折り図の自動生成に向けた折り紙画像からの折り線推定", 電子情報通信学会技術研究報告, Vol.124, No.406, MVE2024-98, pp.373-378, 2025 ([link](https://ken.ieice.org/ken/paper/20250307qcj1/))
 1. 髙木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル重畳料理画像における魅力的なフォントの分析と推定", 第17回データ工学と情報マネジメントに関するフォーラム, pp.6E-05, 2025 ([link](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/6E-05))
 1. Jialiang Shi, [Takahiro Komamizu](/), Ichiro Ide, "HashtagMeta: Fake News Mitigation for Hashtag Recommendation", 第17回データ工学と情報マネジメントに関するフォーラム, pp.1K-05, 2025 ([link](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/1K-05))
 ### 2024
-1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-012, 2024
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "Leveraging Similarity-Preserving Post-Training Quantization for Lightweight Crop Disease Detection", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-012, 2024
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Toward Visual Storytelling using Scene-Graph Contexts", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-099, 2024
 1. 松平 茅隼, カストナー マーク アウレル, [駒水 孝裕](/), 平山 高嗣, 井手 一郎, "語感の定量化に向けた画像に写る概念に対する視覚的印象の推定", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-134, 2024
 1. 池田 昂太郎, 松平 茅隼, 加藤 大貴, カストナー マーク アウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌唱時の口唇形状の類似性を考慮した歌詞の自動翻訳の検討", 第27回 画像の認識・理解シンポジウム (MIRU2024), pp.IS-2-138, 2024
 1. 宮川 由衣, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "大規模言語モデルは未知語に対する人間の感情想起を再現できるか？", 第21回テキストアナリティクス・シンポジウム, Vol.124, No.173, NLC2024-7, pp.33-38, 2024 ([link](https://ken.ieice.org/ken/paper/202409024c44/))
 1. グエン チュン タイン, 川西 康友, [駒水 孝裕](/), 井手 一郎, "大域・局所特徴統合埋め込みに基づくオープン語彙時系列行動検出", 電子情報通信学会技術研究報告, Vol.124, No.23, PRMU2024-6, pp.30-35, 2024 ([link](https://ken.ieice.org/ken/paper/20240516Qc24/))
 1. 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ドメイン適応のためのトークン単位の擬似尤度に基づくマスク戦略", 研究報告情報基礎とアクセス技術（IFAT）, Vol.2024-IFAT-154, No.1, pp.1-6, 2024 ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233524&item_no=1&page_id=13&block_id=8))
-1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro IDE, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", IEICE Tech. Rep., Vol.123, No.432, IE2023-145, pp.414-419, 2024 ([link](https://ken.ieice.org/ken/paper/20240315ac1V/eng/))
+1. Carlos Victorino Padeiro, Tse-Wei Chen, [Takahiro Komamizu](/), Ichiro Ide, "Similarity Preserving Post Training Quantization towards Lightweight Maize Disease Detection", IEICE Tech. Rep., Vol.123, No.432, IE2023-145, pp.414-419, 2024 ([link](https://ken.ieice.org/ken/paper/20240315ac1V/eng/))
 1. 渡辺 茉里香, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "複数食材の大きさを統合利用した弁当画像の縮尺推定に関する検討", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-103, pp.330-335, 2024 ([link](https://ken.ieice.org/ken/paper/20240315TcCd/))
 1. 池田 昂太郎, 松平 茅隼, 加藤 大貴, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "歌詞の自動翻訳のための発音を考慮した訳語選択に関する研究", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-54, pp.69-74, 2024 ([link](https://ken.ieice.org/ken/paper/20240313Yc1r/))
 1. 高木 七海, 久徳 遙矢, 道満 恵介, [駒水 孝裕](/), 井手 一郎, "タイトル重畳料理サムネイル画像における魅力的なフォントスタイルの分析", 電子情報通信学会技術研究報告, Vol.123, No.433, MVE2023-69, pp.154-158, 2024 ([link](https://ken.ieice.org/ken/paper/20240314jcCE/))
@@ -78,7 +86,7 @@ draft: false
 ### 2022
 1. Itthisak Phueaksri, Marc A. Kastner, Yasutomo Kawanishi , [Takahiro Komamizu](/), Ichiro Ide, "Towards Captioning an Image Collection using Scene Graph", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-78, 2022
 1. Yiming Wang, Marc A. Kastner, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "On Estimating Evoked Emotions of Social Media Videos through User Comments Analysis", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-72, 2022
-1. Anditya ARIFIANTO, Takahiro KOMAMIZU, Yasutomo KAWANISHI, Ichiro IDE, "Towards Generative Image Steganography using Seq2Seq and GAN", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-57, 2022
+1. Anditya ARIFIANTO, Takahiro KOMAMIZU, Yasutomo KAWANISHI, Ichiro Ide, "Towards Generative Image Steganography using Seq2Seq and GAN", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS3-57, 2022
 1. 松平 茅隼, カストナー マーク アウレル, [駒水 孝裕](/), 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎, "画像生成を介した語感から受ける印象の可視化の検討", 第25回 画像の認識・理解シンポジウム (MIRU2022), pp.IS1-81, 2022
 1. Jiahang Lu, Haruya Kyutoku, Keisuke Doman, [Takahiro Komamizu](/), Yasutomo Kawanishi, Takatsugu Hirayama, Ichiro Ide, "A study on intra-modal constraint loss toward cross-modal recipe retrieval", HCGシンポジウム 2022, pp.A-3-1, 2022
 1. 松原 茂樹, 中岩 浩巳, [駒水 孝裕](/), 鈴木 優, 井手 一郎, 西村 訓弘, 速水 悟, 武田 一哉, "産学コンソーシアムによるデータサイエンス人材育成の実践", 情報処理学会 研究報告コンピュータと教育（CE）, Vol.2022-CE-167, No.16, pp.1-6, 2022 ([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=222696&item_no=1))

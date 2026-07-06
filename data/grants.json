@@ -142,6 +142,33 @@
 	{
 		"name": "競争的資金（分担）",
 		"grants": [
+
+		{
+			"title": "2023年度 科学研究費補助金 挑戦的研究（萌芽）",
+			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+			"theme": "分子構造に基づく人間の感覚数値化と官能表現空間の構築に関する研究",
+			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K23928/",
+			"theme_number": "26K23928",
+			"duration": "2026年6月~2028年3月",
+			"main": {
+					"name": "波多野 賢治",
+					"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
+					"affiliation": "同志社大学"
+			},
+			"members": [
+				{
+					"name": "駒水 孝裕",
+					"affiliation": "名古屋大学",
+					"me": true
+				},{
+					"name": "石澤 美代子",
+					"url": "",
+					"affiliation": "松本大学"
+				}
+			]
+		},
+
+
 			{
 				"title": "2024年度 科学研究費補助金 基盤研究 (B)",
 				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",

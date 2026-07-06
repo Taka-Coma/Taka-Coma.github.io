@@ -35,6 +35,7 @@ draft: false
 ## International Conferences
 ### 2026
 1. Ayano Yasui, [Takahiro Komamizu](/), Tomohiro Masuda, "Evaluation of LLM to Likert-type Psychometric Scale Assessment", ICAP, 2026 --- Presentation only
+1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide, "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", PAKDD, pp.411-423, 2026 ([DOI](https://doi.org/10.1007/978-981-92-1947-6_33))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "View-aware Cross-modal Distillation for Multi-view Action Recognition", WACV, pp.7769-7778, 2026 ([DOI](https://doi.org/10.1109/WACV61042.2026.00750))
 ### 2025
 1. Sherzod Hakimov, David Semedo, Eric Müller-Budack, Marc A. Kastner, [Takahiro Komamizu](/), "MUWS 2025: The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media", ACM Multimedia, pp.14308-14310, 2025 ([DOI](https://doi.org/10.1145/3746027.3762109))
@@ -132,6 +133,7 @@ draft: false
 ----
 ## Pre-Print
 1. Bolin Zhang, Chao Yang, Bin Jiang, [Takahiro Komamizu](/), Ichiro Ide, "Multi-proposal Collaboration and Multi-task Training for Weakly-supervised Video Moment Retrieval", CoRR, abs/2605.14838, 2026 ([DOI](https://doi.org/10.48550/arXiv.2605.14838))
+1. Trung Thanh Nguyen, Tuan-Anh Vu, Duc Viet Le, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, Teja Kattenborn, "ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation", CoRR, abs/2606.01549, 2026 ([DOI](https://doi.org/10.48550/arXiv.2606.01549))
 1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide, "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", CoRR, abs/2602.19157, 2026 ([DOI](https://doi.org/10.48550/arXiv.2602.19157))
 1. Zhanjie Hu, Bolin Zhang, Jianhua Wang, Jianbo Zheng, Chenchen Yan, [Takahiro Komamizu](/), Ichiro Ide, Jiangbo Qian, "Static and Dynamic Graph Alignment Network for Temporal Video Grounding", CoRR, abs/2605.00684, 2026 ([DOI](https://doi.org/10.48550/arXiv.2605.00684))
 1. Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, [Takahiro Komamizu](/), Ichiro Ide, "Small Object Detection for Birds with Swin Transformer", CoRR, abs/2511.22310, 2025 ([DOI](https://doi.org/10.48550/arXiv.2511.22310))
