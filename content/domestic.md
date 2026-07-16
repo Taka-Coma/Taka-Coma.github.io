@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## 講演
+1. [駒水 孝裕](/), "教育機関における生成AI運用：評価手法・授業形態・ポリシーの国際比較と実践的方策", 東海デジタル人材育成プラットフォーム 第8回セミナー　―高大連携ワークショップ―, 2026.7 ([slide](), [resource](/pdfs/ai_education_report_20260717.pdf))
 1. [駒水 孝裕](/), "名古屋大学におけるデジタル人材育成に向けたリカレント教育プログラムの取り組み", 令和6年度東海地区大学教育研究会 研究大会：「地域社会のニーズとリカレント教育のこれから」～豊かに、そして幸せに生きるために～, 2024.11
 1. [駒水 孝裕](/), 広瀬 智（株式会社デンソー）, "企業と大学のカリキュラムマッピングと産学連携教育の試み", 第4回東海デジタル人材フォーラム, 2023.3
 1. [駒水 孝裕](/), "デジタル人材育成における産学連携の取り組み", 株式会社デンソー 23年度ソフトウェア技術者交流会, 2023.3
@@ -97,7 +98,7 @@ draft: false
 1. Baidong Chu, Chihaya Matsuhira, Yasutomo Kawanishi, Marc A. Kastner, [Takahiro Komamizu](/), Ichiro Ide, Daisuke Deguchi, "Towards Detecting Birds from Panorama Video Aided by Sound Source Localization", 電子情報通信学会技術研究報告, Vol.121, No.423, MVE2021-50, pp.60-64, 2022 ([link](https://ken.ieice.org/ken/paper/202203096CJu/))
 1. 木村 優介, [駒水 孝裕](/), 波多野 賢治, "ストップフレーズ抽出を併用した文書分類", 第14回データ工学と情報マネジメントに関するフォーラム, pp.A23-4, 2022 ([link](https://proceedings-of-deim.github.io/DEIM2022/papers/A23-4.pdf))
 ### 2021
-1. [駒水 孝裕](/), 安田 理恵, 外山 勝彦, "移動イノベーションのための法情報活用基盤", 令和三年度 電気・電子・情報関係学会 東海支部連合大会, pp.K1-2, 2021 ([slide](/pdfs/Tokai_Rengou_R3.pdf))
+1. [駒水 孝裕](/), 安田 理恵, 外山 勝彦, "移動イノベーションのための法情報活用基盤", 令和三年度 電気・電子・情報関係学会 東海支部連合大会, pp.K1-2, 2021
 ### 2020
 1. 近藤 匠, [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用", 第18回情報学ワークショップ, pp.L-3B-2, 2020 -- {{< awards name="Best Paper Award" url="https://sites.google.com/view/winf2020/awards" >}}
 1. [駒水 孝裕](/), 小川 泰弘, 外山 勝彦, "法令沿革 LOD 構築のための DBpedia における法令エンティティの同定", 第51回人工知能学会セマンティックウェブとオントロジー (SWO) 研究会, pp.SIG-SWO-051-06, 2020 ([link](https://www.jstage.jst.go.jp/article/jsaisigtwo/2020/SWO-051/2020_06/_article/-char/ja/), [slide](/pdfs/SWO-051-06.pdf)) -- {{< awards name="JSAI Incentive Award" url="https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/" >}}

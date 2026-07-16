@@ -110,7 +110,12 @@ def formatPaper(paper, style='journal'):
 
     if 'ee' in paper and paper['ee'] != '':
         if 'slide' in paper:
-            out += f" ([link]({paper['ee']}), [slide]({paper['slide']}))"
+            if 'resource' in paper:
+                out += f" ([link]({paper['ee']}), [slide]({paper['slide']}), [resource]({paper['resource']}))"
+            else:
+                out += f" ([link]({paper['ee']}), [slide]({paper['slide']}))"
+        elif 'resource' in paper:
+            out += f" ([link]({paper['ee']}), [resource]({paper['resource']}))"
         else:
             if style == 'journal':
                 out += f" ([DOI]({paper['ee']}))"
@@ -118,7 +123,13 @@ def formatPaper(paper, style='journal'):
                 out += f" ([link]({paper['ee']}))"
 
     elif 'slide' in paper:
-        out += f" ([slide]({paper['slide']}))"
+        if 'resource' in paper:
+            out += f" ([slide]({paper['slide']}), [resource]({paper['resource']}))"
+        else:
+            out += f" ([slide]({paper['slide']}))"
+
+    elif 'resource' in paper:
+        out += f" ([resource]({paper['resource']}))"
 
     if 'awards' in paper:
         tmp_cont = ['{{< awards name="' + award['name'] + '" url="' + award['url'] + '" >}}' for award in paper['awards']]
