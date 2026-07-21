@@ -10,7 +10,7 @@
 		"venue": "東海デジタル人材育成プラットフォーム 第8回セミナー　―高大連携ワークショップ―",
 		"year": "2026",
 		"month": "7",
- 		"resource": "/pdfs/ai_education_report_20260717.pdf",
+ 		"resources": [ "/pdfs/ai_guideline_report_20260414.pdf", "/pdfs/ai_education_report_20260717.pdf" ],
  		"slide": "",
 		"url": "https://www.tdtc-pf.org/event/2026-07-27-13-00-18-00"
 	},

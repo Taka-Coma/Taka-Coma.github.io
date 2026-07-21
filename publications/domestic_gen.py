@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import requests
 import json
 
 def main():
@@ -11,8 +10,10 @@ draft: false
 ---
 ''']
 
+    print('Processing 採択済み...')
     with open('./domestic_toappear.json', 'r') as f:
         data = json.load(f)
+        print(f'  ✓ Loaded {len(data)} paper(s)')
         if len(data) > 0:
             out.append("## 採択済み")
             for paper in data:
@@ -59,6 +60,7 @@ draft: false
     }
 
     for style in urls:
+        print(f"Processing {urls[style]['text']}...")
         out.append(f"## {urls[style]['text']}")
         tmp_cont = getContent(urls[style]['url'], style)
         out.append('\n'.join(tmp_cont))
@@ -66,8 +68,10 @@ draft: false
         if style != 'technical':
             out.append("----")
 
+    print('Writing ../content/domestic.md...')
     with open('../content/domestic.md', 'w') as f:
         f.write('\n'.join(out))
+    print('  ✓ Done')
 
 
 def getContent(url, style):
@@ -92,49 +96,48 @@ def getContent(url, style):
 def formatPaper(paper, style='journal'):
     authors = ', '.join([f"[{a['text']}](/)" if a['text'] == 'Takahiro Komamizu' or a['text'] == '駒水 孝裕'  else a['text'] for a in paper['authors']['author']])
 
-    out = f"{authors}, \"{paper['title']}\", {paper['venue']}"
+    if 'url' in paper:
+        venue = f"[{paper['venue']}]({paper['url']})"
+    else:
+        venue = paper['venue']
+
+    parts = [authors, f"\"{paper['title']}\"", venue]
 
     if 'volume' in paper:
-        out += f", Vol.{paper['volume']}"
+        parts.append(f"Vol.{paper['volume']}")
 
-    if "number" in paper:
-        out += f", No.{paper['number']}"
+    if 'number' in paper:
+        parts.append(f"No.{paper['number']}")
 
     if 'pages' in paper:
-        out += f", pp.{paper['pages']}"
+        parts.append(f"pp.{paper['pages']}")
 
-    out += f", {paper['year']}"
-
+    year = str(paper['year'])
     if 'month' in paper:
-        out += f".{paper['month']}"
+        year += f".{paper['month']}"
+    parts.append(year)
 
-    if 'ee' in paper and paper['ee'] != '':
-        if 'slide' in paper:
-            if 'resource' in paper:
-                out += f" ([link]({paper['ee']}), [slide]({paper['slide']}), [resource]({paper['resource']}))"
-            else:
-                out += f" ([link]({paper['ee']}), [slide]({paper['slide']}))"
-        elif 'resource' in paper:
-            out += f" ([link]({paper['ee']}), [resource]({paper['resource']}))"
-        else:
-            if style == 'journal':
-                out += f" ([DOI]({paper['ee']}))"
-            else:
-                out += f" ([link]({paper['ee']}))"
+    out = ', '.join(parts)
 
-    elif 'slide' in paper:
-        if 'resource' in paper:
-            out += f" ([slide]({paper['slide']}), [resource]({paper['resource']}))"
-        else:
-            out += f" ([slide]({paper['slide']}))"
+    additional = []
 
-    elif 'resource' in paper:
-        out += f" ([resource]({paper['resource']}))"
+    if paper.get('ee'):
+        additional.append(f"[DOI]({paper['ee']})" if style == 'journal' else f"[link]({paper['ee']})")
+
+    if 'slide' in paper:
+        additional.append(f"[slide]({paper['slide']})")
+
+    if 'resources' in paper:
+        for res in paper['resources']:
+            additional.append(f"[resource]({res})")
+
+    if additional:
+        out += f" ({', '.join(additional)})"
 
     if 'awards' in paper:
-        tmp_cont = ['{{< awards name="' + award['name'] + '" url="' + award['url'] + '" >}}' for award in paper['awards']]
-        out += " -- " + ', '.join(tmp_cont)
-    
+        awards = ', '.join('{{< awards name="' + award['name'] + '" url="' + award['url'] + '" >}}' for award in paper['awards'])
+        out += f" -- {awards}"
+
     if 'note' in paper:
         out += f" ({paper['note']})"
 
@@ -146,6 +149,7 @@ def getPapers(url, style):
     data = []
     with open(url, 'r') as f:
         data = json.load(f)
+    print(f'  ✓ Loaded {len(data)} paper(s) from {url}')
 
     if style == 'nonref_conference':
         out = {}

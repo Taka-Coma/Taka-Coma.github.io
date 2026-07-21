@@ -92,6 +92,9 @@ draft: false
 
 ### Program Committee
 
+- Jul. 2026 - Jan. 2027, 
+    [33rd International Conference on Multimedia Modelling (MMM 2027)](https://mmm2027.net/),
+    Web Co-chair
 - Jan. 2026 - Dec. 2026,
     [2026 IEEE International Conference on Big Data (IEEE BigData 2026)](https://events.engineering.asu.edu/ieee-bigdata-2026/),
     PC member
@@ -99,7 +102,7 @@ draft: false
     [34th ACM International Conference on Multimedia (ACM MM 2026)](https://2026.acmmm.org/),
     PC member
 - May 2025 - Nov. 2026, 
-    [22nd International Conference on Advanced Data Mining and Applications (ADM 2026)](https://adma2026.github.io/),
+    [22nd International Conference on Advanced Data Mining and Applications (ADMA 2026)](https://adma2026.github.io/),
     PC member
 - Dec. 2025 - Jun. 2026,
     [16th International Conference on Multimedia Retrieval (ICMR 2026)](https://icmr2026.org/),
