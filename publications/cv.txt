@@ -1,0 +1,88 @@
+## To Appear
+\item N. Takagi, H. Kyutoku, K. Doman, \underline{T. Komamizu}, I. Ide, "Analysis and Prediction of Attractive Fonts on Title-overlaid Food Images", MVA, pp., 2025
+\item Y. Teramoto, \underline{T. Komamizu}, M. Matsushita, K. Hatano, "Checklist-Prompted Feature Extraction for Interpretable and Robust Fact Check Worthiness Prediction", MisD@ICWSM, pp., 2025
+\item T. T. Nguyen, Y. Kawanishi, V. John, \underline{T. Komamizu}, I. Ide, "MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion", FG, pp., 2025 -- {\color{red} Best Student Paper Award}
+
+\item T. T. Nguyen, Y. Kawanishi, V. John, \underline{T. Komamizu}, I. Ide, "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition", ACM Transactions on Multimedia Computing Communications and Applications., pp., 2025
+\item C. V. Padeiro, T. Chen, \underline{T. Komamizu}, I. Ide, "SPQ: Similarity-Preserving Post-Training Quantization for Portable Crop Disease Detection", IEEE Transactions on AgriFood Electronics, pp.1-13, 2025
+----
+## International Journals
+\item B. Zhang, C. Yang, B. Jiang, \underline{T. Komamizu}, I. Ide, "Multi-proposal collaboration and multi-task training for weakly-supervised video moment retrieva",  Int. J. Mach. Learn. \& Cyber., pp.1-16, 2025
+\item C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, T. Hirayama, K. Doman, Y. Kawanishi, I. Ide, "Interpolating the Text-to-Image Correspondence Based on Phonetic and Phonological Similarities for Nonword-to-Image Generation", IEEE Access, Vol.12, pp.41299-41316, 2024
+\item T. T. Nguyen, P. L. Nguyen, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "Zero-Shot Pill-Prescription Matching With Graph Convolutional Network and Contrastive Learning", IEEE Access, Vol.12, pp.55889-55904, 2024
+\item I. Phueaksri, M. A. Kastner, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "Image-Collection Summarization Using Scene-Graph Generation With External Knowledge", IEEE Access, Vol.12, pp.17499-17512, 2024
+\item B. Zhang, H. Kyutoku, K. Doman, \underline{T. Komamizu}, I. Ide, J. Qian, "Cross-modal recipe retrieval based on unified text encoder with fine-grained contrastive learning", Knowl. Based Syst., Vol.305, pp.112641, 2024
+\item C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, I. Ide, T. Hirayama, Y. Kawanishi, K. Doman, D. Deguchi, "Computational measurement of perceived pointiness from pronunciation", Multim. Tools Appl., Vol.83, No.9, pp.26183-26210, 2024
+\item C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, I. Ide, T. Hirayama, Y. Kawanishi, K. Doman, D. Deguchi, "Correction to: Computational measurement of perceived pointiness from pronunciation", Multim. Tools Appl., Vol.83, No.9, pp.26211-26212, 2024
+\item I. Phueaksri, M. A. Kastner, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "An Approach to Generate a Caption for an Image Collection Using Scene Graph Generation", IEEE Access, Vol.11, pp.128245-128260, 2023
+\item Y. Kimura, \underline{T. Komamizu}, K. Hatano, "An Automatic Labeling Method for Subword-Phrase Recognition in Effective Text Classification", Informatica, Vol.47, No.3, 2023
+\item \underline{T. Komamizu}, "Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification", J. Data Intell., Vol.2, No.4, pp.462-474, 2021
+\item \underline{T. Komamizu}, Y. Ogawa, K. Toyama, "An Ensemble Framework of Multi-ratio Undersampling-based Imbalanced Classification", J. Data Intell., Vol.2, No.1, pp.30-46, 2021
+\item \underline{T. Komamizu}, "Random walk-based entity representation learning and re-ranking for entity search", Knowl. Inf. Syst., Vol.62, No.8, pp.2989-3013, 2020
+\item H. Ito, \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Detecting Communities and Correlated Attribute Clusters on Multi-Attributed Graphs", IEICE Trans. Inf. Syst., Vol.102-D, No.4, pp.810-820, 2019
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "H-SPOOL: A SPARQL-based ETL framework for OLAP over linked data with dimension hierarchy extraction", Int. J. Web Inf. Syst., Vol.12, No.3, pp.359-378, 2016
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Facet-value extraction scheme from textual contents in XML data", Int. J. Web Inf. Syst., Vol.11, No.3, pp.270-290, 2015
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Faceted Navigation Framework for XML Data", Int. J. Web Inf. Syst., Vol.8, No.4, pp.348-370, 2012
+## International Conferences
+
+\item C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, T. Hirayama, I. Ide, "Quantifying Image-Adjective Associations by Leveraging Large-Scale Pretrained Models", MMM, pp.428-441, 2025
+\item I. Phueaksri, M. A. Kastner, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "Towards Visual Storytelling by Understanding Narrative Context Through Scene-Graphs", MMM, pp.226-239, 2025
+\item C. V. Padeiro, T. Chen, \underline{T. Komamizu}, I. Ide, "Lightweight Maize Disease Detection through Post-Training Quantization with Similarity Preservation", CVPR Workshops, pp.2111-2120, 2024
+\item T. Kato, \underline{T. Komamizu}, I. Ide, "R-DiP: Re-ranking Based Diffusion Pre-computation for Image Retrieval", DEXA, pp.233-247, 2024 -- {\color{red} Best Paper Award}
+\item T. T. Nguyen, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-Scale and Action Label Features", FG, pp.1-10, 2024
+\item Y. Teramoto, \underline{T. Komamizu}, M. Matsushita, K. Hatano, "Feature Extraction for Claim Check-Worthiness Prediction Tasks Using LLM", iiWAS, pp.53-58, 2024
+\item M. Dao, M. A. Riegler, D. Dang-nguyen, H. Tran, R. U. Kiran, \underline{T. Komamizu}, "ICDAR 24: Intelligent Cross-Data Analysis and Retrieval", ICMR, pp.1332-1333, 2024
+\item C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, T. Hirayama, I. Ide, "Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation", ACM Multimedia, pp.7307-7315, 2024
+\item T. T. Nguyen, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "Action Selection Learning for Multi-label Multi-view Action Recognition", MMAsia, pp.50:1, 2024
+\item \underline{T. Komamizu}, "ASC: Aggregating Sentence-level Classifications for Multi-label Long Text Classification", SoICT, pp.174–185, 2024
+\item Y. Kimura, \underline{T. Komamizu}, K. Hatano, "L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Model", CustomNLP4U@EMNLP, pp.53–62, 2024
+\item Y. Miyakawa, C. Matsuhira, H. Kato, T. Hirayama, \underline{T. Komamizu}, I. Ide, "Do LLMs Agree with Humans on Emotional Associations to Nonsense Words?", CMCL@ACL, pp.81-85, 2024
+\item \underline{T. Komamizu}, "Towards Ensemble-Based Imbalanced Text Classification Using Metric Learning", DEXA, pp.188-202, 2023 -- {\color{red} Best Paper Award}
+\item C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, T. Hirayama, K. Doman, I. Ide, "Nonword-to-Image Generation Considering Perceptual Association of Phonetically Similar Words", MCGE@MM, pp.115-125, 2023
+\item \underline{T. Komamizu}, "Visual Passage Score Aggregation for Image Retrieval", MIPR, pp.37-42, 2023
+\item M. S. Kankanhalli, I. (. Patras, J. Liu, Y. Wong, \underline{T. Komamizu}, S. Yamazaki, K. Stephen, K. Kansal, "NarSUM '23: The 2nd Workshop on User-Centric Narrative Summarization of Long Videos", ACM Multimedia, pp.9731-9733, 2023
+\item J. Shi, \underline{T. Komamizu}, K. Doman, H. Kyutoku, I. Ide, "RecipeMeta: Metapath-enhanced Recipe Recommendation on Heterogeneous Recipe Network", MMAsia, pp.56:1-56:7, 2023
+\item I. Phueaksri, M. A. Kastner, Y. Kawanishi, \underline{T. Komamizu}, I. Ide, "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach", MMM, pp.178-190, 2023
+\item D. Huo, M. A. Kastner, T. Liu, Y. Kawanishi, T. Hirayama, \underline{T. Komamizu}, I. Ide, "Small Object Detection for Birds with Swin Transformer", MVA, pp.1-5, 2023
+\item B. Kojima, \underline{T. Komamizu}, Y. Kawanishi, K. Doman, I. Ide, "Image Impression Estimation by Clustering People with Similar Tastes", MVA, pp.1-5, 2023
+\item Y. Kondo, N. Ukita, T. Yamaguchi, H. Hou, M. Shen, C. Hsu, E. Huang, Y. Huang, Y. Xia, C. Wang, C. Lee, D. Huo, M. A. Kastner, T. Liu, Y. Kawanishi, T. Hirayama, \underline{T. Komamizu}, I. Ide, Y. Shinya, X. Liu, G. Liang, S. Yasui, "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results", MVA, pp.1-11, 2023
+\item C. V. Padeiro, \underline{T. Komamizu}, I. Ide, "Towards Achieving Lightweight Deep Neural Network for Precision Agriculture with Maize Disease Detection", MVA, pp.1-6, 2023
+\item A. Yoshida, C. Matsuhira, H. Kato, T. Hirayama, \underline{T. Komamizu}, I. Ide, "Discovering Phonesthemic Clusters in Readings of Kanji Characters toward Exploring Phonestheme in Japanese", PACLIC, pp.322-337, 2023
+\item Y. Kawanishi, I. Ide, B. Chu, C. Matsuhira, M. A. Kastner, \underline{T. Komamizu}, D. Deguchi, "Detection of Birds in a 3D Environment Referring to Audio-Visual Information", AVSS, pp.1-7, 2022
+\item K. Kusu, \underline{T. Komamizu}, K. Hatano, "Towards Efficient Data Access Through Multiple Relationship in Graph-Structured Digital Archives", ICADL, pp.377-391, 2022 -- {\color{red} Best Paper Runner-up}
+\item D. Huo, M. A. Kastner, \underline{T. Komamizu}, I. Ide, "Action Semantic Alignment for Image Captioning", MIPR, pp.194-197, 2022
+\item H. Kato, T. Hirayama, K. Doman, I. Ide, Y. Kawanishi, \underline{T. Komamizu}, D. Deguchi, H. Murase, "Intuitive Gait Modeling using Mimetic-Words for Gait Description and Generation", MIPR, pp.240-245, 2022
+\item Y. Kimura, \underline{T. Komamizu}, K. Hatano, "Multi-task Learning-based Text Classification with Subword-Phrase Extraction", SoICT, pp.23-30, 2022
+\item T. Yamakoshi, \underline{T. Komamizu}, Y. Ogawa, K. Toyama, "Evaluation Scheme of Focal Translation for Japanese Partially Amended Statutes", WAT@ACL/IJCNLP, pp.124-132, 2021
+\item \underline{T. Komamizu}, "MMEnsemble: Imbalanced Classification Framework Using Metric Learning and Multi-sampling Ratio Ensemble", DEXA, pp.176-188, 2021
+\item \underline{T. Komamizu}, S. Ito, Y. Ogawa, K. Toyama, "FPX-G: First Person Exploration for Graph", MIPR, pp.70-76, 2021
+\item T. Yamakoshi, \underline{T. Komamizu}, Y. Ogawa, K. Toyama, "Differential Translation for Japanese Partially Amended Statutory Sentences", JSAI-isAI Workshops, pp.162-178, 2020
+\item \underline{T. Komamizu}, R. Uehara, Y. Ogawa, K. Toyama, "MUEnsemble: Multi-ratio Undersampling-Based Ensemble Framework for Imbalanced Data", DEXA, pp.213-228, 2020
+\item \underline{T. Komamizu}, "SPARQL with XQuery-based Filtering", ISWC, pp.69-74, 2020
+\item Y. Ogawa, Y. Ikari, \underline{T. Komamizu}, K. Toyama, "NUKL at the NTCIR-15 QA Lab-PoliInfo-2 Task", NTCIR-15, pp.145-152, 2020
+\item T. Yamakoshi, \underline{T. Komamizu}, Y. Ogawa, K. Toyama, "Japanese Mistakable Legal Term Correction using Infrequency-aware BERT Classifier", IEEE BigData, pp.4342-4351, 2019
+\item \underline{T. Komamizu}, K. Fujioka, Y. Ogawa, K. Toyama, "Exploring Relevant Parts Between Legal Documents Using Substructure Matching", JSAI-isAI Workshops, pp.5-19, 2019
+\item Y. Ogawa, M. Satou, \underline{T. Komamizu}, K. Toyama, "nagoy Team's Summarization System at the NTCIR-14 QA Lab-PoliInfo", NTCIR, pp.110-121, 2019
+\item \underline{T. Komamizu}, Y. Uchida, Y. Ogawa, K. Toyama, "Analyzing Japanese Law History through Modeling Multi-versioned Entity", BlockSW/CKG@ISWC, 2019
+\item T. Yamakoshi, V. Satayamas, H. Chanlekha, Y. Ogawa, \underline{T. Komamizu}, A. Kawtrakul, K. Toyama, "Thai Legal Term Correction using Random Forests with Outside-the-sentence Features", PACLIC 33, pp.306-314, 2019
+\item T. Yamakoshi, \underline{T. Komamizu}, Y. Ogawa, K. Toyama, "Japanese Legal Term Correction Using Random Forests", JURIX, pp.161-170, 2018 -- {\color{red} Best Paper Award}
+\item \underline{T. Komamizu}, "Graph Analytical Re-Ranking for Entity Search", CIKM Workshops, 2018
+\item \underline{T. Komamizu}, "Learning Interpretable Entity Representation in Linked Data", DEXA, pp.153-168, 2018
+\item H. Ito, \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Community Detection and Correlated Attribute Cluster Analysis on Multi-Attributed Graphs", EDBT/ICDT Workshops, pp.2-9, 2018
+\item H. Ito, \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Network-Word Embedding for Dynamic Text Attributed Networks", ICSC, pp.334-339, 2018
+\item \underline{T. Komamizu}, S. Okumura, T. Amagasa, H. Kitagawa, "FORK: Feedback-Aware ObjectRank-Based Keyword Search over Linked Data", AIRS, pp.58-70, 2017
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Implicit order join: Joining log data with property data by discovering implicit order-oriented keys with human assistance", IEEE BigData, pp.4400-4406, 2017
+\item \underline{T. Komamizu}, J. Nakazawa, T. Amagasa, H. Kitagawa, H. Tokuda, "Analytical toolbox for smart city applications: Garbage collection log use case", IEEE BigData, pp.4105-4110, 2017
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "CROISSANT: centralized relational interface for web-scale SPARQL endpoints", iiWAS, pp.284-288, 2017
+\item \underline{T. Komamizu}, T. Amagasa, S. A. Shaikh, H. Shiokawa, H. Kitagawa, "SOLA: Stream OLAP-based Analytical Framework for Roadway Maintenance", MEDES, pp.35-41, 2017
+\item \underline{T. Komamizu}, Y. Hayase, T. Amagasa, H. Kitagawa, "Exploring Identical Users on GitHub and Stack Overflow", SEKE, pp.584-589, 2017
+\item \underline{T. Komamizu}, T. Amagasa, S. A. Shaikh, H. Shiokawa, H. Kitagawa, "Towards Real-Time Analysis of Smart City Data: A Case Study on City Facility Utilizations", HPCC/SmartCity/DSS, pp.1357-1364, 2016
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Interleaving Clustering of Classes and Properties for Disambiguating Linked Data", ICADL, pp.251-256, 2016
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Visual Spatial-OLAP for Vehicle Recorder Data on Micro-sized Electric Vehicles", IDEAS, pp.358-363, 2016
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "SPOOL: a SPARQL-based ETL framework for OLAP over linked data", iiWAS, pp.49:1-49:10, 2015 -- {\color{red} Best Paper Award}
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "A scheme of automated object and facet extraction for faceted search over XML data", IDEAS, pp.338-341, 2014
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Extracting Facets from Textual Contents for Faceted Search over XML Data", iiWAS, pp.420-429, 2014
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "Frequent-Pattern Based Facet Extraction from Graph Data", NBiS, pp.318-323, 2014
+\item \underline{T. Komamizu}, M. Kamie, K. Fukui, T. Amagasa, H. Kitagawa, "A Scheme of Fragment-Based Faceted Image Search", DEXA, pp.450-457, 2012
+\item \underline{T. Komamizu}, T. Amagasa, H. Kitagawa, "A framework of faceted navigation for XML data", iiWAS, pp.28-35, 2011
+\item \underline{T. Komamizu}, Y. Yamaguchi, T. Amagasa, H. Kitagawa, "FACTUS: Faceted Twitter User Search Using Twitter Lists", WISE, pp.343-344, 2011

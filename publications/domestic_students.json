@@ -1,0 +1,80 @@
+[
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Tang Wenqiu" }
+ 		]},
+  		"title": "Leveraging control vectors and adversarial reinforcement learning for role playing agents",
+  		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
+  		"pages": "C-5",
+  		"year" : "2025",
+			"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
+			"awards": [
+				{
+					"name": "Presentation Award",
+					"url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "池田 昂太郎" }
+ 		]},
+  		"title": "擬似対訳を用いた歌詞らしい歌詞翻訳",
+  		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
+  		"pages": "C-13",
+  		"year" : "2025",
+			"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/"
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "益田 菜々望" }
+ 		]},
+  		"title": "調理動画に基づく調理の`上手さ'評価実験",
+  		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
+  		"pages": "D-5",
+  		"year" : "2025",
+			"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
+			"awards": [
+				{
+					"name": "Presentation Award",
+					"url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "Trung Thanh Nguyen" }
+ 		]},
+  		"title": "医療分野におけるゼロショット錠剤-処方箋対応付け",
+  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
+  		"pages": "2-6",
+  		"year" : "2023",
+			"ee": "https://www.nadasemi.jp/dbws-2023/",
+			"awards": [
+				{
+					"name": "Presentation Award Runner-up",
+					"url": "https://www.nadasemi.jp/dbws-2023/award/"
+				}
+			]
+	},
+
+	{
+		"authors": {
+			"author": [
+ { "text": "加藤 辰弥" }
+ 		]},
+  		"title": "画像検索におけるRe-rankerに基づくDiffusion事前計算",
+  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
+  		"pages": "2-7",
+  		"year" : "2023",
+			"ee": "https://www.nadasemi.jp/dbws-2023/"
+	}
+]
