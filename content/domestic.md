@@ -28,7 +28,7 @@ draft: false
 1. Trung Thanh Nguyen, Tuan-Anh Vu, Duc Viet Le, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, Teja Kattenborn, "Linear-time 3D Forest Point Cloud Segmentation with Geometry-guided Queries", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS3-172, 2026
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, "Beyond Single-view: Cross-view Context Modeling for Multi-view Action Recognition", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS2-170, 2026
 1. Junan Chen, Trung Thanh Nguyen, [Takahiro Komamizu](/), Ichiro Ide, "Grouped Causal Query Adapter for Efficient Visual Adaptation in Video Captioning", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS3-119, 2026
-1. Lei Xiang1, Feilin Cheng, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, Hosei Nagano, Kenji Suzuki, "Variational AutoEncoder Inverse Mapper for Single-Frequency Lock-In Thermography", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS2-212, 2026
+1. Lei Xiang, Feilin Cheng, Yasutomo Kawanishi, [Takahiro Komamizu](/), Ichiro Ide, Hosei Nagano, Kenji Suzuki, "Variational AutoEncoder Inverse Mapper for Single-Frequency Lock-In Thermography", 第29回 画像の認識・理解シンポジウム (MIRU2026), pp.IS2-212, 2026
 1. 小川 陽平, [駒水 孝裕](/), 井手 一郎, "サッカー中継映像を用いたコーナキックの戦術的類似検索手法の提案", Sports Informatics and Technology (SIT 2026), Vol., No., pp.P-2-2, 2026
 1. 鈴木 瑛仁, 加藤 大貴, カストナー マーク アウレル, 平山 高嗣, [駒水 孝裕](/), 井手 一郎, "漫画話者推定のためのMLLMへの画像入力手法の検討", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-107, pp.448-452, 2026 ([link](https://ken.ieice.org/ken/paper/20260318ScSZ/))
 1. 松平 颯斗, 井手 一郎, [駒水 孝裕](/), "単一画像謎解きに対する類題検索とインコンテキスト学習を用いた解答支援", 電子情報通信学会技術研究報告 (MVE), Vol.125, No.411, MVE2025-56, pp.170-175, 2026 ([link](https://ken.ieice.org/ken/paper/20260316Scs3/))
