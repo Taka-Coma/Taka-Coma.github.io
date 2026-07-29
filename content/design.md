@@ -7,8 +7,8 @@ date = "2022-10-10"
 
 {{< gallery hover-effect="grow" >}}
 	{{< figure caption="DS Program 2nd Info Session 2026 Spring" src="/images/posters/dsprogram-infosession-2026-poster_2_spring.svg" >}}
-	{{< figure caption="DS Program Info Session 2026 Fall" src="/images/posters/dsprogram-infosession-2026-poster_fall.svg" >}}
 	{{< figure caption="DS Program Info Session 2026 Spring" src="/images/posters/dsprogram-infosession-2026-poster_spring.svg" >}}
+	{{< figure caption="DS Program Info Session 2026 Fall" src="/images/posters/dsprogram-infosession-2026-poster_fall.svg" >}}
 	{{< figure caption="DS Program Info Session 2025 Spring" src="/images/posters/dsprogram-infosession-2025-poster_spring.svg" >}}
 	{{< figure caption="DS Program Customized Course (front)" src="/images/posters/dsp_customized_2024_1.svg" >}}
 	{{< figure caption="DS Program Customized Course (back)" src="/images/posters/dsp_customized_2024_2.svg" >}}
