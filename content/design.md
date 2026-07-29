@@ -3,17 +3,12 @@ title = "Design"
 date = "2022-10-10"
 +++
 
-## Logo Design
-{{< gallery hover-effect="grow" >}}
-	{{< figure caption="My Logo" src="/images/logos/my_logo.svg" >}}
-	{{< figure caption="Conference List Logo (202405)" src="/images/logos/conference_list_202405.svg" >}}
-	{{< figure caption="Conference List Logo (202411)" src="/images/logos/conference_list_202411.svg" >}}
-{{</ gallery >}}
-{{< load-photoswipe >}}
-
 ## Poster Design
 
 {{< gallery hover-effect="grow" >}}
+	{{< figure caption="DS Program 2nd Info Session 2026 Spring" src="/images/posters/dsprogram-infosession-2026-poster_2_spring.svg" >}}
+	{{< figure caption="DS Program Info Session 2026 Fall" src="/images/posters/dsprogram-infosession-2026-poster_fall.svg" >}}
+	{{< figure caption="DS Program Info Session 2026 Spring" src="/images/posters/dsprogram-infosession-2026-poster_spring.svg" >}}
 	{{< figure caption="DS Program Info Session 2025 Spring" src="/images/posters/dsprogram-infosession-2025-poster_spring.svg" >}}
 	{{< figure caption="DS Program Customized Course (front)" src="/images/posters/dsp_customized_2024_1.svg" >}}
 	{{< figure caption="DS Program Customized Course (back)" src="/images/posters/dsp_customized_2024_2.svg" >}}
@@ -38,18 +33,6 @@ date = "2022-10-10"
 {{</ gallery >}}
 {{< load-photoswipe >}}
 
-- [DS Program Customized Course](https://www.mds.nagoya-u.ac.jp/ds-program-customized-course)
-- [DS Program Info Session 2025 Fall](https://www.mds.nagoya-u.ac.jp/info-session/20241121)
-- [DS Program 2nd Info Session 2024 Fall](https://www.mds.nagoya-u.ac.jp/info-session/20240919)
-- [MDS Lecture Meeting 202409](https://www.mds.nagoya-u.ac.jp/mds-event/20240911)
-- [MDS Practicum Pamphlet 2024](https://www.mds.nagoya-u.ac.jp/practicum)
-- [DS Program Info Session 2024 Spring](https://www.mds.nagoya-u.ac.jp/platform-event/2024-03-12)
-- [DS Program Info Session 2024 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2024-autumn)
-- [Mobility DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2023-mobi)
-- [MDS Pamphlet 2023](https://www.mds.nagoya-u.ac.jp/ds-program)
-- [DS Program Info Session 2023 Spring](https://www.mds.nagoya-u.ac.jp/info-session/2023-04-10)
-- [DS Program Info Session 2023 Fall](https://www.mds.nagoya-u.ac.jp/info-session/2022-11-30)
-
 ----
 
 ## Web Page Design
@@ -64,12 +47,5 @@ date = "2022-10-10"
 	{{< figure caption="DEIM 2019" src="/images/webpages/DEIM2019.png" >}}
 {{</ gallery >}}
 {{< load-photoswipe >}}
-
-- [MMM 2025](https://mmm2025.net/)
-- [MDS Center of Nagoya University](https://www.mds.nagoya-u.ac.jp/)
-- [NarSUM workshop at ACM MM 2022](https://www.narsum.cf/)
-- [MIPR 2021](https://mipr2021.org/)
-- [DEIM 2020](https://db-event.jpn.org/deim2020/)
-- [DEIM 2019](https://db-event.jpn.org/deim2019/)
 
 
