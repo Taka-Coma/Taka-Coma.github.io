@@ -1,55 +1,111 @@
 [
-
-	{
-		"type": "journal",
-		"authors": {
-			"author": [
-				{ "text": "Carlos Victorino Padeiro" },
-				{ "text": "Tse-Wei Chen" },
-			  { "text": "Takahiro Komamizu" },
-			  { "text": "Ichiro Ide" }
- 		]},
-  		"title": "Leveraging Label-free and Gradient-based Pruning for Efficient Neural Networks in Maize Disease Detection",
-  		"venue": "IEEE Transactions on AgriFood Electronics",
-			"volume": "",
-			"number": "",
-  		"pages": "",
-  		"year" : "2026",
-			"ee": "https://doi.org/10.1109/TAFE.2026.3711909"
-	},
-
 	{
 		"type": "conference",
 		"authors": {
 			"author": [
-			  { "text": "Wenqiu Tang" },
-				{ "text": "Zhen Wan" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention.",
-  		"venue": "Interspeech",
-  		"pages": "",
-  		"year" : "2026",
-			"ee": "",
-			"key": "Interspeech2026"
+				{
+					"text": "Trung Thanh NGUYEN"
+				},
+				{
+					"text": "Tuan-Anh Vu"
+				},
+				{
+					"text": "Yasutomo Kawanishi"
+				},
+				{
+					"text": "Takahiro Komamizu"
+				},
+				{
+					"text": "Ichiro Ide"
+				},
+				{
+					"text": "Teja Kattenborn"
+				}
+			]
+		},
+		"title": "ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation",
+		"venue": "BMVC",
+		"pages": "",
+		"year": "2026",
+		"ee": "",
+		"key": "BMVC2026"
 	},
-
 	{
 		"type": "journal",
 		"authors": {
 			"author": [
-			  { "text": "Trung Thanh NGUYEN" },
-				{ "text": "Yasutomo Kawanishi" },
-				{ "text": "Vijay John" },
-				{ "text": "Takahiro Komamizu" },
-				{ "text": "Ichiro Ide " }
- 		]},
-  		"title": "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition.",
-  		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
-  		"pages": "",
-  		"year" : "2025",
-			"ee": "https://doi.org/10.1145/3744742"
+				{
+					"text": "Carlos Victorino Padeiro"
+				},
+				{
+					"text": "Tse-Wei Chen"
+				},
+				{
+					"text": "Takahiro Komamizu"
+				},
+				{
+					"text": "Ichiro Ide"
+				}
+			]
+		},
+		"title": "Leveraging Label-free and Gradient-based Pruning for Efficient Neural Networks in Maize Disease Detection",
+		"venue": "IEEE Transactions on AgriFood Electronics",
+		"volume": "",
+		"number": "",
+		"pages": "",
+		"year": "2026",
+		"ee": "https://doi.org/10.1109/TAFE.2026.3711909"
+	},
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{
+					"text": "Wenqiu Tang"
+				},
+				{
+					"text": "Zhen Wan"
+				},
+				{
+					"text": "Takahiro Komamizu"
+				},
+				{
+					"text": "Ichiro Ide "
+				}
+			]
+		},
+		"title": "DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention.",
+		"venue": "Interspeech",
+		"pages": "",
+		"year": "2026",
+		"ee": "",
+		"key": "Interspeech2026"
+	},
+	{
+		"type": "journal",
+		"authors": {
+			"author": [
+				{
+					"text": "Trung Thanh NGUYEN"
+				},
+				{
+					"text": "Yasutomo Kawanishi"
+				},
+				{
+					"text": "Vijay John"
+				},
+				{
+					"text": "Takahiro Komamizu"
+				},
+				{
+					"text": "Ichiro Ide "
+				}
+			]
+		},
+		"title": "Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition.",
+		"venue": "ACM Transactions on Multimedia Computing Communications and Applications.",
+		"pages": "",
+		"year": "2025",
+		"ee": "https://doi.org/10.1145/3744742"
 	}
-
 ]
