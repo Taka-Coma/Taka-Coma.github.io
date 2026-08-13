@@ -92,9 +92,12 @@ draft: false
 
 ### Program Committee
 
+- Aug. 2026 - May. 2027,
+    [32nd International Conference on Database Systems for Advanced Applications (DASFAA 2027)](https://dasfaa2027.github.io/), 
+    PC member
 - Jul. 2026 - Jan. 2027, 
     [33rd International Conference on Multimedia Modelling (MMM 2027)](https://mmm2027.net/),
-    Web Co-chair
+    PC member
 - Jan. 2026 - Dec. 2026,
     [2026 IEEE International Conference on Big Data (IEEE BigData 2026)](https://events.engineering.asu.edu/ieee-bigdata-2026/),
     PC member
