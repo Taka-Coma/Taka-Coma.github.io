@@ -41,7 +41,13 @@
 		"title": "異なる語彙を持つ LLM 間のオンポリシ蒸留",
 		"venue": "第21回言語処理若手シンポジウム (YANS2026)",
 		"pages": "S1-P24",
-		"year": "2026"
+		"year": "2026",
+		"awards": [
+			{
+				"name": "ELYZA Award",
+				"url": ""
+			}
+		]
 	},
 	{
 		"authors": {
