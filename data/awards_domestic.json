@@ -1,6 +1,16 @@
 [
-
-
+	{
+		"venue": "第21回言語処理若手シンポジウム (YANS2026)",
+		"venue_url": "https://yans.anlp.jp/entry/yans2026",
+		"award": "ELYZA Award",
+		"award_jp": "株式会社ELYZA賞",
+		"award_url": "",
+		"paper": {
+			"author": "木村 優介, 駒水 孝裕, 波多野 賢治, 石川 佳治",
+			"title": "異なる語彙を持つ LLM 間のオンポリシ蒸留"
+		},
+		"date": "August 2026"
+	},
 	{
 		"venue": "MIRU 2023",
 		"venue_url": "http://cvim.ipsj.or.jp/MIRU2023/",
@@ -8,25 +18,23 @@
 		"award_jp": "MIRU インタラクティブ発表賞",
 		"award_url": "http://cvim.ipsj.or.jp/MIRU2023/award/",
 		"paper": {
-			"author" :"松平 茅隼, カストナーマークアウ レル, 駒水 孝裕, 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎",
+			"author": "松平 茅隼, カストナーマークアウ レル, 駒水 孝裕, 平山 高嗣, 道満 恵介, 川西 康友, 井手 一郎",
 			"title": "類音語の連想性を考慮した未知語の発音に対する画像生成"
-		}, 
+		},
 		"date": "July 2023"
 	},
-
 	{
 		"venue": "SWO 51",
 		"venue_url": "https://www.sigswo.org/papers/51program",
 		"award": "JSAI Incentive Award",
 		"award_jp": "人工知能学会研究会優秀賞",
-		"award_url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/", 
+		"award_url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/",
 		"paper": {
 			"author": "駒水 孝裕, 小川 泰弘, 外山 勝彦",
 			"title": "法令沿革LOD構築のためのDBpediaにおける法令エンティティの同定"
 		},
 		"date": "June 2021"
-	}, 
-
+	},
 	{
 		"venue": "WiNF 2020",
 		"venue_url": "https://sites.google.com/view/winf2020",
@@ -38,8 +46,7 @@
 			"title": "利用規約中の不公平文検出における不均衡データ分類に対する EasyEnsemble の利用"
 		},
 		"date": "November 2020"
-	}, 
-
+	},
 	{
 		"venue": "DEIM 2020",
 		"venue_url": "http://db-event.jpn.org/deim2020/",
@@ -52,7 +59,6 @@
 		},
 		"date": "March 2020"
 	},
-
 	{
 		"venue": "WebDBF 2019",
 		"venue_url": "http://db-event.jpn.org/webdbf2019/",
@@ -65,7 +71,6 @@
 		},
 		"date": "September 2019"
 	},
-
 	{
 		"venue": "WebDBF 2019",
 		"venue_url": "http://db-event.jpn.org/webdbf2019/",
@@ -78,7 +83,6 @@
 		},
 		"date": "September 2019"
 	},
-
 	{
 		"venue": "WebDBF 2019",
 		"venue_url": "http://db-event.jpn.org/webdbf2019/",
@@ -91,7 +95,6 @@
 		},
 		"date": "September 2019"
 	},
-
 	{
 		"venue": "DEIM 2018",
 		"venue_url": "http://db-event.jpn.org/deim2018/",
@@ -104,10 +107,9 @@
 		},
 		"date": "March 2018"
 	},
-
 	{
 		"venue": "Graduate School of SIE, University of Tsukuba",
-		"venue_url": "https://www.sie.tsukuba.ac.jp/", 
+		"venue_url": "https://www.sie.tsukuba.ac.jp/",
 		"award": "Distinguished Student Award from the Chair of Department of Computer Science",
 		"award_jp": "CS専攻長表彰",
 		"award_url": "http://www.cs.tsukuba.ac.jp/internal/awards.html#26",
@@ -116,7 +118,6 @@
 		},
 		"date": "March 2015"
 	},
-
 	{
 		"venue": "Graduate School of SIE, University of Tsukuba",
 		"venue_url": "https://www.sie.tsukuba.ac.jp/",
@@ -128,7 +129,6 @@
 		},
 		"date": "March 2012"
 	},
-
 	{
 		"venue": "情報処理学会",
 		"venue_url": "http://www.ipsj.or.jp/index.html",
@@ -141,7 +141,6 @@
 		},
 		"date": "March 2011"
 	},
-
 	{
 		"venue": "IPSJ 全国大会 2011",
 		"venue_url": "http://www.ipsj.or.jp/10jigyo/taikai/73kai/",
@@ -154,7 +153,6 @@
 		},
 		"date": "March 2011"
 	},
-
 	{
 		"venue": "DEIM 2010",
 		"venue_url": "http://db-event.jpn.org/deim2010/",
@@ -167,5 +165,4 @@
 		},
 		"date": "March 2010"
 	}
-
 ]
