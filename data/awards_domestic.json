@@ -4,7 +4,7 @@
 		"venue_url": "https://yans.anlp.jp/entry/yans2026",
 		"award": "ELYZA Award",
 		"award_jp": "株式会社ELYZA賞",
-		"award_url": "",
+		"award_url": "https://yans.anlp.jp/entry/award",
 		"paper": {
 			"author": "木村 優介, 駒水 孝裕, 波多野 賢治, 石川 佳治",
 			"title": "異なる語彙を持つ LLM 間のオンポリシ蒸留"
