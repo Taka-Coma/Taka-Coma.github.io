@@ -4,6 +4,13 @@ import requests
 import json
 import re
 import os
+import time
+
+# Minimum delay (seconds) between consecutive requests to DBLP, and how long
+# to back off when it responds with 429 (Too Many Requests).
+REQUEST_DELAY_SECONDS = 5
+RATE_LIMIT_RETRIES = 3
+RATE_LIMIT_BACKOFF_SECONDS = 15
 
 # Get the directory where this script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -175,13 +182,44 @@ def normalizeTitle(title):
     return normalized
 
 
+def fetchWithRateLimit(url):
+    """GET url, backing off and retrying when DBLP responds with 429."""
+    throttleRequest()
+
+    for attempt in range(RATE_LIMIT_RETRIES + 1):
+        r = requests.get(url, timeout=10)
+
+        if r.status_code != 429:
+            r.raise_for_status()
+            return r
+
+        if attempt == RATE_LIMIT_RETRIES:
+            r.raise_for_status()
+
+        wait = int(r.headers.get('Retry-After', RATE_LIMIT_BACKOFF_SECONDS * (attempt + 1)))
+        print(f'  ⚠ Rate limited (429), retrying in {wait}s...')
+        time.sleep(wait)
+
+
+def throttleRequest():
+    """Ensure at least REQUEST_DELAY_SECONDS pass between requests in this process."""
+    now = time.monotonic()
+    if throttleRequest.last_request_at is not None:
+        elapsed = now - throttleRequest.last_request_at
+        if elapsed < REQUEST_DELAY_SECONDS:
+            time.sleep(REQUEST_DELAY_SECONDS - elapsed)
+    throttleRequest.last_request_at = time.monotonic()
+
+
+throttleRequest.last_request_at = None
+
+
 def getPapers(url, style):
     cache_file = os.path.join(SCRIPT_DIR, 'international_tmp', f'{style}.json')
 
     try:
         print(f'Fetching {style} from remote...')
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
+        r = fetchWithRateLimit(url)
         jdata = r.json()
 
         # Save to cache
