@@ -7,7 +7,7 @@ draft: false
 ## As Supervisor
 
 ### Ph.D. Student
-1. [Carlos V. Padeiro](https://www.cs.is.i.nagoya-u.ac.jp/people/carlos-padeiro/), 2021.10 - now
+1. [Carlos V. Padeiro](https://www.cs.is.i.nagoya-u.ac.jp/people/carlos-padeiro/), 2022.10 - now
 
 ----
 
