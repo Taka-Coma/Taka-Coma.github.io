@@ -116,6 +116,9 @@ draft: false
 - Nov. 2025 - Feb. 2026, 
     [14th IEEE International Workshop on Semantic Computing for Social Networking: from user information to social knowledge and ethical AI (SCSN@ICSC 2026)](http://pa.icar.cnr.it/scsn26/),
     PC member
+- Jan. 2025 - Jan. 2025, 
+    [32nd International Conference on Multimedia Modelling (MMM 2026)](https://mmm2026.cz/),
+    PC member 
 - Apr. 2025 - Oct. 2025,
     [21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/),
     PC member
@@ -192,9 +195,6 @@ draft: false
     [IEEE International Conference on Multimedia and Expo 2026 (ICME 2026)](https://2026.ieeeicme.org/)
 - May 2026,
     [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/)
-- Jan. 2025 - Jan. 2025, 
-    [32nd International Conference on Multimedia Modelling (MMM 2026)](https://mmm2026.cz/),
-    Web Co-chair
 - [Meta] Jul. 2025, 
     [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
