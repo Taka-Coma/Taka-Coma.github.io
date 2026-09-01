@@ -195,8 +195,6 @@ draft: false
     [IEEE International Conference on Multimedia and Expo 2026 (ICME 2026)](https://2026.ieeeicme.org/)
 - May 2026,
     [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/)
-- [Meta] Jul. 2025, 
-    [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
     [33rd ACM International Conference on Multimedia (ACMMM 2025)](https://acmmm2025.org/),
     Regular Track, Brave New Idea Track, Datasets Track
