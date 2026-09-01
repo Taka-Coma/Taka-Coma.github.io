@@ -98,6 +98,9 @@ draft: false
 - Jul. 2026 - Jan. 2027, 
     [33rd International Conference on Multimedia Modelling (MMM 2027)](https://mmm2027.net/),
     PC member
+- April 2026 - Dec. 2026,
+    [26th IEEE International Conferenceon Data Mining (ICDM 2026)](https://icdm2026.neu.edu.cn/),
+    PC member
 - Jan. 2026 - Dec. 2026,
     [2026 IEEE International Conference on Big Data (IEEE BigData 2026)](https://events.engineering.asu.edu/ieee-bigdata-2026/),
     PC member
@@ -189,6 +192,9 @@ draft: false
     [IEEE International Conference on Multimedia and Expo 2026 (ICME 2026)](https://2026.ieeeicme.org/)
 - May 2026,
     [2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)](https://2026.ieeeicassp.org/)
+- Jan. 2025 - Jan. 2025, 
+    [32nd International Conference on Multimedia Modelling (MMM 2026)](https://mmm2026.cz/),
+    Web Co-chair
 - [Meta] Jul. 2025, 
     [The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025)](https://adma2025.github.io/)
 - Jul. 2025,
