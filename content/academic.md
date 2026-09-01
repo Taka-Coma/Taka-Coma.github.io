@@ -277,7 +277,7 @@ draft: false
 ----
 
 ### Program Committee
-
+- Jun. 2026 - Sep. 2026, [東海関西データベースワークショップ 2026](https://dbws2026.github.io/), プログラム委員会, プログラム委員
 - Jun. 2025 - Sep. 2025, [東海関西データベースワークショップ 2025](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025), プログラム委員会, プログラム委員
 - Sep. 2024 - Sep. 2024, [東海関西データベースワークショップ 2024](https://www.nadasemi.jp/dbws_2024/), プログラム委員会, プログラム委員
 - Sep. 2023 - Sep. 2023, [東海関西データベースワークショップ 2023](https://www.nadasemi.jp/dbws-2023/), プログラム委員会, プログラム委員
