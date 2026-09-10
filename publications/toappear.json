@@ -4,6 +4,31 @@
 		"authors": {
 			"author": [
 				{
+					"text": "Wenqiu Tang"
+				},
+				{
+					"text": "Zhen Wan"
+				},
+				{
+					"text": "Takahiro Komamizu"
+				},
+				{
+					"text": "Ichiro Ide "
+				}
+			]
+		},
+		"title": "Emotion Is Not External Knowledge: Internal Attention Signals for Affective State Reasoning",
+		"venue": "AACL-IJCNLP",
+		"pages": "",
+		"year": "2026",
+		"ee": "",
+		"key": "aaclijcnlp2026"
+	},
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{
 					"text": "Trung Thanh NGUYEN"
 				},
 				{
