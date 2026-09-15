@@ -92,6 +92,9 @@ draft: false
 
 ### Program Committee
 
+- Sep. 2026 - Feb. 2026, 
+    [15th International Workshop on Semantic Computing and AI for Social Networks and Organizational Knowledge (SCSN-AI@ICSC 2027)](http://pa.icar.cnr.it/scsn27/),
+    PC member
 - Aug. 2026 - May. 2027,
     [32nd International Conference on Database Systems for Advanced Applications (DASFAA 2027)](https://dasfaa2027.github.io/), 
     PC member
