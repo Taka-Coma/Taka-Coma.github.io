@@ -1,80 +1,146 @@
 [
-
 	{
 		"authors": {
 			"author": [
- { "text": "Tang Wenqiu" }
- 		]},
-  		"title": "Leveraging control vectors and adversarial reinforcement learning for role playing agents",
-  		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
-  		"pages": "C-5",
-  		"year" : "2025",
-			"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
-			"awards": [
 				{
-					"name": "Presentation Award",
-					"url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E"
+					"text": "朱 培源"
 				}
 			]
+		},
+		"title": "視覚障害者の安全な歩行を支援するマルチモーダルAI – 実環境データとUnity合成データを活用した危険認識・回避案内生成 –",
+		"venue": "東海関西データベースワークショップ 2026 (DBWS 2026)",
+		"pages": "8-9",
+		"year": "2026",
+		"ee": "https://dbws2026.github.io/"
 	},
-
 	{
 		"authors": {
 			"author": [
- { "text": "池田 昂太郎" }
- 		]},
-  		"title": "擬似対訳を用いた歌詞らしい歌詞翻訳",
-  		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
-  		"pages": "C-13",
-  		"year" : "2025",
-			"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/"
-	},
-
-	{
-		"authors": {
-			"author": [
- { "text": "益田 菜々望" }
- 		]},
-  		"title": "調理動画に基づく調理の`上手さ'評価実験",
-  		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
-  		"pages": "D-5",
-  		"year" : "2025",
-			"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
-			"awards": [
 				{
-					"name": "Presentation Award",
-					"url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E"
+					"text": "夏 雪杉"
 				}
 			]
+		},
+		"title": "深度事前情報と多視点整合性に基づくカメラパラメータと三次元点群の最適化",
+		"venue": "東海関西データベースワークショップ 2026 (DBWS 2026)",
+		"pages": "7-9",
+		"year": "2026",
+		"ee": "https://dbws2026.github.io/"
 	},
-
 	{
 		"authors": {
 			"author": [
- { "text": "Trung Thanh Nguyen" }
- 		]},
-  		"title": "医療分野におけるゼロショット錠剤-処方箋対応付け",
-  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
-  		"pages": "2-6",
-  		"year" : "2023",
-			"ee": "https://www.nadasemi.jp/dbws-2023/",
-			"awards": [
 				{
-					"name": "Presentation Award Runner-up",
-					"url": "https://www.nadasemi.jp/dbws-2023/award/"
+					"text": "鈴木 瑛仁"
 				}
 			]
+		},
+		"title": "VLM は何を手がかりに禁止を判断するか？― ISO標識を用いた分析",
+		"venue": "東海関西データベースワークショップ 2026 (DBWS 2026)",
+		"pages": "5-9",
+		"year": "2026",
+		"ee": "https://dbws2026.github.io/"
 	},
-
 	{
 		"authors": {
 			"author": [
- { "text": "加藤 辰弥" }
- 		]},
-  		"title": "画像検索におけるRe-rankerに基づくDiffusion事前計算",
-  		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
-  		"pages": "2-7",
-  		"year" : "2023",
-			"ee": "https://www.nadasemi.jp/dbws-2023/"
+				{
+					"text": "陳 曦"
+				}
+			]
+		},
+		"title": "漫符の自動認識手法の検討",
+		"venue": "東海関西データベースワークショップ 2026 (DBWS 2026)",
+		"pages": "5-10",
+		"year": "2026",
+		"ee": "https://dbws2026.github.io/"
+	},
+	{
+		"authors": {
+			"author": [
+				{
+					"text": "Wenqiu Tang"
+				}
+			]
+		},
+		"title": "Leveraging control vectors and adversarial reinforcement learning for role playing agents",
+		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
+		"pages": "C-5",
+		"year": "2025",
+		"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
+		"awards": [
+			{
+				"name": "Presentation Award",
+				"url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E"
+			}
+		]
+	},
+	{
+		"authors": {
+			"author": [
+				{
+					"text": "池田 昂太郎"
+				}
+			]
+		},
+		"title": "擬似対訳を用いた歌詞らしい歌詞翻訳",
+		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
+		"pages": "C-13",
+		"year": "2025",
+		"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/"
+	},
+	{
+		"authors": {
+			"author": [
+				{
+					"text": "益田 菜々望"
+				}
+			]
+		},
+		"title": "調理動画に基づく調理の`上手さ'評価実験",
+		"venue": "東海関西データベースワークショップ 2025 (DBWS 2025)",
+		"pages": "D-5",
+		"year": "2025",
+		"ee": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/",
+		"awards": [
+			{
+				"name": "Presentation Award",
+				"url": "https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E"
+			}
+		]
+	},
+	{
+		"authors": {
+			"author": [
+				{
+					"text": "Trung Thanh Nguyen"
+				}
+			]
+		},
+		"title": "医療分野におけるゼロショット錠剤-処方箋対応付け",
+		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
+		"pages": "2-6",
+		"year": "2023",
+		"ee": "https://www.nadasemi.jp/dbws-2023/",
+		"awards": [
+			{
+				"name": "Presentation Award Runner-up",
+				"url": "https://www.nadasemi.jp/dbws-2023/award/"
+			}
+		]
+	},
+	{
+		"authors": {
+			"author": [
+				{
+					"text": "加藤 辰弥"
+				}
+			]
+		},
+		"title": "画像検索におけるRe-rankerに基づくDiffusion事前計算",
+		"venue": "東海関西データベースワークショップ 2023 (DBWS 2023)",
+		"pages": "2-7",
+		"year": "2023",
+		"ee": "https://www.nadasemi.jp/dbws-2023/"
 	}
 ]

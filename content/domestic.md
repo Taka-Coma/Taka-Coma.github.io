@@ -142,7 +142,11 @@ draft: false
 1. [駒水 孝裕](/), 天笠 俊之, 北川 博之, "XMLデータに対するファセットナビゲーションのためのフレームワークFoXの提案", 第1回データ工学と情報マネジメントに関するフォーラム, pp.B7-6, 2009
 ----
 ## 査読なし会議（学生発表）
-1. Tang Wenqiu, "Leveraging control vectors and adversarial reinforcement learning for role playing agents", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.C-5, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/)) -- {{< awards name="Presentation Award" url="https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E" >}}
+1. 朱 培源, "視覚障害者の安全な歩行を支援するマルチモーダルAI – 実環境データとUnity合成データを活用した危険認識・回避案内生成 –", 東海関西データベースワークショップ 2026 (DBWS 2026), pp.8-9, 2026 ([link](https://dbws2026.github.io/))
+1. 夏 雪杉, "深度事前情報と多視点整合性に基づくカメラパラメータと三次元点群の最適化", 東海関西データベースワークショップ 2026 (DBWS 2026), pp.7-9, 2026 ([link](https://dbws2026.github.io/))
+1. 鈴木 瑛仁, "VLM は何を手がかりに禁止を判断するか？― ISO標識を用いた分析", 東海関西データベースワークショップ 2026 (DBWS 2026), pp.5-9, 2026 ([link](https://dbws2026.github.io/))
+1. 陳 曦, "漫符の自動認識手法の検討", 東海関西データベースワークショップ 2026 (DBWS 2026), pp.5-10, 2026 ([link](https://dbws2026.github.io/))
+1. Wenqiu Tang, "Leveraging control vectors and adversarial reinforcement learning for role playing agents", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.C-5, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/)) -- {{< awards name="Presentation Award" url="https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E" >}}
 1. 池田 昂太郎, "擬似対訳を用いた歌詞らしい歌詞翻訳", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.C-13, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/))
 1. 益田 菜々望, "調理動画に基づく調理の`上手さ'評価実験", 東海関西データベースワークショップ 2025 (DBWS 2025), pp.D-5, 2025 ([link](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/)) -- {{< awards name="Presentation Award" url="https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E" >}}
 1. Trung Thanh Nguyen, "医療分野におけるゼロショット錠剤-処方箋対応付け", 東海関西データベースワークショップ 2023 (DBWS 2023), pp.2-6, 2023 ([link](https://www.nadasemi.jp/dbws-2023/)) -- {{< awards name="Presentation Award Runner-up" url="https://www.nadasemi.jp/dbws-2023/award/" >}}
