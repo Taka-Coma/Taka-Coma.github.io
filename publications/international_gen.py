@@ -12,6 +12,36 @@ REQUEST_DELAY_SECONDS = 5
 RATE_LIMIT_RETRIES = 3
 RATE_LIMIT_BACKOFF_SECONDS = 15
 
+# dblp's search API (dblp.org/search/publ/api) sits behind an Anubis bot
+# challenge and answers scripts with an HTML page, so query the SPARQL
+# endpoint by author PID instead.
+SPARQL_ENDPOINT = 'https://sparql.dblp.org/sparql'
+AUTHOR_PID = '60/10773'
+
+STYLES = {
+    'journal': {'text': 'International Journals', 'rdf_type': 'Article'},
+    'conference': {'text': 'International Conferences', 'rdf_type': 'Inproceedings'},
+    'editor': {'text': 'Editor', 'rdf_type': 'Editorship'},
+    'preprint': {'text': 'Pre-Print', 'rdf_type': 'Informal'},
+}
+
+SPARQL_QUERY = f'''PREFIX dblp: <https://dblp.org/rdf/schema#>
+SELECT ?publ ?type ?title ?venue ?year ?pages ?volume ?number ?ee ?stream ?ord ?name WHERE {{
+  ?publ dblp:authoredBy|dblp:editedBy <https://dblp.org/pid/{AUTHOR_PID}> ;
+        a ?type ; dblp:title ?title ; dblp:hasSignature ?sig .
+  ?sig dblp:signatureOrdinal ?ord ; dblp:signatureDblpName ?name .
+  VALUES ?type {{ {' '.join('dblp:' + s['rdf_type'] for s in STYLES.values())} }}
+  OPTIONAL {{ ?publ dblp:yearOfEvent ?eventYear }}
+  OPTIONAL {{ ?publ dblp:yearOfPublication ?publYear }}
+  BIND(COALESCE(?eventYear, ?publYear) AS ?year)
+  OPTIONAL {{ ?publ dblp:publishedIn ?venue }}
+  OPTIONAL {{ ?publ dblp:pagination ?pages }}
+  OPTIONAL {{ ?publ dblp:publishedInJournalVolume ?volume }}
+  OPTIONAL {{ ?publ dblp:publishedInJournalVolumeIssue ?number }}
+  OPTIONAL {{ ?publ dblp:primaryDocumentPage ?ee }}
+  OPTIONAL {{ ?publ dblp:publishedInStream/dblp:streamTitle ?stream }}
+}}'''
+
 # Get the directory where this script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
@@ -47,34 +77,9 @@ draft: false
     if len(data) > 0:
         out.append("----")
 
-    urls = {
-
-        'journal': {
-            'text': 'International Journals',
-            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AJournal_Articles%3A&h=1000&format=json"
-        },
-
-        'conference': {
-            'text': 'International Conferences',
-            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AConference_and_Workshop_Papers%3A&h=1000&format=json"
-
-        },
-
-        'editor': {
-            'text': 'Editor',
-            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AEditorship%3A&h=1000&format=json"
-        },
-
-        'preprint': {
-            'text': 'Pre-Print',
-            'url': "https://dblp.org/search/publ/api?q=takahiro%20komamizu%20type%3AInformal_and_Other_Publications%3A&h=1000&format=json"
-        }
-
-    }
-
-    for style in urls:
-        out.append(f"## {urls[style]['text']}")
-        tmp_cont = getContent(urls[style]['url'], style)
+    for style in STYLES:
+        out.append(f"## {STYLES[style]['text']}")
+        tmp_cont = getContent(style)
         out.append('\n'.join(tmp_cont))
 
         if style != 'preprint':
@@ -84,8 +89,8 @@ draft: false
         f.write('\n'.join(out))
 
 
-def getContent(url, style):
-    papers = getPapers(url, style)
+def getContent(style):
+    papers = getPapers(style)
 
     out = []
 
@@ -182,12 +187,12 @@ def normalizeTitle(title):
     return normalized
 
 
-def fetchWithRateLimit(url):
+def fetchWithRateLimit(url, params=None, headers=None):
     """GET url, backing off and retrying when DBLP responds with 429."""
     throttleRequest()
 
     for attempt in range(RATE_LIMIT_RETRIES + 1):
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, params=params, headers=headers, timeout=60)
 
         if r.status_code != 429:
             r.raise_for_status()
@@ -214,13 +219,90 @@ def throttleRequest():
 throttleRequest.last_request_at = None
 
 
-def getPapers(url, style):
+def fetchAllPapers():
+    """Run the SPARQL query once and group the records by style, in the
+    same {'result': {'hits': {'hit': [{'info': ...}]}}} shape that the
+    dblp search API returned (and that the cache files hold)."""
+    if fetchAllPapers.result is not None:
+        return fetchAllPapers.result
+
+    r = fetchWithRateLimit(SPARQL_ENDPOINT, params={'query': SPARQL_QUERY},
+                           headers={'Accept': 'application/sparql-results+json'})
+
+    records = {}
+    for row in r.json()['results']['bindings']:
+        v = {k: x['value'] for k, x in row.items()}
+        rec = records.setdefault(v['publ'], {'row': v, 'authors': {}})
+        rec['authors'][int(v['ord'])] = v['name']
+
+    type_to_style = {s['rdf_type']: style for style, s in STYLES.items()}
+    result = {style: [] for style in STYLES}
+    for publ, rec in sorted(records.items()):
+        v = rec['row']
+        style = type_to_style[v['type'].split('#')[-1]]
+        key = publ.removeprefix('https://dblp.org/rec/')
+        cached = cachedInfo(style, key)
+
+        paper = {
+            'authors': {'author': [{'text': rec['authors'][o]} for o in sorted(rec['authors'])]},
+            'title': v['title'],
+        }
+        if 'venue' in v:
+            # "DEXA (2)" -> "DEXA", as the search API reported it
+            paper['venue'] = re.sub(r'\s*\([^)]*\)$', '', v['venue'])
+        else:
+            # Editorships have no venue in the RDF; the search API gave e.g. "ICDAR@ICMR"
+            paper['venue'] = cached.get('venue') or streamAcronym(v.get('stream', ''))
+        for field in ('volume', 'number', 'pages'):
+            if field in v:
+                paper[field] = v[field]
+        paper['year'] = v['year']
+        paper['key'] = key
+        if 'ee' in v:
+            # The RDF upper-cases DOIs; keep the original casing when already known
+            cached_ee = cached.get('ee')
+            if isinstance(cached_ee, str) and cached_ee.lower() == v['ee'].lower():
+                paper['ee'] = cached_ee
+            else:
+                paper['ee'] = v['ee']
+
+        result[style].append({'info': paper})
+
+    fetchAllPapers.result = {style: {'result': {'hits': {'hit': hits}}}
+                             for style, hits in result.items()}
+    return fetchAllPapers.result
+
+
+fetchAllPapers.result = None
+
+
+def cachedInfo(style, key):
+    """Record for key in the previous cache file, or {} if absent."""
+    if style not in cachedInfo.cache:
+        try:
+            with open(os.path.join(SCRIPT_DIR, 'international_tmp', f'{style}.json'), 'r') as f:
+                hits = json.load(f)['result']['hits']['hit']
+            cachedInfo.cache[style] = {h['info'].get('key'): h['info'] for h in hits}
+        except (OSError, ValueError, KeyError):
+            cachedInfo.cache[style] = {}
+    return cachedInfo.cache[style].get(key, {})
+
+
+cachedInfo.cache = {}
+
+
+def streamAcronym(stream_title):
+    """"Workshop on ... (NarSUM)" -> "NarSUM"."""
+    m = re.search(r'\(([^)]*)\)$', stream_title)
+    return m.group(1) if m else stream_title
+
+
+def getPapers(style):
     cache_file = os.path.join(SCRIPT_DIR, 'international_tmp', f'{style}.json')
 
     try:
         print(f'Fetching {style} from remote...')
-        r = fetchWithRateLimit(url)
-        jdata = r.json()
+        jdata = fetchAllPapers()[style]
 
         # Save to cache
         os.makedirs(os.path.dirname(cache_file), exist_ok=True)
