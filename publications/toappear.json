@@ -4,6 +4,40 @@
 		"authors": {
 			"author": [
 				{
+					"text": "Kotaro Ikeda"
+				},
+				{
+					"text": "Chihaya Matsuhira"
+				},
+				{
+					"text": "Hirotaka Kato"
+				},
+				{
+					"text": "Marc A. Kastner"
+				},
+				{
+					"text": "Takatsugu Hirayama"
+				},
+				{
+					"text": "Takahiro Komamizu"
+				},
+				{
+					"text": "Ichiro Ide "
+				}
+			]
+		},
+		"title": "English-to-Japanese Lyric Translation with Syllable Formation.",
+		"venue": "PACLIC",
+		"pages": "",
+		"year": "2026",
+		"ee": "",
+		"key": "paclic2026"
+	},
+	{
+		"type": "conference",
+		"authors": {
+			"author": [
+				{
 					"text": "Wenqiu Tang"
 				},
 				{
