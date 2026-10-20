@@ -1,174 +1,200 @@
-[ { 
-	"name": "競争的資金（代表）",
-	"grants": [
-
-		{
-			"title": "2026年度 科学研究費補助金 挑戦的研究（萌芽）",
-			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
-			"application": "/pdfs/kaken_houga_2026.pdf",
-			"theme": "折り紙の動画から折り方を知識化する構造理解技術の研究開発",
-			"theme_url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K23910/",
-			"theme_number": "26K23910",
-			"duration": "2026年6月~2029年3月",
-			"grant_amount": {
-				"total": "6,370千円",
-				"direct": "4,900千円",
-				"indirect": "1,470千円"
+[
+	{
+		"name": "競争的資金（代表）",
+		"grants": [
+			{
+				"title": "2026年度 科学研究費補助金 挑戦的研究（萌芽）",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"application": "/pdfs/kaken_houga_2026.pdf",
+				"theme": "折り紙の動画から折り方を知識化する構造理解技術の研究開発",
+				"theme_url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K23910/",
+				"theme_number": "26K23910",
+				"duration": "2026年6月~2029年3月",
+				"grant_amount": {
+					"total": "6,370千円",
+					"direct": "4,900千円",
+					"indirect": "1,470千円"
+				},
+				"members": [
+					{
+						"name": "井手 一郎",
+						"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "平山 高嗣",
+						"url": "https://sites.google.com/uhe.ac.jp/hirayama-lab/",
+						"affiliation": "人間環境大学"
+					},
+					{
+						"name": "加藤 大貴",
+						"url": "https://researchmap.jp/katoh1",
+						"affiliation": "名古屋大学"
+					}
+				]
 			},
-			"members": [
-				{
-					"name": "井手 一郎",
-					"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
-					"affiliation": "名古屋大学"
-				},{
-					"name": "平山 高嗣",
-					"url": "https://sites.google.com/uhe.ac.jp/hirayama-lab/",
-					"affiliation": "人間環境大学"
-				},{
-					"name": "加藤 大貴",
-					"url": "https://researchmap.jp/katoh1",
-					"affiliation": "名古屋大学"
-				}
-			]
-		},
-
-		{
-			"title": "2025年度 科学研究費補助金 基盤研究 (B)",
-			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
-			"application": "/pdfs/kaken_kibanb_2025.pdf",
-			"theme": "異種データを活用した高精度な知識抽出と提供のための情報統合基盤の研究",
-			"theme_url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00161/",
-			"theme_number": "25K00161",
-			"duration": "2025年4月~2029年3月",
-			"grant_amount": {
-				"total": "18,850千円",
-				"direct": "14,500千円",
-				"indirect": "4,350千円"
+			{
+				"title": "2025年度 科学研究費補助金 基盤研究 (B)",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"application": "/pdfs/kaken_kibanb_2025.pdf",
+				"theme": "異種データを活用した高精度な知識抽出と提供のための情報統合基盤の研究",
+				"theme_url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00161/",
+				"theme_number": "25K00161",
+				"duration": "2025年4月~2029年3月",
+				"grant_amount": {
+					"total": "18,850千円",
+					"direct": "14,500千円",
+					"indirect": "4,350千円"
+				},
+				"members": [
+					{
+						"name": "波多野 賢治",
+						"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
+						"affiliation": "同志社大学"
+					},
+					{
+						"name": "井手 一郎",
+						"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "石川 佳治",
+						"url": "https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "Marc A. Kastner",
+						"url": "https://www.marc-kastner.com/ja",
+						"affiliation": "広島市立大学"
+					}
+				]
 			},
-			"members": [
-				{
-					"name": "波多野 賢治",
-					"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
-					"affiliation": "同志社大学"
-				},{
-					"name": "井手 一郎",
-					"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
-					"affiliation": "名古屋大学"
-				},{
-					"name": "石川 佳治",
-					"url": "https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html",
-					"affiliation": "名古屋大学"
-				},{
-					"name": "Marc A. Kastner",
-					"url": "https://www.marc-kastner.com/ja",
-					"affiliation": "広島市立大学"
-				}
-			]
-		},
-
-		{
-			"title": "2023年度 科学研究費補助金 挑戦的研究（萌芽）",
-			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
-			"application": "/pdfs/kaken_houga_2023.pdf",
-			"theme": "オンデマンド型仮想六法の構成方法の研究開発",
-			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K18507/",
-			"theme_number": "23K18507",
-			"duration": "2023年6月~2025年3月",
-			"grant_amount": {
-				"total": "6,370千円",
-				"direct": "4,900千円",
-				"indirect": "1,470千円"
+			{
+				"title": "2023年度 科学研究費補助金 挑戦的研究（萌芽）",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"application": "/pdfs/kaken_houga_2023.pdf",
+				"theme": "オンデマンド型仮想六法の構成方法の研究開発",
+				"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K18507/",
+				"theme_number": "23K18507",
+				"duration": "2023年6月~2025年3月",
+				"grant_amount": {
+					"total": "6,370千円",
+					"direct": "4,900千円",
+					"indirect": "1,470千円"
+				},
+				"members": [
+					{
+						"name": "外山 勝彦",
+						"url": "http://www.kl.i.is.nagoya-u.ac.jp/person/toyama/",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "佐野 智也",
+						"url": "https://profs.provost.nagoya-u.ac.jp/html/100000698_ja.html",
+						"affiliation": "名古屋大学"
+					}
+				]
 			},
-			"members": [
-				{
-					"name": "外山 勝彦",
-					"url": "http://www.kl.i.is.nagoya-u.ac.jp/person/toyama/",
-					"affiliation": "名古屋大学"
-				},{
-					"name": "佐野 智也",
-					"url": "https://profs.provost.nagoya-u.ac.jp/html/100000698_ja.html",
-					"affiliation": "名古屋大学"
-				}
-			]
-		},
-
-		{
-			"title": "2021年度 科学研究費補助金 基盤研究 (B)",
-			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
-			"application": "/pdfs/kaken_kibanb_2021.pdf",
-			"theme": "異種オープンデータ活用のためのデータ統合・管理基盤の研究開発",
-			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K21726/",
-			"theme_number": "21H03555",
-			"duration": "2021年4月~2025年3月",
-			"grant_amount": {
-				"total": "17,160千円",
-				"direct": "13,200千円",
-				"indirect": "3,960千円"
+			{
+				"title": "2021年度 科学研究費補助金 基盤研究 (B)",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"application": "/pdfs/kaken_kibanb_2021.pdf",
+				"theme": "異種オープンデータ活用のためのデータ統合・管理基盤の研究開発",
+				"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K21726/",
+				"theme_number": "21H03555",
+				"duration": "2021年4月~2025年3月",
+				"grant_amount": {
+					"total": "17,160千円",
+					"direct": "13,200千円",
+					"indirect": "3,960千円"
+				},
+				"members": [
+					{
+						"name": "波多野 賢治",
+						"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
+						"affiliation": "同志社大学"
+					},
+					{
+						"name": "井手 一郎",
+						"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "石川 佳治",
+						"url": "https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html",
+						"affiliation": "名古屋大学"
+					}
+				]
 			},
-			"members": [
-				{
-					"name": "波多野 賢治",
-					"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
-					"affiliation": "同志社大学"
-				},{
-					"name": "井手 一郎",
-					"url": "https://www.cs.is.i.nagoya-u.ac.jp/users/ide/",
-					"affiliation": "名古屋大学"
-				},{
-					"name": "石川 佳治",
-					"url": "https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html",
-					"affiliation": "名古屋大学"
+			{
+				"title": "2018年度 科学研究費補助金 若手研究",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"application": "/pdfs/kaken_wakate_2018.pdf",
+				"theme": "大規模データ分析のための多視点分析管理システムの研究開発",
+				"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18056/",
+				"theme_number": "18K18056",
+				"duration": "2018年4月~2021年3月",
+				"grant_amount": {
+					"total": "4,160千円",
+					"direct": "3,200千円",
+					"indirect": "960千円"
 				}
-			]
-		},
-
-		{
-			"title": "2018年度 科学研究費補助金 若手研究",
-			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
-			"application": "/pdfs/kaken_wakate_2018.pdf",
-			"theme": "大規模データ分析のための多視点分析管理システムの研究開発",
-			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18056/",
-			"theme_number": "18K18056",
-			"duration": "2018年4月~2021年3月",
-			"grant_amount": {
-				"total": "4,160千円",
-				"direct": "3,200千円",
-				"indirect": "960千円"
 			}
-		}
 		]
-	}, 
-
+	},
 	{
 		"name": "競争的資金（分担）",
 		"grants": [
-
-		{
-			"title": "2023年度 科学研究費補助金 挑戦的研究（萌芽）",
-			"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
-			"theme": "分子構造に基づく人間の感覚数値化と官能表現空間の構築に関する研究",
-			"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K23928/",
-			"theme_number": "26K23928",
-			"duration": "2026年6月~2028年3月",
-			"main": {
+			{
+				"title": "2026年度 科学研究費補助金 基盤研究 (B)",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"theme": "品質駆動型の近似処理に基づくスケーラブルなビッグデータ統合分析基盤に関する研究",
+				"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K02916/",
+				"theme_number": "26K02916",
+				"duration": "2026年4月~2029年3月",
+				"main": {
+					"name": "石川 佳治",
+					"url": "https://www.db.is.i.nagoya-u.ac.jp/~ishikawa/index-j.html",
+					"affiliation": "名古屋大学"
+				},
+				"members": [
+					{
+						"name": "杉浦 健人",
+						"url": "https://baycedar.github.io/ja/",
+						"affiliation": "名古屋大学"
+					},
+					{
+						"name": "駒水 孝裕",
+						"affiliation": "名古屋大学",
+						"me": true
+					}
+				]
+			},
+			{
+				"title": "2026年度 科学研究費補助金 挑戦的研究（萌芽）",
+				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
+				"theme": "分子構造に基づく人間の感覚数値化と官能表現空間の構築に関する研究",
+				"theme_url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K23928/",
+				"theme_number": "26K23928",
+				"duration": "2026年6月~2028年3月",
+				"main": {
 					"name": "波多野 賢治",
 					"url": "https://www-mil.cis.doshisha.ac.jp/portfolio/hatano-kenji/",
 					"affiliation": "同志社大学"
+				},
+				"members": [
+					{
+						"name": "駒水 孝裕",
+						"affiliation": "名古屋大学",
+						"me": true
+					},
+					{
+						"name": "石澤 美代子",
+						"url": "",
+						"affiliation": "松本大学"
+					}
+				]
 			},
-			"members": [
-				{
-					"name": "駒水 孝裕",
-					"affiliation": "名古屋大学",
-					"me": true
-				},{
-					"name": "石澤 美代子",
-					"url": "",
-					"affiliation": "松本大学"
-				}
-			]
-		},
-
-
 			{
 				"title": "2024年度 科学研究費補助金 基盤研究 (B)",
 				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
@@ -205,7 +231,6 @@
 					}
 				]
 			},
-
 			{
 				"title": "2022年度 科学研究費補助金 基盤研究 (B)",
 				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
@@ -223,14 +248,14 @@
 						"name": "杉浦 健人",
 						"url": "https://baycedar.github.io/ja/",
 						"affiliation": "名古屋大学"
-					},{
+					},
+					{
 						"name": "駒水 孝裕",
 						"affiliation": "名古屋大学",
 						"me": true
 					}
 				]
 			},
-
 			{
 				"title": "2022年度 科学研究費補助金 基盤研究 (B)",
 				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
@@ -248,22 +273,24 @@
 						"name": "平山 高嗣",
 						"url": "https://www.vislab.is.i.nagoya-u.ac.jp/~hirayamat/",
 						"affiliation": "人間環境大学"
-					}, {
+					},
+					{
 						"name": "川西 康友",
 						"url": "https://www.vislab.is.i.nagoya-u.ac.jp/~kawanishiy/",
 						"affiliation": "国立研究開発法人理化学研究所"
-					}, {
+					},
+					{
 						"name": "道満 恵介",
 						"url": "https://md.sist.chukyo-u.ac.jp/~doman/",
 						"affiliation": "中京大学"
-					}, {
+					},
+					{
 						"name": "駒水 孝裕",
 						"affiliation": "名古屋大学",
 						"me": true
 					}
 				]
 			},
-
 			{
 				"title": "2022年度 科学研究費補助金 基盤研究 (B)",
 				"grant_url": "https://www.jsps.go.jp/j-grantsinaid/",
@@ -281,7 +308,8 @@
 						"name": "木村 泰知",
 						"url": "http://researcher.ih.otaru-uc.ac.jp/profile/ja.295ad4787f7a0228.html",
 						"affiliation": "小樽商科大学"
-					}, {
+					},
+					{
 						"name": "駒水 孝裕",
 						"affiliation": "名古屋大学",
 						"me": true
@@ -289,8 +317,7 @@
 				]
 			}
 		]
-	}, 
-
+	},
 	{
 		"name": "研究助成",
 		"grants": [
@@ -304,7 +331,6 @@
 					"total": "1,000千円"
 				}
 			},
-
 			{
 				"title": "公益財団法人 人工知能研究振興財団 研究助成",
 				"grant_url": "http://www.airpf.or.jp/josei.html",
@@ -317,7 +343,6 @@
 			}
 		]
 	},
-
 	{
 		"name": "大学内予算",
 		"grants": [
@@ -329,7 +354,6 @@
 					"total": "464千円"
 				}
 			},
-
 			{
 				"title": "筑波大学 コンピュータサイエンス専攻ソリューション型研究開発プロジェクト",
 				"theme": "画像特徴を利用した顔画像に対するファセット探索インターフェースの開発",
@@ -338,7 +362,6 @@
 					"total": "550千円（前期：250千円，後期：300千円）"
 				}
 			},
-
 			{
 				"title": "筑波大学 コンピュータサイエンス専攻 ICT-SA ソリューション型研究開発プロジェクト",
 				"theme": "分散ストリーム処理における外れ値検証手法の提案",
@@ -347,7 +370,6 @@
 					"total": "100千円（前期：50千円，後期：50千円）"
 				}
 			}
-
 		]
 	}
 ]
