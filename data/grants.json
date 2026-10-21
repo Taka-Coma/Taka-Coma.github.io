@@ -322,6 +322,16 @@
 		"name": "研究助成",
 		"grants": [
 			{
+				"title": "公益財団法人 マツダ財団 研究助成",
+				"grant_url": "https://mzaidan.mazda.co.jp/",
+				"application": "/pdfs/mazda_zaidan_2026.pdf",
+				"theme": "次世代パートナーAIに向けた推論時極小介入：知能と感情の独立制御による共感型システムの実現",
+				"duration": "2026年11月~2028年3月",
+				"grant_amount": {
+					"total": "1,000千円"
+				}
+			},
+			{
 				"title": "公益財団法人 栢森情報科学振興財団 研究助成",
 				"grant_url": "http://www.kayamorif.or.jp/j.html",
 				"application": "/pdfs/kayamori_zaidan_2019.pdf",
