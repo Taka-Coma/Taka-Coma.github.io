@@ -251,7 +251,8 @@ draft: false
 
 ### Committee Member
 
-- Jul. 2025 - Mar. 2026, [第18回データ工学と情報マネジメントに関するフォーラム (DEIM 2026)](), 実行委員会, プログラム副委員長 
+- Jul. 2026 - Mar. 2027, [第19回データ工学と情報マネジメントに関するフォーラム (DEIM 2027)](https://pub.confit.atlas.jp/ja/event/deim2027), 実行委員会, プログラム副委員長 
+- Jul. 2025 - Mar. 2026, [第18回データ工学と情報マネジメントに関するフォーラム (DEIM 2026)](https://pub.confit.atlas.jp/ja/event/deim2026), 実行委員会, プログラム副委員長 
 - Jun. 2025 - Jun. 2027, [電子情報通信学会](https://www.ieice.org/jpn_r/), [データ工学研究専門委員会](https://www.ieice.org/iss/de/jpn/), 専門委員
 - Apr. 2022 - now, [日本データベース学会](http://dbsj.org/), 広報委員会, 幹事
 - Apr. 2023 - now, [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/activities4.html), 教材分科会, 委員
