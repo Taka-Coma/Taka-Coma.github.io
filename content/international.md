@@ -39,6 +39,7 @@ draft: false
 ## International Conferences
 ### 2026
 1. Ayano Yasui, [Takahiro Komamizu](/), Tomohiro Masuda, "Evaluation of LLM to Likert-type Psychometric Scale Assessment", ICAP, 2026 --- Presentation only
+1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide, "DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention", INTERSPEECH, 2026 ([DOI](https://doi.org/10.21437/INTERSPEECH.2026-1627))
 1. Wenqiu Tang, Zhen Wan, [Takahiro Komamizu](/), Ichiro Ide, "Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs", PAKDD, pp.411-423, 2026 ([DOI](https://doi.org/10.1007/978-981-92-1947-6_33))
 1. Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, [Takahiro Komamizu](/), Ichiro Ide, "View-aware Cross-modal Distillation for Multi-view Action Recognition", WACV, pp.7769-7778, 2026 ([DOI](https://doi.org/10.1109/WACV61042.2026.00750))
 ### 2025
